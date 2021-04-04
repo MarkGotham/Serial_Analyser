@@ -152,68 +152,79 @@ def isSelfRI(row: Union[List, serial.ToneRow]):
 # Combinatoriality
 
 """
-
 This combinatoriality_dict maps all 50 hexachords 
 (listed in Forte-class order, so 6-1, 6-2, ... ) 
-to their combinatoriality status. There are 5 options:
-'A' for all-combinatorial,
-'T' for transposition only,
-'I' for inversion only,
-'RI' for retrograde-inversion only, and
-'' (an empty string) for non-combinatorial. 
+to a tuple with their 
+combinatoriality and invariant status. 
 
+Entry 0 of the dict values given the combinatoriality from among 5 options:
+'A' for all-combinatorial (6 hexachords total),
+'T' for transposition only (only 1),
+'I' for inversion only (13),
+'RI' for retrograde-inversion only (13), and
+'' (an empty string) for non-combinatorial (16). 
+
+Entry 1 gives the number of distinct transformations 
+(non-invariant transposition and / or inversions) 
+for which the number is one of
+24 (29 cases), 
+12 (18 cases), 
+6 (1), 
+4 (1), and 
+2 (1).
 """
 
-combinatoriality_dict = {(0, 1, 2, 3, 4, 5): 'A',
-                         (0, 1, 2, 3, 4, 6): 'I',
-                         (0, 1, 2, 3, 5, 6): '',
-                         (0, 1, 2, 4, 5, 6): 'RI',
-                         (0, 1, 2, 3, 6, 7): 'I',
-                         (0, 1, 2, 5, 6, 7): 'RI',
-                         (0, 1, 2, 6, 7, 8): 'A',
-                         (0, 2, 3, 4, 5, 7): 'A',
-                         (0, 1, 2, 3, 5, 7): 'I',
-                         (0, 1, 3, 4, 5, 7): '',
-                         (0, 1, 2, 4, 5, 7): '',
-                         (0, 1, 2, 4, 6, 7): '',
-                         (0, 1, 3, 4, 6, 7): 'RI',
-                         (0, 1, 3, 4, 5, 8): 'T',
-                         (0, 1, 2, 4, 5, 8): 'I',
-                         (0, 1, 4, 5, 6, 8): 'I',
-                         (0, 1, 2, 4, 7, 8): '',
-                         (0, 1, 2, 5, 7, 8): 'I',
-                         (0, 1, 3, 4, 7, 8): '',
-                         (0, 1, 4, 5, 8, 9): 'A',
-                         (0, 2, 3, 4, 6, 8): 'I',
-                         (0, 1, 2, 4, 6, 8): 'I',
-                         (0, 2, 3, 5, 6, 8): 'RI',
-                         (0, 1, 3, 4, 6, 8): '',
-                         (0, 1, 3, 5, 6, 8): '',
-                         (0, 1, 3, 5, 7, 8): 'RI',
-                         (0, 1, 3, 4, 6, 9): 'I',
-                         (0, 1, 3, 5, 6, 9): 'RI',
-                         (0, 1, 3, 6, 8, 9): 'RI',
-                         (0, 1, 3, 6, 7, 9): 'I',
-                         (0, 1, 3, 5, 8, 9): 'I',
-                         (0, 2, 4, 5, 7, 9): 'A',
-                         (0, 2, 3, 5, 7, 9): 'I',
-                         (0, 1, 3, 5, 7, 9): 'I',
-                         (0, 2, 4, 6, 8, 10): 'A',
-                         (0, 1, 2, 3, 4, 7): '',
-                         (0, 1, 2, 3, 4, 8): 'RI',
-                         (0, 1, 2, 3, 7, 8): 'RI',
-                         (0, 2, 3, 4, 5, 8): '',
-                         (0, 1, 2, 3, 5, 8): '',
-                         (0, 1, 2, 3, 6, 8): '',
-                         (0, 1, 2, 3, 6, 9): 'RI',
-                         (0, 1, 2, 5, 6, 8): '',
-                         (0, 1, 2, 5, 6, 9): '',
-                         (0, 2, 3, 4, 6, 9): 'RI',
-                         (0, 1, 2, 4, 6, 9): '',
-                         (0, 1, 2, 4, 7, 9): '',
-                         (0, 1, 2, 5, 7, 9): 'RI',
-                         (0, 1, 3, 4, 7, 9): 'RI',
-                         (0, 1, 4, 6, 7, 9): 'RI'}
+combinatorialityDict = {(0, 1, 2, 3, 4, 5): ('A', 12),
+                        (0, 1, 2, 3, 4, 6): ('I', 24),
+                        (0, 1, 2, 3, 5, 6): ('', 24),
+                        (0, 1, 2, 4, 5, 6): ('RI', 12),
+                        (0, 1, 2, 3, 6, 7): ('I', 24),
+                        (0, 1, 2, 5, 6, 7): ('RI', 12),
+                        (0, 1, 2, 6, 7, 8): ('A', 6),
+                        (0, 2, 3, 4, 5, 7): ('A', 12),
+                        (0, 1, 2, 3, 5, 7): ('I', 24),
+                        (0, 1, 3, 4, 5, 7): ('', 24),
+                        (0, 1, 2, 4, 5, 7): ('', 24),
+                        (0, 1, 2, 4, 6, 7): ('', 24),
+                        (0, 1, 3, 4, 6, 7): ('RI', 12),
+                        (0, 1, 3, 4, 5, 8): ('T', 24),
+                        (0, 1, 2, 4, 5, 8): ('I', 24),
+                        (0, 1, 4, 5, 6, 8): ('I', 24),
+                        (0, 1, 2, 4, 7, 8): ('', 24),
+                        (0, 1, 2, 5, 7, 8): ('I', 24),
+                        (0, 1, 3, 4, 7, 8): ('', 24),
+                        (0, 1, 4, 5, 8, 9): ('A', 4),
+                        (0, 2, 3, 4, 6, 8): ('I', 24),
+                        (0, 1, 2, 4, 6, 8): ('I', 24),
+                        (0, 2, 3, 5, 6, 8): ('RI', 12),
+                        (0, 1, 3, 4, 6, 8): ('', 24),
+                        (0, 1, 3, 5, 6, 8): ('', 24),
+                        (0, 1, 3, 5, 7, 8): ('RI', 12),
+                        (0, 1, 3, 4, 6, 9): ('I', 24),
+                        (0, 1, 3, 5, 6, 9): ('RI', 12),
+                        (0, 1, 3, 6, 8, 9): ('RI', 12),
+                        (0, 1, 3, 6, 7, 9): ('I', 12),
+                        (0, 1, 3, 5, 8, 9): ('I', 24),
+                        (0, 2, 4, 5, 7, 9): ('A', 12),
+                        (0, 2, 3, 5, 7, 9): ('I', 24),
+                        (0, 1, 3, 5, 7, 9): ('I', 24),
+                        (0, 2, 4, 6, 8, 10): ('A', 2),
+                        (0, 1, 2, 3, 4, 7): ('', 24),
+                        (0, 1, 2, 3, 4, 8): ('RI', 12),
+                        (0, 1, 2, 3, 7, 8): ('RI', 12),
+                        (0, 2, 3, 4, 5, 8): ('', 24),
+                        (0, 1, 2, 3, 5, 8): ('', 24),
+                        (0, 1, 2, 3, 6, 8): ('', 24),
+                        (0, 1, 2, 3, 6, 9): ('RI', 12),
+                        (0, 1, 2, 5, 6, 8): ('', 24),
+                        (0, 1, 2, 5, 6, 9): ('', 24),
+                        (0, 2, 3, 4, 6, 9): ('RI', 12),
+                        (0, 1, 2, 4, 6, 9): ('', 24),
+                        (0, 1, 2, 4, 7, 9): ('', 24),
+                        (0, 1, 2, 5, 7, 9): ('RI', 12),
+                        (0, 1, 3, 4, 7, 9): ('RI', 12),
+                        (0, 1, 4, 6, 7, 9): ('RI', 12)
+                        }
 
 
 def combinatorialType(row: Union[List, Tuple]):
@@ -239,7 +250,7 @@ def combinatorialType(row: Union[List, Tuple]):
 
     hexachord = row[:6]
     c = chord.Chord(hexachord)
-    return combinatoriality_dict[tuple(c.primeForm)]
+    return combinatorialityDict[tuple(c.primeForm)][0]
 
 
 def combinatorialByTransform(row: serial.TwelveToneRow,
@@ -284,33 +295,42 @@ def combinatorialByTransform(row: serial.TwelveToneRow,
         return returnMatch
 
 
-def allCombinatorialFullTypes(row: Union[List, serial.TwelveToneRow]):
+def fullCombinatorialTypes(row: Union[List, serial.TwelveToneRow],
+                           returnAsString: bool = True):
     """
-    Call on an 'all combinatorial' row.
-    (Error raised if the row is not all-combinatorial.
-
-    Returns the specific transpositions of each combinatoriality types in the form, for instance
-    for teh chromatic scale: 'P0-P6; -I11; -RI5'.
+    Returns the specific transpositions of each combinatoriality types by reference to P0.
+    If returnAsString is True (default) then this function returns
+    a string combining all cases.
+    For instance, the chromatic scale [0, 1, 2, ...] returns 'T6; I11; RI5'
+    Otherwise, (returnAsString is False) a dict is returns with keys for 'T', 'I', and 'RI'
+    and values as lists with the transpositions for each, such as
+    {'T': [6], 'I': [11], 'RI': [5]} for that chromatic scale.
 
     This works with cases of multiple matches per transformation. For instance
-    Hale Smith's "Contours for Orchestra" row [0, 5, 6, 4, 10, 11, 7, 2, 1, 3, 9, 8],
-    returns 'P0-P3,9; -I1,7; -RI4,10'.
+    Hale Smith's "Contours for Orchestra" row [0, 5, 6, 4, 10, 11, 7, 2, 1, 3, 9, 8]
+    returns 'T3,9; I1,7; RI4,10' or {'T': [3, 9], 'I': [1, 7], 'RI': [4, 10]}.
+
+    For non-combinatorial cases the string (or dict's value lists) are returned empty.
+
+    Accepts rows as a list of pitchclasses or a serial.TwelveToneRow object.
     """
 
     if isinstance(row, list):
-        pitchList = row
-        row = serial.TwelveToneRow(pitchList)
+        row = serial.TwelveToneRow(row)
+
+    outDict = {}
+    for transform in ['T', 'I', 'RI']:
+        outDict[transform] = [x for x in combinatorialByTransform(row, transform)]
+
+    if returnAsString:
+        outList = []
+        for transform in ['T', 'I', 'RI']:
+            if outDict[transform]:
+                outList.append(transform + ','.join([str(x) for x in outDict[transform]]))
+        return '; '.join(outList)
+
     else:
-        pitchList = [p.pitchClass for p in row.pitches]
-
-    c = chord.Chord(pitchList[:6])
-    if combinatorialType(tuple(c.primeForm)) != 'A':
-        raise ValueError('This is not an all-combinatorial row.')
-
-    p = ','.join([str(x) for x in combinatorialByTransform(row, 'T')])
-    i = ','.join([str(x) for x in combinatorialByTransform(row, 'I')])
-    ri = ','.join([str(x) for x in combinatorialByTransform(row, 'RI')])
-    return f'P0-P{p}; -I{i}; -RI{ri}'
+        return outDict
 
 
 # ------------------------------------------------------------------------------
@@ -422,14 +442,43 @@ class SerialTester(unittest.TestCase):
         self.assertFalse(combinatorialByTransform(serial.pcToToneRow(rowWilson), 'T'))
 
         # Three all-combinatorial cases
-        chromaticRow = [[x for x in range(12)], 'P0-P6; -I11; -RI5']
-        rowBergKlein = [[0, 11, 7, 4, 2, 9, 3, 8, 10, 1, 5, 6], 'P0-P6; -I5; -RI11']
-        rowSmith = [[0, 5, 6, 4, 10, 11, 7, 2, 1, 3, 9, 8], 'P0-P3,9; -I1,7; -RI4,10']
+        chromaticRow = [[x for x in range(12)], 'T6; I11; RI5']
+        rowBergKlein = [[0, 11, 7, 4, 2, 9, 3, 8, 10, 1, 5, 6], 'T6; I5; RI11']
+        rowSmith = [[0, 5, 6, 4, 10, 11, 7, 2, 1, 3, 9, 8], 'T3,9; I1,7; RI4,10']
 
         for r in [chromaticRow, rowBergKlein, rowSmith]:
             self.assertEqual(combinatorialType(r[0]), 'A')
             row = serial.pcToToneRow(r[0])
-            self.assertEqual(allCombinatorialFullTypes(row), r[1])
+            self.assertEqual(fullCombinatorialTypes(row), r[1])
+
+    def testCombinatorialityDict(self):
+
+        # Invariance:
+        s = sum([combinatorialityDict[x][1] for x in combinatorialityDict])
+        self.assertEqual(s, 924)  # 12! / 6!*6!
+
+        # Combinatoriality:
+        for hexachord in combinatorialityDict:
+            complement = tuple([x for x in range(12) if x not in hexachord])
+            row = serial.TwelveToneRow(hexachord + complement)
+            query = fullCombinatorialTypes(row, returnAsString=False)
+            combType = combinatorialityDict[hexachord][0]
+            if combType == 'A':
+                self.assertTrue(query['T'])
+                self.assertTrue(query['I'])
+                self.assertTrue(query['RI'])
+            elif combType == 'T':
+                self.assertTrue(query['T'])
+                self.assertFalse(query['I'])
+                self.assertFalse(query['RI'])
+            elif combType == 'I':
+                self.assertFalse(query['T'])
+                self.assertTrue(query['I'])
+                self.assertFalse(query['RI'])
+            elif combType == 'RI':
+                self.assertFalse(query['T'])
+                self.assertFalse(query['I'])
+                self.assertTrue(query['RI'])
 
 
 # ------------------------------------------------------------------------------
