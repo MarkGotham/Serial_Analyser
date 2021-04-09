@@ -16,7 +16,9 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ABOUT:
 ===============================
 
-Simple functions for investigating the properties of tone rows.
+Functions for investigating the properties of tone rows, centered on:
+- sub-segments for derived rows, and
+- combinatoriality properties
 
 """
 
@@ -24,27 +26,27 @@ from collections import Counter
 from typing import Union, List, Tuple
 import unittest
 
-from music21 import chord
-from music21 import serial
+import transformations
+import pc_sets
 
 
 # ------------------------------------------------------------------------------
 
-def getRowSegments(row: Union[List, serial.ToneRow],
+def getRowSegments(row: Union[List, Tuple],
                    overlapping: bool = True,
                    segmentLength: int = 3,
                    wrap: bool = True):
     """
-    Takes a row's pitches and returns those pitches as a list of list of subsegments.
+    Takes a row's pitches and returns those pitches as a list of list of sub-segments.
 
     Specifically, if overlapping is True (default), then this method returns each overlapping
-    n-cardinality subsegment of a row where n is given by segmentLength.
+    n-cardinality sub-segment of a row where n is given by segmentLength.
 
     For instance, a segmentLength of 3 returns trichords of
     pitches 0,1,2 followed by 1,2,3 and so on.
 
     At the end of the row, if wrap is True (default) then the row wraps around to complete
-    the final subsegments.
+    the final sub-segments.
     For instance, continuing with trichords, this means the 11th and 12th trichords
     (pitches 9,10,11 followed by 10,11,0, and finally 11,0,1),
 
@@ -73,12 +75,6 @@ def getRowSegments(row: Union[List, serial.ToneRow],
 
     """
 
-    if not isinstance(row, List):
-        if 'ToneRow' in row.classes:
-            row = [n.pitch.pitchClassString for n in row]
-        else:
-            raise ValueError('The pitchList must be a list or a music21.serial.ToneRow')
-
     totalPitches = len(row)
     if segmentLength >= totalPitches:
         raise ValueError('The segmentLength must be less than that of the pitchList.')
@@ -96,7 +92,8 @@ def getRowSegments(row: Union[List, serial.ToneRow],
         steps = totalPitches / segmentLength
 
         if steps - int(steps) != 0:
-            raise ValueError('The segmentLength must divide the number of pitches.')
+            raise ValueError(f'When not overlapping, segmentLength (currently {segmentLength}) '
+                             f'must divide the number of pitches (currently {totalPitches}).')
 
         nChords = [row[i * segmentLength:(i + 1) * segmentLength] for i in range(int(steps))]
 
@@ -106,7 +103,7 @@ def getRowSegments(row: Union[List, serial.ToneRow],
 def containsCell(segmentsListOfLists: List,
                  exactlyOne: bool = True):
     """
-    Having retrieved a set of subsegments using getRowSegments,
+    Having retrieved a set of sub-segments (for instance using row_basics.getRowSegments),
     check for multiple instances of a single pitch class set.
 
     Returns the repeated cell/s (as a pitch class string like '<012>') if found and
@@ -115,11 +112,11 @@ def containsCell(segmentsListOfLists: List,
     If exactlyOne is True (default), the result is only True and returned if
     all the sub-segments are instances of the same pitch class set.
 
-    The primary intended use case here is for discrete subsegments of a 12-tone row but
+    The primary intended use case here is for discrete sub-segments of a 12-tone row but
     this can be called on overlapping segments or indeed on any other list of segments.
     """
 
-    primeSegs = [chord.Chord(seg).primeFormString for seg in segmentsListOfLists]
+    primeSegs = [str(pc_sets.pitchesToPrime(seg)) for seg in segmentsListOfLists]
 
     countDict = Counter(primeSegs)
     repeated = [x for x in countDict if countDict[x] > 1]
@@ -134,98 +131,18 @@ def containsCell(segmentsListOfLists: List,
     return repeated
 
 
-def isSelfRI(row: Union[List, serial.ToneRow]):
+def isSelfRI(row: Union[List, Tuple]):
     """
     True if the interval succession of a row is a palindrome.
     I.e. the interval succession is the same backwards and forwards.
     """
 
-    if isinstance(row, list):
-        row = serial.ToneRow(row)
-    forwardIntvs = row.getIntervalsAsString()
-    if forwardIntvs == forwardIntvs[::-1]:
+    intervals = transformations.pitchesToIntervals(row)
+    if intervals == intervals[::-1]:
         return True
 
 
 # ------------------------------------------------------------------------------
-
-# Combinatoriality
-
-"""
-This combinatoriality_dict maps all 50 hexachords 
-(listed in Forte-class order, so 6-1, 6-2, ... ) 
-to a tuple with their 
-combinatoriality and invariant status. 
-
-Entry 0 of the dict values given the combinatoriality from among 5 options:
-'A' for all-combinatorial (6 hexachords total),
-'T' for transposition only (only 1),
-'I' for inversion only (13),
-'RI' for retrograde-inversion only (13), and
-'' (an empty string) for non-combinatorial (16). 
-
-Entry 1 gives the number of distinct transformations 
-(non-invariant transposition and / or inversions) 
-for which the number is one of
-24 (29 cases), 
-12 (18 cases), 
-6 (1), 
-4 (1), and 
-2 (1).
-"""
-
-combinatorialityDict = {(0, 1, 2, 3, 4, 5): ('A', 12),
-                        (0, 1, 2, 3, 4, 6): ('I', 24),
-                        (0, 1, 2, 3, 5, 6): ('', 24),
-                        (0, 1, 2, 4, 5, 6): ('RI', 12),
-                        (0, 1, 2, 3, 6, 7): ('I', 24),
-                        (0, 1, 2, 5, 6, 7): ('RI', 12),
-                        (0, 1, 2, 6, 7, 8): ('A', 6),
-                        (0, 2, 3, 4, 5, 7): ('A', 12),
-                        (0, 1, 2, 3, 5, 7): ('I', 24),
-                        (0, 1, 3, 4, 5, 7): ('', 24),
-                        (0, 1, 2, 4, 5, 7): ('', 24),
-                        (0, 1, 2, 4, 6, 7): ('', 24),
-                        (0, 1, 3, 4, 6, 7): ('RI', 12),
-                        (0, 1, 3, 4, 5, 8): ('T', 24),
-                        (0, 1, 2, 4, 5, 8): ('I', 24),
-                        (0, 1, 4, 5, 6, 8): ('I', 24),
-                        (0, 1, 2, 4, 7, 8): ('', 24),
-                        (0, 1, 2, 5, 7, 8): ('I', 24),
-                        (0, 1, 3, 4, 7, 8): ('', 24),
-                        (0, 1, 4, 5, 8, 9): ('A', 4),
-                        (0, 2, 3, 4, 6, 8): ('I', 24),
-                        (0, 1, 2, 4, 6, 8): ('I', 24),
-                        (0, 2, 3, 5, 6, 8): ('RI', 12),
-                        (0, 1, 3, 4, 6, 8): ('', 24),
-                        (0, 1, 3, 5, 6, 8): ('', 24),
-                        (0, 1, 3, 5, 7, 8): ('RI', 12),
-                        (0, 1, 3, 4, 6, 9): ('I', 24),
-                        (0, 1, 3, 5, 6, 9): ('RI', 12),
-                        (0, 1, 3, 6, 8, 9): ('RI', 12),
-                        (0, 1, 3, 6, 7, 9): ('I', 12),
-                        (0, 1, 3, 5, 8, 9): ('I', 24),
-                        (0, 2, 4, 5, 7, 9): ('A', 12),
-                        (0, 2, 3, 5, 7, 9): ('I', 24),
-                        (0, 1, 3, 5, 7, 9): ('I', 24),
-                        (0, 2, 4, 6, 8, 10): ('A', 2),
-                        (0, 1, 2, 3, 4, 7): ('', 24),
-                        (0, 1, 2, 3, 4, 8): ('RI', 12),
-                        (0, 1, 2, 3, 7, 8): ('RI', 12),
-                        (0, 2, 3, 4, 5, 8): ('', 24),
-                        (0, 1, 2, 3, 5, 8): ('', 24),
-                        (0, 1, 2, 3, 6, 8): ('', 24),
-                        (0, 1, 2, 3, 6, 9): ('RI', 12),
-                        (0, 1, 2, 5, 6, 8): ('', 24),
-                        (0, 1, 2, 5, 6, 9): ('', 24),
-                        (0, 2, 3, 4, 6, 9): ('RI', 12),
-                        (0, 1, 2, 4, 6, 9): ('', 24),
-                        (0, 1, 2, 4, 7, 9): ('', 24),
-                        (0, 1, 2, 5, 7, 9): ('RI', 12),
-                        (0, 1, 3, 4, 7, 9): ('RI', 12),
-                        (0, 1, 4, 6, 7, 9): ('RI', 12)
-                        }
-
 
 def combinatorialType(row: Union[List, Tuple]):
     """
@@ -248,14 +165,26 @@ def combinatorialType(row: Union[List, Tuple]):
     (one of T, I, RI, or A) or an empty string for non-combinatorial cases.
     """
 
-    hexachord = row[:6]
-    c = chord.Chord(hexachord)
-    return combinatorialityDict[tuple(c.primeForm)][0]
+    hexachord = tuple(row[:6])
+    vector = pc_sets.pitchesToIntervalVector(hexachord)
+    return pc_sets.intervalVectorToCombinatoriality(vector)
 
 
-def combinatorialByTransform(row: serial.TwelveToneRow,
+def combinatorialPair(row1: Union[List, Tuple],
+                      row2: Union[List, Tuple]):
+    """
+    True / False for whether any input pair of rows is combinatorial.
+    """
+    for row in [row1, row2]:
+        if len(row) != 12:
+            raise ValueError('This function is designed for 12-tone rows')
+    newRow = sorted(row1[:6] + row2[:6])
+    return newRow == [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+
+
+def combinatorialByTransform(row: Union[List, Tuple],
                              transformation: str,
-                             return_types: bool = True):
+                             returnTypes: bool = True):
     """
     Check if a row is combinatorial with itself by any or all of
     transposition, inversion, and retrograde-inversion.
@@ -281,21 +210,28 @@ def combinatorialByTransform(row: serial.TwelveToneRow,
                          '"I" for inversion, '
                          'or "RI" for retrograde-inversion.')
 
-    if return_types:
+    if returnTypes:
         returnMatch = []
 
+    comparisonRow = [x for x in row]
+    if transformation in ['I', 'RI']:
+        comparisonRow = transformations.invert(comparisonRow)
+        if transformation == 'RI':
+            comparisonRow = transformations.retrograde(comparisonRow)
+
     for i in range(12):
-        if row.areCombinatorial('P', 0, transformation, i, 'zero'):
-            if return_types:
-                returnMatch.append(i)
+        comparisonRow = transformations.transposeBy(comparisonRow, 1)
+        if combinatorialPair(comparisonRow, row):
+            if returnTypes:
+                returnMatch.append(i + 1)  # NB
             else:
                 return True
 
-    if return_types:
+    if returnTypes:
         return returnMatch
 
 
-def fullCombinatorialTypes(row: Union[List, serial.TwelveToneRow],
+def fullCombinatorialTypes(row: Union[List, Tuple],
                            returnAsString: bool = True):
     """
     Returns the specific transpositions of each combinatoriality types by reference to P0.
@@ -312,11 +248,8 @@ def fullCombinatorialTypes(row: Union[List, serial.TwelveToneRow],
 
     For non-combinatorial cases the string (or dict's value lists) are returned empty.
 
-    Accepts rows as a list of pitchclasses or a serial.TwelveToneRow object.
+    Accepts rows as a list of pitch classes.
     """
-
-    if isinstance(row, list):
-        row = serial.TwelveToneRow(row)
 
     outDict = {}
     for transform in ['T', 'I', 'RI']:
@@ -339,7 +272,7 @@ class SerialTester(unittest.TestCase):
 
     def testDiscreteAndCells(self):
         """
-        Tests the retrieval of discrete subsegments of a row.
+        Tests the retrieval of discrete sub-segments of a row.
 
         The row in Webern's String Quartet, Op. 28 comprises 3x the same tetrachord.
         The containsCell function therefore returns a
@@ -354,7 +287,7 @@ class SerialTester(unittest.TestCase):
         tetrachords = getRowSegments(quartet, overlapping=False, segmentLength=4)
         self.assertEqual(tetrachords, [[0, 11, 2, 1], [5, 6, 3, 4], [8, 7, 10, 9]])
         cells = containsCell(tetrachords)
-        self.assertEqual(cells, ['<0123>'])
+        self.assertEqual(cells, ['(0, 1, 2, 3)'])
 
         trichords = getRowSegments(quartet, overlapping=False, segmentLength=3)
         self.assertEqual(trichords, [[0, 11, 2], [1, 5, 6], [3, 4, 8], [7, 10, 9]])
@@ -368,7 +301,7 @@ class SerialTester(unittest.TestCase):
 
         trichords = getRowSegments(konzert, overlapping=False, segmentLength=3)
         self.assertEqual(trichords, [[0, 11, 3], [4, 8, 7], [9, 5, 6], [1, 2, 10]])
-        self.assertEqual(containsCell(trichords), ['<014>'])
+        self.assertEqual(containsCell(trichords), ['(0, 1, 4)'])
 
     def testAllTrichord(self):
         """
@@ -433,13 +366,13 @@ class SerialTester(unittest.TestCase):
 
         # Lutyens: transposition, not inversion
         self.assertEqual(combinatorialType(rowLutyens), 'T')
-        self.assertTrue(combinatorialByTransform(serial.pcToToneRow(rowLutyens), 'T'))
-        self.assertFalse(combinatorialByTransform(serial.pcToToneRow(rowLutyens), 'I'))
+        self.assertTrue(combinatorialByTransform(rowLutyens, 'T'))
+        self.assertFalse(combinatorialByTransform(rowLutyens, 'I'))
 
         # Wilson: inversion, not transposition
         self.assertTrue(combinatorialType(rowWilson), 'I')
-        self.assertTrue(combinatorialByTransform(serial.pcToToneRow(rowWilson), 'I'))
-        self.assertFalse(combinatorialByTransform(serial.pcToToneRow(rowWilson), 'T'))
+        self.assertTrue(combinatorialByTransform(rowWilson, 'I'))
+        self.assertFalse(combinatorialByTransform(rowWilson, 'T'))
 
         # Three all-combinatorial cases
         chromaticRow = [[x for x in range(12)], 'T6; I11; RI5']
@@ -448,21 +381,21 @@ class SerialTester(unittest.TestCase):
 
         for r in [chromaticRow, rowBergKlein, rowSmith]:
             self.assertEqual(combinatorialType(r[0]), 'A')
-            row = serial.pcToToneRow(r[0])
-            self.assertEqual(fullCombinatorialTypes(row), r[1])
+            self.assertEqual(fullCombinatorialTypes(r[0]), r[1])
 
-    def testCombinatorialityDict(self):
+    def testCombinatoriality(self):
 
         # Invariance:
-        s = sum([combinatorialityDict[x][1] for x in combinatorialityDict])
-        self.assertEqual(s, 924)  # 12! / 6!*6!
+        sum_inv = sum([x[3] for x in pc_sets.hexachords])
+        self.assertEqual(sum_inv, 924)  # 12! / 6!*6!
 
         # Combinatoriality:
-        for hexachord in combinatorialityDict:
+        for entry in pc_sets.hexachords:
+            hexachord = entry[1]
             complement = tuple([x for x in range(12) if x not in hexachord])
-            row = serial.TwelveToneRow(hexachord + complement)
+            row = list(hexachord) + list(complement)
             query = fullCombinatorialTypes(row, returnAsString=False)
-            combType = combinatorialityDict[hexachord][0]
+            combType = entry[-1]
             if combType == 'A':
                 self.assertTrue(query['T'])
                 self.assertTrue(query['I'])
