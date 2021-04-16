@@ -49,6 +49,13 @@ import unittest
 # ------------------------------------------------------------------------------
 
 # PC set properties
+dyads = (
+    ('2-1', (0, 1), (1, 0, 0, 0, 0, 0), 2),
+    ('2-2', (0, 2), (0, 1, 0, 0, 0, 0), 2),
+    ('2-3', (0, 3), (0, 0, 1, 0, 0, 0), 2),
+    ('2-4', (0, 4), (0, 0, 0, 1, 0, 0), 2),
+    ('2-5', (0, 5), (0, 0, 0, 0, 1, 0), 2),
+    ('2-6', (0, 6), (0, 0, 0, 0, 0, 1), 6))
 
 trichords = (
     ('3-1', (0, 1, 2), (2, 1, 0, 0, 0, 0), 12),
@@ -150,10 +157,12 @@ hexachords = (
 
 def relevantData(cardinality: int):
     """
-    In: a cardinality (currently limited to 3, 4, 6.)
+    In: a cardinality (currently limited to 2, 3, 4, 6.)
     Out: the pitch class set data for that cardinality.
     """
-    if cardinality == 3:
+    if cardinality == 2:
+        return dyads
+    elif cardinality == 3:
         return trichords
     elif cardinality == 4:
         return tetrachords

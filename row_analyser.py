@@ -106,7 +106,7 @@ def containsCell(segmentsListOfLists: List,
     Having retrieved a set of sub-segments (for instance using row_basics.getRowSegments),
     check for multiple instances of a single pitch class set.
 
-    Returns the repeated cell/s (as a pitch class string like '<012>') if found and
+    Returns the repeated cell/s as a tuple like '(0, 1, 2)' if found and
     nothing (False) if not.
 
     If exactlyOne is True (default), the result is only True and returned if
@@ -129,6 +129,44 @@ def containsCell(segmentsListOfLists: List,
         else:
             return False
     return repeated
+
+
+# ------------------------------------------------------------------------------
+
+def isSelfRotational(segmentsListOfLists: List):
+    """
+    True in the very rare case that a row is rotation symmetrical.
+    This is a sub-property of derived rows.
+    Call on a derived row expressed as a segmentListOfLists in the same way as for `containsCell`.
+
+    This function will first confirm the derivation at that segment size by calling `containsCell`
+    and then check for rotational symmetry.
+    After all that, it's still pretty unlikely to come back True;
+    all the more notable then when it does!
+    """
+    if containsCell(segmentsListOfLists, exactlyOne=True):
+        referenceInterval = (segmentsListOfLists[0][0] - segmentsListOfLists[1][0]) % 12
+        for index in range(len(segmentsListOfLists) - 1):
+            segment = segmentsListOfLists[index]
+            for i in range(len(segment)):
+                interval = (segment[i] - segmentsListOfLists[index + 1][i]) % 12
+                if interval != referenceInterval:
+                    return False
+        return True
+    else:
+        raise ValueError('Not a valid (derived) row')
+
+
+def isAllInterval(row: Union[List, Tuple]):
+    """
+    True / False for the all-interval property (i.e. uses each interval class 1–11).
+    Assumes 12-tone row, but doesn't explicitly test.
+    """
+    intervals = transformations.pitchesToIntervals(row)
+    for x in range(1, 12):
+        if x not in intervals:
+            return False
+    return True
 
 
 def isSelfRI(row: Union[List, Tuple]):
@@ -307,7 +345,7 @@ class SerialTester(unittest.TestCase):
         """
         Tests the retrieval of all (12), overlapping trichords from a 12-tone row.
         Tests the four distinct 'all-trichord rows' where every such trichord is different
-        (and which therefor cover all the 12 distinct trichords between them).
+        (and which therefore cover all the 12 distinct trichords between them).
         See Alan Marsden 2012 for a discussion and proof.
         """
 
@@ -337,18 +375,31 @@ class SerialTester(unittest.TestCase):
                                    wrap=False)  # ***
         self.assertEqual(len(trichords), 7)
 
-    def testSelfRI(self):
+    def testSelfRotational(self):
         """
-        Simple test of the self-retrograde inversion function with the example of Dallapiccola's
-        "Dialoghi" (which is) and
-        "Piccola musica notturna" (which isn't).
+        Test self-rotationality on Lutosławski's Musique Funébre (Funeral Music) row in both
+        segments of size 2 (true) and 3 (false).
+        """
+        luto2 = [[0, 6], [5, 11], [10, 4], [3, 9], [8, 2], [1, 7]]
+        luto3 = [[0, 6, 5], [11, 10, 4], [3, 9, 8], [2, 1, 7]]
+        self.assertTrue(isSelfRotational(luto2))
+        self.assertFalse(isSelfRotational(luto3))
+
+    def testSelfRIAndAllInterval(self):
+        """
+        Test of the all-interval and self-retrograde inversion functions with the example of
+        Dallapiccola's
+        "Dialoghi" (which is self-retrograde inverse but not all-interval) and
+        "Piccola musica notturna" (which is all-interval but isn't self-retrograde inverse).
         """
 
         rowDallapiccolaDialoghi = [0, 1, 10, 2, 6, 4, 5, 3, 7, 11, 8, 9]
         self.assertTrue(isSelfRI(rowDallapiccolaDialoghi))
+        self.assertFalse(isAllInterval(rowDallapiccolaDialoghi))
 
         rowDallapiccolaPiccola = [0, 9, 1, 3, 4, 11, 2, 8, 7, 5, 10, 6]
         self.assertFalse(isSelfRI(rowDallapiccolaPiccola))
+        self.assertTrue(isAllInterval(rowDallapiccolaPiccola))
 
     def testCombinatorial(self):
         """

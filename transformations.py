@@ -182,6 +182,12 @@ class RowTester(unittest.TestCase):
         byByBoulez = transposeBy(transBoulez, semitones=2)
         self.assertEqual(byByBoulez, [5, 4, 11, 10, 9, 8, 6, 3, 2, 0, 7, 1])
 
+    def testRotate(self):
+        luto = [0, 6, 5, 11, 10, 4, 3, 9, 8, 2, 1, 7]
+        for i in range(12):
+            row = rotate(luto, i)
+            self.assertEqual(row[0], luto[i])
+
     def testInvert(self):
         testSet = [0, 1, 4, 6]
         self.assertEqual(invert(testSet), [0, 11, 8, 6])
