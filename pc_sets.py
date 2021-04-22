@@ -190,13 +190,13 @@ def intervalVectorToCombinatoriality(vector: Tuple[int]):
     Out: the combinatoriality status of any valid interval vector as a
     string (one of T, I, RI, A, or an empty string for non-combinatorial cases).
 
-    Currently limited to sets of cardinality 6.
+    Currently limited to sets of cardinality 2, 3, 4 or 6.
     """
-    # TODO cardinality 3 and 4
     if len(vector) != 6:
         raise ValueError(f'{vector} is not a valid interval vector')
     total = sum(vector)
-    totalToCardinality = {3: 3,
+    totalToCardinality = {1: 2,
+                          3: 3,
                           6: 4,
                           15: 6}
     data = relevantData(totalToCardinality[total])
@@ -208,7 +208,7 @@ def intervalVectorToCombinatoriality(vector: Tuple[int]):
 
 def pitchesToCombinatoriality(pitches: Union[List, Tuple]):
     """
-    In: a list or tuple of pitches (currently limited to cardinality 3, 4, 6.)
+    In: a list or tuple of pitches (currently limited to cardinality 2, 3, 4 or 6).
     Out: the combinatoriality status as a string.
     """
     icv = pitchesToIntervalVector(pitches)
@@ -217,7 +217,7 @@ def pitchesToCombinatoriality(pitches: Union[List, Tuple]):
 
 def pitchesToIntervalVector(pitches: Union[List, Tuple]):
     """
-    In: a list or tuple of pitches (currently limited to cardinality 3, 4, 6.)
+    In: a list or tuple of pitches (currently limited to cardinality 2, 3, 4 or 6).
     Out: the interval vector.
     """
     for p in pitches:
@@ -238,7 +238,7 @@ def pitchesToIntervalVector(pitches: Union[List, Tuple]):
 
 def pitchesToForteClass(pitches: Union[List, Tuple]):
     """
-    In: a list or tuple of pitches (currently limited to cardinality 3, 4, 6.)
+    In: a list or tuple of pitches (currently limited to cardinality 2, 3, 4 or 6).
     Out: the Forte class.
     """
     data = relevantData(len(pitches))
@@ -251,7 +251,7 @@ def pitchesToForteClass(pitches: Union[List, Tuple]):
 
 def pitchesToPrime(pitches: Union[List, Tuple]):
     """
-    In: a list or tuple of pitches (currently limited to cardinality 3, 4, 6.)
+    In: a list or tuple of pitches (currently limited to cardinality 2, 3, 4 or 6).
     Out: the prime form.
 
     The function first converts the pitches to their interval vector (easy, fast).
