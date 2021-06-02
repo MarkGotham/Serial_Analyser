@@ -222,12 +222,6 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Husa, Karel","Poème for Viola and Chamber Orchestra, mvt 1",1959,0,6,5,7,8,11,9,10,3,4,2,1
 "Husa, Karel","Poème for Viola and Chamber Orchestra, mvt 2",1959,0,1,11,10,5,8,6,7,9,3,2,4
 "Husa, Karel","Poème for Viola and Chamber Orchestra, mvt 3",1959,0,3,1,2,4,10,9,11,7,8,6,5
-"Intolleranza, Alto",1960,,0,6,7,1,2,8,9,3,4,10,11,5
-"Intolleranza, Baritone",1960,,0,2,7,9,4,6,11,1,8,10,3,5
-"Intolleranza, Soprano 1",1960,,0,3,4,7,8,5,6,9,10,1,2,11
-"Intolleranza, Soprano 2",1960,,0,1,2,7,6,11,10,5,4,9,10,3
-"Intolleranza, Tenor 1",1960,,0,6,11,5,10,4,9,3,8,2,7,1
-"Intolleranza, Tenor 2",1960,,0,1,3,2,4,5,7,6,8,9,11,10
 "Ives, Charles",On the Antipodes,1915-23,0,3,11,8,4,7,10,9,6,2,5,1
 "Ives, Charles","String Quartet No.2, mvt 2",1913,0,1,2,11,3,7,10,4,6,8,9,5
 "Ives, Charles",Tone Roads No. 1,1911,0,10,3,4,2,7,6,9,8,11,1,5
@@ -360,6 +354,12 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Nono, Luigi",Ha venido,1960,0,6,1,7,2,8,3,9,4,10,5,11
 "Nono, Luigi",Il canto sospeso,1955-56,0,1,11,2,10,3,9,4,8,5,7,6
 "Nono, Luigi",Incontri,1955,0,2,3,8,9,6,4,5,7,11,1,10
+"Nono, Luigi","Intolleranza, Alto",1960,0,6,7,1,2,8,9,3,4,10,11,5
+"Nono, Luigi","Intolleranza, Baritone",1960,0,2,7,9,4,6,11,1,8,10,3,5
+"Nono, Luigi","Intolleranza, Soprano 1",1960,0,3,4,7,8,5,6,9,10,1,2,11
+"Nono, Luigi","Intolleranza, Soprano 2",1960,0,1,2,7,6,11,10,5,4,9,10,3
+"Nono, Luigi","Intolleranza, Tenor 1",1960,0,6,11,5,10,4,9,3,8,2,7,1
+"Nono, Luigi","Intolleranza, Tenor 2",1960,0,1,3,2,4,5,7,6,8,9,11,10
 "Nono, Luigi","La terra e la compagna (sketch), Series 1",1957,0,1,11,2,10,3,9,4,8,5,7,6
 "Nono, Luigi","La terra e la compagna (sketch), Series 2",1957,0,6,1,7,11,5,2,8,10,4,3,9
 "Nono, Luigi","La terra e la compagna (sketch), Series 3",1957,0,9,6,3,1,4,7,10,11,8,5,2
