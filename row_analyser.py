@@ -157,15 +157,32 @@ def isSelfRotational(segmentsListOfLists: List):
         raise ValueError('Not a valid (derived) row')
 
 
-def isAllInterval(row: Union[List, Tuple]):
+def is12tone(row: Union[List, Tuple]):
+    """
+    Simple check whether a row is 12-tone.
+    Specifically, returns True if the row is
+    12 notes long (not shorter or longer) and
+    there are no duplicated pitches within the 12.
+    """
+    return sorted(row) == list(range(12))
+
+
+def isAllInterval(row: Union[List, Tuple],
+                  require12tone: bool = True):
     """
     True / False for the all-interval property (i.e. uses each interval class 1–11).
-    Assumes 12-tone row, but doesn't explicitly test.
+    If require12tone is True (default) then 12-tone row (each interval exactly once).
     """
+
+    if require12tone:
+        if not is12tone(row):
+            return False
+
     intervals = transformations.pitchesToIntervals(row)
     for x in range(1, 12):
         if x not in intervals:
             return False
+
     return True
 
 
@@ -384,6 +401,23 @@ class SerialTester(unittest.TestCase):
         luto3 = [[0, 6, 5], [11, 10, 4], [3, 9, 8], [2, 1, 7]]
         self.assertTrue(isSelfRotational(luto2))
         self.assertFalse(isSelfRotational(luto3))
+
+    def testIs12tone(self):
+        """
+        True if the row is 12 notes long (not shorter or longer) and
+        there are no duplicated pitches within the 12.
+        Test one case of each case.
+        """
+
+        chromaticRow = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+        self.assertTrue(is12tone(chromaticRow))
+
+        halfChromaticRow = chromaticRow[0:6]
+        doubleChromaticRow = chromaticRow * 2
+        pitchDuplicate = [10, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+        self.assertFalse(is12tone(halfChromaticRow))
+        self.assertFalse(is12tone(doubleChromaticRow))
+        self.assertFalse(is12tone(pitchDuplicate))
 
     def testSelfRIAndAllInterval(self):
         """
