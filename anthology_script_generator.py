@@ -52,17 +52,27 @@ def retrieve_instances():
               'list': []
               }
 
-    selfRI = {'header': 'Self Retrograde Inversion',
-              'explanation': 'These rows have a palindromic interval succession '
-                             'meaning that P0 is the same as at least one RI form.',
-              'list': []
-              }
-
     allInterval = {'header': 'All-Interval',
                    'explanation': 'All-interval rows go through all 11 different intervals '
                                   '(1, 2, 3, ... 11) between neighbouring pitches in the row.',
                    'list': []
                    }
+
+    selfR = {'header': 'Self Retrograde',
+             'explanation': 'We turn now to classes of row symmetry, beginning with '
+                            'self retrograde rows for which '
+                            'the prime form is transposition-equivalent to its retrograde.'
+                            'The section after this one deals with retrograde inversion symmetry,'
+                            'and rotational symmetry is included as part of the following '
+                            'sections on derived rows (starting with "6x Same Dyad").',
+             'list': []
+             }
+
+    selfRI = {'header': 'Self Retrograde Inversion',
+              'explanation': 'These rows have a palindromic interval succession meaning that '
+                             'the prime is transposition-equivalent to its retrograde-inversion.',
+              'list': []
+              }
 
     dyads = {'header': '6x Same Dyad (interval)',
              'explanation': 'These next four sections set out cases where the '
@@ -167,6 +177,10 @@ def retrieve_instances():
             allInterval['list'].append(basicString)
 
         # Self-RI
+        if row_analyser.isSelfR(row):
+            selfR['list'].append(basicString)
+
+        # Self-RI
         if row_analyser.isSelfRI(row):
             selfRI['list'].append(basicString)
 
@@ -196,7 +210,8 @@ def retrieve_instances():
         if len(v) > 1:
             reused['list'].append(f'{k}: {"; ".join([y for y in v])}')
 
-    return [reused, selfRI, allInterval,
+    return [reused, allInterval,
+            selfR, selfRI,
             dyads, trichords, tetrachords, hexachords,
             tCombinatorial, iCombinatorial, riCombinatorial, allCombinatorial]
 

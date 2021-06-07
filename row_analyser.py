@@ -186,6 +186,18 @@ def isAllInterval(row: Union[List, Tuple],
     return True
 
 
+def isSelfR(row: Union[List, Tuple]):
+    """
+    True if the retrograde of a row is transposition-equivalent to the prime.
+    """
+
+    r0 = row[::-1]
+    r_t0 = transformations.transposeTo(r0, 0)
+
+    if row == r_t0:
+        return True
+
+
 def isSelfRI(row: Union[List, Tuple]):
     """
     True if the interval succession of a row is a palindrome.
