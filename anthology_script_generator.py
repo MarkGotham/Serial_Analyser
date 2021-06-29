@@ -27,6 +27,7 @@ Creates dicts with header, explanation, and list of instances for printing.
 
 import row_analyser
 import pc_sets
+import transformations
 
 import json
 from typing import List, Dict
@@ -61,8 +62,8 @@ def retrieve_instances():
     selfR = {'header': 'Self Retrograde',
              'explanation': 'We turn now to classes of row symmetry, beginning with '
                             'self retrograde rows for which '
-                            'the prime form is transposition-equivalent to its retrograde.'
-                            'The section after this one deals with retrograde inversion symmetry,'
+                            'the prime form is transposition-equivalent to its retrograde. '
+                            'The section after this one deals with retrograde inversion symmetry, '
                             'and rotational symmetry is included as part of the following '
                             'sections on derived rows (starting with "6x Same Dyad").',
              'list': []
@@ -78,7 +79,8 @@ def retrieve_instances():
              'explanation': 'These next four sections set out cases where the '
                             'discrete sub-segments of a row all form the same pitch class set. '
                             'The pitch class set in question is given after the row '
-                            'in prime form and rows which are also self-rotational are identified. '
+                            'in prime form and rows which are also self-rotational are '
+                            'identified (with the self-rotational interval pattern). '
                             'This first section presents cases of 6x the same dyad '
                             '(pitches 1-2, 3-4, 5-6, 7-8, 9-10, and 11-12).',
              'list': []
@@ -143,6 +145,8 @@ def retrieve_instances():
 
     p0dict = {}  # Special case for re-used
 
+    interval_pattern_list = []
+
     for x in data:
 
         entry = data[x]
@@ -161,16 +165,23 @@ def retrieve_instances():
 
         # Derived
         for segment in [(dyads, 2), (trichords, 3), (tetrachords, 4), (hexachords, 6)]:
+
             discrete = row_analyser.getRowSegments(row,
                                                    segmentLength=segment[1],
                                                    overlapping=False)
             cells = row_analyser.containsCell(discrete)
             if cells:
                 if len(cells) == 1:  # exactly one cell that accounts for all discrete segments
-                    extendedString = f'{basicString}, {cells[0]}'
-                    if row_analyser.isSelfRotational(discrete):
-                        extendedString += ', self-rotational'
+                    extendedString = f'{basicString}, pc set {cells[0]}'
+                    ip = row_analyser.isSelfRotational(discrete, returnIntervalPattern=True)
+                    if ip:
+                        asString = "-".join([str(x) for x in ip]) + '-'
+                        extendedString += f', self-rotational interval pattern {asString}'
+                        interval_pattern_list.append(cells[0])
+                        print(extendedString)
                     segment[0]['list'].append(extendedString)
+                    if ip:
+                        break
 
         # All interval
         if row_analyser.isAllInterval(row):
@@ -209,6 +220,10 @@ def retrieve_instances():
         v = p0dict[k]
         if len(v) > 1:
             reused['list'].append(f'{k}: {"; ".join([y for y in v])}')
+
+    from collections import Counter
+    interval_pattern_count = Counter([str(x) for x in interval_pattern_list])
+    print(interval_pattern_count)
 
     return [reused, allInterval,
             selfR, selfRI,
