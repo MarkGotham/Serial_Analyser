@@ -538,17 +538,22 @@ class RandomTester(unittest.TestCase):
 
     def testCombinatoriality(self):
         """
-        Tests the presence of combinatoriality in the random rows by comparison with
+        Tests the presence of combinatoriality in these random rows
+        and in the repertoire collection by comparison with
         the expected values from hexachord properties.
         """
 
         h = pc_sets.hexachords
+        import json
+        with open('./Repertoire_Anthology/rows_in_the_repertoire.json') as f:
+            data = json.load(f).values()
+            repertoire = [x['P0'] for x in data]
 
-        results = {'T': [2.6, 2.0, 2.33],
-                   'I': [32.47, 35.0, 31.0],
-                   'RI': [18.18, 21.0, 23.67],
-                   'A': [5.19, 2.5, 4.67],
-                   '': [41.56, 39.5, 38.33]}
+        results = {'T': [2.6, 2.0, 2.33, 2.31],
+                   'I': [32.47, 35.0, 31.0, 32.2],
+                   'RI': [18.18, 21.0, 23.67, 12.94],
+                   'A': [5.19, 2.5, 4.67, 28.35],
+                   '': [41.56, 39.5, 38.33, 24.19]}
 
         for c in results:
             theory = sum([x[3] for x in h if (x[4] == c)])
@@ -566,7 +571,13 @@ class RandomTester(unittest.TestCase):
                     random300 += 1
             random300 = round(random300 / 3, 2)
 
-            combined = [theory, random200, random300]
+            practice = 0
+            for x in repertoire:
+                if pc_sets.pitchesToCombinatoriality(x[:6]) == c:
+                    practice += 1
+            practice = round(practice * 100 / len(repertoire), 2)  # currently 649 entries
+
+            combined = [theory, random200, random300, practice]
             self.assertEqual(results[c], combined)
 
     def test2xSameHexachord(self):
