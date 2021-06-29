@@ -133,7 +133,8 @@ def containsCell(segmentsListOfLists: List,
 
 # ------------------------------------------------------------------------------
 
-def isSelfRotational(segmentsListOfLists: List):
+def isSelfRotational(segmentsListOfLists: List,
+                     returnIntervalPattern: bool = False):
     """
     True in the very rare case that a row is rotation symmetrical.
     This is a sub-property of derived rows.
@@ -143,6 +144,9 @@ def isSelfRotational(segmentsListOfLists: List):
     and then check for rotational symmetry.
     After all that, it's still pretty unlikely to come back True;
     all the more notable then when it does!
+
+    If returnIntervalPattern is set to True, the function returns
+    the successive intervals that make up the repeating pattern.
     """
     if containsCell(segmentsListOfLists, exactlyOne=True):
         referenceInterval = (segmentsListOfLists[0][0] - segmentsListOfLists[1][0]) % 12
@@ -152,7 +156,12 @@ def isSelfRotational(segmentsListOfLists: List):
                 interval = (segment[i] - segmentsListOfLists[index + 1][i]) % 12
                 if interval != referenceInterval:
                     return False
-        return True
+        if returnIntervalPattern:
+            extendedSegment = segmentsListOfLists[0] + [segmentsListOfLists[1][0]]
+            intervals = transformations.pitchesToIntervals(extendedSegment)
+            return intervals
+        else:
+            return True
     else:
         raise ValueError('Not a valid (derived) row')
 
