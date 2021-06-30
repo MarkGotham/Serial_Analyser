@@ -43,7 +43,7 @@ A substantial list of rows used in the repertoire,
 set out both 'neutrally' and 
 anthologized according to row properties:
 - as a [tabular list](./Repertoire_Anthology/rows_in_the_repertoire.csv) 
-- in musical notation: [.mscz](./Repertoire_Anthology/Rows_in_the_Repertoire.mscz), [.mxl](./Repertoire_Anthology/Rows in the Repertoire.mxl)
+- in musical notation: [.mscz](./Repertoire_Anthology/Rows_in_the_Repertoire.mscz), [.mxl](./Repertoire_Anthology/Rows_in_the_Repertoire.mxl)
 - as [an html page with rows organised by property](./Repertoire_Anthology/Serial_Anthology.html)
 
 ## Links to this material hosted elsewhere
