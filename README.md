@@ -57,13 +57,10 @@ along with the anthology listings.
 I report on all of this (code, list, anthology, and more) 
 in a joint paper with Jason Yust that's forthcoming
 (with [DLfM](https://dlfm.web.ox.ac.uk)).
-Please cite that piece in any public-facing use of this work.
-I'll provide the link and DOI when that's ready (c. late summer).
-Here's a preliminary reference:
-
+Please cite that piece in any public-facing use of this work:
 ```
-Gotham, Mark and Jason Yust. 2021 (in press) ‘Serial Analysis: A digital library of rows in the
-repertoire and their properties, with applications for teaching and research’. DLfM 2021.
+Gotham, Mark and Jason Yust. 2021 (in press). ‘Serial Analysis: A Digital Library of Rows in the
+ Repertoire and their Properties, with Applications for Teaching and Research'. In 8th International Conference on Digital Libraries for Musicology (DLfM2021), July 28–30, 2021, Virtual Conference, GA, USA. , Ove Nordwall (Ed.). ACM, New York, NY, USA 9 Pages. https://doi.org/10.1145/3469013.3469018
 ```
-
+Note: The link will go live soon (c. late summer).
 Thanks to Jason and all who contributed entries to the list.
