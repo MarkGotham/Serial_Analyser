@@ -1,5 +1,7 @@
 # Serial Analyser
-Functions for working with 12-tone serial music (work in progress)
+This repo provides 
+code for working with 12-tone serial rows
+and a corpus of examples from the repertoire.
 
 ‘A very useful resource’ — [Professor Robert D. Morris](https://www.esm.rochester.edu/faculty/morris_robert/) 
 
@@ -25,8 +27,8 @@ along with a couple of more niche operations.
 ### [PC Sets](./pc_sets.py)
 
 Supporting data setting out the properties of 
-pc sets with cardinality 2, 3, 4, and 6 
-(dyads, trichords, tetrachords, and hexachords)
+pc sets with cardinality 2-10 
+(dyads, trichords, tetrachords, ...)
 along with functions for retrieving one such property directly from another, 
 or directly from any list of pitch classes 
 (e.g. `pitchesToIntervalVector`).
@@ -55,12 +57,12 @@ and embedded in
 along with the anthology listings.
 
 I report on all of this (code, list, anthology, and more) 
-in a joint paper with Jason Yust that's forthcoming
-(with [DLfM](https://dlfm.web.ox.ac.uk)).
+in a joint paper with Jason Yust 
+published with [DLfM](https://dlfm.web.ox.ac.uk) and 
+viewable [here](https://doi.org/10.1145/3469013.3469018).
 Please cite that piece in any public-facing use of this work:
 ```
-Gotham, Mark and Jason Yust. 2021 (in press). ‘Serial Analysis: A Digital Library of Rows in the
+Gotham, Mark and Jason Yust. 2021. ‘Serial Analysis: A Digital Library of Rows in the
  Repertoire and their Properties, with Applications for Teaching and Research'. In 8th International Conference on Digital Libraries for Musicology (DLfM2021), July 28–30, 2021, Virtual Conference, GA, USA. , Ove Nordwall (Ed.). ACM, New York, NY, USA 9 Pages. https://doi.org/10.1145/3469013.3469018
 ```
-Note: The link will go live soon (c. late summer).
 Thanks to Jason and all who contributed entries to the list.
