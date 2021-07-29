@@ -1,0 +1,1753 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{131}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Alegant}{Alegant}{2010}]%
+        {Alegant2010}
+\bibfield{author}{\bibinfo{person}{Brian Alegant}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The Twelve-tone Music of Luigi
+  Dallapiccola}}.
+\newblock \bibinfo{publisher}{University of Rochester Press}.
+\newblock
+\showISBNx{9781580463256}
+
+
+\bibitem[\protect\citeauthoryear{Alegant, Levey, and Lubin}{Alegant
+  et~al\mbox{.}}{2006}]%
+        {Alegant+2006}
+\bibfield{author}{\bibinfo{person}{Brian Alegant}, \bibinfo{person}{John
+  Levey}, {and} \bibinfo{person}{Howard Lubin}.}
+  \bibinfo{year}{2006}\natexlab{}.
+\newblock \showarticletitle{Octatonicism in Luigi Dallapiccola's Twelve-Note
+  Music}.
+\newblock \bibinfo{journal}{\emph{Music Analysis}} \bibinfo{volume}{25},
+  \bibinfo{number}{1/2} (\bibinfo{year}{2006}), \bibinfo{pages}{39--87}.
+\newblock
+\showISSN{02625245, 14682249}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/25171363}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Arnold and Hair}{Arnold and Hair}{1976}]%
+        {ArnoldHair1976}
+\bibfield{author}{\bibinfo{person}{Stephen Arnold} {and}
+  \bibinfo{person}{Graham Hair}.} \bibinfo{year}{1976}\natexlab{}.
+\newblock \showarticletitle{An Introduction and a Study String Quartet no. 3}.
+\newblock \bibinfo{journal}{\emph{Perspectives of New Music}}
+  \bibinfo{volume}{14/15} (\bibinfo{year}{1976}), \bibinfo{pages}{155--186}.
+\newblock
+\showISSN{00316016}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/832633}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Babbitt}{Babbitt}{1987}]%
+        {Babbitt1987}
+\bibfield{author}{\bibinfo{person}{Milton Babbitt}.}
+  \bibinfo{year}{1987}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Milton Babbitt : words about music}}.
+\newblock \bibinfo{publisher}{University of Wisconsin Press},
+  \bibinfo{address}{Madison, Wis.}
+\newblock
+\showISBNx{0299107906}
+
+
+\bibitem[\protect\citeauthoryear{Bailey}{Bailey}{1991}]%
+        {Bailey1991}
+\bibfield{author}{\bibinfo{person}{Kathryn Bailey}.}
+  \bibinfo{year}{1991}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Twelve-note music of Anton Webern : old
+  forms in a new language}}.
+\newblock \bibinfo{publisher}{Cambridge University Press},
+  \bibinfo{address}{Cambridge}.
+\newblock
+\showISBNx{0521390885}
+
+
+\bibitem[\protect\citeauthoryear{Behrens}{Behrens}{2013}]%
+        {Behrens2013}
+\bibfield{author}{\bibinfo{person}{Lisa Behrens}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Cyclic Pitch Organization in the Twelve-Tone
+  Works of Aaron Copland}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{City
+  University of New York}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Benedictis and O'Donnell}{Benedictis and
+  O'Donnell}{2012}]%
+        {DeBenedictisODonnell2012}
+\bibfield{author}{\bibinfo{person}{Angela Ida~De Benedictis} {and}
+  \bibinfo{person}{John O'Donnell}.} \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{The Dramaturgical and Compositional Genesis of
+  Luigi Nono's Intolleranza 1960}.
+\newblock \bibinfo{journal}{\emph{Twentieth-century music}}
+  \bibinfo{volume}{9}, \bibinfo{number}{1-2} (\bibinfo{year}{2012}),
+  \bibinfo{pages}{101--141}.
+\newblock
+\showISSN{1478-5722}
+
+
+\bibitem[\protect\citeauthoryear{Bernstein}{Bernstein}{2002}]%
+        {Bernstein2002}
+\bibfield{author}{\bibinfo{person}{David~W. Bernstein}.}
+  \bibinfo{year}{2002}\natexlab{}.
+\newblock \showarticletitle{Words and writings}.
+\newblock In \bibinfo{booktitle}{\emph{The Cambridge companion to John Cage}},
+  \bibfield{editor}{\bibinfo{person}{David Nicholls}} (Ed.).
+  \bibinfo{publisher}{Cambridge University Press},
+  \bibinfo{address}{Cambridge}, Chapter~4, \bibinfo{pages}{61--84}.
+\newblock
+\showISBNx{1-139-81637-3}
+
+
+\bibitem[\protect\citeauthoryear{Boles{\l}awska}{Boles{\l}awska}{2015}]%
+        {Bolesawska2015}
+\bibfield{author}{\bibinfo{person}{Beata Boles{\l}awska}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The life and works of Andrzej Panufnik
+  (1914-1991)}}.
+\newblock \bibinfo{publisher}{Ashgate}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Boros}{Boros}{1990}]%
+        {Boros1990}
+\bibfield{author}{\bibinfo{person}{James Boros}.}
+  \bibinfo{year}{1990}\natexlab{}.
+\newblock \showarticletitle{The Evolution of Robert Moevs's Compositional
+  Methodology}.
+\newblock \bibinfo{journal}{\emph{American Music}} \bibinfo{volume}{8},
+  \bibinfo{number}{4} (\bibinfo{year}{1990}), \bibinfo{pages}{383--404}.
+\newblock
+\showISSN{07344392, 19452349}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/3051761}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Boros}{Boros}{1991}]%
+        {Boros1991}
+\bibfield{author}{\bibinfo{person}{James Boros}.}
+  \bibinfo{year}{1991}\natexlab{}.
+\newblock \showarticletitle{Donald Martino's Fantasy Variations: The First
+  Three Measures}.
+\newblock \bibinfo{journal}{\emph{Perspectives of New Music}}
+  \bibinfo{volume}{29}, \bibinfo{number}{2} (\bibinfo{year}{1991}),
+  \bibinfo{pages}{280--293}.
+\newblock
+\showISSN{00316016}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/833442}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Bregegere}{Bregegere}{2015}]%
+        {Bregegere2015}
+\bibfield{author}{\bibinfo{person}{Andre~Rene Bregegere}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \emph{\bibinfo{title}{L'Harmonie r{\'e}v{\'e}e: An Analysis of Henri
+  Pousseur's 'Votre Faust' And 'Les litanies d'Icare'}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{Graduate
+  Center, City University of New York}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Cairns}{Cairns}{2010}]%
+        {Cairns2010}
+\bibfield{author}{\bibinfo{person}{Zachary~A Cairns}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Multiple-row serialism in three works by Edison
+  Denisov}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{Eastman
+  School of Music}.
+\newblock
+\showISBNx{9781124050904}
+
+
+\bibitem[\protect\citeauthoryear{Chardas}{Chardas}{2005}]%
+        {Chardas2005}
+\bibfield{author}{\bibinfo{person}{Kostas Chardas}.}
+  \bibinfo{year}{2005}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Yannis A. Papaioannou: The Music for Solo Piano
+  up to 1960}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{University
+  of Surrey}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Choi}{Choi}{2007}]%
+        {Choi2007}
+\bibfield{author}{\bibinfo{person}{Ji~Sun~Emily Choi}.}
+  \bibinfo{year}{2007}\natexlab{}.
+\newblock \emph{\bibinfo{title}{The Merging of Korean Traditional Music and
+  Western Instrumentation as Exemplified in Four Chamber Works for Piano
+  Composed by Isang Yun}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{University
+  of Miami}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Covach}{Covach}{2002}]%
+        {Covach2002}
+\bibfield{author}{\bibinfo{person}{John Covach}.}
+  \bibinfo{year}{2002}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Twelve-tone theory}}.
+\newblock \bibinfo{publisher}{Cambridge University Press},
+  \bibinfo{pages}{603--627}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1017/CHOL9780521623711.021}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Cummings}{Cummings}{2007}]%
+        {Cummings2007}
+\bibfield{author}{\bibinfo{person}{Craig Cummings}.}
+  \bibinfo{year}{2007}\natexlab{}.
+\newblock \showarticletitle{Compositional Techniques in Karel Husa's Early
+  Serial Works Po{\`e}me and Mosa{\"\i}ques}.
+\newblock \bibinfo{journal}{\emph{ex tempore}} \bibinfo{volume}{XIII},
+  \bibinfo{number}{2} (\bibinfo{year}{2007}).
+\newblock
+\urldef\tempurl%
+\url{http://www.ex-tempore.org/husa/husa.htm}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Dallapiccola and Stodt}{Dallapiccola and
+  Stodt}{2000}]%
+        {DallapiccolaStodt2000}
+\bibfield{author}{\bibinfo{person}{Luigi Dallapiccola} {and}
+  \bibinfo{person}{F.~Chlo{\"e} Stodt}.} \bibinfo{year}{2000}\natexlab{}.
+\newblock \showarticletitle{Notes for an Analysis of the Canti di Liberazione}.
+\newblock \bibinfo{journal}{\emph{Perspectives of New Music}}
+  \bibinfo{volume}{38}, \bibinfo{number}{1} (\bibinfo{year}{2000}),
+  \bibinfo{pages}{5--24}.
+\newblock
+\showISSN{00316016}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/833586}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{de~Carvalho}{de~Carvalho}{1999}]%
+        {deCarvalho1999}
+\bibfield{author}{\bibinfo{person}{M{\'a}rio~Vieira de Carvalho}.}
+  \bibinfo{year}{1999}\natexlab{}.
+\newblock \showarticletitle{Towards dialectic listening: Quotation and montage
+  in the work of Luigi Nono}.
+\newblock \bibinfo{journal}{\emph{Contemporary Music Review}}
+  \bibinfo{volume}{18}, \bibinfo{number}{2} (\bibinfo{year}{1999}),
+  \bibinfo{pages}{37--85}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1080/07494469900640191}
+\showDOI{\tempurl}
+\showeprint{https://doi.org/10.1080/07494469900640191}
+
+
+\bibitem[\protect\citeauthoryear{de~Lemos~Almada}{de~Lemos~Almada}{2008}]%
+        {Almada2008}
+\bibfield{author}{\bibinfo{person}{Carlos de Lemos~Almada}.}
+  \bibinfo{year}{2008}\natexlab{}.
+\newblock \showarticletitle{O dodecafonismo peculiar de Cl{\'a}udio Santoro:
+  An{\'a}lise do ciclo de can{\c c}{\~o}es A Menina Boba}.
+\newblock \bibinfo{journal}{\emph{Opus, Goi{\^a}nia}} \bibinfo{volume}{14},
+  \bibinfo{number}{1} (\bibinfo{date}{June} \bibinfo{year}{2008}),
+  \bibinfo{pages}{7--24}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Dewhirst}{Dewhirst}{2014}]%
+        {Dewhirst2014}
+\bibfield{author}{\bibinfo{person}{Kristan~K Dewhirst}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Charles Wuorinen's Flute Variations II: An
+  analysis and performance guide}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{University
+  of North Texas}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Dixon}{Dixon}{1995}]%
+        {Dixon1995}
+\bibfield{author}{\bibinfo{person}{Joan~DeVee Dixon}.}
+  \bibinfo{year}{1995}\natexlab{}.
+\newblock \emph{\bibinfo{title}{The Twelve bagatelles and Sonata-fantasia of
+  George Rochberg: a performer's analysis}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}.
+  \bibinfo{school}{Southwestern Baptist Theological Seminary}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Durazzi}{Durazzi}{2005}]%
+        {Durazzi2005}
+\bibfield{author}{\bibinfo{person}{Bruce~John Durazzi}.}
+  \bibinfo{year}{2005}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Musical poetics and political ideology in the
+  work of Luigi Nono}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{Yale
+  University}.
+\newblock
+\showISBNx{9780542048395}
+
+
+\bibitem[\protect\citeauthoryear{Durrani}{Durrani}{2005}]%
+        {Durrani2005}
+\bibfield{author}{\bibinfo{person}{Aaminah Durrani}.}
+  \bibinfo{year}{2005}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Chorale and canon in {A}lfred {S}chnittke's
+  Fourth String Quartet}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{Louisiana
+  State University}.
+\newblock
+\showISBNx{0542021927}
+
+
+\bibitem[\protect\citeauthoryear{Elster}{Elster}{1991}]%
+        {Elster1991}
+\bibfield{author}{\bibinfo{person}{Steven Elster}.}
+  \bibinfo{year}{1991}\natexlab{}.
+\newblock \showarticletitle{A Harmonic and Serial Analysis of Ben Johnston's
+  String Quartet No. 6}.
+\newblock \bibinfo{journal}{\emph{Perspectives of New Music}}
+  \bibinfo{volume}{29}, \bibinfo{number}{2} (\bibinfo{year}{1991}),
+  \bibinfo{pages}{138--165}.
+\newblock
+\showISSN{00316016}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/833436}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Emmery}{Emmery}{2019}]%
+        {Emmery2019}
+\bibfield{author}{\bibinfo{person}{Laura Emmery}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Elliott Carter's and Luigi Nono's Analyses of
+  Schoenberg's Variations for Orchestra, Op. 31: Divergent Approaches to
+  Serialism}.
+\newblock \bibinfo{journal}{\emph{Twentieth-Century Music}}
+  \bibinfo{volume}{16}, \bibinfo{number}{2} (\bibinfo{year}{2019}),
+  \bibinfo{pages}{191--229}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1017/S1478572219000033}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Ensign}{Ensign}{2010}]%
+        {Ensign2010}
+\bibfield{author}{\bibinfo{person}{Jeffrey~S Ensign}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \emph{\bibinfo{title}{From Outward Appearance to Inner Reality, a
+  Reading of Aaron Copland's Inscape}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{University
+  of North Texas}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Fenton-Miller}{Fenton-Miller}{2016}]%
+        {Fenton-Miller2016}
+\bibfield{author}{\bibinfo{person}{Solomon Fenton-Miller}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Compositional strategies in {A}lfred
+  {S}chnittke's early polystylism}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{University
+  of Iowa}.
+\newblock
+\showISBNx{1369303483}
+
+
+\bibitem[\protect\citeauthoryear{Fobes}{Fobes}{2006}]%
+        {Fobes2006}
+\bibfield{author}{\bibinfo{person}{Christopher~A. Fobes}.}
+  \bibinfo{year}{2006}\natexlab{}.
+\newblock \emph{\bibinfo{title}{A Theoretical Investigation of Twelve-Tone
+  Rows, Harmonic Aggregates, and Non-Twelve-Tone Materials in the Late Music of
+  {A}lberto {G}inastera}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{State
+  University of New York at Buffalo}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Folio}{Folio}{1985}]%
+        {Folio1985}
+\bibfield{author}{\bibinfo{person}{Cynthia~Jo Folio}.}
+  \bibinfo{year}{1985}\natexlab{}.
+\newblock \emph{\bibinfo{title}{An Analysis and comparison of four compositions
+  by Joseph Schwantner: And the mountains rising nowhere; Wild angels of the
+  open hills; Aftertones of infinity; and Sparrows}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{University
+  of Rochester, Eastman School of Music}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Fonville}{Fonville}{1991}]%
+        {Fonville1991}
+\bibfield{author}{\bibinfo{person}{John Fonville}.}
+  \bibinfo{year}{1991}\natexlab{}.
+\newblock \showarticletitle{Ben Johnston's Extended Just Intonation: A Guide
+  for Interpreters}.
+\newblock \bibinfo{journal}{\emph{Perspectives of New Music}}
+  \bibinfo{volume}{29}, \bibinfo{number}{2} (\bibinfo{year}{1991}),
+  \bibinfo{pages}{106--137}.
+\newblock
+\showISSN{00316016}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/833435}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Forkert}{Forkert}{2017}]%
+        {Forkert2017}
+\bibfield{author}{\bibinfo{person}{Annika Forkert}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Magical Serialism: Modernist Enchantment in
+  {E}lisabeth {L}utyens's {O Saisons, O C}h{\^a}teaux!}
+\newblock \bibinfo{journal}{\emph{Twentieth-Century Music}}
+  \bibinfo{volume}{14}, \bibinfo{number}{2} (\bibinfo{year}{2017}),
+  \bibinfo{pages}{271--303}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1017/S1478572217000238}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Fox}{Fox}{1999}]%
+        {Fox1999}
+\bibfield{author}{\bibinfo{person}{Christopher Fox}.}
+  \bibinfo{year}{1999}\natexlab{}.
+\newblock \showarticletitle{Luigi Nono and the Darmstadt School: Form and
+  meaning in the early works (1950--1959)}.
+\newblock \bibinfo{journal}{\emph{Contemporary Music Review}}
+  \bibinfo{volume}{18}, \bibinfo{number}{2} (\bibinfo{year}{1999}),
+  \bibinfo{pages}{111--130}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1080/07494469900640211}
+\showDOI{\tempurl}
+\showeprint{https://doi.org/10.1080/07494469900640211}
+
+
+\bibitem[\protect\citeauthoryear{Frisius}{Frisius}{1996}]%
+        {Frisius1996}
+\bibfield{author}{\bibinfo{person}{Rudolf Frisius}.}
+  \bibinfo{year}{1996}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Karlheinz Stockhausen}}.
+  Vol.~\bibinfo{volume}{Vol II: Die Werke 1950-1977; Gespr{\"a}{\"a}rts"}.
+\newblock \bibinfo{publisher}{Schott}, \bibinfo{address}{Mainz ; London}.
+\newblock
+\showISBNx{3795702488}
+
+
+\bibitem[\protect\citeauthoryear{Garton}{Garton}{1986}]%
+        {Garton1986}
+\bibfield{author}{\bibinfo{person}{Eric Garton}.}
+  \bibinfo{year}{1986}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Dominick Argento's "From the Diary of Virginia
+  Woolf": Elements of Tonality in Twelve-Tone Composition}}.
+\newblock \bibinfo{thesistype}{Master's\ thesis}. \bibinfo{school}{Duquesne
+  University}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Gladstone, Saathen, and Helm}{Gladstone
+  et~al\mbox{.}}{1958}]%
+        {GladstoneSaathenHelm1958}
+\bibfield{author}{\bibinfo{person}{Herbert~B. Gladstone},
+  \bibinfo{person}{Friedrich Saathen}, {and} \bibinfo{person}{Everett Helm}.}
+  \bibinfo{year}{1958}\natexlab{}.
+\newblock \showarticletitle{Current Chronicle}.
+\newblock \bibinfo{journal}{\emph{The Musical Quarterly}} \bibinfo{volume}{44},
+  \bibinfo{number}{4} (\bibinfo{year}{1958}), \bibinfo{pages}{511--523}.
+\newblock
+\showISSN{00274631, 17418399}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/740712}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Goehr}{Goehr}{1998}]%
+        {Goehr1998}
+\bibfield{author}{\bibinfo{person}{Alexander Goehr}.}
+  \bibinfo{year}{1998}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Finding the key : selected writings of
+  Alexander Goehr}}.
+\newblock \bibinfo{publisher}{Faber}, \bibinfo{address}{London}.
+\newblock
+\showISBNx{9780571193103}
+
+
+\bibitem[\protect\citeauthoryear{Griffiths}{Griffiths}{2001}]%
+        {Griffiths2001}
+\bibfield{author}{\bibinfo{person}{Paul Griffiths}.}
+  \bibinfo{year}{2001}\natexlab{}.
+\newblock \showarticletitle{Serialism}.
+\newblock In \bibinfo{booktitle}{\emph{Oxford Music Online
+  (http://www.oxfordmusiconline.com/)}}. \bibinfo{publisher}{Oxford University
+  Press}.
+\newblock
+\showISBNx{9781561592630}
+\urldef\tempurl%
+\url{https://doi.org/10.1093/gmo/9781561592630.article.25459}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Guerrero}{Guerrero}{2003}]%
+        {Guerrero2003}
+\bibfield{author}{\bibinfo{person}{Jean~Maria Guerrero}.}
+  \bibinfo{year}{2003}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Text-setting techniques in Luigi Nono's choral
+  works (1956 to 1960)}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{Harvard
+  University}.
+\newblock
+\showISBNx{9780496542055}
+
+
+\bibitem[\protect\citeauthoryear{Guo}{Guo}{2002}]%
+        {Guo2002}
+\bibfield{author}{\bibinfo{person}{Xin Guo}.} \bibinfo{year}{2002}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Chinese Musical Language Interpreted by Western
+  Idioms: Fusion Process in the Instrumental Works by {C}hen {Y}i}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{Florida
+  State University}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Harvey}{Harvey}{1975}]%
+        {Harvey1975}
+\bibfield{author}{\bibinfo{person}{Jonathan Harvey}.}
+  \bibinfo{year}{1975}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The music of Stockhausen: an
+  introduction}}.
+\newblock \bibinfo{publisher}{Faber and Faber}, \bibinfo{address}{London}.
+\newblock
+\showISBNx{0571102514}
+
+
+\bibitem[\protect\citeauthoryear{Headlam, Hasegawa, Lansky, and Perle}{Headlam
+  et~al\mbox{.}}{2001}]%
+        {Headlam+2001}
+\bibfield{author}{\bibinfo{person}{Dave Headlam}, \bibinfo{person}{Robert
+  Hasegawa}, \bibinfo{person}{Paul Lansky}, {and} \bibinfo{person}{George
+  Perle}.} \bibinfo{year}{2001}\natexlab{}.
+\newblock \showarticletitle{Twelve-note composition}.
+\newblock In \bibinfo{booktitle}{\emph{Oxford Music Online
+  (http://www.oxfordmusiconline.com/)}}. \bibinfo{publisher}{Oxford University
+  Press}.
+\newblock
+\showISBNx{9781561592630}
+\urldef\tempurl%
+\url{https://doi.org/10.1093/gmo/9781561592630.article.44582}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Headlam}{Headlam}{1996}]%
+        {Headlam1996}
+\bibfield{author}{\bibinfo{person}{David~John Headlam}.}
+  \bibinfo{year}{1996}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The music of Alban Berg}}.
+\newblock \bibinfo{publisher}{Yale University Press}, \bibinfo{address}{New
+  Haven ; London}.
+\newblock
+\showISBNx{0300064004}
+
+
+\bibitem[\protect\citeauthoryear{Heine}{Heine}{2015}]%
+        {Heine2015}
+\bibfield{author}{\bibinfo{person}{Christiane Heine}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Structural Functions of the Twelve-Tone Row in
+  Ren{\'e} Leibowitz's Trois pi{\`e}ces pour piano op. 19}.
+\newblock \bibinfo{journal}{\emph{Acta Musicologica}} \bibinfo{volume}{87},
+  \bibinfo{number}{1} (\bibinfo{year}{2015}), \bibinfo{pages}{49--74}.
+\newblock
+\showISSN{00016241}
+\urldef\tempurl%
+\url{https://www.jstor.org/stable/26350008}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Hibberd}{Hibberd}{2010}]%
+        {Hibberd2010}
+\bibfield{author}{\bibinfo{person}{Kristian Hibberd}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{Shostakovich and 'polyphonic' creativity: the
+  Fourteenth Symphony revisited}.
+\newblock In \bibinfo{booktitle}{\emph{Shostakovich studies 2}},
+  \bibfield{editor}{\bibinfo{person}{Pauline Fairclough}} (Ed.).
+  \bibinfo{publisher}{Cambridge University Press},
+  \bibinfo{address}{Cambridge}, Chapter~7, \bibinfo{pages}{190--206}.
+\newblock
+\showISBNx{9780521111188}
+
+
+\bibitem[\protect\citeauthoryear{Hillier}{Hillier}{1997}]%
+        {Hillier1997}
+\bibfield{author}{\bibinfo{person}{Paul Hillier}.}
+  \bibinfo{year}{1997}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The music of Arvo P{\"a}rt}}.
+\newblock \bibinfo{publisher}{Oxford University Press},
+  \bibinfo{address}{Oxford}.
+\newblock
+\showISBNx{9780198166160}
+
+
+\bibitem[\protect\citeauthoryear{Honarmand}{Honarmand}{2019}]%
+        {Honarmand2019}
+\bibfield{author}{\bibinfo{person}{Amin Honarmand}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{{Aggregates and Quasi-Aggregates: A Study of
+  Dodecaphony in Schnittke's Music}}.
+\newblock \bibinfo{journal}{\emph{Music Theory Spectrum}} \bibinfo{volume}{41},
+  \bibinfo{number}{2} (\bibinfo{date}{06} \bibinfo{year}{2019}),
+  \bibinfo{pages}{305--322}.
+\newblock
+\showISSN{0195-6167}
+\urldef\tempurl%
+\url{https://doi.org/10.1093/mts/mtz008}
+\showDOI{\tempurl}
+\showeprint{https://academic.oup.com/mts/article-pdf/41/2/305/30035684/mtz008.pdf}
+
+
+\bibitem[\protect\citeauthoryear{Houser}{Houser}{1977}]%
+        {Houser1977}
+\bibfield{author}{\bibinfo{person}{James Houser}.}
+  \bibinfo{year}{1977}\natexlab{}.
+\newblock \emph{\bibinfo{title}{The evolution of Ernst Krenek's twelve-tone
+  technique}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{Eastman
+  School of Music}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Huckvale}{Huckvale}{2008}]%
+        {Huckvale2008}
+\bibfield{author}{\bibinfo{person}{David Huckvale}.}
+  \bibinfo{year}{2008}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Hammer film scores and the musical
+  avant-garde}}.
+\newblock \bibinfo{publisher}{McFarland and Co.}, \bibinfo{address}{Jefferson,
+  N.C.}
+\newblock
+\showISBNx{9780786434565}
+
+
+\bibitem[\protect\citeauthoryear{Jameux}{Jameux}{1991}]%
+        {Jameux1991}
+\bibfield{author}{\bibinfo{person}{Dominique Jameux}.}
+  \bibinfo{year}{1991}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Pierre Boulez}}.
+\newblock \bibinfo{publisher}{Harvard University Press},
+  \bibinfo{address}{Cambridge, Mass.}
+\newblock
+\showISBNx{0674667409}
+
+
+\bibitem[\protect\citeauthoryear{Jones}{Jones}{1994}]%
+        {Jones1994}
+\bibfield{author}{\bibinfo{person}{Leslie Jones}.}
+  \bibinfo{year}{1994}\natexlab{}.
+\newblock \emph{\bibinfo{title}{The Solo Piano Music of Vivian Fine}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{University
+  of Cincinnatti}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Jung}{Jung}{2007}]%
+        {Jung2007}
+\bibfield{author}{\bibinfo{person}{Jiyoung Jung}.}
+  \bibinfo{year}{2007}\natexlab{}.
+\newblock \showarticletitle{Applied Study on Berio's Serial Technique focused
+  on O King in Sinfonia}.
+\newblock \bibinfo{journal}{\emph{Nangman Quarterly}} \bibinfo{volume}{20},
+  \bibinfo{number}{1} (\bibinfo{year}{2007}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Jurkowski}{Jurkowski}{2004}]%
+        {Jurkowski2004}
+\bibfield{author}{\bibinfo{person}{Edward Jurkowski}.}
+  \bibinfo{year}{2004}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The music of Joonas Kokkonen}}.
+\newblock \bibinfo{publisher}{Ashgate}, \bibinfo{address}{Aldershot}.
+\newblock
+\showISBNx{0754607895}
+
+
+\bibitem[\protect\citeauthoryear{Jurkowski}{Jurkowski}{2009}]%
+        {Jurkowski2009}
+\bibfield{author}{\bibinfo{person}{Nicholas Jurkowski}.}
+  \bibinfo{year}{2009}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Berio's Early Use Of Serial Techniques: An
+  Analysis Of Chamber Music}}.
+\newblock \bibinfo{thesistype}{Master's\ thesis}. \bibinfo{school}{Bowling
+  Green State University}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Karchin}{Karchin}{2001}]%
+        {Karchin2001}
+\bibfield{author}{\bibinfo{person}{Louis Karchin}.}
+  \bibinfo{year}{2001}\natexlab{}.
+\newblock \showarticletitle{Charles Wuorinen's Reliquary for Igor Stravinsky}.
+\newblock \bibinfo{journal}{\emph{Contemporary Music Review}}
+  \bibinfo{volume}{20}, \bibinfo{number}{4} (\bibinfo{year}{2001}),
+  \bibinfo{pages}{9--27}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1080/07494460100640261}
+\showDOI{\tempurl}
+\showeprint{https://doi.org/10.1080/07494460100640261}
+
+
+\bibitem[\protect\citeauthoryear{Kim}{Kim}{2007}]%
+        {Kim2007}
+\bibfield{author}{\bibinfo{person}{Yoojin Kim}.}
+  \bibinfo{year}{2007}\natexlab{}.
+\newblock \emph{\bibinfo{title}{An innovative approach to serialism: George
+  Rochberg's Twelve Bagatelles for Piano and Symphony No. 2}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{The Ohio
+  State University}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kohl}{Kohl}{1983}]%
+        {Kohl1983}
+\bibfield{author}{\bibinfo{person}{Jerome Kohl}.}
+  \bibinfo{year}{1983}\natexlab{}.
+\newblock \showarticletitle{The Evolution of Macro- and Micro-Time Relations in
+  Stockhausen's Recent Music}.
+\newblock \bibinfo{journal}{\emph{Perspectives of New Music}}
+  \bibinfo{volume}{22}, \bibinfo{number}{1/2} (\bibinfo{year}{1983}),
+  \bibinfo{pages}{147--185}.
+\newblock
+\showISSN{00316016}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/832939}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Krenek}{Krenek}{1940}]%
+        {Krenek1940}
+\bibfield{author}{\bibinfo{person}{Ernst Krenek}.}
+  \bibinfo{year}{1940}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Studies in counterpoint; based on the
+  12-tone technique}}.
+\newblock \bibinfo{publisher}{Schirmer}, \bibinfo{address}{New York}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Krenek}{Krenek}{1960}]%
+        {Krenek1960}
+\bibfield{author}{\bibinfo{person}{Ernst Krenek}.}
+  \bibinfo{year}{1960}\natexlab{}.
+\newblock \showarticletitle{Extents and Limits of Serial Techniques}.
+\newblock \bibinfo{journal}{\emph{The Musical Quarterly}} \bibinfo{volume}{46},
+  \bibinfo{number}{2} (\bibinfo{year}{1960}), \bibinfo{pages}{210--232}.
+\newblock
+\showISSN{00274631, 17418399}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/740372}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Kuster}{Kuster}{2000}]%
+        {Kuster2000}
+\bibfield{author}{\bibinfo{person}{Andrew Kuster}.}
+  \bibinfo{year}{2000}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Stravinsky's Topology: An Examination of his
+  Twelve-Tone Works through Object-Oriented Analysis of Structural and
+  Poetic-Expressive Relationships with Special Attention to his Choral Works
+  and Threni}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{University
+  of Colorado},
+  \bibinfo{address}{https://sites.google.com/site/stravinskystopology/}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Lee}{Lee}{2010}]%
+        {Lee2010}
+\bibfield{author}{\bibinfo{person}{Bettina Lee}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \emph{\bibinfo{title}{M{\'a}ty{\'a}s Seiber's Twelve-Tone
+  Technique}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{City
+  University of New York}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Lee}{Lee}{2012}]%
+        {Lee2012}
+\bibfield{author}{\bibinfo{person}{Ko~Eun Lee}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Isang Yun's Musical Bilingualism: Serial
+  Technique and Korean Elements in F{\"u}nf St{\"u}cke F{\"u}r Klavier (1958)
+  and His Later Piano Works}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{University
+  of North Carolina at Greensboro}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Lee}{Lee}{2016}]%
+        {Lee2016}
+\bibfield{author}{\bibinfo{person}{Youn~Joo Lee}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \emph{\bibinfo{title}{East and West: exploring the sound world of
+  Isang Yun through an analysis of Piri for solo oboe}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{Indiana
+  University}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Lewin}{Lewin}{1962}]%
+        {Lewin1962}
+\bibfield{author}{\bibinfo{person}{David Lewin}.}
+  \bibinfo{year}{1962}\natexlab{}.
+\newblock \showarticletitle{A Theory of Segmental Association in Twelve-Tone
+  Music}.
+\newblock \bibinfo{journal}{\emph{Perspectives of New Music}}
+  \bibinfo{volume}{1}, \bibinfo{number}{1} (\bibinfo{year}{1962}),
+  \bibinfo{pages}{89--116}.
+\newblock
+\showISSN{00316016}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/832181}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Lewin}{Lewin}{1967}]%
+        {Lewin1967}
+\bibfield{author}{\bibinfo{person}{David Lewin}.}
+  \bibinfo{year}{1967}\natexlab{}.
+\newblock \showarticletitle{A Study of Hexachord Levels in Schoenberg's Violin
+  Fantasy}.
+\newblock \bibinfo{journal}{\emph{Perspectives of New Music}}
+  \bibinfo{volume}{6}, \bibinfo{number}{1} (\bibinfo{year}{1967}),
+  \bibinfo{pages}{18--32}.
+\newblock
+\showISSN{00316016}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/832403}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Ligeti}{Ligeti}{1958}]%
+        {Ligeti1958}
+\bibfield{author}{\bibinfo{person}{Gy{\"o}rgy Ligeti}.}
+  \bibinfo{year}{1958}\natexlab{}.
+\newblock \showarticletitle{Pierre Boulez. Entscheidung und Automatik in der
+  Structure 1a}.
+\newblock \bibinfo{journal}{\emph{Die Reihe}}  \bibinfo{volume}{4 (``Junge
+  Komponisten'')} (\bibinfo{year}{1958}), \bibinfo{pages}{38--63}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Logan}{Logan}{1970}]%
+        {Logan1970}
+\bibfield{author}{\bibinfo{person}{Wendell Logan}.}
+  \bibinfo{year}{1970}\natexlab{}.
+\newblock \showarticletitle{Olly Wilson: Piece for Four}.
+\newblock \bibinfo{journal}{\emph{Perspectives of New Music}}
+  \bibinfo{volume}{9}, \bibinfo{number}{1} (\bibinfo{year}{1970}),
+  \bibinfo{pages}{126--134}.
+\newblock
+\showISSN{00316016}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/832198}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{London, von Hippel, Huron, Cartano, Kingery,
+  Olsen, and Santelli}{London et~al\mbox{.}}{2001}]%
+        {London+2001}
+\bibfield{author}{\bibinfo{person}{Justin London}, \bibinfo{person}{P von
+  Hippel}, \bibinfo{person}{David~Brian Huron}, \bibinfo{person}{J. Cartano},
+  \bibinfo{person}{K. Kingery}, \bibinfo{person}{B. Olsen}, {and}
+  \bibinfo{person}{T Santelli}.} \bibinfo{year}{2000/2001}\natexlab{}.
+\newblock \showarticletitle{Row forms in the serial works of {S}choenberg,
+  {B}erg, and {W}ebern. [Computer database.]},
+  \bibfield{editor}{\bibinfo{person}{P~von Hippel}} (Ed.).
+  \bibinfo{publisher}{Center for Computer Assisted Research in the Humanities
+  (www.ccarh.org/publications/data/humdrum/tonerow/)},
+  \bibinfo{address}{Stanford, CA}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Maconie}{Maconie}{2005}]%
+        {Maconie2005}
+\bibfield{author}{\bibinfo{person}{Robin Maconie}.}
+  \bibinfo{year}{2005}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Other planets : the music of Karlheinz
+  Stockhausen}}.
+\newblock \bibinfo{publisher}{Scarecrow Press}, \bibinfo{address}{Lanham, Md.}
+\newblock
+\showISBNx{0810853566}
+
+
+\bibitem[\protect\citeauthoryear{Maibrada}{Maibrada}{2007}]%
+        {Maibrada2007}
+\bibfield{author}{\bibinfo{person}{Heloisa~Almeida Maibrada}.}
+  \bibinfo{year}{2007}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Musical Integration: The Stylistic Evolution of
+  the Music of {C}l{\'a}udio {S}antoro as Observed in his Works for Piano}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{University
+  of Maryland}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Maxile}{Maxile}{2004}]%
+        {Maxile2004}
+\bibfield{author}{\bibinfo{person}{Horace~J. Maxile}.}
+  \bibinfo{year}{2004}\natexlab{}.
+\newblock \showarticletitle{Hale Smith's "Evocation": The Interaction of
+  Cultural Symbols and Serial Composition}.
+\newblock \bibinfo{journal}{\emph{Perspectives of New Music}}
+  \bibinfo{volume}{42}, \bibinfo{number}{2} (\bibinfo{year}{2004}),
+  \bibinfo{pages}{122--143}.
+\newblock
+\showISSN{00316016}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/25164559}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{{Maxile~Jr.}}{{Maxile~Jr.}}{2014}]%
+        {Maxile2014}
+\bibfield{author}{\bibinfo{person}{Horace~J. {Maxile~Jr.}}}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{On Vernacular Emblems and Signification in {D}avid
+  {N}. {B}aker's {The Black Experience}}.
+\newblock \bibinfo{journal}{\emph{American Music}} \bibinfo{volume}{32},
+  \bibinfo{number}{2} (\bibinfo{year}{2014}), \bibinfo{pages}{223--251}.
+\newblock
+\showISSN{07344392, 19452349}
+\urldef\tempurl%
+\url{https://www.jstor.org/stable/10.5406/americanmusic.32.2.0223}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Mazzolini}{Mazzolini}{2013}]%
+        {Mazzolini2013}
+\bibfield{author}{\bibinfo{person}{Marco Mazzolini}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{The String Quartet in Italy After 1945}.
+\newblock \bibinfo{journal}{\emph{Contemporary music review}}
+  \bibinfo{volume}{32}, \bibinfo{number}{4} (\bibinfo{year}{2013}),
+  \bibinfo{pages}{353--417}.
+\newblock
+\showISSN{0749-4467}
+
+
+\bibitem[\protect\citeauthoryear{Mead}{Mead}{1988}]%
+        {Mead1988}
+\bibfield{author}{\bibinfo{person}{Andrew Mead}.}
+  \bibinfo{year}{1988}\natexlab{}.
+\newblock \showarticletitle{Some Implications of the Pitch Class/Order Number
+  Isomorphism Inherent in the Twelve-Tone System: Part One}.
+\newblock \bibinfo{journal}{\emph{Perspectives of New Music}}
+  \bibinfo{volume}{26}, \bibinfo{number}{2} (\bibinfo{year}{1988}),
+  \bibinfo{pages}{96--163}.
+\newblock
+\showISSN{00316016}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/833188}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Mead}{Mead}{1989}]%
+        {Mead1989}
+\bibfield{author}{\bibinfo{person}{Andrew Mead}.}
+  \bibinfo{year}{1989}\natexlab{}.
+\newblock \showarticletitle{Some Implications of the Pitch-Class/Order-Number
+  Isomorphism Inherent in the Twelve-Tone System Part Two: The Mallalieu
+  Complex: Its Extensions and Related Rows}.
+\newblock \bibinfo{journal}{\emph{Perspectives of New Music}}
+  \bibinfo{volume}{27}, \bibinfo{number}{1} (\bibinfo{year}{1989}),
+  \bibinfo{pages}{180--233}.
+\newblock
+\showISSN{00316016}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/833268}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Mead}{Mead}{2002}]%
+        {Mead2002}
+\bibfield{author}{\bibinfo{person}{Andrew Mead}.}
+  \bibinfo{year}{2002}\natexlab{}.
+\newblock \showarticletitle{Twelve-Tone Composition and the Music of {E}lliott
+  {C}arter}. In \bibinfo{booktitle}{\emph{Concert Music, Rock, and Jazz Since
+  1945: Essays and Analytical Studies}},
+  \bibfield{editor}{\bibinfo{person}{Elizabeth~West Marvin} {and}
+  \bibinfo{person}{Richard Hermann}} (Eds.). \bibinfo{publisher}{University of
+  Rochester Press ISBN 9781580460965.}, \bibinfo{pages}{67--102}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Mead}{Mead}{1983}]%
+        {Mead1983}
+\bibfield{author}{\bibinfo{person}{Andrew~W. Mead}.}
+  \bibinfo{year}{1983}\natexlab{}.
+\newblock \showarticletitle{Pitch Structure in Elliott Carter's String Quartet
+  No. 3}.
+\newblock \bibinfo{journal}{\emph{Perspectives of New Music}}
+  \bibinfo{volume}{22}, \bibinfo{number}{1/2} (\bibinfo{year}{1983}),
+  \bibinfo{pages}{31--60}.
+\newblock
+\showISSN{00316016}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/832934}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Miller}{Miller}{1999}]%
+        {Miller1999}
+\bibfield{author}{\bibinfo{person}{L.E. Miller}.}
+  \bibinfo{year}{1999}\natexlab{}.
+\newblock \showarticletitle{Dark Fairy Tales and Obscure Legends: Autobiography
+  in the Operas of Lou Harrison}.
+\newblock \bibinfo{journal}{\emph{OPERA JOURNAL}} \bibinfo{volume}{32},
+  \bibinfo{number}{3} (\bibinfo{year}{1999}), \bibinfo{pages}{3--42}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Mitchell}{Mitchell}{2013}]%
+        {Mitchell2013}
+\bibfield{author}{\bibinfo{person}{Rachel Mitchell}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Roberto {G}erhard's Serial Procedures and Formal
+  Design in String Quartets Nos. 1-2}.
+\newblock In \bibinfo{booktitle}{\emph{The Roberto Gerhard companion}},
+  \bibfield{editor}{\bibinfo{person}{Monty Adkins} {and}
+  \bibinfo{person}{Michael Russ}} (Eds.). \bibinfo{publisher}{Ashgate},
+  \bibinfo{pages}{153--182}.
+\newblock
+\showISBNx{9781409445159}
+
+
+\bibitem[\protect\citeauthoryear{Morris}{Morris}{1997}]%
+        {Morris1997}
+\bibfield{author}{\bibinfo{person}{Robert Morris}.}
+  \bibinfo{year}{1997}\natexlab{}.
+\newblock \showarticletitle{Listening to Milton Babbitt's Electronic Music: The
+  Medium and the Message}.
+\newblock \bibinfo{journal}{\emph{Perspectives of New Music}}
+  \bibinfo{volume}{35}, \bibinfo{number}{2} (\bibinfo{year}{1997}),
+  \bibinfo{pages}{85--99}.
+\newblock
+\showISSN{00316016}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/833644}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Morris}{Morris}{2010}]%
+        {Morris2010}
+\bibfield{author}{\bibinfo{person}{Robert Morris}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The whistling blackbird : essays and talks
+  on new music}}.
+\newblock \bibinfo{publisher}{University of Rochester Press},
+  \bibinfo{address}{Rochester, NY}.
+\newblock
+\showISBNx{9781580463492}
+
+
+\bibitem[\protect\citeauthoryear{Neff}{Neff}{2009}]%
+        {Neff2009}
+\bibfield{author}{\bibinfo{person}{SEVERINE Neff}.}
+  \bibinfo{year}{2009}\natexlab{}.
+\newblock \showarticletitle{An Unlikely Synergy: Lou Harrison and Arnold
+  Schoenberg}.
+\newblock \bibinfo{journal}{\emph{Journal of the Society for American Music}}
+  \bibinfo{volume}{3} (\bibinfo{date}{05} \bibinfo{year}{2009}),
+  \bibinfo{pages}{155--193}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1017/S1752196309090129}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Neidh{\"o}fer}{Neidh{\"o}fer}{2016}]%
+        {Neidhoefer2016}
+\bibfield{author}{\bibinfo{person}{Christoph Neidh{\"o}fer}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Norma Beecroft, Improvvisazioni Concertanti No. 1}.
+\newblock In \bibinfo{booktitle}{\emph{Analytical Essays on Music by Women
+  Composers: Concert Music, 1960-2000}},
+  \bibfield{editor}{\bibinfo{person}{Laurel Parsons} {and}
+  \bibinfo{person}{Brenda Ravenscroft}} (Eds.). \bibinfo{publisher}{Oxford
+  University Press}, \bibinfo{address}{New York, USA}, \bibinfo{pages}{32--66}.
+\newblock
+\showISBNx{0190236868}
+
+
+\bibitem[\protect\citeauthoryear{Ogdon}{Ogdon}{1955}]%
+        {Ogdon1955}
+\bibfield{author}{\bibinfo{person}{Wilbur~Lee Ogdon}.}
+  \bibinfo{year}{1955}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Series and Structure: An Investigation into the
+  Purpose of the Twelve-Note Row in Selected Works of Schoenberg, Webern,
+  Krenek and Leibowitz}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{Indiana
+  University}, \bibinfo{address}{London}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Orga}{Orga}{1973}]%
+        {Orga1973}
+\bibfield{author}{\bibinfo{person}{Ates Orga}.}
+  \bibinfo{year}{1973}\natexlab{}.
+\newblock \showarticletitle{The Works}.
+\newblock In \bibinfo{booktitle}{\emph{The London Sinfonietta
+  {S}choenberg/{G}erhard series : the complete instrumental and chamber music
+  of Arnold Schoenberg and Roberto Gerhard, October and November 1973}},
+  \bibfield{editor}{\bibinfo{person}{David Atherton}} (Ed.).
+  \bibinfo{publisher}{Sinfonietta Productions}, \bibinfo{address}{London},
+  \bibinfo{pages}{76--86}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Orosz}{Orosz}{2018}]%
+        {Orosz2018}
+\bibfield{author}{\bibinfo{person}{Jeremy Orosz}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{The Twelve-Tone Music of Roque Cordero}.
+\newblock \bibinfo{journal}{\emph{Latin American Music Review}}
+  \bibinfo{volume}{39}, \bibinfo{number}{2} (\bibinfo{year}{2018}),
+  \bibinfo{pages}{137--159}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Page}{Page}{2011}]%
+        {Page2011}
+\bibfield{author}{\bibinfo{person}{Carrie~Leigh Page}.}
+  \bibinfo{year}{2011}\natexlab{}.
+\newblock \emph{\bibinfo{title}{An Analytical Overview of Dominick Argento's
+  Evensong: Of Love and Angels}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{Arizona
+  State University}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Parsons}{Parsons}{2003}]%
+        {Parsons2003}
+\bibfield{author}{\bibinfo{person}{Laurel Parsons}.}
+  \bibinfo{year}{2003}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Elisabeth {L}utyens's music drama The numbered:
+  a critical-analytical study}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{University
+  of British Columbia}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.14288/1.0091150}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Parsons}{Parsons}{2016}]%
+        {Parsons2016}
+\bibfield{author}{\bibinfo{person}{Laurel Parsons}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Elisabeth {L}utyens, Essence Of Our Happinesses}.
+\newblock In \bibinfo{booktitle}{\emph{Analytical Essays on Music by Women
+  Composers: Concert Music, 1960-2000}},
+  \bibfield{editor}{\bibinfo{person}{Laurel Parsons} {and}
+  \bibinfo{person}{Brenda Ravenscroft}} (Eds.). \bibinfo{publisher}{Oxford
+  University Press}, \bibinfo{address}{New York, USA},
+  \bibinfo{pages}{196--220}.
+\newblock
+\showISBNx{0190236868}
+
+
+\bibitem[\protect\citeauthoryear{Pearsall}{Pearsall}{2012}]%
+        {Pearsall2012}
+\bibfield{author}{\bibinfo{person}{Edward Pearsall}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Twentieth-century music theory and
+  practice}}.
+\newblock \bibinfo{publisher}{Routledge}, \bibinfo{address}{New York}.
+\newblock
+\showISBNx{0-203-72391-0}
+
+
+\bibitem[\protect\citeauthoryear{P{\'e}rez~Castillo}{P{\'e}rez~Castillo}{2013}]%
+        {PerezCastillo2013}
+\bibfield{author}{\bibinfo{person}{Belen P{\'e}rez~Castillo}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Two Men in Tune: The {G}erhard-{C}amus
+  Relationship}.
+\newblock In \bibinfo{booktitle}{\emph{The Roberto Gerhard companion}},
+  \bibfield{editor}{\bibinfo{person}{Monty Adkins} {and}
+  \bibinfo{person}{Michael Russ}} (Eds.). \bibinfo{publisher}{Ashgate},
+  \bibinfo{pages}{153--180}.
+\newblock
+\showISBNx{9781409445159}
+
+
+\bibitem[\protect\citeauthoryear{Perle}{Perle}{1991}]%
+        {Perle1991}
+\bibfield{author}{\bibinfo{person}{George Perle}.}
+  \bibinfo{year}{1991}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Serial composition and atonality : an
+  introduction to the music of Schoenberg, Berg, and Webern}
+  (\bibinfo{edition}{6th ed., rev} ed.)}.
+\newblock \bibinfo{publisher}{University of California Press},
+  \bibinfo{address}{Berkeley, Calif}.
+\newblock
+\showISBNx{0520074300}
+
+
+\bibitem[\protect\citeauthoryear{Peterson}{Peterson}{2000}]%
+        {Peterson2000}
+\bibfield{author}{\bibinfo{person}{Kirsten Peterson}.}
+  \bibinfo{year}{2000}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Structural threads in the patchwork quilt:
+  Polystylistics and motivic unity in selected works by {A}lfred {S}chnittke}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{University
+  of Connecticut}.
+\newblock
+\showISBNx{978-0-599-73863-8}
+
+
+\bibitem[\protect\citeauthoryear{Pilato}{Pilato}{2007}]%
+        {Pilato2007}
+\bibfield{author}{\bibinfo{person}{Nikk Pilato}.}
+  \bibinfo{year}{2007}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Conductor's Guide To The Wind Music Of {J}oseph
+  {S}chwantner With A Transcription Of The Composer's ``New Morning For The
+  World''}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{The
+  Florida State University}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Prevost}{Prevost}{2003}]%
+        {Prevost2003}
+\bibfield{author}{\bibinfo{person}{Roxane~Lise Prevost}.}
+  \bibinfo{year}{2003}\natexlab{}.
+\newblock \emph{\bibinfo{title}{A Woman Composer Among Men: A Theoretical Study
+  of Ursula Mamlok's Serial Works}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{State
+  University of New York at Buffalo}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Rao}{Rao}{2016}]%
+        {Rao2016}
+\bibfield{author}{\bibinfo{person}{Nancy~Yunhwa Rao}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{{C}hen {Y}i, {Symphony No. 2}}.
+\newblock In \bibinfo{booktitle}{\emph{Analytical Essays on Music by Women
+  Composers: Concert Music, 1960-2000}},
+  \bibfield{editor}{\bibinfo{person}{Laurel Parsons} {and}
+  \bibinfo{person}{Brenda Ravenscroft}} (Eds.). \bibinfo{publisher}{Oxford
+  University Press}, \bibinfo{address}{New York, USA},
+  \bibinfo{pages}{127--152}.
+\newblock
+\showISBNx{0190236868}
+
+
+\bibitem[\protect\citeauthoryear{Riehl}{Riehl}{2012}]%
+        {Riehl2012}
+\bibfield{author}{\bibinfo{person}{Eugena~Denise Riehl}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \emph{\bibinfo{title}{From Pitch To Tension: A Theory Of Motive In
+  The Solo Woodwind Music of {M}amlok, {K}renek, {C}arter, and {B}erio}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{State
+  University of New York at Buffalo}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Rupprecht}{Rupprecht}{2017}]%
+        {Rupprecht2017}
+\bibfield{author}{\bibinfo{person}{Philip~Ernst Rupprecht}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{British musical modernism : the
+  {M}anchester Group and their contemporaries} (\bibinfo{edition}{first
+  paperback edition.} ed.)}.
+\newblock \bibinfo{publisher}{Cambridge University Press}.
+\newblock
+\showISBNx{9781316649527}
+
+
+\bibitem[\protect\citeauthoryear{Russ}{Russ}{2013a}]%
+        {Russ2013a}
+\bibfield{author}{\bibinfo{person}{Michael Russ}.}
+  \bibinfo{year}{2013}\natexlab{a}.
+\newblock \showarticletitle{Composing with Sets: {R}oberto {G}erhard's Concerto
+  for Piano and String Orchestra}.
+\newblock In \bibinfo{booktitle}{\emph{The Roberto Gerhard companion}},
+  \bibfield{editor}{\bibinfo{person}{Monty Adkins} {and}
+  \bibinfo{person}{Michael Russ}} (Eds.). \bibinfo{publisher}{Ashgate},
+  \bibinfo{pages}{205--226}.
+\newblock
+\showISBNx{9781409445159}
+
+
+\bibitem[\protect\citeauthoryear{Russ}{Russ}{2013b}]%
+        {Russ2013b}
+\bibfield{author}{\bibinfo{person}{Michael Russ}.}
+  \bibinfo{year}{2013}\natexlab{b}.
+\newblock \showarticletitle{Music as Autobiography: {R}oberto {G}erhard's
+  Violin Concerto}.
+\newblock In \bibinfo{booktitle}{\emph{The Roberto Gerhard companion}},
+  \bibfield{editor}{\bibinfo{person}{Monty Adkins} {and}
+  \bibinfo{person}{Michael Russ}} (Eds.). \bibinfo{publisher}{Ashgate},
+  \bibinfo{pages}{131--152}.
+\newblock
+\showISBNx{9781409445159}
+
+
+\bibitem[\protect\citeauthoryear{Sabbe}{Sabbe}{1977}]%
+        {Sabbe1977}
+\bibfield{author}{\bibinfo{person}{Herman Sabbe}.}
+  \bibinfo{year}{1977}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Het muzikale serialisme als techniek en als
+  denkmethode: een onderzoek naar de logische en historische samenhang van de
+  onderscheiden toepassingen van het seri{\"e}rend beginsel in de muziek van de
+  periode 1950-1975}}. Vol.~\bibinfo{volume}{163}.
+\newblock \bibinfo{publisher}{Rijksuniversiteit te Gent}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sargent}{Sargent}{1975}]%
+        {Sargent1975}
+\bibfield{author}{\bibinfo{person}{David~H. Sargent}.}
+  \bibinfo{year}{1975}\natexlab{}.
+\newblock \showarticletitle{The Twelve-Tone Row Technique of {J}uan {C}arlos
+  {P}az}.
+\newblock \bibinfo{journal}{\emph{Anuario Interamericano de Investigacion
+  Musical}}  \bibinfo{volume}{11} (\bibinfo{year}{1975}),
+  \bibinfo{pages}{82--105}.
+\newblock
+\showISSN{08862192}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/779886}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Schiavo~Joseph}{Schiavo~Joseph}{2006}]%
+        {Schiavo2006}
+\bibfield{author}{\bibinfo{person}{C Schiavo~Joseph}.}
+  \bibinfo{year}{2006}\natexlab{}.
+\newblock \emph{\bibinfo{title}{The Piano Sonatas of Charles Wuorinen: An
+  Evolution of Style}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{Rutgers
+  University}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Schoffman and Ives}{Schoffman and
+  Ives}{1981}]%
+        {Schoffman1981}
+\bibfield{author}{\bibinfo{person}{Nachum Schoffman} {and}
+  \bibinfo{person}{Charles Ives}.} \bibinfo{year}{1981}\natexlab{}.
+\newblock \showarticletitle{Serialism in the Works of {C}harles {I}ves}.
+\newblock \bibinfo{journal}{\emph{Tempo}} \bibinfo{number}{138}
+  (\bibinfo{year}{1981}), \bibinfo{pages}{21--32}.
+\newblock
+\showISSN{00402982, 14782286}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/946249}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Schumann}{Schumann}{2003}]%
+        {Schumann2003}
+\bibfield{author}{\bibinfo{person}{Michelle~Vera Schumann}.}
+  \bibinfo{year}{2003}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Eclecticism and the American piano sonata: the
+  assimilation of neoclassicim and the twelve-tone technique in the piano
+  sonatas of Roger Sessions, Vincent Persichetti, and Ross Lee Finney}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{The
+  University of Texas at Austin}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Segall}{Segall}{2013}]%
+        {Segall2013}
+\bibfield{author}{\bibinfo{person}{Christopher Segall}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Klingende {B}uchstaben: Principles of {A}lfred
+  {S}chnittke's Monogram Technique}.
+\newblock \bibinfo{journal}{\emph{The Journal of Musicology}}
+  \bibinfo{volume}{30}, \bibinfo{number}{2} (\bibinfo{year}{2013}),
+  \bibinfo{pages}{252--286}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Shaw-Miller}{Shaw-Miller}{2002}]%
+        {Shaw-Miller2002}
+\bibfield{author}{\bibinfo{person}{Simon Shaw-Miller}.}
+  \bibinfo{year}{2002}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Visible deeds of music art and music from
+  Wagner to Cage}}.
+\newblock \bibinfo{publisher}{Yale University Press}, \bibinfo{address}{New
+  Haven}.
+\newblock
+\showISBNx{1-281-72236-7}
+
+
+\bibitem[\protect\citeauthoryear{Slonimsky}{Slonimsky}{1947}]%
+        {Slonimsky1947}
+\bibfield{author}{\bibinfo{person}{Nicolas Slonimsky}.}
+  \bibinfo{year}{1947}\natexlab{}.
+\newblock \bibinfo{title}{Thesaurus of scales and melodic patterns}.
+\newblock
+\newblock
+\showISBNx{0684105519}
+
+
+\bibitem[\protect\citeauthoryear{Smith-Brindle}{Smith-Brindle}{1966}]%
+        {Smith-Brindle1966}
+\bibfield{author}{\bibinfo{person}{Reginald Smith-Brindle}.}
+  \bibinfo{year}{1966}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Serial composition}}.
+\newblock \bibinfo{publisher}{Oxford University Press}, \bibinfo{address}{New
+  York}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Soderberg}{Soderberg}{[n.d.]}]%
+        {Soderberg-Reynolds}
+\bibfield{author}{\bibinfo{person}{Stephen Soderberg}.}
+  \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \bibinfo{title}{An Interview with {R}oger {R}eynolds}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{http://memory.loc.gov/diglib/ihas/html/rreynolds/interview-part1.html}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Son}{Son}{2008}]%
+        {Son2008}
+\bibfield{author}{\bibinfo{person}{Jeeyoung Son}.}
+  \bibinfo{year}{2008}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Twelve-tone writing in the piano music of Ben
+  Weber (1916--1979)}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{City
+  University of New York}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sproston}{Sproston}{2013}]%
+        {Sproston2013}
+\bibfield{author}{\bibinfo{person}{Darren Sproston}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{{R}oberto {G}erhard: The Serial Symphonist}.
+\newblock In \bibinfo{booktitle}{\emph{The Roberto Gerhard companion}},
+  \bibfield{editor}{\bibinfo{person}{Monty Adkins} {and}
+  \bibinfo{person}{Michael Russ}} (Eds.). \bibinfo{publisher}{Ashgate},
+  \bibinfo{pages}{227--256}.
+\newblock
+\showISBNx{9781409445159}
+
+
+\bibitem[\protect\citeauthoryear{Sproston}{Sproston}{2017}]%
+        {Sproston2017}
+\bibfield{author}{\bibinfo{person}{Darren Sproston}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{It's all in Proportion: Tracing the evolution of
+  the Time-Aggregate in {R}oberto {G}erhard's Music}.
+\newblock In \bibinfo{booktitle}{\emph{Essays on Roberto Gerhard}},
+  \bibfield{editor}{\bibinfo{person}{Monty Adkins} {and}
+  \bibinfo{person}{Michael Russ}} (Eds.). \bibinfo{publisher}{Cambridge
+  Scholars Publishing}, \bibinfo{pages}{183--202}.
+\newblock
+\showISBNx{9781443811088}
+
+
+\bibitem[\protect\citeauthoryear{Stackhouse}{Stackhouse}{1995}]%
+        {Stackhouse1995}
+\bibfield{author}{\bibinfo{person}{Eunice~Wonderly Stackhouse}.}
+  \bibinfo{year}{1995}\natexlab{}.
+\newblock \emph{\bibinfo{title}{A Survey of the Solo Piano Compositions of
+  Louise Talma, Composed from 1943-1984}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{The
+  University of Kansas}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Steinitz}{Steinitz}{2003}]%
+        {Steinitz2003}
+\bibfield{author}{\bibinfo{person}{Richard Steinitz}.}
+  \bibinfo{year}{2003}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Gy{\"o}rgy Ligeti: music of the
+  imagination}}.
+\newblock \bibinfo{publisher}{Faber and Faber}, \bibinfo{address}{London}.
+\newblock
+\showISBNx{0571176313}
+
+
+\bibitem[\protect\citeauthoryear{Stevens}{Stevens}{1997}]%
+        {Stevens1997}
+\bibfield{author}{\bibinfo{person}{Jeffrey Stevens}.}
+  \bibinfo{year}{1997}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Notes on the Mono-Opera "A Water Bird Talk" by
+  Dominick Argento}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{Arizona
+  State University}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Stewart}{Stewart}{1991}]%
+        {Stewart1991}
+\bibfield{author}{\bibinfo{person}{John~Lincoln Stewart}.}
+  \bibinfo{year}{1991}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Ernst Krenek : the man and his music}}.
+\newblock \bibinfo{publisher}{University of California Press},
+  \bibinfo{address}{Berkeley}.
+\newblock
+\showISBNx{0520070143}
+
+
+\bibitem[\protect\citeauthoryear{Stockhausen and Frisius}{Stockhausen and
+  Frisius}{1982}]%
+        {Stockhausen1982}
+\bibfield{author}{\bibinfo{person}{Karlheinz Stockhausen} {and}
+  \bibinfo{person}{Rudolf Frisius}.} \bibinfo{year}{1982}\natexlab{}.
+\newblock \showarticletitle{Die Tonh{\"o}hen der Superformel f{\"u}{\"a}ch mit
+  Rudolf Frisius am 25. August 1982 in {\"u}{\"u}rten]}.
+\newblock In \bibinfo{booktitle}{\emph{Texte zur Musik, Bd. 9. 1984-1991,
+  {\"U}ber Licht, Komponist und Interpret, Zeitwende}},
+  \bibfield{editor}{\bibinfo{person}{Dieter Schnebel} {and}
+  \bibinfo{person}{Christoph von Blumr{\"o}der}} (Eds.).
+  \bibinfo{series}{DuMont Dokumente}, Vol.~\bibinfo{volume}{9}.
+  \bibinfo{publisher}{DuMont}, \bibinfo{address}{K{\"o}ln},
+  \bibinfo{pages}{13--33}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Straus}{Straus}{2009}]%
+        {Straus2009}
+\bibfield{author}{\bibinfo{person}{Joseph~Nathan Straus}.}
+  \bibinfo{year}{2009}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Twelve-tone music in America}}.
+\newblock \bibinfo{publisher}{Cambridge University Press},
+  \bibinfo{address}{Cambridge, UK / New York, USA}.
+\newblock
+\showISBNx{9780521899550}
+
+
+\bibitem[\protect\citeauthoryear{Suetterlin}{Suetterlin}{2017}]%
+        {Suetterlin2017}
+\bibfield{author}{\bibinfo{person}{Kevin Frank~Eric Suetterlin}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \emph{\bibinfo{title}{An Analysis And Conductor's Guide To Dominick
+  Argento's "Miss Havisham's Wedding Night"}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{The
+  University of Memphis}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sullivan}{Sullivan}{2010}]%
+        {Sullivan2010}
+\bibfield{author}{\bibinfo{person}{Tim Sullivan}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{Structural Layers in {Alfred Schnittke's Concerto
+  Grosso No. 3}}.
+\newblock \bibinfo{journal}{\emph{Perspectives of New Music}}
+  \bibinfo{volume}{48}, \bibinfo{number}{2} (\bibinfo{year}{2010}),
+  \bibinfo{pages}{21--46}.
+\newblock
+\showISSN{00316016}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/23076965}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Sullivan}{Sullivan}{2004}]%
+        {Sullivan2004}
+\bibfield{author}{\bibinfo{person}{Timothy~R Sullivan}.}
+  \bibinfo{year}{2004}\natexlab{}.
+\newblock \emph{\bibinfo{title}{The Use of Polystylistics in {Alfred
+  Schnittke's Concerto Grosso No. 3}}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{University
+  of Northern Colorado}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Teicher}{Teicher}{1983}]%
+        {Teicher1983}
+\bibfield{author}{\bibinfo{person}{Susan Teicher}.}
+  \bibinfo{year}{1983}\natexlab{}.
+\newblock \emph{\bibinfo{title}{The Solo Works for Piano of Louise Talma}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{Peabody
+  Institute of the Johns Hopkins University}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Toop}{Toop}{1974}]%
+        {Toop1974}
+\bibfield{author}{\bibinfo{person}{Richard Toop}.}
+  \bibinfo{year}{1974}\natexlab{}.
+\newblock \showarticletitle{Messiaen/{G}oeyvaerts, Fano/{S}tockhausen,
+  {B}oulez}.
+\newblock \bibinfo{journal}{\emph{Perspectives of New Music}}
+  \bibinfo{volume}{13}, \bibinfo{number}{1} (\bibinfo{year}{1974}),
+  \bibinfo{pages}{141--169}.
+\newblock
+\showISSN{00316016}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/832372}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Toop}{Toop}{1979}]%
+        {Toop1979}
+\bibfield{author}{\bibinfo{person}{Richard Toop}.}
+  \bibinfo{year}{1979}\natexlab{}.
+\newblock \showarticletitle{Stockhausen's {K}lavierst{\"u}ck {VIII}}.
+\newblock \bibinfo{journal}{\emph{Miscellanea musicologica : Adelaide studies
+  in musicology}}  \bibinfo{volume}{10} (\bibinfo{year}{1979}),
+  \bibinfo{pages}{93--130}.
+\newblock
+\showISSN{0076-9355}
+
+
+\bibitem[\protect\citeauthoryear{Toop}{Toop}{1983}]%
+        {Toop1983}
+\bibfield{author}{\bibinfo{person}{Richard Toop}.}
+  \bibinfo{year}{1983}\natexlab{}.
+\newblock \showarticletitle{Stockhausen's Other Piano Pieces}.
+\newblock \bibinfo{journal}{\emph{The Musical Times}} \bibinfo{volume}{124},
+  \bibinfo{number}{1684} (\bibinfo{year}{1983}), \bibinfo{pages}{348--352}.
+\newblock
+\showISSN{00274666}
+\urldef\tempurl%
+\url{http://www.jstor.org/stable/964060}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Tregear}{Tregear}{2001}]%
+        {Tregear2001}
+\bibfield{author}{\bibinfo{person}{Peter~J. Tregear}.}
+  \bibinfo{year}{2001}\natexlab{}.
+\newblock \showarticletitle{Musical style and political allegory in Krenek's
+  Karl V}.
+\newblock \bibinfo{journal}{\emph{Cambridge Opera Journal}}
+  \bibinfo{volume}{13}, \bibinfo{number}{1} (\bibinfo{year}{2001}),
+  \bibinfo{pages}{55--80}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1017/S0954586701000556}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Von~Gunden}{Von~Gunden}{1995}]%
+        {vonGunden1995}
+\bibfield{author}{\bibinfo{person}{Heidi Von~Gunden}.}
+  \bibinfo{year}{1995}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The Music of Lou Harrison}}.
+\newblock \bibinfo{publisher}{Metuchen, NJ: Scarecrow Press}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Waters}{Waters}{1991}]%
+        {Waters1991}
+\bibfield{author}{\bibinfo{person}{Jeffery~Lee Waters}.}
+  \bibinfo{year}{1991}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Elements of Serialism and Tonality in "Concerto
+  for Alto Saxophone and Orchestra of Wind Instruments" by Ross Lee Finney}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{University
+  of Georgia}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{White}{White}{2017}]%
+        {White2017}
+\bibfield{author}{\bibinfo{person}{Julian White}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{A Sense of Proportion: {G}erhard and the Postwar
+  Avant-Garde}.
+\newblock In \bibinfo{booktitle}{\emph{Essays on Roberto Gerhard}},
+  \bibfield{editor}{\bibinfo{person}{Monty Adkins} {and}
+  \bibinfo{person}{Michael Russ}} (Eds.). \bibinfo{publisher}{Cambridge
+  Scholars Publishing}, \bibinfo{pages}{127--152}.
+\newblock
+\showISBNx{9781443811088}
+
+
+\bibitem[\protect\citeauthoryear{Whittall}{Whittall}{2008}]%
+        {Whittall2008}
+\bibfield{author}{\bibinfo{person}{Arnold Whittall}.}
+  \bibinfo{year}{2008}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Cambridge introduction to Serialism}}.
+\newblock \bibinfo{publisher}{Cambridge University Press},
+  \bibinfo{address}{Cambridge}.
+\newblock
+\showISBNx{9780521863414 (hbk.)}
+
+
+\end{thebibliography}
