@@ -543,7 +543,7 @@ class RandomTester(unittest.TestCase):
         the expected values from hexachord properties.
         """
 
-        h = pc_sets.hexachords
+        hexachords = pc_sets.setClassesList[6]
         import json
         with open('./Repertoire_Anthology/rows_in_the_repertoire.json') as f:
             data = json.load(f).values()
@@ -556,7 +556,7 @@ class RandomTester(unittest.TestCase):
                    '': [41.56, 39.5, 38.33, 24.19]}
 
         for c in results:
-            theory = sum([x[3] for x in h if (x[4] == c)])
+            theory = sum([x[3] for x in hexachords if (x[4] == c)])
             theory = round(theory / 9.24, 2)
 
             random200 = 0

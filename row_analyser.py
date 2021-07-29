@@ -491,13 +491,15 @@ class SerialTester(unittest.TestCase):
 
     def testCombinatoriality(self):
 
+        hexachords = pc_sets.setClassesFromCardinality(6)
+
         # Invariance:
-        sum_inv = sum([x[3] for x in pc_sets.hexachords])
+        sum_inv = sum([x[3] for x in hexachords])
         self.assertEqual(sum_inv, 924)  # 12! / 6!*6!
 
         # Combinatoriality:
-        for entry in pc_sets.hexachords:
-            hexachord = entry[1]
+        for entry in hexachords:
+            hexachord = entry[1]  # TODO
             complement = tuple([x for x in range(12) if x not in hexachord])
             row = list(hexachord) + list(complement)
             query = fullCombinatorialTypes(row, returnAsString=False)
