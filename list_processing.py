@@ -42,6 +42,8 @@ from typing import Optional, Union
 # ------------------------------------------------------------------------------
 
 def writeCSV(keysToUse=None,
+             pathToJson: list = None,
+             pathToCsv: list = None,
              numberPitchIndices: bool = True):
     """
     Writes a csv representation of the main, json file. 
@@ -53,16 +55,20 @@ def writeCSV(keysToUse=None,
 
     if keysToUse is None:
         keysToUse = ['Composer', 'Work', 'Year']  # NB: row assumed
+    if pathToJson is None:
+        pathToJson = ['.', 'Repertoire_Anthology', 'rows_in_the_repertoire.json']
+    if pathToCsv is None:
+        pathToCsv = ['.', 'Repertoire_Anthology', 'rows_in_the_repertoire.csv']
 
-    jsonPath = os.path.join('.', 'Repertoire_Anthology', 'rows_in_the_repertoire.json')
+    jsonPath = os.path.join(*pathToJson)
+
     with open(jsonPath, 'r') as jsonFile:
 
         data = json.load(jsonFile).values()
 
-        data = sorted(data, key=lambda k: k['Work'])
-        data = sorted(data, key=lambda k: k['Composer'])
+        data = sorted(data, key=lambda k: (k['Composer'], k['Work']))
 
-        csvPath = os.path.join('.', 'Repertoire_Anthology', 'rows_in_the_repertoire.csv')
+        csvPath = os.path.join(*pathToCsv)
         with open(csvPath, 'w') as csvFile:
             csvOut = csv.writer(csvFile, delimiter=',',
                                 quotechar='"', quoting=csv.QUOTE_MINIMAL)
