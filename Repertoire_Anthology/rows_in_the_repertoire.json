@@ -4277,6 +4277,29 @@
         "Note": "",
         "NumPitches": 12
     },
+    "Eisler,_Hanns_-_Sonata_for_Piano_No._2_(\"in_Form_von_Variationen\"),_Op._6,_row_variant_4": {
+        "P0": [
+            0,
+            4,
+            3,
+            2,
+            9,
+            6,
+            10,
+            1,
+            7,
+            5,
+            8,
+            11
+        ],
+        "Original": 11,
+        "Composer": "Eisler, Hanns",
+        "Work": "Sonata for Piano No. 2 (\"in Form von Variationen\"), Op. 6, row variant 4",
+        "Year": "1924-25",
+        "Source": "Ahrend2006, p. 64",
+        "Note": "",
+        "NumPitches": 12
+    },
     "Eisler,_Hanns_-_Sonata_for_Piano_No._2_(\"in_Form_von_Variationen\"),_Op._6,_row_variant_5": {
         "P0": [
             0,
