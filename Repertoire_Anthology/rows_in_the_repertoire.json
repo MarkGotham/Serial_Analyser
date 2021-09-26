@@ -8955,6 +8955,29 @@
         "Note": "",
         "NumPitches": 12
     },
+    "Morris,_Robert_-_Tournament_for_12_trombones": {
+        "P0": [
+            0,
+            7,
+            6,
+            4,
+            11,
+            8,
+            5,
+            9,
+            1,
+            3,
+            2,
+            10
+        ],
+        "Original": 11,
+        "Composer": "Morris, Robert",
+        "Work": "Tournament for 12 trombones",
+        "Year": "1981",
+        "Source": "New, Morris (personal correspondence)",
+        "Note": "all-trichord",
+        "NumPitches": 12
+    },
     "Morris,_Robert_-_Traces": {
         "P0": [
             0,
@@ -8998,7 +9021,7 @@
         "Work": "Twelve Bell Canons",
         "Year": "2004",
         "Source": "New, Morris (personal correspondence)",
-        "Note": "",
+        "Note": "all-trichord",
         "NumPitches": 12
     },
     "Morris,_Robert_-_T\u00eate\u2010\u00e0\u2010T\u00eate": {
