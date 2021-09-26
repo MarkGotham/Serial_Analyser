@@ -4736,6 +4736,52 @@
         "Source": "Orga1973",
         "Note": ""
     },
+    "Gerhard,_Roberto_-_Chaconne_for_Unaccompanied_Violin": {
+        "P0": [
+            0,
+            11,
+            4,
+            2,
+            1,
+            3,
+            9,
+            10,
+            8,
+            6,
+            5,
+            7
+        ],
+        "Original": 10,
+        "Composer": "Gerhard, Roberto",
+        "Work": "Chaconne for Unaccompanied Violin",
+        "Year": "1959,",
+        "Source": "Orga1973",
+        "Note": "pub. 1960, Keith Prowse Music Publishing Co., Ltd.",
+        "NumPitches": 12
+    },
+    "Gerhard,_Roberto_-_Concert_for_8": {
+        "P0": [
+            0,
+            8,
+            11,
+            2,
+            1,
+            4,
+            9,
+            6,
+            3,
+            10,
+            5,
+            7
+        ],
+        "Original": 10,
+        "Composer": "Gerhard, Roberto",
+        "Work": "Concert for 8",
+        "Year": "1962",
+        "Source": "Orga1973",
+        "Note": "pub. 1967, Oxford University Press",
+        "NumPitches": 12
+    },
     "Gerhard,_Roberto_-_Concerto_for_Harpsichord,_String_Orchestra,_and_Percussion": {
         "P0": [
             0,
@@ -4801,6 +4847,121 @@
         "Year": "1942-43",
         "Source": "Russ2013b; Orga1973",
         "Note": ""
+    },
+    "Gerhard,_Roberto_-_Gemini": {
+        "P0": [
+            0,
+            11,
+            3,
+            1,
+            5,
+            4,
+            8,
+            6,
+            7,
+            2,
+            9,
+            10
+        ],
+        "Original": 2,
+        "Composer": "Gerhard, Roberto",
+        "Work": "Gemini",
+        "Year": "1966",
+        "Source": "Orga1973",
+        "Note": "pub. 1970 Oxford University Press",
+        "NumPitches": 12
+    },
+    "Gerhard,_Roberto_-_Hymnody": {
+        "P0": [
+            0,
+            10,
+            11,
+            8,
+            2,
+            9,
+            4,
+            5,
+            1,
+            6,
+            7,
+            3
+        ],
+        "Original": 6,
+        "Composer": "Gerhard, Roberto",
+        "Work": "Hymnody",
+        "Year": "1963",
+        "Source": "Orga1973",
+        "Note": "pub. 1964, Oxford University Press",
+        "NumPitches": 12
+    },
+    "Gerhard,_Roberto_-_Leo": {
+        "P0": [
+            0,
+            2,
+            1,
+            6,
+            5,
+            7,
+            3,
+            8,
+            9,
+            10,
+            4,
+            11
+        ],
+        "Original": 8,
+        "Composer": "Gerhard, Roberto",
+        "Work": "Leo",
+        "Year": "1969",
+        "Source": "Orga1973",
+        "Note": "pub. 1970, Oxford University Press",
+        "NumPitches": 12
+    },
+    "Gerhard,_Roberto_-_Libra": {
+        "P0": [
+            0,
+            6,
+            1,
+            7,
+            2,
+            8,
+            4,
+            9,
+            5,
+            10,
+            11,
+            3
+        ],
+        "Original": 9,
+        "Composer": "Gerhard, Roberto",
+        "Work": "Libra",
+        "Year": "1968",
+        "Source": "Orga1973",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Gerhard,_Roberto_-_Nonet": {
+        "P0": [
+            0,
+            11,
+            1,
+            3,
+            5,
+            4,
+            10,
+            8,
+            2,
+            7,
+            9,
+            6
+        ],
+        "Original": 11,
+        "Composer": "Gerhard, Roberto",
+        "Work": "Nonet",
+        "Year": "1956-57",
+        "Source": "Orga1973",
+        "Note": "pub. 1965 Mills Music, Ltd.",
+        "NumPitches": 12
     },
     "Gerhard,_Roberto_-_Sonata_for_Cello_and_Piano": {
         "P0": [
