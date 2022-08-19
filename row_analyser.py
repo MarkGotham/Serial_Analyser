@@ -246,6 +246,15 @@ def combinatorialType(row: Union[List, Tuple]):
     return pc_sets.intervalVectorToCombinatoriality(vector)
 
 
+def isAllCombinatorial(row: Union[List, Tuple]):
+    """
+    Convenience function for all combinatoriality.
+    See notes at combinatorialType.
+    """
+    if combinatorialType(row) == 'A':
+        return True
+
+
 def combinatorialPair(row1: Union[List, Tuple],
                       row2: Union[List, Tuple]):
     """
