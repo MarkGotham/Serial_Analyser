@@ -377,8 +377,7 @@ class ListTester(unittest.TestCase):
     def testSources(self):
         s = getSources()
         self.assertEqual(s[0], 'Ahrend2006')
-        self.assertEqual(len(s), 132)
-        # Note: this ^ includes the 'New' tag. Otherwise matches the 131 entries in the bib file.
+        self.assertEqual(len(s), 145)
 
 
 # ------------------------------------------------------------------------------
