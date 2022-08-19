@@ -68,6 +68,7 @@ Year:
 
 Other text formatting:
 - Always comma separated, e.g., `String Quartet, No.2`, likewise `, mvt 1` also `, row i`
+- `mvt` for movement (lower case, no `.`)
 
 ## Links to this material hosted elsewhere
 
