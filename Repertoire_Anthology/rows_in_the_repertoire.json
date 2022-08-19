@@ -3863,7 +3863,7 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Eisler,_Hanns_-_Deutsche_Symphonie,_Mvts._1,_10": {
+    "Eisler,_Hanns_-_Deutsche_Symphonie,_mvts_1,_10": {
         "P0": [
             0,
             10,
@@ -3880,13 +3880,13 @@
         ],
         "Original": 5,
         "Composer": "Eisler, Hanns",
-        "Work": "Deutsche Symphonie, Mvts. 1, 10",
+        "Work": "Deutsche Symphonie, mvts 1, 10",
         "Year": "1936-47",
         "Source": "Phleps1988, pp. 93-94",
         "Note": "",
         "NumPitches": 12
     },
-    "Eisler,_Hanns_-_Deutsche_Symphonie,_Mvts._2,_6": {
+    "Eisler,_Hanns_-_Deutsche_Symphonie,_mvts_2,_6": {
         "P0": [
             0,
             3,
@@ -3903,7 +3903,7 @@
         ],
         "Original": 9,
         "Composer": "Eisler, Hanns",
-        "Work": "Deutsche Symphonie, Mvts. 2, 6",
+        "Work": "Deutsche Symphonie, mvts 2, 6",
         "Year": "1936-47",
         "Source": "Phleps1988, pp. 93-94",
         "Note": "",
@@ -5413,7 +5413,7 @@
         "Work": "Quintet, Op. 29, Row Class III 1",
         "Year": "1963",
         "Source": "Fobes2006, p.162",
-        "Note": ", mvts. III, V, and VII",
+        "Note": ", mvts III, V, and VII",
         "NumPitches": 12
     },
     "Ginastera,_Alberto_-_Quintet,_Op._29,_Row_Class_III_2": {
@@ -5436,7 +5436,7 @@
         "Work": "Quintet, Op. 29, Row Class III 2",
         "Year": "1963",
         "Source": "Fobes2006, p.162",
-        "Note": ", mvts. III, V, and VII",
+        "Note": ", mvts III, V, and VII",
         "NumPitches": 12
     },
     "Ginastera,_Alberto_-_Quintet,_Op._29,_Row_Class_V": {
@@ -5459,7 +5459,7 @@
         "Work": "Quintet, Op. 29, Row Class V",
         "Year": "1963",
         "Source": "Fobes2006, p.162",
-        "Note": ", mvts. III, V, and VII",
+        "Note": ", mvts III, V, and VII",
         "NumPitches": 12
     },
     "Ginastera,_Alberto_-_Quintet,_Op._29,_Row_Class_VII_1": {
@@ -5482,7 +5482,7 @@
         "Work": "Quintet, Op. 29, Row Class VII 1",
         "Year": "1963",
         "Source": "Fobes2006, p.162",
-        "Note": ", mvts. III, V, and VII",
+        "Note": ", mvts III, V, and VII",
         "NumPitches": 12
     },
     "Ginastera,_Alberto_-_Quintet,_Op._29,_Row_Class_VII_2": {
@@ -5505,7 +5505,7 @@
         "Work": "Quintet, Op. 29, Row Class VII 2",
         "Year": "1963",
         "Source": "Fobes2006, p.162",
-        "Note": ", mvts. III, V, and VII",
+        "Note": ", mvts III, V, and VII",
         "NumPitches": 12
     },
     "Ginastera,_Alberto_-_Quintet,_Op._29,_Row_Class_VII_S": {
@@ -5528,7 +5528,7 @@
         "Work": "Quintet, Op. 29, Row Class VII S",
         "Year": "1963",
         "Source": "Fobes2006, p.162",
-        "Note": ", mvts. III, V, and VII",
+        "Note": ", mvts III, V, and VII",
         "NumPitches": 12
     },
     "Ginastera,_Alberto_-_Quintet,_Op._29,_mvt.III": {
@@ -5577,7 +5577,7 @@
         "Note": "Tetrachord permutations",
         "NumPitches": 12
     },
-    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts._II_and_III,_Row_Class_II_1": {
+    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts_II_and_III,_Row_Class_II_1": {
         "P0": [
             0,
             11,
@@ -5594,13 +5594,13 @@
         ],
         "Original": 1,
         "Composer": "Ginastera, Alberto",
-        "Work": "Sonata for Guitar, Op.47, mvts. II and III, Row Class II 1",
+        "Work": "Sonata for Guitar, Op.47, mvts II and III, Row Class II 1",
         "Year": "1976",
         "Source": "Fobes2006, p.169",
         "Note": "",
         "NumPitches": 12
     },
-    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts._II_and_III,_Row_Class_II_2": {
+    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts_II_and_III,_Row_Class_II_2": {
         "P0": [
             0,
             3,
@@ -5617,13 +5617,13 @@
         ],
         "Original": 5,
         "Composer": "Ginastera, Alberto",
-        "Work": "Sonata for Guitar, Op.47, mvts. II and III, Row Class II 2",
+        "Work": "Sonata for Guitar, Op.47, mvts II and III, Row Class II 2",
         "Year": "1976",
         "Source": "Fobes2006, p.169",
         "Note": "",
         "NumPitches": 12
     },
-    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts._II_and_III,_Row_Class_II_3": {
+    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts_II_and_III,_Row_Class_II_3": {
         "P0": [
             0,
             9,
@@ -5640,13 +5640,13 @@
         ],
         "Original": 6,
         "Composer": "Ginastera, Alberto",
-        "Work": "Sonata for Guitar, Op.47, mvts. II and III, Row Class II 3",
+        "Work": "Sonata for Guitar, Op.47, mvts II and III, Row Class II 3",
         "Year": "1976",
         "Source": "Fobes2006, p.169",
         "Note": "",
         "NumPitches": 12
     },
-    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts._II_and_III,_Row_Class_II_4": {
+    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts_II_and_III,_Row_Class_II_4": {
         "P0": [
             0,
             2,
@@ -5663,13 +5663,13 @@
         ],
         "Original": 6,
         "Composer": "Ginastera, Alberto",
-        "Work": "Sonata for Guitar, Op.47, mvts. II and III, Row Class II 4",
+        "Work": "Sonata for Guitar, Op.47, mvts II and III, Row Class II 4",
         "Year": "1976",
         "Source": "Fobes2006, p.169",
         "Note": "",
         "NumPitches": 12
     },
-    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts._II_and_III,_Row_Class_II_5": {
+    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts_II_and_III,_Row_Class_II_5": {
         "P0": [
             0,
             7,
@@ -5686,13 +5686,13 @@
         ],
         "Original": 0,
         "Composer": "Ginastera, Alberto",
-        "Work": "Sonata for Guitar, Op.47, mvts. II and III, Row Class II 5",
+        "Work": "Sonata for Guitar, Op.47, mvts II and III, Row Class II 5",
         "Year": "1976",
         "Source": "Fobes2006, p.169",
         "Note": "",
         "NumPitches": 12
     },
-    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts._II_and_III,_Row_Class_II_6": {
+    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts_II_and_III,_Row_Class_II_6": {
         "P0": [
             0,
             11,
@@ -5709,13 +5709,13 @@
         ],
         "Original": 0,
         "Composer": "Ginastera, Alberto",
-        "Work": "Sonata for Guitar, Op.47, mvts. II and III, Row Class II 6",
+        "Work": "Sonata for Guitar, Op.47, mvts II and III, Row Class II 6",
         "Year": "1976",
         "Source": "Fobes2006, p.169",
         "Note": "",
         "NumPitches": 12
     },
-    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts._II_and_III,_Row_Class_II_7": {
+    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts_II_and_III,_Row_Class_II_7": {
         "P0": [
             0,
             9,
@@ -5732,13 +5732,13 @@
         ],
         "Original": 4,
         "Composer": "Ginastera, Alberto",
-        "Work": "Sonata for Guitar, Op.47, mvts. II and III, Row Class II 7",
+        "Work": "Sonata for Guitar, Op.47, mvts II and III, Row Class II 7",
         "Year": "1976",
         "Source": "Fobes2006, p.169",
         "Note": "",
         "NumPitches": 12
     },
-    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts._II_and_III,_Row_Class_III": {
+    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts_II_and_III,_Row_Class_III": {
         "P0": [
             0,
             11,
@@ -5755,13 +5755,13 @@
         ],
         "Original": 6,
         "Composer": "Ginastera, Alberto",
-        "Work": "Sonata for Guitar, Op.47, mvts. II and III, Row Class III",
+        "Work": "Sonata for Guitar, Op.47, mvts II and III, Row Class III",
         "Year": "1976",
         "Source": "Fobes2006, p.153,169",
         "Note": "",
         "NumPitches": 12
     },
-    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts._II_and_III,_Row_Class_III_S": {
+    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts_II_and_III,_Row_Class_III_S": {
         "P0": [
             0,
             6,
@@ -5778,7 +5778,7 @@
         ],
         "Original": 5,
         "Composer": "Ginastera, Alberto",
-        "Work": "Sonata for Guitar, Op.47, mvts. II and III, Row Class III S",
+        "Work": "Sonata for Guitar, Op.47, mvts II and III, Row Class III S",
         "Year": "1976",
         "Source": "Fobes2006, p.169",
         "Note": "",
