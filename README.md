@@ -58,8 +58,10 @@ along with the anthology listings.
 
 I report on all of this (code, list, anthology, and more) 
 in a joint paper with Jason Yust 
-published with [DLfM](https://dlfm.web.ox.ac.uk) and 
-viewable [here](https://doi.org/10.1145/3469013.3469018).
+published with [DLfM](https://dlfm.web.ox.ac.uk), 
+that is [viewable here](https://doi.org/10.1145/3469013.3469018),
+and open access to all when approached from [this table of contents page](https://dlfm.web.ox.ac.uk/2021-proceedings).
+.
 Please cite that piece in any public-facing use of this work:
 ```
 Gotham, Mark and Jason Yust. 2021. ‘Serial Analysis: A Digital Library of Rows in the
