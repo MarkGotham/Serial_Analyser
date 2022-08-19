@@ -43,10 +43,31 @@ Each pitch class set entry features at least the following properties:
 
 A substantial list of rows used in the repertoire,
 set out both 'neutrally' and 
-anthologized according to row properties:
+anthologized according to row properties.
+
+The version of record (from which other representations are derived) is this [json file](./Repertoire_Anthology/rows_in_the_repertoire.json).
+
+### Other versions
+
+Full list of all rows:
 - as a [tabular list](./Repertoire_Anthology/rows_in_the_repertoire.csv) 
 - in musical notation: [.mscz](./Repertoire_Anthology/Rows_in_the_Repertoire.mscz), [.mxl](./Repertoire_Anthology/Rows_in_the_Repertoire.mxl)
-- as [an html page with rows organised by property](./Repertoire_Anthology/Serial_Anthology.html)
+
+Anthology by properties:
+- [as an html page for the OMT textbook](./Repertoire_Anthology/Serial_Anthology.html)
+
+### Text formating
+
+Year:
+- Always starts with a 4-digit year e.g., `2008` (except if `Year unknown`) then optionally ... 
+- dash `-` for a range e.g., `1924-25`: blank after dash for unknown / unfinished (e.g., `1944-`); otherwise 4 digits when needed (`1977-2003`) and 2 otherwise.
+- comma `,` for non-continuous e.g., `1924,26`
+- forward slashes `/` for month and date e.g., `1950/03/18`
+- question mark `1950s?` for approximate year (round number indicates decade).
+- Combinable e.g., `1975-77,96`
+
+Other text formatting:
+- Always comma separated, e.g., `String Quartet, No.2`, likewise `, mvt 1` also `, row i`
 
 ## Links to this material hosted elsewhere
 

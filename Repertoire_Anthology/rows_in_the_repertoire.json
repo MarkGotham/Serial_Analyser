@@ -1374,7 +1374,7 @@
         "Original": 5,
         "Composer": "Berg, Alban",
         "Work": "Lyric Suite, mvt V and VI",
-        "Year": "1925-1926",
+        "Year": "1925-26",
         "Source": "Headlam1996, p.248",
         "Note": "Partition. Inversion of this row also included separately",
         "NumPitches": 12
@@ -1604,7 +1604,7 @@
         "Original": 6,
         "Composer": "Boulez, Pierre",
         "Work": "1st Piano Sonata",
-        "Year": "1946/49",
+        "Year": "1946,49",
         "Source": "Jameux1991, p.235-6",
         "Note": "",
         "NumPitches": 12
@@ -1857,7 +1857,7 @@
         "Original": 8,
         "Composer": "Boulez, Pierre",
         "Work": "Notations",
-        "Year": "1945ff.",
+        "Year": "1945-",
         "Source": "New, David Maw",
         "Note": "",
         "NumPitches": 12
@@ -1880,7 +1880,7 @@
         "Original": 2,
         "Composer": "Boulez, Pierre",
         "Work": "Pli selon pli",
-        "Year": "1958, 67, 71",
+        "Year": "1958,67,71",
         "Source": "Jameux1991, p.319",
         "Note": "",
         "NumPitches": 12
@@ -1903,7 +1903,7 @@
         "Original": 5,
         "Composer": "Boulez, Pierre",
         "Work": "Sonatine",
-        "Year": "1946/49",
+        "Year": "1946,49",
         "Source": "Jameux1991, p.229; Whittall2008",
         "Note": "2 note overlaps. Whittall2008 has a transposed inversion of the same row",
         "NumPitches": 12
@@ -2547,7 +2547,7 @@
         "Original": 2,
         "Composer": "Crosse, Gordon",
         "Work": "Elegy for Small Orchestra, Op.1",
-        "Year": "1959-60/61",
+        "Year": "1959-61",
         "Source": "Rupprecht2017, p.223",
         "Note": "Order Rotations of 2nd hex: [0, 11, 3, 1, 9, 10, 8, 7, 5, 6, 2]",
         "NumPitches": 12
@@ -2708,7 +2708,7 @@
         "Original": 0,
         "Composer": "Dallapiccola, Luigi",
         "Work": "Dialoghi",
-        "Year": "1959-1960",
+        "Year": "1959-60",
         "Source": "Alegant2010",
         "Note": "",
         "NumPitches": 12
@@ -2823,7 +2823,7 @@
         "Original": 0,
         "Composer": "Dallapiccola, Luigi",
         "Work": "Il prigioniero",
-        "Year": "1944-8",
+        "Year": "1944-48",
         "Source": "Alegant+2006",
         "Note": "",
         "NumPitches": 12
@@ -3053,7 +3053,7 @@
         "Original": 0,
         "Composer": "Dallapiccola, Luigi",
         "Work": "Tempus, 'Exhortatio'",
-        "Year": "1970-1",
+        "Year": "1970-71",
         "Source": "Alegant+2006",
         "Note": "",
         "NumPitches": 12
@@ -3076,7 +3076,7 @@
         "Original": 0,
         "Composer": "Dallapiccola, Luigi",
         "Work": "Tempus, 'Ploratus'",
-        "Year": "1970-1",
+        "Year": "1970-71",
         "Source": "Alegant+2006",
         "Note": "",
         "NumPitches": 12
@@ -3766,7 +3766,7 @@
         "Original": 8,
         "Composer": "Eisler, Hanns",
         "Work": "Deutsche Symphonie, Mvt. 4",
-        "Year": "1936-1947",
+        "Year": "1936-47",
         "Source": "Phleps1988, pp. 93-94",
         "Note": "",
         "NumPitches": 12
@@ -3789,7 +3789,7 @@
         "Original": 2,
         "Composer": "Eisler, Hanns",
         "Work": "Deutsche Symphonie, Mvt. 5",
-        "Year": "1936-1947",
+        "Year": "1936-47",
         "Source": "Phleps1988, pp. 93-94",
         "Note": "",
         "NumPitches": 12
@@ -3812,7 +3812,7 @@
         "Original": 4,
         "Composer": "Eisler, Hanns",
         "Work": "Deutsche Symphonie, Mvt. 7",
-        "Year": "1936-1947",
+        "Year": "1936-47",
         "Source": "Phleps1988, pp. 93-94",
         "Note": "",
         "NumPitches": 12
@@ -3835,7 +3835,7 @@
         "Original": 5,
         "Composer": "Eisler, Hanns",
         "Work": "Deutsche Symphonie, Mvt. 8",
-        "Year": "1936-1947",
+        "Year": "1936-47",
         "Source": "Phleps1988, pp. 93-94",
         "Note": "",
         "NumPitches": 12
@@ -3858,7 +3858,7 @@
         "Original": 1,
         "Composer": "Eisler, Hanns",
         "Work": "Deutsche Symphonie, Mvt. 9",
-        "Year": "1936-1947",
+        "Year": "1936-47",
         "Source": "Phleps1988, pp. 93-94",
         "Note": "",
         "NumPitches": 12
@@ -3881,7 +3881,7 @@
         "Original": 5,
         "Composer": "Eisler, Hanns",
         "Work": "Deutsche Symphonie, Mvts. 1, 10",
-        "Year": "1936-1947",
+        "Year": "1936-47",
         "Source": "Phleps1988, pp. 93-94",
         "Note": "",
         "NumPitches": 12
@@ -3904,7 +3904,7 @@
         "Original": 9,
         "Composer": "Eisler, Hanns",
         "Work": "Deutsche Symphonie, Mvts. 2, 6",
-        "Year": "1936-1947",
+        "Year": "1936-47",
         "Source": "Phleps1988, pp. 93-94",
         "Note": "",
         "NumPitches": 12
@@ -4754,7 +4754,7 @@
         "Original": 10,
         "Composer": "Gerhard, Roberto",
         "Work": "Chaconne for Unaccompanied Violin",
-        "Year": "1959,",
+        "Year": "1959",
         "Source": "Orga1973",
         "Note": "pub. 1960, Keith Prowse Music Publishing Co., Ltd.",
         "NumPitches": 12
@@ -5986,7 +5986,7 @@
         "Original": 6,
         "Composer": "Goeyvaerts, Karel",
         "Work": "Sonata for Two Pianos, aka 'Opus 1', 'Nummer 1'",
-        "Year": "1950\u201351",
+        "Year": "1950-51",
         "Source": "Toop1974, p.154",
         "Note": "",
         "NumPitches": 12
@@ -6078,7 +6078,7 @@
         "Original": 7,
         "Composer": "Harrison, Lou",
         "Work": "Symphony on G",
-        "Year": "1947-1964",
+        "Year": "1947-64",
         "Source": "vonGunden1995, p. 87; Miller1999",
         "Note": "",
         "NumPitches": 12
@@ -6538,7 +6538,7 @@
         "Original": 10,
         "Composer": "Kokkonen, Joonas",
         "Work": "Woodwind Quintet, mov. 1, rows \"I/A\" and \"I/B\"",
-        "Year": "1973/5",
+        "Year": "1973,75",
         "Source": "Jurkowski2004",
         "Note": "Separate, but complementary 6-note hexachord rows",
         "NumPitches": 12
@@ -7228,7 +7228,7 @@
         "Original": 5,
         "Composer": "Ligeti, Gy\u00f6rgy",
         "Work": "Le Grand Macabre",
-        "Year": "1975\u201377,1996",
+        "Year": "1975-77,96",
         "Source": "Steinitz2003, p.232",
         "Note": "Eroica Parody",
         "NumPitches": 12
@@ -7550,7 +7550,7 @@
         "Original": 9,
         "Composer": "Lutyens, Elisabeth",
         "Work": "Time Off? Not a Ghost of a Chance!, Op.68",
-        "Year": "1967-8",
+        "Year": "1967-68",
         "Source": "New, BL Add. Ms. 64789. f.22b (Parsons)",
         "Note": "",
         "NumPitches": 12
@@ -10238,7 +10238,7 @@
         "Original": 9,
         "Composer": "Rochberg, George",
         "Work": "Symphony no. 2",
-        "Year": "1955\u201356",
+        "Year": "1955-56",
         "Source": "Kim2007, Ex. 3.6",
         "Note": "",
         "NumPitches": 12
@@ -10307,7 +10307,7 @@
         "Original": 6,
         "Composer": "Santoro, Claudio",
         "Work": "A Menina Boba, \"A Menina Exausta\"",
-        "Year": "1945/71",
+        "Year": "1945,71",
         "Source": "Almada2008",
         "Note": "",
         "NumPitches": 12
@@ -10381,7 +10381,7 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Santoro,_Claudio_-_Preludes_18\u201320": {
+    "Santoro,_Claudio_-_Preludes_18-20": {
         "P0": [
             0,
             9,
@@ -10398,7 +10398,7 @@
         ],
         "Original": 11,
         "Composer": "Santoro, Claudio",
-        "Work": "Preludes 18\u201320",
+        "Work": "Preludes 18-20",
         "Year": "1963",
         "Source": "Maibrada2007",
         "Note": "",
@@ -10864,7 +10864,7 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Schnittke,_Alfred_-_Piano_Sonata_No._1,_mvt_2,_mm._72\u201376": {
+    "Schnittke,_Alfred_-_Piano_Sonata_No._1,_mvt_2,_mm._72-76": {
         "P0": [
             0,
             6,
@@ -10881,7 +10881,7 @@
         ],
         "Original": 3,
         "Composer": "Schnittke, Alfred",
-        "Work": "Piano Sonata No. 1, mvt 2, mm. 72\u201376",
+        "Work": "Piano Sonata No. 1, mvt 2, mm. 72-76",
         "Year": "1987",
         "Source": "Honarmand2019, p.309",
         "Note": "",
@@ -11319,7 +11319,7 @@
         "Original": 1,
         "Composer": "Schoenberg, Arnold",
         "Work": "Die Jakobsleiter",
-        "Year": "1917/1922",
+        "Year": "1917,22",
         "Source": "London+2001",
         "Note": "Un-finished sketch / fragment",
         "NumPitches": 12
@@ -11365,7 +11365,7 @@
         "Original": 1,
         "Composer": "Schoenberg, Arnold",
         "Work": "Five Piano Pieces, Op. 23, No. 5",
-        "Year": "1920/23",
+        "Year": "1920,23",
         "Source": "London+2001, Whittall2008",
         "Note": "",
         "NumPitches": 12
@@ -11549,7 +11549,7 @@
         "Original": 9,
         "Composer": "Schoenberg, Arnold",
         "Work": "Moses und Aron",
-        "Year": "1930-1932",
+        "Year": "1930-32",
         "Source": "London+2001",
         "Note": "Un-finished sketch / fragment",
         "NumPitches": 12
@@ -12193,7 +12193,7 @@
         "Original": 9,
         "Composer": "Schoenberg, Arnold",
         "Work": "Violin Concerto, Op. 36",
-        "Year": "1934/36",
+        "Year": "1934,36",
         "Source": "London+2001",
         "Note": "",
         "NumPitches": 12
@@ -12584,7 +12584,7 @@
         "Original": 1,
         "Composer": "Seiber, M\u00e1ty\u00e1s",
         "Work": "Concert Piece for Violin and Piano",
-        "Year": "1953-4",
+        "Year": "1953-54",
         "Source": "Lee2010",
         "Note": "",
         "NumPitches": 12
@@ -12630,7 +12630,7 @@
         "Original": 0,
         "Composer": "Seiber, M\u00e1ty\u00e1s",
         "Work": "String Quartet no. 2",
-        "Year": "1934-5",
+        "Year": "1934-35",
         "Source": "Lee2010",
         "Note": "",
         "NumPitches": 12
@@ -12653,7 +12653,7 @@
         "Original": 0,
         "Composer": "Seiber, M\u00e1ty\u00e1s",
         "Work": "String Quartet no. 2, mvt 3",
-        "Year": "1934-5",
+        "Year": "1934-35",
         "Source": "Lee2010",
         "Note": "",
         "NumPitches": 12
@@ -13964,7 +13964,7 @@
         "Original": 1,
         "Composer": "Stockhausen, Karlheinz",
         "Work": "Plus-Minus",
-        "Year": "1963 (rev. 1974)",
+        "Year": "1963,74",
         "Source": "Harvey1975, p.93",
         "Note": "",
         "NumPitches": 12
@@ -14217,7 +14217,7 @@
         "Original": 0,
         "Composer": "Stravinsky, Igor",
         "Work": "Agon, \"Double Pas-de-Deux\"",
-        "Year": "1953-7",
+        "Year": "1953-57",
         "Source": "Kuster2000",
         "Note": "",
         "NumPitches": 12
@@ -14240,7 +14240,7 @@
         "Original": 0,
         "Composer": "Stravinsky, Igor",
         "Work": "Agon, \"Pas de deux\", \"Four trios\"",
-        "Year": "1953-7",
+        "Year": "1953-57",
         "Source": "Kuster2000",
         "Note": "",
         "NumPitches": 12
@@ -14723,7 +14723,7 @@
         "Original": 2,
         "Composer": "Talma, Louise",
         "Work": "Six Etudes, Etude 1",
-        "Year": "1953-1954",
+        "Year": "1953-54",
         "Source": "Teicher1983, Ex. 4",
         "Note": "",
         "NumPitches": 12
@@ -14746,7 +14746,7 @@
         "Original": 9,
         "Composer": "Talma, Louise",
         "Work": "Six Etudes, Etude 2",
-        "Year": "1953-1954",
+        "Year": "1953-54",
         "Source": "Teicher1983, Exx. 10-11",
         "Note": "",
         "NumPitches": 12
@@ -14792,7 +14792,7 @@
         "Original": 0,
         "Composer": "Talma, Louise",
         "Work": "Six Etudes, Etude 4",
-        "Year": "1953-1954",
+        "Year": "1953-54",
         "Source": "Teicher1983, Ex. 19",
         "Note": "",
         "NumPitches": 12
@@ -14815,7 +14815,7 @@
         "Original": 0,
         "Composer": "Talma, Louise",
         "Work": "Six Etudes, Etude 5",
-        "Year": "1953-1954",
+        "Year": "1953-54",
         "Source": "Teicher1983, Ex. 20",
         "Note": "",
         "NumPitches": 12
@@ -14838,7 +14838,7 @@
         "Original": 9,
         "Composer": "Talma, Louise",
         "Work": "Six Etudes, Etude 6",
-        "Year": "1953-1954",
+        "Year": "1953-54",
         "Source": "Teicher1983, Ex. 22",
         "Note": "",
         "NumPitches": 12
@@ -14953,7 +14953,7 @@
         "Original": 2,
         "Composer": "Volkonsky, Andrei",
         "Work": "Musica Stricta, mvt 2, row A",
-        "Year": "1956\u20137",
+        "Year": "1956-57",
         "Source": "Cairns2010, p.49",
         "Note": "",
         "NumPitches": 12
@@ -14976,7 +14976,7 @@
         "Original": 3,
         "Composer": "Volkonsky, Andrei",
         "Work": "Musica Stricta, mvt 2, row B",
-        "Year": "1956\u20137",
+        "Year": "1956-57",
         "Source": "Cairns2010, p.49",
         "Note": "",
         "NumPitches": 12
@@ -14999,7 +14999,7 @@
         "Original": 0,
         "Composer": "Volkonsky, Andrei",
         "Work": "Musica Stricta, mvt 2, row C",
-        "Year": "1956\u20137",
+        "Year": "1956-57",
         "Source": "Cairns2010, p.49",
         "Note": "",
         "NumPitches": 12
@@ -15022,7 +15022,7 @@
         "Original": 5,
         "Composer": "Volkonsky, Andrei",
         "Work": "Musica Stricta, mvt 2, row D",
-        "Year": "1956\u20137",
+        "Year": "1956-57",
         "Source": "Cairns2010, p.49",
         "Note": "",
         "NumPitches": 12
@@ -15045,7 +15045,7 @@
         "Original": 5,
         "Composer": "Volkonsky, Andrei",
         "Work": "Musica Stricta, mvt 3, row E",
-        "Year": "1956\u20137",
+        "Year": "1956-57",
         "Source": "Cairns2010, p.56",
         "Note": "",
         "NumPitches": 12
@@ -15068,7 +15068,7 @@
         "Original": 6,
         "Composer": "Volkonsky, Andrei",
         "Work": "Musica Stricta, mvt 3, row F",
-        "Year": "1956\u20137",
+        "Year": "1956-57",
         "Source": "Cairns2010, p.56",
         "Note": "",
         "NumPitches": 12
@@ -15091,7 +15091,7 @@
         "Original": 1,
         "Composer": "Volkonsky, Andrei",
         "Work": "Musica Stricta, mvt 4, row G",
-        "Year": "1956\u20137",
+        "Year": "1956-57",
         "Source": "Cairns2010, p.59",
         "Note": "",
         "NumPitches": 12
@@ -15114,7 +15114,7 @@
         "Original": 10,
         "Composer": "Volkonsky, Andrei",
         "Work": "Musica Stricta, mvt 4, row H",
-        "Year": "1956\u20137",
+        "Year": "1956-57",
         "Source": "Cairns2010, p.59",
         "Note": "",
         "NumPitches": 12
@@ -15321,7 +15321,7 @@
         "Original": 4,
         "Composer": "Weber, Ben",
         "Work": "Lyric Piece, Op.40a",
-        "Year": "1953-4",
+        "Year": "1953-54",
         "Source": "Son2008",
         "Note": "",
         "NumPitches": 12
