@@ -314,7 +314,8 @@ def standardiseRow(row: Union[str, list],
             if t0:  # duplicates end for special case of e.g. 014295B38A76
                 return [(x - rowList[0]) % 12 for x in rowList]
             else:
-                return rowList
+                return [x % 12 for x in rowList]
+
 
     else:
         raise TypeError('Invalid type. Row must be a str or list.')
@@ -331,10 +332,9 @@ def standardiseRow(row: Union[str, list],
                 rowList[x] = stringToPC(rowList[x])
 
     if t0:
-        t = [(x - rowList[0]) % 12 for x in rowList]
-        return t
+        return [(x - rowList[0]) % 12 for x in rowList]
     else:
-        return rowList
+        return [x % 12 for x in rowList]
 
 
 # ------------------------------------------------------------------------------
