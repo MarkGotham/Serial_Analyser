@@ -776,7 +776,7 @@
         "Original": 9,
         "Composer": "Bart\u00f3k, B\u00e9la",
         "Work": "Violin Concerto No. 2, mvt 1",
-        "Year": "1937-8",
+        "Year": "1937-38",
         "Source": "Whittall2008",
         "Note": "Note swaps",
         "NumPitches": 12
@@ -799,7 +799,7 @@
         "Original": 9,
         "Composer": "Bart\u00f3k, B\u00e9la",
         "Work": "Violin Concerto No. 2, mvt 3",
-        "Year": "1937-8",
+        "Year": "1937-38",
         "Source": "Whittall2008",
         "Note": "Note swaps",
         "NumPitches": 12
@@ -983,7 +983,7 @@
         "Original": 0,
         "Composer": "Berg, Alban",
         "Work": "Lulu, (no character)",
-        "Year": "1927-1935",
+        "Year": "1927-35",
         "Source": "Headlam1996, p.304, ex. 5.36o",
         "Note": "Permutation of main row",
         "NumPitches": 12
@@ -1006,7 +1006,7 @@
         "Original": 4,
         "Composer": "Berg, Alban",
         "Work": "Lulu, Acrobat/Athlete",
-        "Year": "1927-1935",
+        "Year": "1927-35",
         "Source": "Headlam1996, ex. 5.37",
         "Note": "Alternate notes of transposed main row",
         "NumPitches": 12
@@ -1029,7 +1029,7 @@
         "Original": 10,
         "Composer": "Berg, Alban",
         "Work": "Lulu, Act II, Scene I. (Every 5th Note of Transposed Primary Row)",
-        "Year": "1927-1935",
+        "Year": "1927-35",
         "Source": "Headlam1996",
         "Note": "",
         "NumPitches": 12
@@ -1052,7 +1052,7 @@
         "Original": 4,
         "Composer": "Berg, Alban",
         "Work": "Lulu, Alwa",
-        "Year": "1927-1935",
+        "Year": "1927-35",
         "Source": "Headlam1996, ex. 5.37",
         "Note": "Every 7th note of transposed main row",
         "NumPitches": 12
@@ -1075,7 +1075,7 @@
         "Original": 5,
         "Composer": "Berg, Alban",
         "Work": "Lulu, Chorale row",
-        "Year": "1927-1935",
+        "Year": "1927-35",
         "Source": "Headlam1996, ex. 5.37",
         "Note": "",
         "NumPitches": 12
@@ -1098,7 +1098,7 @@
         "Original": 4,
         "Composer": "Berg, Alban",
         "Work": "Lulu, Countess Geschwitz",
-        "Year": "1927-1935",
+        "Year": "1927-35",
         "Source": "Headlam1996",
         "Note": "",
         "NumPitches": 12
@@ -1121,7 +1121,7 @@
         "Original": 4,
         "Composer": "Berg, Alban",
         "Work": "Lulu, Dr. Sch\u00f6n",
-        "Year": "1927-1935",
+        "Year": "1927-35",
         "Source": "Headlam1996, ex. 5.37",
         "Note": "",
         "NumPitches": 12
@@ -1144,7 +1144,7 @@
         "Original": 5,
         "Composer": "Berg, Alban",
         "Work": "Lulu, Lulu (title character) row",
-        "Year": "1927-1935",
+        "Year": "1927-35",
         "Source": "Headlam1996, p.304, ex. 5.36h",
         "Note": "",
         "NumPitches": 12
@@ -1190,7 +1190,7 @@
         "Original": 0,
         "Composer": "Berg, Alban",
         "Work": "Lulu, Schigolch",
-        "Year": "1927-1935",
+        "Year": "1927-35",
         "Source": "Headlam1996, p.304, ex. 5.36",
         "Note": "",
         "NumPitches": 12
@@ -1213,7 +1213,7 @@
         "Original": 2,
         "Composer": "Berg, Alban",
         "Work": "Lulu, Schoolboy row",
-        "Year": "1927-1935",
+        "Year": "1927-35",
         "Source": "Headlam1996",
         "Note": "Every 3rd note of transposed main row",
         "NumPitches": 12
@@ -1236,7 +1236,7 @@
         "Original": 0,
         "Composer": "Berg, Alban",
         "Work": "Lulu, permutation of main row",
-        "Year": "1927-1935",
+        "Year": "1927-35",
         "Source": "Headlam1996, p.304, ex. 5.36n",
         "Note": "B# corrected to B",
         "NumPitches": 12
@@ -1259,7 +1259,7 @@
         "Original": 5,
         "Composer": "Berg, Alban",
         "Work": "Lulu, whole-tone row",
-        "Year": "1927-1935",
+        "Year": "1927-35",
         "Source": "Headlam1996, p.304, ex. 5.36i",
         "Note": "",
         "NumPitches": 12
@@ -12032,7 +12032,7 @@
         "Original": 5,
         "Composer": "Schoenberg, Arnold",
         "Work": "Three Satires for Mixed Chorus, No. 3, Op. 28 No. 3",
-        "Year": "1925/26",
+        "Year": "1925,26",
         "Source": "London+2001",
         "Note": "",
         "NumPitches": 12

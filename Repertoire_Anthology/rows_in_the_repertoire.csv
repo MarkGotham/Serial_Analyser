@@ -32,8 +32,8 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Baker, David","“Status Symbol” from ""The Black Experience""",1973,0,3,4,7,8,11,1,10,9,6,5,2
 "Barber, Samuel","Piano Sonata, Op. 26",1949,0,8,4,11,3,7,1,9,5,10,2,6
 "Bartók, Béla",String Quartet No. 4,1928,0,5,6,11,4,9,10,3,8,1,2,7
-"Bartók, Béla","Violin Concerto No. 2, mvt 1",1937-8,0,2,8,1,9,4,10,6,3,7,11,5
-"Bartók, Béla","Violin Concerto No. 2, mvt 3",1937-8,0,8,2,9,1,4,10,7,6,3,11,5
+"Bartók, Béla","Violin Concerto No. 2, mvt 1",1937-38,0,2,8,1,9,4,10,6,3,7,11,5
+"Bartók, Béla","Violin Concerto No. 2, mvt 3",1937-38,0,8,2,9,1,4,10,7,6,3,11,5
 "Beecroft, Norma",Improvvisazioni Concertanti No. 1,1961,0,1,11,9,3,2,7,6,10,8,4,5
 "Bennett, Richard Rodney",Five Studies for Piano,1962,0,3,5,6,11,9,4,2,7,8,10,1
 "Bennett, Richard Rodney",Symphony,1965,0,2,9,8,3,5,6,1,7,11,10,4
@@ -41,19 +41,19 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Berg, Alban","Chamber Concerto, mvts 1, 3",1923-25,0,1,3,8,4,9,10,7,6,5,11,2
 "Berg, Alban","Chamber Concerto, mvts 2, 3",1923-25,0,11,10,4,5,9,7,1,2,6,8,3
 "Berg, Alban",Der Wein,1929,0,2,3,5,7,8,11,4,6,10,9,1
-"Berg, Alban","Lulu, (no character)",1927-1935,0,5,2,7,9,6,8,10,3,1,4,11
-"Berg, Alban","Lulu, Acrobat/Athlete",1927-1935,0,5,7,6,11,3,4,2,9,8,10,1
-"Berg, Alban","Lulu, Act II, Scene I. (Every 5th Note of Transposed Primary Row)",1927-1935,0,9,3,2,11,4,6,1,7,10,5,8
-"Berg, Alban","Lulu, Alwa",1927-1935,0,8,5,10,7,1,6,4,11,2,3,9
-"Berg, Alban","Lulu, Chorale row",1927-1935,0,5,1,2,3,9,8,10,4,11,6,7
-"Berg, Alban","Lulu, Countess Geschwitz",1927-1935,0,5,2,10,1,7,8,6,11,4,9,3
-"Berg, Alban","Lulu, Dr. Schön",1927-1935,0,5,9,10,4,7,6,11,1,2,8,3
-"Berg, Alban","Lulu, Lulu (title character) row",1927-1935,0,2,3,5,7,9,1,10,11,4,6,8
+"Berg, Alban","Lulu, (no character)",1927-35,0,5,2,7,9,6,8,10,3,1,4,11
+"Berg, Alban","Lulu, Acrobat/Athlete",1927-35,0,5,7,6,11,3,4,2,9,8,10,1
+"Berg, Alban","Lulu, Act II, Scene I. (Every 5th Note of Transposed Primary Row)",1927-35,0,9,3,2,11,4,6,1,7,10,5,8
+"Berg, Alban","Lulu, Alwa",1927-35,0,8,5,10,7,1,6,4,11,2,3,9
+"Berg, Alban","Lulu, Chorale row",1927-35,0,5,1,2,3,9,8,10,4,11,6,7
+"Berg, Alban","Lulu, Countess Geschwitz",1927-35,0,5,2,10,1,7,8,6,11,4,9,3
+"Berg, Alban","Lulu, Dr. Schön",1927-35,0,5,9,10,4,7,6,11,1,2,8,3
+"Berg, Alban","Lulu, Lulu (title character) row",1927-35,0,2,3,5,7,9,1,10,11,4,6,8
 "Berg, Alban","Lulu, Primary / Main / Basic Row",1934,0,4,5,2,7,9,6,8,11,10,3,1
-"Berg, Alban","Lulu, Schigolch",1927-1935,0,2,3,1,4,5,6,7,8,9,11,10
-"Berg, Alban","Lulu, Schoolboy row",1927-1935,0,2,6,10,4,7,8,3,5,9,11,1
-"Berg, Alban","Lulu, permutation of main row",1927-1935,0,4,2,7,9,6,8,11,3,1,5,10
-"Berg, Alban","Lulu, whole-tone row",1927-1935,0,2,4,6,10,8,11,7,9,1,3,5
+"Berg, Alban","Lulu, Schigolch",1927-35,0,2,3,1,4,5,6,7,8,9,11,10
+"Berg, Alban","Lulu, Schoolboy row",1927-35,0,2,6,10,4,7,8,3,5,9,11,1
+"Berg, Alban","Lulu, permutation of main row",1927-35,0,4,2,7,9,6,8,11,3,1,5,10
+"Berg, Alban","Lulu, whole-tone row",1927-35,0,2,4,6,10,8,11,7,9,1,3,5
 "Berg, Alban","Lyric Suite, Primary Row / mvt I",1925-26,0,11,7,4,2,9,3,8,10,1,5,6
 "Berg, Alban","Lyric Suite, mvt I",1925-26,0,2,4,5,7,9,6,8,10,11,1,3
 "Berg, Alban","Lyric Suite, mvt I,  m.7-9",1925-26,0,3,7,8,2,1,9,6,4,11,5,10
@@ -522,7 +522,7 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Schoenberg, Arnold","Suite for Piano, Op. 25",1921-23,0,1,3,9,2,11,4,10,7,8,5,6
 "Schoenberg, Arnold","Suite, Op. 29",1925,0,4,3,7,11,8,9,6,5,1,2,10
 "Schoenberg, Arnold","Three Satires for Mixed Chorus, No. 1, Op. 28 No. 1",1925,0,4,7,1,9,11,5,3,2,6,8,10
-"Schoenberg, Arnold","Three Satires for Mixed Chorus, No. 3, Op. 28 No. 3",1925/26,0,1,11,3,9,5,2,4,10,6,8,7
+"Schoenberg, Arnold","Three Satires for Mixed Chorus, No. 3, Op. 28 No. 3","1925,26",0,1,11,3,9,5,2,4,10,6,8,7
 "Schoenberg, Arnold","Three Songs, No. 1, ""Sommermud"", Op. 48",1933,0,1,11,5,2,4,3,9,10,6,8,7
 "Schoenberg, Arnold","Three Songs, No. 2, ""Tot"", Op. 48",1933,0,1,7,11,8,2,6,5,10,9,3,4
 "Schoenberg, Arnold","Three Songs, No. 3, ""Madchenlied"", Op. 48",1933,0,6,8,10,2,4,9,5,3,11,7,1
