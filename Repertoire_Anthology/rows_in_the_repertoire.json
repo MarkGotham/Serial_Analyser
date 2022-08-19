@@ -594,7 +594,7 @@
         "Work": "The Widow's Lament in Springtime",
         "Year": "1951",
         "Source": "Morris2010, p.45; ArnoldHair1976, p.157-9",
-        "Note": "",
+        "Note": "Starting pitch 5 from Morris2010. ArnoldHair1976 provide 4 \"layers\" (for the arrays), of which this is the first",
         "NumPitches": 12
     },
     "Babbitt,_Milton_-_Three_Compositions_for_Piano,_no._I": {
@@ -1356,29 +1356,6 @@
         "Note": "Note-pair exchange",
         "NumPitches": 12
     },
-    "Berg,_Alban_-_Lyric_Suite,_mvt_V_and_VI": {
-        "P0": [
-            0,
-            1,
-            4,
-            3,
-            5,
-            6,
-            11,
-            7,
-            8,
-            9,
-            10,
-            2
-        ],
-        "Original": 5,
-        "Composer": "Berg, Alban",
-        "Work": "Lyric Suite, mvt V and VI",
-        "Year": "1925-26",
-        "Source": "Headlam1996, p.248",
-        "Note": "Partition. Inversion of this row also included separately",
-        "NumPitches": 12
-    },
     "Berg,_Alban_-_Lyric_Suite,_mvt_VI": {
         "P0": [
             0,
@@ -1422,6 +1399,29 @@
         "Work": "Lyric Suite, mvt VI, row 2",
         "Year": "1925-26",
         "Source": "Whittall2008",
+        "Note": "Partition. Inversion of this row also included separately",
+        "NumPitches": 12
+    },
+    "Berg,_Alban_-_Lyric_Suite,_mvt_V_and_VI": {
+        "P0": [
+            0,
+            1,
+            4,
+            3,
+            5,
+            6,
+            11,
+            7,
+            8,
+            9,
+            10,
+            2
+        ],
+        "Original": 5,
+        "Composer": "Berg, Alban",
+        "Work": "Lyric Suite, mvt V and VI",
+        "Year": "1925-26",
+        "Source": "Headlam1996, p.248",
         "Note": "Partition. Inversion of this row also included separately",
         "NumPitches": 12
     },
@@ -1678,29 +1678,6 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Boulez,_Pierre_-_Le_Marteau_sans_Ma\u00eetre_(alternative_view)": {
-        "P0": [
-            0,
-            2,
-            11,
-            10,
-            7,
-            8,
-            6,
-            9,
-            5,
-            1,
-            4,
-            3
-        ],
-        "Original": 0,
-        "Composer": "Boulez, Pierre",
-        "Work": "Le Marteau sans Ma\u00eetre (alternative view)",
-        "Year": "1953-55",
-        "Source": "Whittall2008",
-        "Note": "Note several views of this piece",
-        "NumPitches": 12
-    },
     "Boulez,_Pierre_-_Le_Marteau_sans_Ma\u00eetre,_cycle_of_Bel_\u00c9difice_et_les_pressentiments": {
         "P0": [
             0,
@@ -1767,6 +1744,29 @@
         "Work": "Le Marteau sans Ma\u00eetre, cycle of L'Artisanat furieux",
         "Year": "1953-55",
         "Source": "Jameux1991, p.288",
+        "Note": "Note several views of this piece",
+        "NumPitches": 12
+    },
+    "Boulez,_Pierre_-_Le_Marteau_sans_Ma\u00eetre_(alternative_view)": {
+        "P0": [
+            0,
+            2,
+            11,
+            10,
+            7,
+            8,
+            6,
+            9,
+            5,
+            1,
+            4,
+            3
+        ],
+        "Original": 0,
+        "Composer": "Boulez, Pierre",
+        "Work": "Le Marteau sans Ma\u00eetre (alternative view)",
+        "Year": "1953-55",
+        "Source": "Whittall2008",
         "Note": "Note several views of this piece",
         "NumPitches": 12
     },
@@ -2135,7 +2135,7 @@
         "Work": "Piano Concerto, Orchestra",
         "Year": "1964-65",
         "Source": "Mead2002, p.80",
-        "Note": "",
+        "Note": "Reading the chord from bass up",
         "NumPitches": 12
     },
     "Carter,_Elliott_-_Piano_Concerto,_Soloist": {
@@ -2158,7 +2158,7 @@
         "Work": "Piano Concerto, Soloist",
         "Year": "1964-65",
         "Source": "Mead2002, p.80",
-        "Note": "",
+        "Note": "Reading the chord from bass up",
         "NumPitches": 12
     },
     "Carter,_Elliott_-_String_Quartet_No._2_(sketch)_1": {
@@ -5577,6 +5577,75 @@
         "Note": "Tetrachord permutations",
         "NumPitches": 12
     },
+    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts._II_and_III,_Row_Class_III": {
+        "P0": [
+            0,
+            11,
+            7,
+            4,
+            2,
+            9,
+            3,
+            8,
+            10,
+            1,
+            5,
+            6
+        ],
+        "Original": 6,
+        "Composer": "Ginastera, Alberto",
+        "Work": "Sonata for Guitar, Op.47, mvts. II and III, Row Class III",
+        "Year": "1976",
+        "Source": "Fobes2006, p.153,169",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts_II_and_III,_Row_Class_III": {
+        "P0": [
+            0,
+            11,
+            7,
+            4,
+            2,
+            9,
+            3,
+            8,
+            10,
+            1,
+            5,
+            6
+        ],
+        "Original": 6,
+        "Composer": "Ginastera, Alberto",
+        "Work": "Sonata for Guitar, Op.47, mvts II and III, Row Class III",
+        "Year": "1976",
+        "Source": "Fobes2006, p.153,169",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts_II_and_III,_Row_Class_III_S": {
+        "P0": [
+            0,
+            6,
+            11,
+            5,
+            8,
+            2,
+            7,
+            1,
+            4,
+            10,
+            3,
+            9
+        ],
+        "Original": 5,
+        "Composer": "Ginastera, Alberto",
+        "Work": "Sonata for Guitar, Op.47, mvts II and III, Row Class III S",
+        "Year": "1976",
+        "Source": "Fobes2006, p.169",
+        "Note": "",
+        "NumPitches": 12
+    },
     "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts_II_and_III,_Row_Class_II_1": {
         "P0": [
             0,
@@ -5733,52 +5802,6 @@
         "Original": 4,
         "Composer": "Ginastera, Alberto",
         "Work": "Sonata for Guitar, Op.47, mvts II and III, Row Class II 7",
-        "Year": "1976",
-        "Source": "Fobes2006, p.169",
-        "Note": "",
-        "NumPitches": 12
-    },
-    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts_II_and_III,_Row_Class_III": {
-        "P0": [
-            0,
-            11,
-            7,
-            4,
-            2,
-            9,
-            3,
-            8,
-            10,
-            1,
-            5,
-            6
-        ],
-        "Original": 6,
-        "Composer": "Ginastera, Alberto",
-        "Work": "Sonata for Guitar, Op.47, mvts II and III, Row Class III",
-        "Year": "1976",
-        "Source": "Fobes2006, p.153,169",
-        "Note": "",
-        "NumPitches": 12
-    },
-    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts_II_and_III,_Row_Class_III_S": {
-        "P0": [
-            0,
-            6,
-            11,
-            5,
-            8,
-            2,
-            7,
-            1,
-            4,
-            10,
-            3,
-            9
-        ],
-        "Original": 5,
-        "Composer": "Ginastera, Alberto",
-        "Work": "Sonata for Guitar, Op.47, mvts II and III, Row Class III S",
         "Year": "1976",
         "Source": "Fobes2006, p.169",
         "Note": "",
@@ -6543,29 +6566,6 @@
         "Note": "Separate, but complementary 6-note hexachord rows",
         "NumPitches": 12
     },
-    "Krenek_-_Monologue_for_Solo_Clarinet,_Op._157": {
-        "P0": [
-            0,
-            1,
-            11,
-            2,
-            10,
-            5,
-            4,
-            7,
-            6,
-            3,
-            8,
-            9
-        ],
-        "Original": 1,
-        "Composer": "Krenek",
-        "Work": "Monologue for Solo Clarinet, Op. 157",
-        "Year": "1956",
-        "Source": "Riehl2012",
-        "Note": "",
-        "NumPitches": 12
-    },
     "Krenek,_Ernst_-_Eight_Piano_Pieces": {
         "P0": [
             0,
@@ -7115,6 +7115,29 @@
         "Work": "Zw\u00f6lf Variationen in Drei Satzen",
         "Year": "1937",
         "Source": "Houser1977",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Krenek_-_Monologue_for_Solo_Clarinet,_Op._157": {
+        "P0": [
+            0,
+            1,
+            11,
+            2,
+            10,
+            5,
+            4,
+            7,
+            6,
+            3,
+            8,
+            9
+        ],
+        "Original": 1,
+        "Composer": "Krenek",
+        "Work": "Monologue for Solo Clarinet, Op. 157",
+        "Year": "1956",
+        "Source": "Riehl2012",
         "Note": "",
         "NumPitches": 12
     },
@@ -11922,29 +11945,6 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Schoenberg,_Arnold_-_Suite_for_Piano,_Op._25": {
-        "P0": [
-            0,
-            1,
-            3,
-            9,
-            2,
-            11,
-            4,
-            10,
-            7,
-            8,
-            5,
-            6
-        ],
-        "Original": 4,
-        "Composer": "Schoenberg, Arnold",
-        "Work": "Suite for Piano, Op. 25",
-        "Year": "1921-23",
-        "Source": "London+2001, Whittall2008",
-        "Note": "",
-        "NumPitches": 12
-    },
     "Schoenberg,_Arnold_-_Suite,_Op._29": {
         "P0": [
             0,
@@ -11964,6 +11964,29 @@
         "Composer": "Schoenberg, Arnold",
         "Work": "Suite, Op. 29",
         "Year": "1925",
+        "Source": "London+2001, Whittall2008",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Schoenberg,_Arnold_-_Suite_for_Piano,_Op._25": {
+        "P0": [
+            0,
+            1,
+            3,
+            9,
+            2,
+            11,
+            4,
+            10,
+            7,
+            8,
+            5,
+            6
+        ],
+        "Original": 4,
+        "Composer": "Schoenberg, Arnold",
+        "Work": "Suite for Piano, Op. 25",
+        "Year": "1921-23",
         "Source": "London+2001, Whittall2008",
         "Note": "",
         "NumPitches": 12
@@ -12658,29 +12681,6 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Sessions,_Roger_-_Piano_Sonata_no._3,_mvt_2": {
-        "P0": [
-            0,
-            1,
-            5,
-            4,
-            8,
-            2,
-            11,
-            10,
-            6,
-            7,
-            3,
-            9
-        ],
-        "Original": 9,
-        "Composer": "Sessions, Roger",
-        "Work": "Piano Sonata no. 3, mvt 2",
-        "Year": "1965",
-        "Source": "Schumann2003, Fig. 10",
-        "Note": "",
-        "NumPitches": 12
-    },
     "Sessions,_Roger_-_Piano_Sonata_no._3,_mvt.1": {
         "P0": [
             0,
@@ -12701,6 +12701,29 @@
         "Work": "Piano Sonata no. 3, mvt.1",
         "Year": "1965",
         "Source": "Schumann2003, Fig. 13",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Sessions,_Roger_-_Piano_Sonata_no._3,_mvt_2": {
+        "P0": [
+            0,
+            1,
+            5,
+            4,
+            8,
+            2,
+            11,
+            10,
+            6,
+            7,
+            3,
+            9
+        ],
+        "Original": 9,
+        "Composer": "Sessions, Roger",
+        "Work": "Piano Sonata no. 3, mvt 2",
+        "Year": "1965",
+        "Source": "Schumann2003, Fig. 10",
         "Note": "",
         "NumPitches": 12
     },
@@ -13463,29 +13486,6 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Spinner,_Leopold_-_String_Quartet_No._2,_Op._7": {
-        "P0": [
-            0,
-            3,
-            4,
-            7,
-            8,
-            11,
-            1,
-            10,
-            9,
-            6,
-            5,
-            2
-        ],
-        "Original": 7,
-        "Composer": "Spinner, Leopold",
-        "Work": "String Quartet No. 2, Op. 7",
-        "Year": "1952",
-        "Source": "Busch1987",
-        "Note": "",
-        "NumPitches": 12
-    },
     "Spinner,_Leopold_-_String_Quartet,_Op._2": {
         "P0": [
             0,
@@ -13505,6 +13505,29 @@
         "Composer": "Spinner, Leopold",
         "Work": "String Quartet, Op. 2",
         "Year": "1941",
+        "Source": "Busch1987",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Spinner,_Leopold_-_String_Quartet_No._2,_Op._7": {
+        "P0": [
+            0,
+            3,
+            4,
+            7,
+            8,
+            11,
+            1,
+            10,
+            9,
+            6,
+            5,
+            2
+        ],
+        "Original": 7,
+        "Composer": "Spinner, Leopold",
+        "Work": "String Quartet No. 2, Op. 7",
+        "Year": "1952",
         "Source": "Busch1987",
         "Note": "",
         "NumPitches": 12
@@ -13739,29 +13762,6 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Stockhausen,_Karlheinz_-_Klavierst\u00fcck_IV_row_3": {
-        "P0": [
-            0,
-            7,
-            1,
-            10,
-            11,
-            9,
-            5,
-            8,
-            4,
-            3,
-            2,
-            6
-        ],
-        "Original": 10,
-        "Composer": "Stockhausen, Karlheinz",
-        "Work": "Klavierst\u00fcck IV row 3",
-        "Year": "1952",
-        "Source": "Frisius1996, p.73",
-        "Note": "",
-        "NumPitches": 12
-    },
     "Stockhausen,_Karlheinz_-_Klavierst\u00fcck_IV,_row_1": {
         "P0": [
             0,
@@ -13803,6 +13803,29 @@
         "Original": 0,
         "Composer": "Stockhausen, Karlheinz",
         "Work": "Klavierst\u00fcck IV, row 2",
+        "Year": "1952",
+        "Source": "Frisius1996, p.73",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Stockhausen,_Karlheinz_-_Klavierst\u00fcck_IV_row_3": {
+        "P0": [
+            0,
+            7,
+            1,
+            10,
+            11,
+            9,
+            5,
+            8,
+            4,
+            3,
+            2,
+            6
+        ],
+        "Original": 10,
+        "Composer": "Stockhausen, Karlheinz",
+        "Work": "Klavierst\u00fcck IV row 3",
         "Year": "1952",
         "Source": "Frisius1996, p.73",
         "Note": "",
@@ -14935,6 +14958,305 @@
         "Note": "",
         "NumPitches": 12
     },
+    "Tranchell,_Peter_-_Dodecafonia_[no.6_for_piano]": {
+        "P0": [
+            0,
+            1,
+            3,
+            4,
+            5,
+            7,
+            8,
+            10,
+            11,
+            2,
+            6,
+            9
+        ],
+        "Original": 7,
+        "Composer": "Tranchell, Peter",
+        "Work": "Dodecafonia [no.6 for piano]",
+        "Year": "1950",
+        "Source": "New, Cambridge University Library MS.Tranchell.2.278",
+        "Note": "Apparently part of a \"Dodecafonia\" series. This work \"no.6\"",
+        "NumPitches": 12
+    },
+    "Tranchell,_Peter_-_Piano_piece_for_Carl_Dawson_(unfinished),_1A": {
+        "P0": [
+            0,
+            10,
+            9,
+            1,
+            4,
+            8,
+            7,
+            2,
+            5,
+            11,
+            3,
+            6
+        ],
+        "Original": 1,
+        "Composer": "Tranchell, Peter",
+        "Work": "Piano piece for Carl Dawson (unfinished), 1A",
+        "Year": "1950s?",
+        "Source": "New, Cambridge University Library MS.Tranchell.2.282",
+        "Note": "One of 8",
+        "NumPitches": 12
+    },
+    "Tranchell,_Peter_-_Piano_piece_for_Carl_Dawson_(unfinished),_2A": {
+        "P0": [
+            0,
+            11,
+            9,
+            5,
+            6,
+            7,
+            10,
+            8,
+            3,
+            2,
+            1,
+            4
+        ],
+        "Original": 8,
+        "Composer": "Tranchell, Peter",
+        "Work": "Piano piece for Carl Dawson (unfinished), 2A",
+        "Year": "1950s?",
+        "Source": "New, Cambridge University Library MS.Tranchell.2.282",
+        "Note": "note",
+        "NumPitches": 12
+    },
+    "Tranchell,_Peter_-_Piano_piece_for_Carl_Dawson_(unfinished),_3": {
+        "P0": [
+            0,
+            10,
+            8,
+            4,
+            3,
+            6,
+            5,
+            11,
+            9,
+            1,
+            2,
+            7
+        ],
+        "Original": 10,
+        "Composer": "Tranchell, Peter",
+        "Work": "Piano piece for Carl Dawson (unfinished), 3",
+        "Year": "1950s?",
+        "Source": "New, Cambridge University Library MS.Tranchell.2.282",
+        "Note": "note",
+        "NumPitches": 12
+    },
+    "Tranchell,_Peter_-_Piano_piece_for_Carl_Dawson_(unfinished),_4": {
+        "P0": [
+            0,
+            7,
+            6,
+            1,
+            3,
+            4,
+            2,
+            11,
+            9,
+            5,
+            10,
+            8
+        ],
+        "Original": 4,
+        "Composer": "Tranchell, Peter",
+        "Work": "Piano piece for Carl Dawson (unfinished), 4",
+        "Year": "1950s?",
+        "Source": "New, Cambridge University Library MS.Tranchell.2.282",
+        "Note": "note",
+        "NumPitches": 12
+    },
+    "Tranchell,_Peter_-_Piano_piece_for_Carl_Dawson_(unfinished),_5": {
+        "P0": [
+            0,
+            4,
+            3,
+            10,
+            6,
+            9,
+            1,
+            5,
+            2,
+            8,
+            11,
+            7
+        ],
+        "Original": 8,
+        "Composer": "Tranchell, Peter",
+        "Work": "Piano piece for Carl Dawson (unfinished), 5",
+        "Year": "1950s?",
+        "Source": "New, Cambridge University Library MS.Tranchell.2.282",
+        "Note": "note",
+        "NumPitches": 12
+    },
+    "Tranchell,_Peter_-_Piano_piece_for_Carl_Dawson_(unfinished),_6": {
+        "P0": [
+            0,
+            8,
+            3,
+            6,
+            4,
+            9,
+            10,
+            5,
+            7,
+            1,
+            11,
+            2
+        ],
+        "Original": 2,
+        "Composer": "Tranchell, Peter",
+        "Work": "Piano piece for Carl Dawson (unfinished), 6",
+        "Year": "1950s?",
+        "Source": "New, Cambridge University Library MS.Tranchell.2.282",
+        "Note": "note",
+        "NumPitches": 12
+    },
+    "Tranchell,_Peter_-_Piano_piece_for_Carl_Dawson_(unfinished),_7": {
+        "P0": [
+            0,
+            2,
+            11,
+            8,
+            5,
+            3,
+            10,
+            9,
+            1,
+            7,
+            6,
+            4
+        ],
+        "Original": 3,
+        "Composer": "Tranchell, Peter",
+        "Work": "Piano piece for Carl Dawson (unfinished), 7",
+        "Year": "1950s?",
+        "Source": "New, Cambridge University Library MS.Tranchell.2.282",
+        "Note": "note",
+        "NumPitches": 12
+    },
+    "Tranchell,_Peter_-_Piano_piece_for_Carl_Dawson_(unfinished),_8": {
+        "P0": [
+            0,
+            4,
+            3,
+            11,
+            6,
+            8,
+            2,
+            9,
+            10,
+            7,
+            1,
+            5
+        ],
+        "Original": 5,
+        "Composer": "Tranchell, Peter",
+        "Work": "Piano piece for Carl Dawson (unfinished), 8",
+        "Year": "1950s?",
+        "Source": "New, Cambridge University Library MS.Tranchell.2.282",
+        "Note": "note",
+        "NumPitches": 12
+    },
+    "Tranchell,_Peter_-_Septet_:_[for]_2_violins,_oboe,_clarinet,_horn,_bassoon,_cello_:_fifth_dodecafonia": {
+        "P0": [
+            0,
+            2,
+            1,
+            10,
+            3,
+            4,
+            11,
+            6,
+            5,
+            9,
+            8,
+            7
+        ],
+        "Original": 2,
+        "Composer": "Tranchell, Peter",
+        "Work": "Septet : [for] 2 violins, oboe, clarinet, horn, bassoon, cello : fifth dodecafonia",
+        "Year": "1940s?",
+        "Source": "New, Cambridge University Library MS.Tranchell.2.239-240",
+        "Note": "Apparently part of a \"Dodecafonia\" series. This work \"no.5\"",
+        "NumPitches": 12
+    },
+    "Tranchell,_Peter_-_Twice_a_Kiss_sketch_1": {
+        "P0": [
+            0,
+            9,
+            1,
+            2,
+            4,
+            8,
+            5,
+            7,
+            10,
+            6,
+            3,
+            11
+        ],
+        "Original": 11,
+        "Composer": "Tranchell, Peter",
+        "Work": "Twice a Kiss sketch 1",
+        "Year": "1950/03/18",
+        "Source": "New, Cambridge University Library MS.Tranchell.2.9",
+        "Note": "One of 3 row sketches, each divided into 4 | 2 || 2 | 4.",
+        "NumPitches": 12
+    },
+    "Tranchell,_Peter_-_Twice_a_Kiss_sketch_2": {
+        "P0": [
+            0,
+            9,
+            1,
+            2,
+            4,
+            8,
+            3,
+            11,
+            5,
+            6,
+            7,
+            10
+        ],
+        "Original": 11,
+        "Composer": "Tranchell, Peter",
+        "Work": "Twice a Kiss sketch 2",
+        "Year": "1950/03/18",
+        "Source": "New, Cambridge University Library MS.Tranchell.2.9",
+        "Note": "One of 3 row sketches, each divided into 4 | 2 || 2 | 4.",
+        "NumPitches": 12
+    },
+    "Tranchell,_Peter_-_Twice_a_Kiss_sketch_3": {
+        "P0": [
+            0,
+            1,
+            2,
+            4,
+            8,
+            9,
+            7,
+            5,
+            3,
+            6,
+            10,
+            11
+        ],
+        "Original": 11,
+        "Composer": "Tranchell, Peter",
+        "Work": "Twice a Kiss sketch 3",
+        "Year": "1950/03/18",
+        "Source": "New, Cambridge University Library MS.Tranchell.2.9",
+        "Note": "One of 3 row sketches, each divided into 4 | 2 || 2 | 4.",
+        "NumPitches": 12
+    },
     "Volkonsky,_Andrei_-_Musica_Stricta,_mvt_2,_row_A": {
         "P0": [
             0,
@@ -15786,29 +16108,6 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Webern,_Anton_-_Three_Songs_on_Texts_by_Hildegard_Jone,_Op._25": {
-        "P0": [
-            0,
-            9,
-            8,
-            11,
-            6,
-            10,
-            7,
-            4,
-            3,
-            5,
-            2,
-            1
-        ],
-        "Original": 7,
-        "Composer": "Webern, Anton",
-        "Work": "Three Songs on Texts by Hildegard Jone, Op. 25",
-        "Year": "1934",
-        "Source": "Bailey1991",
-        "Note": "Same row used for all three songs",
-        "NumPitches": 12
-    },
     "Webern,_Anton_-_Three_Songs,_Op._23": {
         "P0": [
             0,
@@ -15830,6 +16129,29 @@
         "Year": "1933-34",
         "Source": "Bailey1991",
         "Note": "",
+        "NumPitches": 12
+    },
+    "Webern,_Anton_-_Three_Songs_on_Texts_by_Hildegard_Jone,_Op._25": {
+        "P0": [
+            0,
+            9,
+            8,
+            11,
+            6,
+            10,
+            7,
+            4,
+            3,
+            5,
+            2,
+            1
+        ],
+        "Original": 7,
+        "Composer": "Webern, Anton",
+        "Work": "Three Songs on Texts by Hildegard Jone, Op. 25",
+        "Year": "1934",
+        "Source": "Bailey1991",
+        "Note": "Same row used for all three songs",
         "NumPitches": 12
     },
     "Webern,_Anton_-_Variations_for_Orchestra,_Op._30": {
@@ -16844,29 +17166,6 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Zenk,_Ludwig_-_Piano_Sonata_No._2,_Op._4": {
-        "P0": [
-            0,
-            11,
-            6,
-            8,
-            7,
-            10,
-            5,
-            4,
-            9,
-            2,
-            1,
-            3
-        ],
-        "Original": 1,
-        "Composer": "Zenk, Ludwig",
-        "Work": "Piano Sonata No. 2, Op. 4",
-        "Year": "1935-37",
-        "Source": "Hommes2010, p. 407",
-        "Note": "",
-        "NumPitches": 12
-    },
     "Zenk,_Ludwig_-_Piano_Sonata,_Op._1": {
         "P0": [
             0,
@@ -16887,6 +17186,29 @@
         "Work": "Piano Sonata, Op. 1",
         "Year": "1932-33",
         "Source": "Ahrend2019, pp. 40-43",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Zenk,_Ludwig_-_Piano_Sonata_No._2,_Op._4": {
+        "P0": [
+            0,
+            11,
+            6,
+            8,
+            7,
+            10,
+            5,
+            4,
+            9,
+            2,
+            1,
+            3
+        ],
+        "Original": 1,
+        "Composer": "Zenk, Ludwig",
+        "Work": "Piano Sonata No. 2, Op. 4",
+        "Year": "1935-37",
+        "Source": "Hommes2010, p. 407",
         "Note": "",
         "NumPitches": 12
     },

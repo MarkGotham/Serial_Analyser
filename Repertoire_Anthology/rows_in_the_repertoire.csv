@@ -22,7 +22,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Babbitt, Milton",Relata II,1968,0,1,11,2,10,3,9,8,4,6,7,5
 "Babbitt, Milton",Semi-simple variations,1956,0,8,1,10,9,11,5,3,4,7,2,6
 "Babbitt, Milton",Sounds and Words,1960,0,9,2,4,8,3,11,10,1,7,5,6
-"Babbitt, Milton",String Quartet, No.2,1954,0,3,11,4,1,2,8,10,5,9,7,6
+"Babbitt, Milton","String Quartet, No.2",1954,0,3,11,4,1,2,8,10,5,9,7,6
 "Babbitt, Milton","String Quartet, No.3",1970,0,11,6,7,5,1,10,2,9,3,4,8
 "Babbitt, Milton",The Widow's Lament in Springtime,1951,0,11,9,2,10,7,1,4,8,3,5,6
 "Babbitt, Milton","Three Compositions for Piano, no. I",1947,0,5,7,4,2,3,9,1,8,11,10,6
@@ -58,7 +58,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Berg, Alban","Lyric Suite, mvt I",1925-26,0,2,4,5,7,9,6,8,10,11,1,3
 "Berg, Alban","Lyric Suite, mvt I,  m.7-9",1925-26,0,3,7,8,2,1,9,6,4,11,5,10
 "Berg, Alban","Lyric Suite, mvt III",1925-26,0,11,7,1,2,9,3,8,10,4,5,6
-"Berg, Alban","Lyric Suite, mvt V and VI",1925-1926,0,1,4,3,5,6,11,7,8,9,10,2
+"Berg, Alban","Lyric Suite, mvt V and VI",1925-26,0,1,4,3,5,6,11,7,8,9,10,2
 "Berg, Alban","Lyric Suite, mvt VI",1925-26,0,2,4,7,9,11,6,8,10,1,3,5
 "Berg, Alban","Lyric Suite, mvt VI, row 2",1925-26,0,11,8,9,7,6,1,5,4,3,2,10
 "Berg, Alban",Schliesse mir die Augen Beide,1907,0,11,7,4,2,9,3,8,10,1,5,6
@@ -68,7 +68,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Berio, Luciano",Chamber Music,1953,0,9,3,5,7,10,2,11,4,6,8,1
 "Berio, Luciano",Cinque Variazioni,1952-53,0,2,4,1,3,5,8,10,6,7,9,11
 "Berio, Luciano",Sequenza I,1958,0,11,10,9,8,7,4,6,5,3,1,2
-"Boulez, Pierre",1st Piano Sonata,1946/49,0,8,11,9,10,5,6,4,3,1,2,7
+"Boulez, Pierre",1st Piano Sonata,"1946,49",0,8,11,9,10,5,6,4,3,1,2,7
 "Boulez, Pierre",2nd Piano Sonata,1948,0,7,1,6,11,3,5,8,9,10,4,2
 "Boulez, Pierre","2nd Piano Sonata, mvt II, Section 1",1948,0,2,1,11,3,9,8,10,7,6,5,4
 "Boulez, Pierre",3rd Piano Sonata,1957,0,1,7,2,4,3,6,8,5,10,9,11
@@ -79,9 +79,9 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Boulez, Pierre","Le Soleil des eaux, series I",1965,0,6,10,2,5,1,7,11,3,4,8,9
 "Boulez, Pierre","Le Soleil des eaux, series II",1965,0,6,10,2,5,1,4,7,11,8,3,9
 "Boulez, Pierre","Le Soleil des eaux, series III",1965,0,11,7,2,6,5,4,8,10,1,3,9
-"Boulez, Pierre",Notations,1945ff.,0,2,7,6,1,8,4,9,5,11,10,3
-"Boulez, Pierre",Pli selon pli,"1958, 67, 71",0,1,8,6,7,9,4,5,11,3,2,10
-"Boulez, Pierre",Sonatine,1946/49,0,1,5,11,4,8,9,3,10,2,7,6
+"Boulez, Pierre",Notations,1945-,0,2,7,6,1,8,4,9,5,11,10,3
+"Boulez, Pierre",Pli selon pli,"1958,67,71",0,1,8,6,7,9,4,5,11,3,2,10
+"Boulez, Pierre",Sonatine,"1946,49",0,1,5,11,4,8,9,3,10,2,7,6
 "Boulez, Pierre",Structures Ia,1952,0,11,6,5,4,3,1,10,9,7,2,8
 "Britten, Benjamin","Missa Brevis in D, Op. 63",1959,0,5,2,9,10,3,6,1,4,11,8,7
 "Britten, Benjamin",The Turn of the Screw,1954,0,5,2,7,4,9,6,11,8,1,10,3
@@ -100,7 +100,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Carter, Elliott",Variations for Orchestra (sketch),1955,0,8,4,9,11,2,1,5,10,3,6,7
 "Copland, Aaron","Connotations, row 1",1962,0,1,3,6,2,9,8,5,10,4,11,7
 "Copland, Aaron","Connotations, row 2",1962,0,7,9,6,2,3,8,11,10,4,5,1
-"Copland, Aaron","Inscape (""Row 2"")",1967,0,7,3,9,2,4,6,10,5,8,11,1
+"Copland, Aaron","Inscape, (""Row 2"")",1967,0,7,3,9,2,4,6,10,5,8,11,1
 "Copland, Aaron","Inscape, (""Y form"" or ""Row 1"")",1967,0,4,3,11,2,7,6,8,10,9,5,1
 "Copland, Aaron",Piano Fantasy,1952-57,0,7,2,10,8,3,6,4,11,9,1,5
 "Cordero, Roque","Concerto for Violin, mvt 2A",1962,0,11,6,4,7,8,5,9,3,10,1,2
@@ -109,19 +109,19 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Cordero, Roque",Sonata breve,1966,0,1,4,11,10,7,5,8,9,6,3,2
 "Cordero, Roque",Tres mensajes breves,1966,0,11,10,7,1,2,3,6,5,4,8,9
 "Cordero, Roque",Violin Concerto mvt 1-3,1962,0,11,6,4,8,7,5,1,3,2,10,9
-"Crosse, Gordon","Elegy for Small Orchestra, Op.1",1959-60/61,0,11,3,1,9,10,5,6,2,4,8,7
+"Crosse, Gordon","Elegy for Small Orchestra, Op.1",1959-61,0,11,3,1,9,10,5,6,2,4,8,7
 "Dallapiccola, Luigi","'Intermezzo' from the 'Ciaccona' (of 'Ciaccona, intermezzo e adagio')",1945,0,5,6,3,8,9,7,11,10,2,1,4
 "Dallapiccola, Luigi",An Mathilde,1955,0,1,10,4,6,5,3,9,2,8,7,11
 "Dallapiccola, Luigi",Canti di Liberazione,1951-55,0,1,5,8,10,4,3,7,9,2,11,6
 "Dallapiccola, Luigi",Cinque canti,1956,0,11,5,8,6,2,7,3,1,4,10,9
 "Dallapiccola, Luigi",Cinque fragment di Saffo No. 4,1942,0,2,8,6,7,9,10,3,1,11,4,5
 "Dallapiccola, Luigi",Commiato,1972,0,6,5,3,9,11,10,8,7,1,2,4
-"Dallapiccola, Luigi",Dialoghi,1959-1960,0,1,10,2,6,4,5,3,7,11,8,9
+"Dallapiccola, Luigi",Dialoghi,1959-60,0,1,10,2,6,4,5,3,7,11,8,9
 "Dallapiccola, Luigi","Due studi, 'Fanfare'",1951,0,1,7,9,10,3,4,2,8,11,6,5
 "Dallapiccola, Luigi",Goethe-Lieder No.2,1953,0,1,11,9,3,8,6,7,2,5,4,10
 "Dallapiccola, Luigi","Il Prigioniero, ""Hope""",1949,0,1,2,3,11,5,4,10,6,7,9,8
 "Dallapiccola, Luigi","Il Prigioniero, ""Liberty""",1949,0,2,5,8,10,1,3,6,9,11,4,7
-"Dallapiccola, Luigi",Il prigioniero,1944-8,0,3,6,11,9,2,1,7,8,4,5,10
+"Dallapiccola, Luigi",Il prigioniero,1944-48,0,3,6,11,9,2,1,7,8,4,5,10
 "Dallapiccola, Luigi",Job,1950,0,1,5,7,8,11,2,10,4,6,9,3
 "Dallapiccola, Luigi",Liriche greche c: Sex Carmina Alcaei,1943,0,3,5,6,2,9,8,7,4,1,10,11
 "Dallapiccola, Luigi",Piccola musica notturna,1954,0,9,1,3,4,11,2,8,7,5,10,6
@@ -131,8 +131,8 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Dallapiccola, Luigi","Quattro liriche di Antonio Machado, ii",1948,0,1,4,6,7,9,10,11,2,3,5,8
 "Dallapiccola, Luigi",Requiescant,1957-58,0,2,1,3,4,6,7,9,8,10,5,11
 "Dallapiccola, Luigi",Sicut umbra,1970,0,1,2,8,6,5,3,9,4,7,10,11
-"Dallapiccola, Luigi","Tempus, 'Exhortatio'",1970-1,0,11,9,3,5,6,4,7,8,2,1,10
-"Dallapiccola, Luigi","Tempus, 'Ploratus'",1970-1,0,1,7,6,10,4,3,2,5,11,9,8
+"Dallapiccola, Luigi","Tempus, 'Exhortatio'",1970-71,0,11,9,3,5,6,4,7,8,2,1,10
+"Dallapiccola, Luigi","Tempus, 'Ploratus'",1970-71,0,1,7,6,10,4,3,2,5,11,9,8
 "Dallapiccola, Luigi",Tre poemi,1948,0,8,9,6,3,1,2,11,7,5,4,10
 "Dallapiccola, Luigi",Variazioni per orchestra,1954,0,1,5,8,10,4,3,7,9,2,11,6
 "Davies, Peter Maxwell","Five Pieces for Piano, Op. 2, No. 1",1956,0,6,11,10,1,3,5,8,7,2,4,9
@@ -162,20 +162,20 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Eisler, Hanns","Chamber Symphony / Film music for ""White Flood"", row 1",1940,0,1,2,3,11,7,6,5,9,8,10,4
 "Eisler, Hanns","Chamber Symphony / Film music for ""White Flood"", row 2",1940,0,8,2,10,11,5,6,1,4,9,7,3
 "Eisler, Hanns",Der Zweck der Musik,1939,0,2,4,5,7,9,6,8,10,11,1,3
-"Eisler, Hanns","Deutsche Symphonie, Mvt. 4",1936-1947,0,10,5,6,11,7,1,4,2,8,9,3
-"Eisler, Hanns","Deutsche Symphonie, Mvt. 5",1936-1947,0,1,3,5,8,9,6,11,10,4,2,7
-"Eisler, Hanns","Deutsche Symphonie, Mvt. 7",1936-1947,0,11,8,5,2,1,4,3,10,7,6,9
-"Eisler, Hanns","Deutsche Symphonie, Mvt. 8",1936-1947,0,3,1,11,2,10,8,9,6,7,5,4
-"Eisler, Hanns","Deutsche Symphonie, Mvt. 9",1936-1947,0,4,1,10,8,6,3,11,9,2,5,7
-"Eisler, Hanns","Deutsche Symphonie, Mvts. 1, 10",1936-1947,0,10,6,1,11,7,5,8,9,3,4,2
-"Eisler, Hanns","Deutsche Symphonie, Mvts. 2, 6",1936-1947,0,3,11,9,5,8,4,7,6,2,1,10
-"Eisler, Hanns","Five Pieces for Orchestra, Mvt. 1",1938-40,0,6,2,3,10,9,11,5,8,7,1,4
-"Eisler, Hanns","Five Pieces for Orchestra, Mvt. 2",1938-40,0,2,3,1,11,7,5,4,8,10,9,6
-"Eisler, Hanns","Five Pieces for Orchestra, Mvt. 3",1938-40,0,3,2,1,5,4,6,9,8,11,10,7
-"Eisler, Hanns","Five Pieces for Orchestra, Mvt. 4",1938-40,0,10,9,8,6,7,3,4,5,11,1,2
-"Eisler, Hanns","Five Pieces for Orchestra, Mvt. 5",1938-40,0,2,6,4,10,9,11,1,7,5,8,3
+"Eisler, Hanns","Deutsche Symphonie, mvt 4",1936-47,0,10,5,6,11,7,1,4,2,8,9,3
+"Eisler, Hanns","Deutsche Symphonie, mvt 5",1936-47,0,1,3,5,8,9,6,11,10,4,2,7
+"Eisler, Hanns","Deutsche Symphonie, mvt 7",1936-47,0,11,8,5,2,1,4,3,10,7,6,9
+"Eisler, Hanns","Deutsche Symphonie, mvt 8",1936-47,0,3,1,11,2,10,8,9,6,7,5,4
+"Eisler, Hanns","Deutsche Symphonie, mvt 9",1936-47,0,4,1,10,8,6,3,11,9,2,5,7
+"Eisler, Hanns","Deutsche Symphonie, mvts 1, 10",1936-47,0,10,6,1,11,7,5,8,9,3,4,2
+"Eisler, Hanns","Deutsche Symphonie, mvts 2, 6",1936-47,0,3,11,9,5,8,4,7,6,2,1,10
+"Eisler, Hanns","Five Pieces for Orchestra, mvt 1",1938-40,0,6,2,3,10,9,11,5,8,7,1,4
+"Eisler, Hanns","Five Pieces for Orchestra, mvt 2",1938-40,0,2,3,1,11,7,5,4,8,10,9,6
+"Eisler, Hanns","Five Pieces for Orchestra, mvt 3",1938-40,0,3,2,1,5,4,6,9,8,11,10,7
+"Eisler, Hanns","Five Pieces for Orchestra, mvt 4",1938-40,0,10,9,8,6,7,3,4,5,11,1,2
+"Eisler, Hanns","Five Pieces for Orchestra, mvt 5",1938-40,0,2,6,4,10,9,11,1,7,5,8,3
 "Eisler, Hanns","Gegen den Krieg, Op. 55",1936,0,3,2,5,4,7,6,8,9,10,1,11
-"Eisler, Hanns","Kleine Symphonie, Op. 29, Mvt. 1",1931,0,10,11,8,5,4,1,2,3,9,7,6
+"Eisler, Hanns","Kleine Symphonie, Op. 29, mvt 1",1931,0,10,11,8,5,4,1,2,3,9,7,6
 "Eisler, Hanns","Man lebt von einem Tage zu dem andern (""Kantate im Exil"")",1937,0,10,11,3,1,8,7,4,2,6,9,5
 "Eisler, Hanns","Nonet (No. 1) / Film music for ""The Living Land""",1939,0,3,5,7,10,4,2,9,8,6,11,1
 "Eisler, Hanns","Palmström, Op. 5, No. 2",1924-25,0,1,11,7,10,8,6,4,2,5,3,9
@@ -190,7 +190,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Eisler, Hanns","Sonata for violin and piano (""Reisesonate"")",1937,0,5,9,4,2,3,1,11,10,6,7,8
 "Eisler, Hanns","Sonatina for Piano (""Gradus ad parnassum""), Op. 44",1934,0,2,3,5,7,8,11,10,9,1,6,4
 "Eisler, Hanns",String Quartet,1938,0,9,3,2,11,1,4,5,10,7,8,6
-"Eisler, Hanns","Suite for Orchestra No. 1, Mvt. 4",1930,0,4,2,3,1,11,7,10,9,8,6,5
+"Eisler, Hanns","Suite for Orchestra No. 1, mvt 4",1930,0,4,2,3,1,11,7,10,9,8,6,5
 "Eisler, Hanns",Variations for Piano,1941,0,3,10,6,5,8,1,11,2,4,7,9
 "Eisler, Hanns","Vierzehn Arten den Regen zu beschreiben / Film music for ""Regen""",1941,0,6,7,4,5,3,2,1,11,9,10,8
 "Eisler, Hanns","Zwei Elegien, No. 1 (""In die Städte kam ich"")",1937,0,10,5,1,2,7,6,8,9,3,4,11
@@ -205,7 +205,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Finney, Ross Lee",Sonata Quasi una Fantasia,1961,0,1,3,2,4,5,6,7,9,8,10,11
 "Frankel, Benjamin",The Curse of the Werewolf,1961,0,3,2,1,4,8,11,5,10,7,6,9
 "Gerhard, Roberto",Capriccio for Solo Flute,1949,0,11,9,3,1,10,8,6,4,7,2,5
-"Gerhard, Roberto",Chaconne for Unaccompanied Violin,"1959,",0,11,4,2,1,3,9,10,8,6,5,7
+"Gerhard, Roberto",Chaconne for Unaccompanied Violin,1959,0,11,4,2,1,3,9,10,8,6,5,7
 "Gerhard, Roberto",Concert for 8,1962,0,8,11,2,1,4,9,6,3,10,5,7
 "Gerhard, Roberto","Concerto for Harpsichord, String Orchestra, and Percussion",1955-56,0,2,8,7,11,5,1,4,3,6,9,10
 "Gerhard, Roberto",Concerto for Piano and String Orchestra,1951,0,4,1,11,10,3,6,5,9,8,2,7
@@ -242,15 +242,16 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Ginastera, Alberto","Quintet, Op. 29, Row Class VII S",1963,0,11,1,10,2,9,3,8,4,7,5,6
 "Ginastera, Alberto","Quintet, Op. 29, mvt.III",1963,0,7,3,10,2,6,9,1,4,8,11,5
 "Ginastera, Alberto","Sonata for Cello and Piano, Op. 49",1979,0,3,2,1,10,11,8,9,5,4,7,6
-"Ginastera, Alberto","Sonata for Guitar, Op.47, mvts. II and III, Row Class II 1",1976,0,11,10,9,8,7,6,5,4,3,2,1
-"Ginastera, Alberto","Sonata for Guitar, Op.47, mvts. II and III, Row Class II 2",1976,0,3,6,9,2,5,8,11,4,7,10,1
-"Ginastera, Alberto","Sonata for Guitar, Op.47, mvts. II and III, Row Class II 3",1976,0,9,3,2,11,6,5,1,8,7,4,10
-"Ginastera, Alberto","Sonata for Guitar, Op.47, mvts. II and III, Row Class II 4",1976,0,2,1,5,3,4,7,8,6,10,9,11
-"Ginastera, Alberto","Sonata for Guitar, Op.47, mvts. II and III, Row Class II 5",1976,0,7,1,6,4,11,5,10,8,3,9,2
-"Ginastera, Alberto","Sonata for Guitar, Op.47, mvts. II and III, Row Class II 6",1976,0,11,4,3,8,7,1,2,9,10,5,6
-"Ginastera, Alberto","Sonata for Guitar, Op.47, mvts. II and III, Row Class II 7",1976,0,9,10,11,8,7,6,3,4,5,2,1
+"Ginastera, Alberto","Sonata for Guitar, Op.47, mvts II and III, Row Class II 1",1976,0,11,10,9,8,7,6,5,4,3,2,1
+"Ginastera, Alberto","Sonata for Guitar, Op.47, mvts II and III, Row Class II 2",1976,0,3,6,9,2,5,8,11,4,7,10,1
+"Ginastera, Alberto","Sonata for Guitar, Op.47, mvts II and III, Row Class II 3",1976,0,9,3,2,11,6,5,1,8,7,4,10
+"Ginastera, Alberto","Sonata for Guitar, Op.47, mvts II and III, Row Class II 4",1976,0,2,1,5,3,4,7,8,6,10,9,11
+"Ginastera, Alberto","Sonata for Guitar, Op.47, mvts II and III, Row Class II 5",1976,0,7,1,6,4,11,5,10,8,3,9,2
+"Ginastera, Alberto","Sonata for Guitar, Op.47, mvts II and III, Row Class II 6",1976,0,11,4,3,8,7,1,2,9,10,5,6
+"Ginastera, Alberto","Sonata for Guitar, Op.47, mvts II and III, Row Class II 7",1976,0,9,10,11,8,7,6,3,4,5,2,1
+"Ginastera, Alberto","Sonata for Guitar, Op.47, mvts II and III, Row Class III",1976,0,11,7,4,2,9,3,8,10,1,5,6
+"Ginastera, Alberto","Sonata for Guitar, Op.47, mvts II and III, Row Class III S",1976,0,6,11,5,8,2,7,1,4,10,3,9
 "Ginastera, Alberto","Sonata for Guitar, Op.47, mvts. II and III, Row Class III",1976,0,11,7,4,2,9,3,8,10,1,5,6
-"Ginastera, Alberto","Sonata for Guitar, Op.47, mvts. II and III, Row Class III S",1976,0,6,11,5,8,2,7,1,4,10,3,9
 "Ginastera, Alberto","String Quartet No. 2, Op. 26",1958,0,5,11,2,8,1,9,10,7,4,3,6
 "Ginastera, Alberto","Turbae ad Passionem Gregorianam, Op. 43, mvt II",1974,0,5,1,7,6,11,8,2,3,4,9,10
 "Ginastera, Alberto","Violin Concerto, Op. 30",1963,0,11,2,3,4,1,6,5,8,9,10,7
@@ -259,11 +260,11 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Goehr, Alexander","Sonata in One Movement, Op.2",1953-55,0,2,7,1,4,10,6,9,11,8,5,3
 "Goehr, Alexander","Violin Concerto, Op. 13",1962,0,8,2,1,3,11,5,10,7,6,4,9
 "Goeyvaerts, Karel",'Opus 2 for 13 Instruments' aka 'Nummer 2',1951,0,7,6,5,8,9,4,3,10,11,2,1
-"Goeyvaerts, Karel","Sonata for Two Pianos, aka 'Opus 1', 'Nummer 1'",1950–51,0,8,1,11,10,4,6,5,2,7,3,9
+"Goeyvaerts, Karel","Sonata for Two Pianos, aka 'Opus 1', 'Nummer 1'",1950-51,0,8,1,11,10,4,6,5,2,7,3,9
 "Harrison, Lou",A Twelve-Tone Morning After to Amuse Henry,1944-45,0,2,3,4,9,8,7,10,11,6,5,1
 "Harrison, Lou",Rapunzel,1952,0,11,4,3,7,6,10,9,2,1,8,5
 "Harrison, Lou",Suite for Piano,1943,0,1,6,2,5,7,11,4,9,8,10,3
-"Harrison, Lou",Symphony on G,1947-1964,0,1,5,4,3,10,11,7,6,2,9,8
+"Harrison, Lou",Symphony on G,1947-64,0,1,5,4,3,10,11,7,6,2,9,8
 "Harrison, Lou",Untitled Piano Piece,1937,0,10,4,3,9,7,2,8,6,1,11,5
 "Hauer, Josef Matthias",Nomos,1919,0,5,7,3,9,6,11,2,8,4,1,10
 "Husa, Karel",Mosaïques,1960,0,6,4,3,2,9,10,5,7,8,11,1
@@ -283,7 +284,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Kokkonen, Joonas","Cello Concerto, mov. 2, row ""II/B""",1969,0,2,3,1,4,5,7,8,6,9,10,11
 "Kokkonen, Joonas","Cello Concerto, mov. 2, row ""II/C""",1969,0,9,11,10,7,2,6,3,5,4,1,8
 "Kokkonen, Joonas","Symphonic Sketches, mov. 3, row ""III/A""",1968,0,2,1,3,8,7,5,6,4,11,9,10
-"Kokkonen, Joonas","Woodwind Quintet, mov. 1, rows ""I/A"" and ""I/B""",1973/5,0,2,11,9,10,1,3,6,4,5,7,8
+"Kokkonen, Joonas","Woodwind Quintet, mov. 1, rows ""I/A"" and ""I/B""","1973,75",0,2,11,9,10,1,3,6,4,5,7,8
 Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Krenek, Ernst",Eight Piano Pieces,1946,0,10,1,7,6,11,5,8,3,9,2,4
 "Krenek, Ernst",Karl V,1938,0,3,1,6,2,10,9,8,11,7,5,4
@@ -313,7 +314,7 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Leibowitz, René","String Quartet no.3, Op. 26",1951,0,8,9,7,6,1,2,5,4,10,11,3
 "Leibowitz, René","Trois pièces pour piano, Op. 19",1949,0,4,3,1,2,5,6,9,10,8,7,11
 "Lewin, David","Just a Minute, Roger",1978,0,11,4,5,7,3,2,6,8,1,10,9
-"Ligeti, György",Le Grand Macabre,"1975–77,1996",0,6,5,11,10,4,9,3,2,8,7,1
+"Ligeti, György",Le Grand Macabre,"1975-77,96",0,6,5,11,10,4,9,3,2,8,7,1
 "Lutosławski, Witold",Musique Funébre (Funeral Music),1954-58,0,6,5,11,10,4,3,9,8,2,1,7
 "Lutyens, Elisabeth","Essence Of Our Happinesses Op.69, mvt II, Part I",1968,0,11,1,10,2,3,8,9,5,6,4,7
 "Lutyens, Elisabeth",Five Little Pieces for Clarinet and Piano,1945,0,8,4,1,10,2,9,3,5,6,11,7
@@ -327,7 +328,7 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Lutyens, Elisabeth","The Numbered, Primary Row",1967,0,10,11,1,2,9,3,4,8,5,7,6
 "Lutyens, Elisabeth",The Valley of Hatsu'se,1965,0,6,11,10,8,7,9,1,3,2,4,5
 "Lutyens, Elisabeth",Three Improvisations for Piano Solo,1948,0,6,9,7,8,3,4,1,10,5,11,2
-"Lutyens, Elisabeth","Time Off? Not a Ghost of a Chance!, Op.68",1967-8,0,11,1,5,2,4,9,8,3,7,6,10
+"Lutyens, Elisabeth","Time Off? Not a Ghost of a Chance!, Op.68",1967-68,0,11,1,5,2,4,9,8,3,7,6,10
 "Maderna, Bruno",Quartetto,1955,0,7,2,3,6,9,10,1,4,5,8,11
 "Mamlok, Ursula",Five Intermezzi for guitar solo,1984-90,0,3,6,11,2,5,1,10,7,4,8,9
 "Mamlok, Ursula","Haiku Settings, no. 5",1967,0,11,8,7,4,3,5,6,9,10,1,2
@@ -444,21 +445,21 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Reynolds, Roger",Ambages,1965,0,1,4,5,7,6,8,9,10,11,2,3
 "Rochberg, George",Sonata-Fantasia,1956,0,11,10,4,5,6,9,8,7,1,2,3
 "Rochberg, George",String Quartet No. 2 with soprano solo,1961,0,11,6,5,1,2,8,7,3,4,9,10
-"Rochberg, George",Symphony no. 2,1955–56,0,8,1,4,9,5,6,2,3,10,11,7
+"Rochberg, George",Symphony no. 2,1955-56,0,8,1,4,9,5,6,2,3,10,11,7
 "Rochberg, George","Twelve Bagatelles, i",1952,0,1,7,11,5,4,10,2,6,3,8,9
 "Ruggles, Carl",Evocations II (Series X),1941,0,1,7,2,8,9,11,10,5,6,4,3
-"Santoro, Claudio","A Menina Boba, ""A Menina Exausta""",1945/71,0,5,10,7,3,11,1,8,2,9,6,4
+"Santoro, Claudio","A Menina Boba, ""A Menina Exausta""","1945,71",0,5,10,7,3,11,1,8,2,9,6,4
 "Santoro, Claudio","A Menina Boba, ""Asa Ferida""",1945,0,9,10,11,3,5,4,6,2,7,8,1
 "Santoro, Claudio",Invenções a duas vozes (Two-Part inventions),1942,0,2,3,6,7,11,1,9,4,8,5,10
 "Santoro, Claudio",Peças para Piano,1943,0,11,4,5,1,9,2,3,7,8,6,10
-"Santoro, Claudio",Preludes 18–20,1963,0,9,1,3,2,8,10,4,6,5,7,11
+"Santoro, Claudio",Preludes 18-20,1963,0,9,1,3,2,8,10,4,6,5,7,11
 "Santoro, Claudio",Six Piano Pieces,1946,0,10,4,1,11,2,5,6,3,9,7,8
 "Santoro, Claudio",Sonata 1942,1942,0,2,3,6,7,11,1,9,4,8,5,10
 "Santoro, Claudio",Sonata no. 1,1945,0,10,3,8,11,1,2,9,7,4,5,6
 "Santoro, Claudio",Sonatina no. 2,1963,0,11,1,5,6,3,7,8,9,2,4,10
 "Schmid, Erich","Bagatellen for Piano, Op. 14",1943,0,1,5,2,6,7,4,8,10,3,9,11
 "Schmid, Erich","Canon (""Herrn Dr. Anton Webern in Ehrfurcht als Willkommensgruss gewidmet"")",1943,0,10,4,5,8,11,1,7,9,3,6,2
-"Schmid, Erich","Notturno, Op. 10,  Mvt. 1",1935,0,4,6,3,9,8,5,11,1,2,10,7
+"Schmid, Erich","Notturno, Op. 10,  mvt 1",1935,0,4,6,3,9,8,5,11,1,2,10,7
 "Schnittke, Alfred","Concerto Grosso No. 3, (mvt 3, 4), row 10",1985,0,3,4,11,10,1,2,9,7,8,5,6
 "Schnittke, Alfred","Concerto Grosso No. 3, (mvt 3, 4), row 6",1985,0,11,2,1,9,10,7,8,4,3,6,5
 "Schnittke, Alfred","Concerto Grosso No. 3, (mvt 3, 4), row 7",1985,0,3,11,9,10,1,4,2,7,8,5,6
@@ -472,7 +473,7 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Schnittke, Alfred","Concerto Grosso no. 1, mvt 2",1977,0,11,2,1,8,7,10,9,6,5,4,3
 "Schnittke, Alfred",Concerto No. 2 for Violin and Chamber Orchestra,1966,0,11,1,2,10,3,4,9,5,6,8,7
 "Schnittke, Alfred",Improvisation and Fugue for piano,1965,0,8,11,3,9,2,5,7,6,10,1,4
-"Schnittke, Alfred","Piano Sonata No. 1, mvt 2, mm. 72–76",1987,0,6,5,11,10,4,3,9,8,2,1,7
+"Schnittke, Alfred","Piano Sonata No. 1, mvt 2, mm. 72-76",1987,0,6,5,11,10,4,3,9,8,2,1,7
 "Schnittke, Alfred",Serenade,1968,0,1,7,3,10,9,8,6,5,11,4,2
 "Schnittke, Alfred","Sonata No. 1 for Violin and Piano, mvt 1",1963,0,3,6,10,2,11,8,5,9,1,4,7
 "Schnittke, Alfred","Sonata No. 1 for Violin and Piano, mvt 2",1963,0,3,7,10,2,11,6,9,1,4,8,5
@@ -491,9 +492,9 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Schnittke, Alfred",Violin Sonata 2,1968,0,10,11,9,6,8,7,5,4,1,2,3
 "Schoenberg, Arnold","A Survivor From Warsaw, Op. 46",1947,0,1,6,2,10,9,5,4,11,3,7,8
 "Schoenberg, Arnold","Accompaniment to a Film Scene, Op. 34",1930,0,3,11,1,10,9,6,8,7,5,2,4
-"Schoenberg, Arnold",Die Jakobsleiter,1917/1922,0,1,4,3,7,6,11,2,10,9,5,8
+"Schoenberg, Arnold",Die Jakobsleiter,"1917,22",0,1,4,3,7,6,11,2,10,9,5,8
 "Schoenberg, Arnold","Fantasy for Violin and Piano, Op. 47",1949,0,11,3,1,7,9,5,6,2,4,10,8
-"Schoenberg, Arnold","Five Piano Pieces, Op. 23, No. 5",1920/23,0,8,10,6,7,5,9,1,3,2,11,4
+"Schoenberg, Arnold","Five Piano Pieces, Op. 23, No. 5","1920,23",0,8,10,6,7,5,9,1,3,2,11,4
 "Schoenberg, Arnold","Four Pieces for Mixed Chorus, No. 1, Op. 27 No. 1",1925,0,11,8,2,1,7,9,10,4,3,5,6
 "Schoenberg, Arnold","Four Pieces for Mixed Chorus, No. 2, Op. 27 No. 2",1925,0,11,4,10,2,8,3,7,6,5,9,1
 "Schoenberg, Arnold","Four Pieces for Mixed Chorus, No. 3, Op. 27 No. 3",1925,0,11,7,9,10,8,4,5,1,3,2,6
@@ -501,7 +502,7 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Schoenberg, Arnold",Fragment for Piano (Four Hands),Year unknown,0,3,6,1,7,8,2,5,11,4,10,9
 "Schoenberg, Arnold",Israel Exists Again,1949,0,3,4,9,11,5,2,1,10,8,6,7
 "Schoenberg, Arnold","Modern Psalms, The First Psalm, Op. 50c",1950,0,11,8,4,7,3,1,5,2,6,9,10
-"Schoenberg, Arnold",Moses und Aron,1930-1932,0,1,7,5,6,4,10,8,9,11,2,3
+"Schoenberg, Arnold",Moses und Aron,1930-32,0,1,7,5,6,4,10,8,9,11,2,3
 "Schoenberg, Arnold","Ode To Napoleon Buonaparte, Op. 41 (view 1)",1942,0,11,3,4,8,7,2,1,5,6,10,9
 "Schoenberg, Arnold","Ode To Napoleon Buonaparte, Op. 41 (view 2)",1942,0,1,9,8,4,5,7,6,10,11,3,2
 "Schoenberg, Arnold",Phantasia for Piano (Four Hands),Year unknown,0,4,2,5,3,7,11,10,1,8,9,6
@@ -529,7 +530,7 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Schoenberg, Arnold","Two Piano Pieces, No. 1, Op. 33a",1928,0,7,2,1,11,8,3,5,9,10,4,6
 "Schoenberg, Arnold","Two Piano Pieces, No. 2, Op. 33b",1931,0,2,6,4,10,9,7,11,8,5,1,3
 "Schoenberg, Arnold","Variations for Orchestra, Op. 31",1926-28,0,6,8,5,7,11,4,3,9,10,1,2
-"Schoenberg, Arnold","Violin Concerto, Op. 36",1934/36,0,1,6,2,7,9,3,4,10,11,5,8
+"Schoenberg, Arnold","Violin Concerto, Op. 36","1934,36",0,1,6,2,7,9,3,4,10,11,5,8
 "Schoenberg, Arnold","Violin Phantasy, Op. 47",1949,0,11,3,1,7,9,6,2,10,5,8,4
 "Schoenberg, Arnold","Von Heute Auf Morgen, Op. 32",1929,0,1,7,11,9,3,6,5,2,10,8,4
 "Schoenberg, Arnold","Wind Quintet, Op. 26",1923-24,0,4,6,8,10,9,7,11,1,3,5,2
@@ -546,10 +547,10 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Schwantner, Joseph","Wild Angels of the Open Hills, 2, ""Angels of the Shadowed Ancient Land,"" m. 11",1977,0,11,3,2,10,9,5,4,1,7,8,6
 "Schwantner, Joseph","Wild Angels of the Open Hills, 2, ""Angels of the Shadowed Ancient Land,"" m. 21",1977,0,8,9,11,3,7,6,5,2,4,10,1
 "Searle, Humphrey",Toccata alla Passacaglia Op. 31,1957,0,5,6,1,10,7,9,8,3,2,4,11
-"Seiber, Mátyás",Concert Piece for Violin and Piano,1953-4,0,1,7,6,11,10,4,5,9,8,2,3
+"Seiber, Mátyás",Concert Piece for Violin and Piano,1953-54,0,1,7,6,11,10,4,5,9,8,2,3
 "Seiber, Mátyás",Sonata for Violin and Piano,1960,0,1,11,10,7,6,8,9,4,3,5,2
-"Seiber, Mátyás",String Quartet no. 2,1934-5,0,2,3,1,4,11,5,10,7,9,8,6
-"Seiber, Mátyás","String Quartet no. 2, mvt 3",1934-5,0,2,3,1,4,9,5,11,10,7,6,8
+"Seiber, Mátyás",String Quartet no. 2,1934-35,0,2,3,1,4,11,5,10,7,9,8,6
+"Seiber, Mátyás","String Quartet no. 2, mvt 3",1934-35,0,2,3,1,4,9,5,11,10,7,6,8
 "Sessions, Roger","Piano Sonata no. 3, mvt 2",1965,0,1,5,4,8,2,11,10,6,7,3,9
 "Sessions, Roger","Piano Sonata no. 3, mvt.1",1965,0,9,1,10,4,11,8,5,3,6,2,7
 "Sessions, Roger",When Lilacs Last in the Dooryard Bloom'd,1970,0,2,4,10,5,8,9,1,11,7,6,3
@@ -606,7 +607,7 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Stockhausen, Karlheinz",Klavierstück X,1954-55,0,8,1,10,9,11,5,3,4,7,2,6
 "Stockhausen, Karlheinz",Kreuzspiel,1951,0,10,9,11,7,2,8,1,4,6,5,3
 "Stockhausen, Karlheinz","Licht, Eve formula",1977-2003,0,4,3,2,5,6,10,11,9,1,7,8
-"Stockhausen, Karlheinz",Plus-Minus,1963 (rev. 1974),0,1,7,9,8,6,3,10,2,5,11,4
+"Stockhausen, Karlheinz",Plus-Minus,"1963,74",0,1,7,9,8,6,3,10,2,5,11,4
 "Stockhausen, Karlheinz","Tierkreis, Aquarius",1974-75,0,3,5,4,11,10,9,8,7,6,2,1
 "Stockhausen, Karlheinz","Tierkreis, Aries",1974-75,0,3,2,9,7,8,11,6,1,5,4,10
 "Stockhausen, Karlheinz","Tierkreis, Cancer",1974-75,0,7,11,10,9,8,3,6,4,1,5,2
@@ -617,8 +618,8 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Stockhausen, Karlheinz","Tierkreis, Scorpio",1974-75,0,4,3,11,7,8,10,9,2,5,1,6
 "Stravinsky, Igor","A Sermon, a Narrative and a Prayer",1961,0,1,9,11,10,7,8,3,4,6,5,2
 "Stravinsky, Igor",Abraham & Isaac,1963,0,1,3,5,6,2,4,8,7,9,11,10
-"Stravinsky, Igor","Agon, ""Double Pas-de-Deux""",1953-7,0,11,1,2,9,8,10,7,5,6,4,3
-"Stravinsky, Igor","Agon, ""Pas de deux"", ""Four trios""",1953-7,0,1,4,3,2,5,6,9,8,11,10,7
+"Stravinsky, Igor","Agon, ""Double Pas-de-Deux""",1953-57,0,11,1,2,9,8,10,7,5,6,4,3
+"Stravinsky, Igor","Agon, ""Pas de deux"", ""Four trios""",1953-57,0,1,4,3,2,5,6,9,8,11,10,7
 "Stravinsky, Igor","Anthem ""The dove descending breaks the air""",1962,0,4,2,5,7,8,10,9,11,1,6,3
 "Stravinsky, Igor","Canticum Sacrum, II",1955,0,11,9,6,10,8,7,5,2,4,3,1
 "Stravinsky, Igor","Canticum Sacrum, II & IV",1955,0,11,1,3,4,2,7,6,9,5,8,10
@@ -639,33 +640,46 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Talma, Louise","Piano Sonata 2, mvt 4, first row",1955,0,4,8,2,5,10,1,11,6,9,7,3
 "Talma, Louise","Piano Sonata 2, mvt 4, second row",1955,0,9,4,1,3,8,5,7,2,11,10,6
 "Talma, Louise","Seven Episodes for flute, viola and piano",1986-87,0,9,11,4,6,3,8,1,10,2,5,7
-"Talma, Louise","Six Etudes, Etude 1",1953-1954,0,3,6,8,10,2,5,7,9,1,11,4
-"Talma, Louise","Six Etudes, Etude 2",1953-1954,0,3,9,5,11,2,8,4,10,6,1,7
+"Talma, Louise","Six Etudes, Etude 1",1953-54,0,3,6,8,10,2,5,7,9,1,11,4
+"Talma, Louise","Six Etudes, Etude 2",1953-54,0,3,9,5,11,2,8,4,10,6,1,7
 "Talma, Louise","Six Etudes, Etude 3",1954,0,8,11,9,4,6,3,5,2,1,7,10
-"Talma, Louise","Six Etudes, Etude 4",1953-1954,0,1,5,9,4,8,7,6,11,2,10,3
-"Talma, Louise","Six Etudes, Etude 5",1953-1954,0,4,6,11,8,3,9,1,5,7,2,10
-"Talma, Louise","Six Etudes, Etude 6",1953-1954,0,8,6,9,4,5,2,1,3,10,7,11
+"Talma, Louise","Six Etudes, Etude 4",1953-54,0,1,5,9,4,8,7,6,11,2,10,3
+"Talma, Louise","Six Etudes, Etude 5",1953-54,0,4,6,11,8,3,9,1,5,7,2,10
+"Talma, Louise","Six Etudes, Etude 6",1953-54,0,8,6,9,4,5,2,1,3,10,7,11
 "Talma, Louise","Soundshots, ""Whirring Pin Wheels""",1974,0,2,5,1,10,11,7,8,9,6,3,4
 "Talma, Louise","Three Bagatelles, Bagatelle 1",1955,0,1,3,5,10,4,9,7,2,6,11,8
 "Talma, Louise","Three Bagatelles, Bagatelle 2",1955,0,8,1,2,7,4,10,11,3,6,9,5
 "Talma, Louise","Three Bagatelles, Bagatelle 3",1955,0,3,4,1,5,8,10,7,2,11,6,9
-"Volkonsky, Andrei","Musica Stricta, mvt 2, row A",1956–7,0,6,8,9,11,10,1,7,2,3,5,4
-"Volkonsky, Andrei","Musica Stricta, mvt 2, row B",1956–7,0,3,1,4,11,6,5,10,7,2,8,9
-"Volkonsky, Andrei","Musica Stricta, mvt 2, row C",1956–7,0,10,11,9,4,5,7,2,1,3,6,8
-"Volkonsky, Andrei","Musica Stricta, mvt 2, row D",1956–7,0,4,9,2,8,10,11,1,3,7,5,6
-"Volkonsky, Andrei","Musica Stricta, mvt 3, row E",1956–7,0,4,9,5,10,1,2,6,7,8,11,3
-"Volkonsky, Andrei","Musica Stricta, mvt 3, row F",1956–7,0,1,9,3,5,6,7,11,10,8,4,2
-"Volkonsky, Andrei","Musica Stricta, mvt 4, row G",1956–7,0,6,5,4,3,2,1,11,9,10,8,7
-"Volkonsky, Andrei","Musica Stricta, mvt 4, row H",1956–7,0,6,4,9,8,2,7,1,11,5,10,3
+"Tranchell, Peter",Dodecafonia [no.6 for piano],1950,0,1,3,4,5,7,8,10,11,2,6,9
+"Tranchell, Peter","Piano piece for Carl Dawson (unfinished), 1A",1950s?,0,10,9,1,4,8,7,2,5,11,3,6
+"Tranchell, Peter","Piano piece for Carl Dawson (unfinished), 2A",1950s?,0,11,9,5,6,7,10,8,3,2,1,4
+"Tranchell, Peter","Piano piece for Carl Dawson (unfinished), 3",1950s?,0,10,8,4,3,6,5,11,9,1,2,7
+"Tranchell, Peter","Piano piece for Carl Dawson (unfinished), 4",1950s?,0,7,6,1,3,4,2,11,9,5,10,8
+"Tranchell, Peter","Piano piece for Carl Dawson (unfinished), 5",1950s?,0,4,3,10,6,9,1,5,2,8,11,7
+"Tranchell, Peter","Piano piece for Carl Dawson (unfinished), 6",1950s?,0,8,3,6,4,9,10,5,7,1,11,2
+"Tranchell, Peter","Piano piece for Carl Dawson (unfinished), 7",1950s?,0,2,11,8,5,3,10,9,1,7,6,4
+"Tranchell, Peter","Piano piece for Carl Dawson (unfinished), 8",1950s?,0,4,3,11,6,8,2,9,10,7,1,5
+"Tranchell, Peter","Septet : [for] 2 violins, oboe, clarinet, horn, bassoon, cello : fifth dodecafonia",1940s?,0,2,1,10,3,4,11,6,5,9,8,7
+"Tranchell, Peter",Twice a Kiss sketch 1,1950/03/18,0,9,1,2,4,8,5,7,10,6,3,11
+"Tranchell, Peter",Twice a Kiss sketch 2,1950/03/18,0,9,1,2,4,8,3,11,5,6,7,10
+"Tranchell, Peter",Twice a Kiss sketch 3,1950/03/18,0,1,2,4,8,9,7,5,3,6,10,11
+"Volkonsky, Andrei","Musica Stricta, mvt 2, row A",1956-57,0,6,8,9,11,10,1,7,2,3,5,4
+"Volkonsky, Andrei","Musica Stricta, mvt 2, row B",1956-57,0,3,1,4,11,6,5,10,7,2,8,9
+"Volkonsky, Andrei","Musica Stricta, mvt 2, row C",1956-57,0,10,11,9,4,5,7,2,1,3,6,8
+"Volkonsky, Andrei","Musica Stricta, mvt 2, row D",1956-57,0,4,9,2,8,10,11,1,3,7,5,6
+"Volkonsky, Andrei","Musica Stricta, mvt 3, row E",1956-57,0,4,9,5,10,1,2,6,7,8,11,3
+"Volkonsky, Andrei","Musica Stricta, mvt 3, row F",1956-57,0,1,9,3,5,6,7,11,10,8,4,2
+"Volkonsky, Andrei","Musica Stricta, mvt 4, row G",1956-57,0,6,5,4,3,2,1,11,9,10,8,7
+"Volkonsky, Andrei","Musica Stricta, mvt 4, row H",1956-57,0,6,4,9,8,2,7,1,11,5,10,3
 "Walton, William",Symphony No. 2,1957-60,0,3,7,8,2,11,6,5,9,10,4,1
 "Weber, Ben","Fantasia (Variations), Op. 25",1946,0,1,5,9,10,2,6,11,7,4,3,8
-"Weber, Ben","Five Bagatelles for Piano, Op.2, mvt. ii",1939,0,1,2,9,6,7,4,8,5,11,10,3
-"Weber, Ben","Five Bagatelles for Piano, Op.2, mvt. iii",1939,0,4,10,1,5,9,6,11,3,8,2,7
-"Weber, Ben","Five Bagatelles for Piano, Op.2, mvt. iv",1939,0,6,8,3,4,5,2,7,9,1,10,11
-"Weber, Ben","Five Bagatelles for Piano, Op.2, mvt. v",1939,0,9,1,8,2,7,3,5,6,4,11,10
+"Weber, Ben","Five Bagatelles for Piano, Op.2, mvt ii",1939,0,1,2,9,6,7,4,8,5,11,10,3
+"Weber, Ben","Five Bagatelles for Piano, Op.2, mvt iii",1939,0,4,10,1,5,9,6,11,3,8,2,7
+"Weber, Ben","Five Bagatelles for Piano, Op.2, mvt iv",1939,0,6,8,3,4,5,2,7,9,1,10,11
+"Weber, Ben","Five Bagatelles for Piano, Op.2, mvt v",1939,0,9,1,8,2,7,3,5,6,4,11,10
 "Weber, Ben","Humoreske, Op. 49",1958,0,2,4,5,7,10,1,11,9,8,6,3
 "Weber, Ben",Intermezzo,1972,0,4,11,9,8,3,6,1,2,5,10,7
-"Weber, Ben","Lyric Piece, Op.40a",1953-4,0,1,5,4,10,2,8,6,3,9,7,11
+"Weber, Ben","Lyric Piece, Op.40a",1953-54,0,1,5,4,10,2,8,6,3,9,7,11
 "Webern, Anton","2 Lieder, ""Weiss Wie Lilien"", Op. 19, No. 1",1925-26,0,3,11,10,8,2,1,6,7,4,9,5
 "Webern, Anton","2 Lieder, ""Ziehn Die Schafe"", Op. 19, No. 2",1925-26,0,8,1,10,11,4,3,9,7,6,2,5
 "Webern, Anton","3 Lieder, ""Ave, Regina Coelorum"", Op. 18, No. 3",1925,0,11,3,2,1,7,6,10,9,8,5,4
