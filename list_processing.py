@@ -376,7 +376,7 @@ class ListTester(unittest.TestCase):
 
     def testSources(self):
         s = getSources()
-        self.assertEqual(s[0], 'Alegant+2006')
+        self.assertEqual(s[0], 'Ahrend2006')
         self.assertEqual(len(s), 132)
         # Note: this ^ includes the 'New' tag. Otherwise matches the 131 entries in the bib file.
 
@@ -385,3 +385,4 @@ class ListTester(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
