@@ -2322,7 +2322,7 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Copland,_Aaron_-_Inscape_(\"Row_2\")": {
+    "Copland,_Aaron_-_Inscape,_(\"Row_2\")": {
         "P0": [
             0,
             7,
@@ -2339,7 +2339,7 @@
         ],
         "Original": 5,
         "Composer": "Copland, Aaron",
-        "Work": "Inscape (\"Row 2\")",
+        "Work": "Inscape, (\"Row 2\")",
         "Year": "1967",
         "Source": "Behrens2013, Ex. 4.2; Ensign2010, Appendix, \"row 2\"",
         "Note": "Ensign2010 initially (p.13) has this with 11 pitches, missing the 9th pitch in the sequence (pc5)",
