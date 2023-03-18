@@ -351,6 +351,30 @@ def fullCombinatorialTypes(row: Union[List, Tuple],
         return outDict
 
 
+def appearsInCorpus(
+        query_row: list
+) -> dict:
+    """
+    Seek instances of the same in the corpus.
+    Returns a dict based on the corpus entry with the relationship to the query row
+    """
+    import json
+
+    query_row = transformations.transposeTo(query_row)
+
+    with open('Repertoire_Anthology/rows_in_the_repertoire.json') as f:
+        data = json.load(f)
+        for entry in data:
+            p0 = data[entry]["P0"]
+            i0 = transformations.transposeTo(transformations.invert(p0))
+            r0 = transformations.transposeTo(transformations.retrograde(p0))
+            ri0 = transformations.transposeTo(transformations.retrograde(i0))
+
+            for r in (p0, i0, r0, ri0):
+                if r == query_row:
+                    continue
+
+
 # ------------------------------------------------------------------------------
 
 class SerialTester(unittest.TestCase):
