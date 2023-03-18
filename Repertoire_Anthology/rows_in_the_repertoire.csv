@@ -1,10 +1,14 @@
 Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
+"Adorno, Theodor W.",Totenlied auf den Kater,1933/1932,0,7,6,3,11,5,8,4,10,9,1,2
+"Apostel, Hans Erich",Fischerhaus-Serenade op. 45.,1971,0,4,8,3,11,7,1,9,5,2,10,6
 "Argento, Dominick","A Water Bird Talk, Bird Row",1974-76,0,7,2,1,10,9,3,8,5,4,11,6
 "Argento, Dominick","A Water Bird Talk, Lecturer Row",1974-76,0,9,5,10,2,6,3,11,8,4,1,7
 "Argento, Dominick",Evensong: Of Love and Angels,2007,0,11,9,8,5,3,4,1,2,7,10,6
 "Argento, Dominick",From the Diary of Virginia Woolf,1974,0,7,6,2,11,5,3,1,8,9,4,10
 "Argento, Dominick",Miss Havisham's Wedding Night,1979,0,2,7,11,10,1,6,5,3,4,8,9
+"Atterberg, Kurt",Symphony 9 [Bbm] Op54 'Sinfonia visionaria',56/1955,0,1,5,6,7,4,8,11,10,9,2,3
 "Babbitt, Milton",All Set,1957,0,4,5,11,6,10,7,3,1,2,9,8
+"Babbitt, Milton",Arie da Capo,1974,0,7,8,6,2,1,10,5,11,9,4,3
 "Babbitt, Milton",Composition for Four Instruments,1948,0,3,11,2,10,1,7,4,8,5,9,6
 "Babbitt, Milton","Composition for Four Instruments, row i",1948,0,10,9,8,7,5,11,1,2,3,4,6
 "Babbitt, Milton","Composition for Four Instruments, row ii",1948,0,9,11,2,4,1,7,10,8,5,3,6
@@ -16,19 +20,30 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Babbitt, Milton",Composition for Viola and Piano,1950,0,3,4,8,11,7,9,2,1,5,10,6
 "Babbitt, Milton","Du, row i",1951,0,9,2,10,11,1,7,5,4,8,3,6
 "Babbitt, Milton","Du, row ii",1956,0,5,2,10,9,7,1,3,4,8,11,6
+"Babbitt, Milton",Groupwise,1983,0,5,4,6,10,11,2,9,3,1,8,7
+"Babbitt, Milton",My Complements to Roger,1978,0,3,7,8,11,4,2,6,1,9,10,5
+"Babbitt, Milton",My Ends Are My Beginnings,1978,0,11,4,8,7,3,5,6,9,2,10,1
+"Babbitt, Milton",Paraphrases,1979,0,11,3,10,8,1,7,5,4,6,2,9
 "Babbitt, Milton",Partitions,1957,0,7,9,10,2,11,5,8,4,3,1,6
 "Babbitt, Milton",Philomel,1964,0,1,11,3,8,6,9,10,5,4,7,2
+"Babbitt, Milton",Philomel (alternative view),1964,0,11,1,9,4,6,3,2,7,8,5,10
+"Babbitt, Milton",Post-Partions,1966,0,5,10,9,1,6,11,8,4,2,7,3
 "Babbitt, Milton",Relata I,1965,0,1,11,2,10,3,9,8,4,6,7,5
 "Babbitt, Milton",Relata II,1968,0,1,11,2,10,3,9,8,4,6,7,5
 "Babbitt, Milton",Semi-simple variations,1956,0,8,1,10,9,11,5,3,4,7,2,6
 "Babbitt, Milton",Sounds and Words,1960,0,9,2,4,8,3,11,10,1,7,5,6
+"Babbitt, Milton",String Quartet No. 4.,1970,0,2,9,7,11,10,1,8,4,3,5,6
 "Babbitt, Milton","String Quartet, No.2",1954,0,3,11,4,1,2,8,10,5,9,7,6
 "Babbitt, Milton","String Quartet, No.3",1970,0,11,6,7,5,1,10,2,9,3,4,8
+"Babbitt, Milton",Tableaux,1972,0,11,4,6,10,5,2,1,7,9,8,3
+"Babbitt, Milton",The Crowded Air,1988,0,8,5,7,10,6,11,1,9,3,2,4
 "Babbitt, Milton",The Widow's Lament in Springtime,1951,0,11,9,2,10,7,1,4,8,3,5,6
 "Babbitt, Milton","Three Compositions for Piano, no. I",1947,0,5,7,4,2,3,9,1,8,11,10,6
 "Babbitt, Milton",Two Sonnets of Gerard Manley Hopkins,1955,0,2,3,4,7,5,11,6,10,9,8,1
 "Babbitt, Milton",Vision and Prayer,1961,0,11,8,3,7,4,10,9,2,6,1,5
 "Babbitt, Milton",Woodwind Quartet,1953,0,3,1,2,11,10,8,9,5,7,6,4
+"Bach, Johann Sebastian",Chromatische Fantasie,1717 (?),0,3,6,9,11,2,5,8,10,1,4,7
+"Badger, Christine","aleatoric row, at 17:14; Graz.",2013/2/5,0,2,6,11,3,4,5,7,10,1,9,8
 "Baker, David","“Status Symbol” from ""The Black Experience""",1973,0,3,4,7,8,11,1,10,9,6,5,2
 "Barber, Samuel","Piano Sonata, Op. 26",1949,0,8,4,11,3,7,1,9,5,10,2,6
 "Bartók, Béla",String Quartet No. 4,1928,0,5,6,11,4,9,10,3,8,1,2,7
@@ -68,6 +83,8 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Berio, Luciano",Chamber Music,1953,0,9,3,5,7,10,2,11,4,6,8,1
 "Berio, Luciano",Cinque Variazioni,1952-53,0,2,4,1,3,5,8,10,6,7,9,11
 "Berio, Luciano",Sequenza I,1958,0,11,10,9,8,7,4,6,5,3,1,2
+"Bischof, Rainer",'Und so sink ich leise in mich selbst hinein'. Österreichischer Liederzyklus für Mezzosopran und Violine op. 17.,1982-1983,0,6,5,11,4,9,3,2,8,7,1,10
+"Bischof, Rainer",Sonatine für Klarinette solo op. 1.,1969,0,5,4,10,6,7,1,9,11,2,8,3
 "Boulez, Pierre",1st Piano Sonata,"1946,49",0,8,11,9,10,5,6,4,3,1,2,7
 "Boulez, Pierre",2nd Piano Sonata,1948,0,7,1,6,11,3,5,8,9,10,4,2
 "Boulez, Pierre","2nd Piano Sonata, mvt II, Section 1",1948,0,2,1,11,3,9,8,10,7,6,5,4
@@ -85,6 +102,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Boulez, Pierre",Structures Ia,1952,0,11,6,5,4,3,1,10,9,7,2,8
 "Britten, Benjamin","Missa Brevis in D, Op. 63",1959,0,5,2,9,10,3,6,1,4,11,8,7
 "Britten, Benjamin",The Turn of the Screw,1954,0,5,2,7,4,9,6,11,8,1,10,3
+"Cage, John",Sonata for Clarinet,1933,0,1,10,11,9,7,6,5,4,8,3,2
 "Cage, John","Sonata for Clarinet, mvt 2",1933,0,11,9,10,8,6,5,4,3,7,2,1
 "Cage, John",Two pieces for Piano,1935,0,11,8,3,4,2,9,7,1,5,10,6
 "Carlos, Juan","Canciones y Baladas, Balada II",1936,0,4,10,6,3,8,7,2,5,9,1,11
@@ -98,6 +116,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Carter, Elliott",String Quartet No. 2 (sketch) 3,1958,0,2,4,6,8,10,1,3,5,7,9,11
 "Carter, Elliott",String Quartet No. 3,1973,0,11,2,9,5,3,4,8,10,7,1,6
 "Carter, Elliott",Variations for Orchestra (sketch),1955,0,8,4,9,11,2,1,5,10,3,6,7
+"Coltrane, John",Miles Mode,1962,0,3,5,2,7,9,10,8,1,11,6,4
 "Copland, Aaron","Connotations, row 1",1962,0,1,3,6,2,9,8,5,10,4,11,7
 "Copland, Aaron","Connotations, row 2",1962,0,7,9,6,2,3,8,11,10,4,5,1
 "Copland, Aaron","Inscape, (""Row 2"")",1967,0,7,3,9,2,4,6,10,5,8,11,1
@@ -112,6 +131,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Crosse, Gordon","Elegy for Small Orchestra, Op.1",1959-61,0,11,3,1,9,10,5,6,2,4,8,7
 "Dallapiccola, Luigi","'Intermezzo' from the 'Ciaccona' (of 'Ciaccona, intermezzo e adagio')",1945,0,5,6,3,8,9,7,11,10,2,1,4
 "Dallapiccola, Luigi",An Mathilde,1955,0,1,10,4,6,5,3,9,2,8,7,11
+"Dallapiccola, Luigi",Canti di Liberationi No. 2,1951-1955,0,5,8,3,1,9,10,4,2,11,7,6
 "Dallapiccola, Luigi",Canti di Liberazione,1951-55,0,1,5,8,10,4,3,7,9,2,11,6
 "Dallapiccola, Luigi",Cinque canti,1956,0,11,5,8,6,2,7,3,1,4,10,9
 "Dallapiccola, Luigi",Cinque fragment di Saffo No. 4,1942,0,2,8,6,7,9,10,3,1,11,4,5
@@ -119,22 +139,30 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Dallapiccola, Luigi",Dialoghi,1959-60,0,1,10,2,6,4,5,3,7,11,8,9
 "Dallapiccola, Luigi","Due studi, 'Fanfare'",1951,0,1,7,9,10,3,4,2,8,11,6,5
 "Dallapiccola, Luigi",Goethe-Lieder No.2,1953,0,1,11,9,3,8,6,7,2,5,4,10
+"Dallapiccola, Luigi",Il Prigioniero [opera],1944-1948,0,2,5,8,10,1,3,6,9,11,4,7
 "Dallapiccola, Luigi","Il Prigioniero, ""Hope""",1949,0,1,2,3,11,5,4,10,6,7,9,8
 "Dallapiccola, Luigi","Il Prigioniero, ""Liberty""",1949,0,2,5,8,10,1,3,6,9,11,4,7
 "Dallapiccola, Luigi",Il prigioniero,1944-48,0,3,6,11,9,2,1,7,8,4,5,10
 "Dallapiccola, Luigi",Job,1950,0,1,5,7,8,11,2,10,4,6,9,3
 "Dallapiccola, Luigi",Liriche greche c: Sex Carmina Alcaei,1943,0,3,5,6,2,9,8,7,4,1,10,11
+"Dallapiccola, Luigi",Parole di San Paolo,1964,0,8,9,10,4,3,6,7,5,11,2,1
 "Dallapiccola, Luigi",Piccola musica notturna,1954,0,9,1,3,4,11,2,8,7,5,10,6
 "Dallapiccola, Luigi",Preghiere,1962,0,11,2,3,8,9,7,6,1,5,4,10
 "Dallapiccola, Luigi",Quaderno musicale di Annalibera,1952,0,1,5,8,10,4,3,7,9,2,11,6
 "Dallapiccola, Luigi","Quattro liriche di Antonio Machado, i, iv",1948,0,3,5,6,8,9,11,10,7,4,2,1
 "Dallapiccola, Luigi","Quattro liriche di Antonio Machado, ii",1948,0,1,4,6,7,9,10,11,2,3,5,8
 "Dallapiccola, Luigi",Requiescant,1957-58,0,2,1,3,4,6,7,9,8,10,5,11
+"Dallapiccola, Luigi",Requiescant (alternative view),1957-1958,0,2,1,7,11,8,9,6,10,4,3,5
 "Dallapiccola, Luigi",Sicut umbra,1970,0,1,2,8,6,5,3,9,4,7,10,11
 "Dallapiccola, Luigi","Tempus, 'Exhortatio'",1970-71,0,11,9,3,5,6,4,7,8,2,1,10
 "Dallapiccola, Luigi","Tempus, 'Ploratus'",1970-71,0,1,7,6,10,4,3,2,5,11,9,8
 "Dallapiccola, Luigi",Tre poemi,1948,0,8,9,6,3,1,2,11,7,5,4,10
+"Dallapiccola, Luigi",Ulisse [opera],1960-1968,0,2,1,3,9,8,11,10,4,6,5,7
 "Dallapiccola, Luigi",Variazioni per orchestra,1954,0,1,5,8,10,4,3,7,9,2,11,6
+"David, Johann Nepomuk",Sonata for violin op. 58 No.1.,1963,0,2,3,9,11,10,5,8,1,6,4,7
+"David, Johann Nepomuk",Symphony No. 8 op. 59.,1964-1965,0,5,9,2,6,11,3,4,7,8,10,1
+"Davies, Peter Maxwell","Five Pieces for Piano, Op. 2 No. 1 (first row)",1955-56,0,6,11,10,1,3,5,8,7,2,4,9
+"Davies, Peter Maxwell","Five Pieces for Piano, Op. 2 No. 1 (second row)",1955-56,0,6,1,2,11,9,7,4,5,10,8,3
 "Davies, Peter Maxwell","Five Pieces for Piano, Op. 2, No. 1",1956,0,6,11,10,1,3,5,8,7,2,4,9
 "Davies, Peter Maxwell","Five Pieces for Piano, Op. 2, No. 2",1956,0,7,11,1,3,5,8,6,4,9,10,2
 "Davies, Peter Maxwell","Sonata for Trumpet and Piano, Op.1",1955,0,7,6,2,11,10,8,9,1,5,3,4
@@ -155,9 +183,14 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Denisov, Edison","Sonata for Alto Saxophone and Piano, mvt 3, row A",1970,0,1,10,9,11,6,7,8,5,4,2,3
 "Denisov, Edison","Sonata for Alto Saxophone and Piano, mvt 3, row B",1970,0,4,7,11,3,6,9,2,5,8,1,10
 "Denisov, Edison",Variations,1961,0,1,9,6,8,10,4,3,7,11,5,2
+"Dessau, Paul",>Guernica< for piano,1937,0,7,6,2,10,11,5,9,1,3,4,8
 "Dessau, Paul",Les Voix,1939,0,11,6,8,9,3,4,10,5,7,2,1
 "Diamond, David","The World of Paul Klee, frame I",1958,0,5,8,4,9,3,1,11,2,6,10,7
 "Diamond, David","The World of Paul Klee, frame I, II",1958,0,7,11,3,4,10,6,8,9,1,5,2
+"Dobbins, Bill",Concerto for Jazz Orchestra.,1999,0,9,7,4,3,1,10,11,8,6,5,2
+"Dzubay, David","Di,Con[ver(gence,sions)]",1988,0,9,8,4,7,6,1,10,3,5,11,2
+"Eder, Helmut",Concerto for violin and orchestra op. 32,1960,0,9,6,2,11,3,8,1,7,5,10,4
+"Eisler, Hanns",>Spruch< for voice and piano,1939,0,3,11,9,5,8,4,1,2,10,7,6
 "Eisler, Hanns",An den Schlaf,1939,0,8,2,10,11,5,6,1,9,3,7,4
 "Eisler, Hanns","Chamber Symphony / Film music for ""White Flood"", row 1",1940,0,1,2,3,11,7,6,5,9,8,10,4
 "Eisler, Hanns","Chamber Symphony / Film music for ""White Flood"", row 2",1940,0,8,2,10,11,5,6,1,4,9,7,3
@@ -195,7 +228,11 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Eisler, Hanns","Vierzehn Arten den Regen zu beschreiben / Film music for ""Regen""",1941,0,6,7,4,5,3,2,1,11,9,10,8
 "Eisler, Hanns","Zwei Elegien, No. 1 (""In die Städte kam ich"")",1937,0,10,5,1,2,7,6,8,9,3,4,11
 "Eisler, Hanns","Zwei Elegien, No. 2 (An die Überlebenden)",1937,0,1,4,3,2,6,8,11,10,9,5,7
+"Eröd, Ivan",Die Seidenraupen,1964-1968,0,4,6,3,1,10,8,11,9,5,2,7
+"Evans, Bill",Twelve Tone Tune,1971,0,10,2,3,1,11,4,6,9,8,5,7
+"Evans, Bill",Twelve Tone Tune Two,1972,0,9,11,1,10,3,2,6,4,5,8,7
 "Fano, Michel", Sonata for Two Pianos,1951,0,6,10,7,9,8,3,2,4,1,5,11
+"Ferneyhough, Brian",Superscriptio,1981,0,3,5,6,1,11,8,9,2,4,7,10
 "Fine, Irving",Fantasia for String Trio,1957,0,2,6,3,1,11,8,9,4,5,10,7
 "Fine, Vivian",Chaconne for piano,1947,0,11,1,10,2,9,3,8,4,7,5,6
 "Fine, Vivian","Four Songs, No. 1, ""The Lover in Winter Plaineth For The Spring""",1933,0,10,2,7,6,9,11,8,4,5,1,3
@@ -203,6 +240,35 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Finney, Ross Lee",Concerto for Alto Sax,1974,0,1,3,4,6,9,11,10,8,7,5,2
 "Finney, Ross Lee",Fantasy in Two Movements for solo violin,1958,0,1,3,5,4,2,11,10,8,6,7,9
 "Finney, Ross Lee",Sonata Quasi una Fantasia,1961,0,1,3,2,4,5,6,7,9,8,10,11
+"Florey, Hans","'Achteck' für Flöte, Violine und Klavier.",1991/4/5,0,7,8,9,2,6,11,10,3,1,5,4
+"Florey, Hans",'Die Blume der Blumen' für Gesang und Viola,1983/9/19,0,3,4,8,9,6,1,7,10,11,2,5
+"Florey, Hans","'Fort, fort sind meine Rosen' für Gesang und Instrument",1985/7/29,0,7,6,3,5,9,2,10,8,4,1,11
+"Florey, Hans",'Jünglingstrauer' für Singstimme und Klavier,1983/10/16,0,11,2,8,9,4,10,1,6,5,3,7
+"Florey, Hans",Bildentwurf,1959,0,7,5,4,9,3,8,10,2,11,1,6
+"Florey, Hans",Die Aussicht,1986/8/2,0,9,11,8,2,10,5,6,7,4,3,1
+"Florey, Hans",Duo mit Schloßreihe,1998/11/14,0,6,9,7,5,11,2,3,10,8,1,4
+"Florey, Hans",Fragment für Gesang und Melodieinstrument,1986/1/5,0,6,3,4,11,10,9,5,1,7,8,2
+"Florey, Hans",Fünfstimmiger Kanon mit Krebs (für Gerhard Zeller),1985/6/27,0,3,10,6,1,5,11,2,9,7,4,8
+"Florey, Hans",Fünfstimmiger Kanon mit Sonnenquadrat,1985/3/19,0,9,7,2,10,6,1,4,5,8,3,11
+"Florey, Hans",Grabgesang,2006/3/21,0,2,8,5,10,11,4,1,6,3,9,7
+"Florey, Hans",Griechisch-lateinisches Quadrat der Ordnung 4 mit Fuge in Klangnotation,2001/1977,0,9,3,7,4,10,2,6,1,8,11,5
+"Florey, Hans",Hexaeder für Klavier,1986/1/21,0,9,4,8,5,10,11,3,2,6,1,7
+"Florey, Hans",Hälfte des Lebens,1986/11/29,0,3,4,1,7,11,6,9,10,8,2,5
+"Florey, Hans",I Ging,1980/10,0,7,2,10,11,6,5,1,9,8,4,3
+"Florey, Hans",Im Mondlicht,1988/1/5,0,1,4,6,5,3,11,10,9,7,8,3
+"Florey, Hans",Im Winter,1983/9/6,0,6,7,10,1,8,2,9,4,3,11,5
+"Florey, Hans",Kanonvariationen,1992/6,0,1,4,6,5,3,11,10,9,7,8,2
+"Florey, Hans",Klavierstück.,1982/2/22,0,1,11,10,9,6,4,8,5,7,2,3
+"Florey, Hans",Kleiner Doppelkanon,1991/11/19,0,4,6,3,8,9,7,2,1,5,11,10
+"Florey, Hans",Magische Klangordnung,1978/11/7,0,5,7,4,1,2,3,9,10,6,8,11
+"Florey, Hans",Magischer Würfel mit 6 Spiegelpunkten, 1983/1982,0,10,1,7,4,6,5,8,3,9,2,11
+"Florey, Hans",Magisches Quadrat der Ordnung 3, 1992/1973,0,4,6,3,8,9,7,2,1,5,11,10
+"Florey, Hans",Polare Doppelzeichen-Kreise,1991/11/21,0,2,11,4,5,3,10,9,1,7,6,8
+"Florey, Hans",Sechs Kanonzyklen einunddesselben magischen Quadrates.,1982/9,0,10,1,7,4,6,5,8,3,9,2,11
+"Florey, Hans",Trigramme,1991/10/15,0,8,9,7,6,4,3,5,10,11,1,2
+"Florey, Hans",Triptychon,2005/6/23,0,8,9,3,7,2,1,10,5,6,11,4
+"Florey, Hans",Zwölftonspiel für Streichquartett. 3. Dezember 1965,1965/12/3,0,10,2,5,3,4,1,8,9,6,7,11
+"Fortner, Wolfgang",Sieben Elegien,1951,0,10,5,8,1,11,9,6,7,4,2,3
 "Frankel, Benjamin",The Curse of the Werewolf,1961,0,3,2,1,4,8,11,5,10,7,6,9
 "Gerhard, Roberto",Capriccio for Solo Flute,1949,0,11,9,3,1,10,8,6,4,7,2,5
 "Gerhard, Roberto",Chaconne for Unaccompanied Violin,1959,0,11,4,2,1,3,9,10,8,6,5,7
@@ -222,6 +288,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Gerhard, Roberto",Symphony no. 2,1957-59,0,8,1,7,5,6,10,11,2,3,9,4
 "Gerhard, Roberto",The Plague,1963-64,0,1,9,11,8,10,4,5,6,2,3,7
 "Gerhard, Roberto",Three Impromptus,1950,0,8,1,10,4,6,7,5,3,2,9,11
+"Geßler, Florian",Die Dinge des Lebens (Klavierquartett),11/2010,0,9,3,1,7,2,5,11,4,10,8,6
 "Gielen, Michael","Six Songs, for bass, violin, viola, clarinet, bass clarinet, and piano",1958,0,5,1,4,2,3,9,8,10,7,11,6
 "Ginastera, Alberto","Cantata para América Mágica, Op.27",1960,0,7,6,5,10,11,8,1,2,9,4,3
 "Ginastera, Alberto","Don Rodrigo, Op. 31, Row Class 1",1963-64,0,1,6,7,8,2,10,11,5,4,9,3
@@ -261,25 +328,361 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Goehr, Alexander","Violin Concerto, Op. 13",1962,0,8,2,1,3,11,5,10,7,6,4,9
 "Goeyvaerts, Karel",'Opus 2 for 13 Instruments' aka 'Nummer 2',1951,0,7,6,5,8,9,4,3,10,11,2,1
 "Goeyvaerts, Karel","Sonata for Two Pianos, aka 'Opus 1', 'Nummer 1'",1950-51,0,8,1,11,10,4,6,5,2,7,3,9
+"Goeyvaerts, Karel",Violinkonzert No. 2.,1951/1950,0,11,7,1,2,9,10,8,5,6,3,4
+"Hamel, Peter Michael",'Klangspirale' für 13 Spieler oder drei Orchestergruppen,1977,0,10,5,9,3,4,1,6,8,11,2,7
 "Harrison, Lou",A Twelve-Tone Morning After to Amuse Henry,1944-45,0,2,3,4,9,8,7,10,11,6,5,1
 "Harrison, Lou",Rapunzel,1952,0,11,4,3,7,6,10,9,2,1,8,5
 "Harrison, Lou",Suite for Piano,1943,0,1,6,2,5,7,11,4,9,8,10,3
 "Harrison, Lou",Symphony on G,1947-64,0,1,5,4,3,10,11,7,6,2,9,8
 "Harrison, Lou",Untitled Piano Piece,1937,0,10,4,3,9,7,2,8,6,1,11,5
+"Hartmann, Karl Amadeus",Symphony No. 4,1947-1948,0,1,3,2,11,4,5,10,7,6,8,9
+"Hauer, Jose Matthias","XXXII. Zwölftonspiel; für Violine, Bratsche und Cello",1946/8/19,0,2,6,1,10,9,5,8,11,7,4,3
+"Hauer, Josef Matthias",'Almanach 1957' [Zwölftonspiel] für vier Violinen.,1956,0,2,6,5,1,9,8,3,7,4,10,11
+"Hauer, Josef Matthias",'Atonale Musik'. Klavierstücke 1922. op. 20,1920-1922,0,7,4,9,5,8,3,11,2,6,1,10
+"Hauer, Josef Matthias",'Der Menschen Weg' op. 67,1952/1934,0,8,5,4,10,2,7,9,1,3,11,6
+"Hauer, Josef Matthias",'Die schwarze Spinne' op. 62,1932/7/27,0,4,10,1,5,8,11,2,7,9,6,3
+"Hauer, Josef Matthias",'Durch Dick und Dünn zum Staatsvertrag'. Marsch für Klavier zu vier Händen,1955/5/20,0,4,5,1,8,11,3,9,6,10,7,2
+"Hauer, Josef Matthias","'Emilie vor ihrem Brauttag' (Friedrich Hölderlin) für Altsolo und Orchester, op. 58",1928/11/9-28,0,8,3,4,11,6,9,10,2,1,5,7
+"Hauer, Josef Matthias","'Empedokles', dramatische Gesänge in zwei Teilen für Soli Männerchor und Orchester; Opus 68",1935/6-09,0,6,10,5,7,9,1,4,11,8,3,2
+"Hauer, Josef Matthias",'Kaleidoskop' für Orchester,1956/8/20,0,9,6,7,3,8,2,4,11,1,5,10
+"Hauer, Josef Matthias",'Musik für Schule und Haus I' 22. September 1956. für zwei Violinen und Klavier,1956/9/22,0,5,1,3,6,11,7,8,2,10,4,9
+"Hauer, Josef Matthias","'Musik für Schule und Haus II' 22. September 1956. für Violine, Bratsche und Klavier",1956/9/22,0,7,8,1,6,5,10,2,11,9,3,4
+"Hauer, Josef Matthias","'Salambo', opera after Gustave Flaubert; op. 60",1929/5-8,0,6,9,2,8,10,4,7,1,11,3,5
+"Hauer, Josef Matthias",'Tanz tibetanischer Mönche' im langsamen 3/4 Takt) [Zwölftonspiel]. 8. September 1956,1956/9/8,0,7,8,6,3,1,11,2,10,5,9,4
+"Hauer, Josef Matthias","'Wandlungen' (chamber-oratorio for stage or concert, for six solo-voices, choir and orchestra; after words of Friedrich Hölderlin) op. 53",1927/12/5,0,5,11,4,10,1,6,8,9,3,7,2
+"Hauer, Josef Matthias",1. canonic Example from the theoretical work 'Zwölftontechnik',1925/10,0,1,4,6,5,3,11,10,9,7,8,2
+"Hauer, Josef Matthias",Apokalyptische Phantasie op. 5,1913/September-Oktober/16.9.-23.10.,0,1,11,9,6,10,4,8,2,5,7,3
+"Hauer, Josef Matthias",Baustein,1920,0,8,11,1,6,10,4,2,3,5,9,7
+"Hauer, Josef Matthias",Divertimento für kleines Orchester op. 61,1930/5/5,0,7,5,1,2,11,6,4,8,10,3,9
+"Hauer, Josef Matthias",Erste Suite für Orchester,1924/6,0,7,5,10,1,11,9,4,6,2,8,3
+"Hauer, Josef Matthias","Fünfte Tanzfantasie für kleines Orchester, Opus 66.",1933/12/17,0,10,4,7,8,11,6,2,5,9,3,1
+"Hauer, Josef Matthias",Harmonie - Melodie - Rhythmus - in kristallischer Bindung - im vierfachen Kontrapunkt [Zwölftonspiel] für Zwölftonorchester,1956/8/23,0,2,10,9,6,5,1,4,7,11,8,3
+"Hauer, Josef Matthias",Hausmusik [Zwölftonspiel] für Klavier zu vier Händen. September 1958,1958/9/11,0,9,6,11,4,1,10,5,2,8,3,7
+"Hauer, Josef Matthias",Hausmusik [Zwölftonspiel] für zwei Violinen und Klavier,1955/4/6,0,1,5,3,7,10,9,6,11,4,2,8
+"Hauer, Josef Matthias",Hölderlinrezitation,1949/4/30,0,4,1,2,11,7,5,10,3,6,8,9
+"Hauer, Josef Matthias","Kammermusik [Zwölftonspiel] für Flöte, Oboe, Baßklarinette, Fagott, zwei Violinen, Bratsche, Cello und Klavier zu vier Händen. 24. Jänner 1957",1957/1/24,0,9,3,7,5,10,1,6,11,4,2,8
+"Hauer, Josef Matthias",Klavierkonzert op. 55,1928/4-5,0,1,9,2,10,3,5,11,7,8,4,6
+"Hauer, Josef Matthias",Klavierstücke mit Überschriften nach Worten von Friedrich Hölderlin op. 25 ; No. 10,1923,0,6,11,10,9,5,2,3,7,1,4,8
+"Hauer, Josef Matthias",Labyrinthischer Tanz [Zwölftonspiel] für Klavier zu vier Händen. 16. November 1952,1952/11/16,0,3,8,7,2,10,6,1,11,9,4,5
+"Hauer, Josef Matthias",Langsamer Walzer [Zwölftonspiel] für Orchester. 10. Jänner 1957,1957/1/10,0,8,10,2,3,6,1,9,7,4,11,5
+"Hauer, Josef Matthias",Langsamer Walzer [Zwölftonspiel] für Orchester. 19. Jänner 1957,1957/1/19,0,10,1,5,7,2,9,11,6,3,8,4
+"Hauer, Josef Matthias","Langsamer Walzer [Zwölftonspiel] für zwei Violinen, Bratsche, Cello und Klavier zu zwei Händen",1955/9/24,0,6,2,11,10,7,3,4,5,9,1,8
+"Hauer, Josef Matthias","Lateinische Messe op. 46 für gemischten Chor, Orchester und Orgel",1926,0,8,5,4,11,7,1,3,10,2,6,9
 "Hauer, Josef Matthias",Nomos,1919,0,5,7,3,9,6,11,2,8,4,1,10
+"Hauer, Josef Matthias",Nomos op. 19 (bb.1-36),1919/8/25-29,0,5,7,3,9,6,11,2,8,4,1,10
+"Hauer, Josef Matthias",Nomos op. 19 (bb.101-102),1919/8/25-29,0,7,4,2,1,10,9,11,8,6,3,5
+"Hauer, Josef Matthias",Nomos op. 19 (bb.103-105),1919/8/25-29,0,3,9,10,8,1,6,7,2,11,5,4
+"Hauer, Josef Matthias",Nomos op. 19 (bb.106-108),1919/8/25-29,0,10,6,1,7,4,9,5,3,8,11,2
+"Hauer, Josef Matthias",Nomos op. 19 (bb.111-113),1919/8/25-29,0,5,9,8,4,3,10,2,1,7,6,11
+"Hauer, Josef Matthias",Nomos op. 19 (bb.117-118),1919/8/25-29,0,4,5,11,7,10,3,9,6,2,1,8
+"Hauer, Josef Matthias",Nomos op. 19 (bb.119-120),1919/8/25-29,0,10,8,6,5,7,9,2,3,1,11,4
+"Hauer, Josef Matthias",Nomos op. 19 (bb.123-124),1919/8/25-29,0,8,11,5,3,7,4,9,1,6,10,2
+"Hauer, Josef Matthias",Nomos op. 19 (bb.125-126),1919/8/25-29,0,11,1,10,6,8,9,5,7,3,2,4
+"Hauer, Josef Matthias",Nomos op. 19 (bb.129-130),1919/8/25-29,0,9,10,4,3,7,6,2,1,8,11,5
+"Hauer, Josef Matthias",Nomos op. 19 (bb.131-132),1919/8/25-29,0,9,8,2,11,3,6,5,10,7,4,1
+"Hauer, Josef Matthias",Nomos op. 19 (bb.133-134),1919/8/25-29,0,8,5,11,2,7,4,6,3,1,10,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.134-137),1919/8/25-29,0,2,1,4,5,9,6,8,10,7,11,3
+"Hauer, Josef Matthias",Nomos op. 19 (bb.136-138),1919/8/25-29,0,1,9,8,4,7,3,6,5,11,10,2
+"Hauer, Josef Matthias",Nomos op. 19 (bb.138-140),1919/8/25-29,0,3,4,2,5,6,8,7,10,11,1,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.139-141),1919/8/25-29,0,2,10,1,11,9,8,5,6,4,7,3
+"Hauer, Josef Matthias",Nomos op. 19 (bb.141-142),1919/8/25-29,0,5,3,4,1,11,2,6,8,9,10,7
+"Hauer, Josef Matthias",Nomos op. 19 (bb.141-143),1919/8/25-29,0,10,11,3,5,6,7,2,1,4,8,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.142-143),1919/8/25-29,0,11,10,1,5,3,8,6,9,4,7,2
+"Hauer, Josef Matthias",Nomos op. 19 (bb.143-145),1919/8/25-29,0,9,10,2,1,11,4,6,7,5,8,3
+"Hauer, Josef Matthias",Nomos op. 19 (bb.148-150),1919/8/25-29,0,6,5,3,2,7,8,4,1,11,9,10
+"Hauer, Josef Matthias",Nomos op. 19 (bb.151-153),1919/8/25-29,0,7,2,4,6,1,5,3,9,10,8,11
+"Hauer, Josef Matthias",Nomos op. 19 (bb.154-155),1919/8/25-29,0,5,6,4,9,1,2,7,10,11,8,3
+"Hauer, Josef Matthias",Nomos op. 19 (bb.159-161),1919/8/25-29,0,5,1,8,10,4,6,7,3,9,11,2
+"Hauer, Josef Matthias",Nomos op. 19 (bb.171-174),1919/8/25-29,0,7,1,3,9,6,8,11,10,5,4,2
+"Hauer, Josef Matthias",Nomos op. 19 (bb.175-178),1919/8/25-29,0,10,1,2,6,5,3,4,8,9,7,11
+"Hauer, Josef Matthias",Nomos op. 19 (bb.180-185),1919/8/25-29,0,1,3,11,6,7,8,5,4,9,10,2
+"Hauer, Josef Matthias",Nomos op. 19 (bb.186-191),1919/8/25-29,0,4,3,9,7,5,2,6,8,11,1,10
+"Hauer, Josef Matthias",Nomos op. 19 (bb.192-193),1919/8/25-29,0,9,6,2,8,4,7,10,1,3,5,11
+"Hauer, Josef Matthias",Nomos op. 19 (bb.194-195),1919/8/25-29,0,4,2,3,6,9,5,1,8,7,11,10
+"Hauer, Josef Matthias",Nomos op. 19 (bb.196-197),1919/8/25-29,0,2,8,6,11,5,4,10,7,3,1,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.198-201),1919/8/25-29,0,8,9,11,3,5,6,1,2,7,10,4
+"Hauer, Josef Matthias",Nomos op. 19 (bb.202-203),1919/8/25-29,0,1,3,10,7,9,2,11,4,6,8,5
+"Hauer, Josef Matthias",Nomos op. 19 (bb.204-207),1919/8/25-29,0,2,3,1,9,7,6,4,11,5,10,8
+"Hauer, Josef Matthias",Nomos op. 19 (bb.208-212),1919/8/25-29,0,9,7,2,5,1,10,6,11,4,3,8
+"Hauer, Josef Matthias",Nomos op. 19 (bb.213-216),1919/8/25-29,0,2,6,1,10,4,5,8,11,7,3,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.215-219),1919/8/25-29,0,3,8,2,6,5,4,1,10,11,9,7
+"Hauer, Josef Matthias",Nomos op. 19 (bb.220-224),1919/8/25-29,0,10,7,4,5,8,3,11,9,2,1,6
+"Hauer, Josef Matthias",Nomos op. 19 (bb.224-228),1919/8/25-29,0,1,9,3,4,5,10,11,6,2,8,7
+"Hauer, Josef Matthias",Nomos op. 19 (bb.228-230),1919/8/25-29,0,2,9,6,5,10,7,3,8,1,4,11
+"Hauer, Josef Matthias",Nomos op. 19 (bb.231-233),1919/8/25-29,0,6,10,3,2,8,9,5,4,1,11,7
+"Hauer, Josef Matthias",Nomos op. 19 (bb.234-237),1919/8/25-29,0,11,3,1,7,4,9,6,5,10,2,8
+"Hauer, Josef Matthias",Nomos op. 19 (bb.238-240),1919/8/25-29,0,6,11,9,2,1,5,7,8,10,4,3
+"Hauer, Josef Matthias",Nomos op. 19 (bb.241-243),1919/8/25-29,0,2,8,1,4,9,5,6,3,11,10,7
+"Hauer, Josef Matthias",Nomos op. 19 (bb.244-246),1919/8/25-29,0,9,7,10,11,4,6,8,1,2,3,5
+"Hauer, Josef Matthias",Nomos op. 19 (bb.247-250),1919/8/25-29,0,9,6,4,11,7,5,10,3,8,2,1
+"Hauer, Josef Matthias",Nomos op. 19 (bb.251-254),1919/8/25-29,0,9,8,1,4,3,5,7,6,2,11,10
+"Hauer, Josef Matthias",Nomos op. 19 (bb.255-257),1919/8/25-29,0,7,2,6,5,10,3,4,11,8,1,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.257-262),1919/8/25-29,0,7,3,8,4,2,9,1,11,6,10,5
+"Hauer, Josef Matthias",Nomos op. 19 (bb.262-263),1919/8/25-29,0,11,2,5,1,6,9,7,10,3,4,8
+"Hauer, Josef Matthias",Nomos op. 19 (bb.264-267),1919/8/25-29,0,7,5,4,1,8,3,9,2,6,10,11
+"Hauer, Josef Matthias",Nomos op. 19 (bb.272-276),1919/8/25-29,0,1,5,3,7,2,8,10,4,6,11,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.280-283),1919/8/25-29,0,5,6,9,7,4,3,8,11,1,10,2
+"Hauer, Josef Matthias",Nomos op. 19 (bb.284-287),1919/8/25-29,0,1,11,7,6,4,10,5,2,8,3,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.288-291),1919/8/25-29,0,2,10,7,4,6,11,3,5,1,8,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.292-294),1919/8/25-29,0,9,2,6,3,5,10,1,11,7,4,8
+"Hauer, Josef Matthias",Nomos op. 19 (bb.297-300),1919/8/25-29,0,11,8,6,5,10,1,4,3,9,2,7
+"Hauer, Josef Matthias",Nomos op. 19 (bb.301-305),1919/8/25-29,0,10,2,9,8,1,5,6,11,3,7,4
+"Hauer, Josef Matthias",Nomos op. 19 (bb.306-309),1919/8/25-29,0,2,7,8,1,4,9,10,3,6,5,11
+"Hauer, Josef Matthias",Nomos op. 19 (bb.307-309),1919/8/25-29,0,4,9,3,2,5,11,1,10,7,6,8
+"Hauer, Josef Matthias",Nomos op. 19 (bb.315-317),1919/8/25-29,0,8,1,3,7,10,4,5,11,2,9,6
+"Hauer, Josef Matthias",Nomos op. 19 (bb.321-324),1919/8/25-29,0,6,10,1,3,5,9,4,2,8,11,7
+"Hauer, Josef Matthias",Nomos op. 19 (bb.325-328),1919/8/25-29,0,5,4,2,7,6,3,11,1,8,10,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.328-332),1919/8/25-29,0,3,2,7,6,10,9,11,8,5,1,4
+"Hauer, Josef Matthias",Nomos op. 19 (bb.331-334),1919/8/25-29,0,4,3,2,1,11,7,10,5,6,8,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.337-338),1919/8/25-29,0,1,11,5,4,3,8,9,2,10,6,7
+"Hauer, Josef Matthias",Nomos op. 19 (bb.348-353),1919/8/25-29,0,11,9,5,10,4,6,8,3,2,1,7
+"Hauer, Josef Matthias",Nomos op. 19 (bb.356-358),1919/8/25-29,0,6,9,5,4,2,11,3,10,8,7,1
+"Hauer, Josef Matthias",Nomos op. 19 (bb.358-361),1919/8/25-29,0,10,8,1,11,7,2,6,5,9,4,3
+"Hauer, Josef Matthias",Nomos op. 19 (bb.362-365),1919/8/25-29,0,7,5,3,10,8,4,2,9,6,11,1
+"Hauer, Josef Matthias",Nomos op. 19 (bb.366-371),1919/8/25-29,0,5,1,7,3,2,4,8,11,6,10,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.37-39),1919/8/25-29,0,8,5,1,9,2,4,6,10,3,7,11
+"Hauer, Josef Matthias",Nomos op. 19 (bb.372-375),1919/8/25-29,0,8,6,1,10,11,5,9,7,4,3,2
+"Hauer, Josef Matthias",Nomos op. 19 (bb.376-378),1919/8/25-29,0,11,9,3,4,8,7,10,2,1,6,5
+"Hauer, Josef Matthias",Nomos op. 19 (bb.379-382),1919/8/25-29,0,7,3,10,5,6,4,1,2,9,11,8
+"Hauer, Josef Matthias",Nomos op. 19 (bb.383-386),1919/8/25-29,0,3,1,4,10,8,11,2,5,7,9,6
+"Hauer, Josef Matthias",Nomos op. 19 (bb.387-390),1919/8/25-29,0,3,7,4,10,1,11,9,6,8,2,5
+"Hauer, Josef Matthias",Nomos op. 19 (bb.391-394),1919/8/25-29,0,10,11,9,7,4,8,5,1,3,6,2
+"Hauer, Josef Matthias",Nomos op. 19 (bb.395-402),1919/8/25-29,0,2,7,10,6,5,8,9,11,3,1,4
+"Hauer, Josef Matthias",Nomos op. 19 (bb.40-42),1919/8/25-29,0,10,1,11,7,2,6,5,3,8,9,4
+"Hauer, Josef Matthias",Nomos op. 19 (bb.403-409),1919/8/25-29,0,11,2,10,8,1,5,3,4,6,7,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.411-414),1919/8/25-29,0,2,8,3,5,6,7,4,9,10,1,11
+"Hauer, Josef Matthias",Nomos op. 19 (bb.422-425),1919/8/25-29,0,6,4,2,10,9,8,5,11,7,1,3
+"Hauer, Josef Matthias",Nomos op. 19 (bb.425-427),1919/8/25-29,0,8,10,7,4,2,3,5,6,11,1,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.428-429),1919/8/25-29,0,10,4,6,5,3,1,9,7,8,2,11
+"Hauer, Josef Matthias",Nomos op. 19 (bb.430-432),1919/8/25-29,0,6,8,10,9,2,7,1,3,4,5,11
+"Hauer, Josef Matthias",Nomos op. 19 (bb.433-435),1919/8/25-29,0,3,11,4,9,5,8,6,7,10,1,2
+"Hauer, Josef Matthias",Nomos op. 19 (bb.438-441),1919/8/25-29,0,1,10,8,9,4,3,5,7,11,6,2
+"Hauer, Josef Matthias",Nomos op. 19 (bb.441-445),1919/8/25-29,0,1,9,8,10,4,6,5,7,2,3,11
+"Hauer, Josef Matthias",Nomos op. 19 (bb.45-47),1919/8/25-29,0,10,6,1,5,4,11,8,2,3,7,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.451-453),1919/8/25-29,0,2,4,1,6,11,3,8,9,7,5,10
+"Hauer, Josef Matthias",Nomos op. 19 (bb.452-455),1919/8/25-29,0,5,7,8,1,2,3,4,6,11,10,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.455-456),1919/8/25-29,0,5,9,4,6,1,10,3,7,2,8,11
+"Hauer, Josef Matthias",Nomos op. 19 (bb.457-458),1919/8/25-29,0,3,4,5,8,1,6,11,9,10,2,7
+"Hauer, Josef Matthias",Nomos op. 19 (bb.459-460),1919/8/25-29,0,9,1,8,5,2,3,11,7,10,6,4
+"Hauer, Josef Matthias",Nomos op. 19 (bb.46-51),1919/8/25-29,0,11,10,2,6,9,1,8,3,7,4,5
+"Hauer, Josef Matthias",Nomos op. 19 (bb.463-464),1919/8/25-29,0,4,6,7,3,9,1,10,8,11,5,2
+"Hauer, Josef Matthias",Nomos op. 19 (bb.467-471),1919/8/25-29,0,5,9,1,7,2,10,4,11,8,3,6
+"Hauer, Josef Matthias",Nomos op. 19 (bb.471-472),1919/8/25-29,0,3,11,1,6,9,2,8,5,7,10,4
+"Hauer, Josef Matthias",Nomos op. 19 (bb.473-474),1919/8/25-29,0,6,9,1,3,11,8,4,5,7,10,2
+"Hauer, Josef Matthias",Nomos op. 19 (bb.475-479),1919/8/25-29,0,9,10,6,7,5,2,3,8,4,1,11
+"Hauer, Josef Matthias",Nomos op. 19 (bb.479-483),1919/8/25-29,0,6,10,9,7,8,11,4,5,3,2,1
+"Hauer, Josef Matthias",Nomos op. 19 (bb.486-490),1919/8/25-29,0,10,1,4,9,5,6,8,7,3,2,11
+"Hauer, Josef Matthias",Nomos op. 19 (bb.490-494),1919/8/25-29,0,5,11,6,9,2,8,7,10,4,1,3
+"Hauer, Josef Matthias",Nomos op. 19 (bb.494-496),1919/8/25-29,0,7,8,5,6,11,2,3,9,4,1,10
+"Hauer, Josef Matthias",Nomos op. 19 (bb.496-498),1919/8/25-29,0,10,9,4,3,7,5,8,1,2,6,11
+"Hauer, Josef Matthias",Nomos op. 19 (bb.498-501),1919/8/25-29,0,3,1,10,7,6,2,11,8,5,4,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.50-53),1919/8/25-29,0,2,10,4,5,3,6,7,1,8,9,11
+"Hauer, Josef Matthias",Nomos op. 19 (bb.501-503),1919/8/25-29,0,5,7,1,3,2,6,10,11,8,9,4
+"Hauer, Josef Matthias",Nomos op. 19 (bb.503-507),1919/8/25-29,0,10,1,2,3,5,7,11,4,8,9,6
+"Hauer, Josef Matthias",Nomos op. 19 (bb.509-511),1919/8/25-29,0,10,11,7,3,6,1,8,2,5,9,4
+"Hauer, Josef Matthias",Nomos op. 19 (bb.511-514),1919/8/25-29,0,10,1,4,6,2,9,7,11,8,5,3
+"Hauer, Josef Matthias",Nomos op. 19 (bb.517-521),1919/8/25-29,0,2,10,11,6,4,5,1,3,9,8,7
+"Hauer, Josef Matthias",Nomos op. 19 (bb.52-56),1919/8/25-29,0,3,2,9,5,4,8,1,7,10,11,6
+"Hauer, Josef Matthias",Nomos op. 19 (bb.522-526),1919/8/25-29,0,8,1,6,3,11,10,2,9,4,5,7
+"Hauer, Josef Matthias",Nomos op. 19 (bb.525-527),1919/8/25-29,0,10,3,9,7,1,11,2,6,4,8,5
+"Hauer, Josef Matthias",Nomos op. 19 (bb.528-531),1919/8/25-29,0,6,7,5,8,10,9,11,4,2,1,3
+"Hauer, Josef Matthias",Nomos op. 19 (bb.55-59),1919/8/25-29,0,11,1,4,3,9,10,8,7,6,5,2
+"Hauer, Josef Matthias",Nomos op. 19 (bb.60-63),1919/8/25-29,0,4,1,2,9,8,10,5,11,3,6,7
+"Hauer, Josef Matthias",Nomos op. 19 (bb.64-67),1919/8/25-29,0,6,9,11,8,5,4,3,1,2,7,10
+"Hauer, Josef Matthias",Nomos op. 19 (bb.68-71),1919/8/25-29,0,5,6,10,7,9,4,1,2,8,11,3
+"Hauer, Josef Matthias",Nomos op. 19 (bb.72-73),1919/8/25-29,0,1,7,11,4,3,9,6,5,2,10,8
+"Hauer, Josef Matthias",Nomos op. 19 (bb.73-78),1919/8/25-29,0,8,7,2,4,11,1,3,6,5,10,9
+"Hauer, Josef Matthias",Nomos op. 19 (bb.82-83),1919/8/25-29,0,2,11,8,5,10,9,1,7,3,4,6
+"Hauer, Josef Matthias",Nomos op. 19 (bb.84-87),1919/8/25-29,0,10,1,11,5,3,2,6,7,8,9,4
+"Hauer, Josef Matthias",Nomos op. 19 (bb.87-90),1919/8/25-29,0,1,11,9,8,7,10,6,4,3,5,2
+"Hauer, Josef Matthias",Nomos op. 19 (bb.91-92),1919/8/25-29,0,4,10,1,2,7,6,8,5,9,11,3
+"Hauer, Josef Matthias",Nomos op. 19 (bb.93-94),1919/8/25-29,0,1,10,8,6,2,9,4,11,7,5,3
+"Hauer, Josef Matthias",Nomos op. 19 (bb.95-96),1919/8/25-29,0,1,4,7,8,6,11,9,10,5,3,2
+"Hauer, Josef Matthias",Nomos op. 19 (bb.97-98),1919/8/25-29,0,9,8,7,4,3,2,10,1,11,5,6
+"Hauer, Josef Matthias",Nomos op. 19 (bb.99-100),1919/8/25-29,0,5,3,9,1,10,4,11,8,7,2,6
+"Hauer, Josef Matthias",Nomos op. 19 (row 1),1919/8/25-29,0,8,9,5,4,6,10,11,7,1,2,3
+"Hauer, Josef Matthias",Nomos op. 19 (row 2),1919/8/25-29,0,6,10,4,3,2,8,7,11,9,5,1
+"Hauer, Josef Matthias",Paraphonie [Zwölftonspiel] für Bratsche und Klavier,1947/4/24,0,4,10,5,8,1,11,7,2,9,6,3
+"Hauer, Josef Matthias",Romantische Phantasie für Orchester,1925/6,0,10,8,5,1,9,4,11,3,7,6,2
+"Hauer, Josef Matthias",Sakraler Tanz [Zwölftonspiel] für Orchester,1957/3/2,0,3,10,8,5,2,9,1,11,6,4,7
+"Hauer, Josef Matthias",Schulmusik für zwei Klaviere. 3. Oktober 1958,1958/10/3,0,9,6,11,4,1,10,5,2,8,3,7
+"Hauer, Josef Matthias","Sechste Suite für Orchester, op. 47",1926,0,9,6,2,8,3,10,11,7,4,5,1
+"Hauer, Josef Matthias",Sieben Charakterstücke mit Überschriften für Violine allein Op. 56,1928/5/17,0,7,10,11,4,6,8,3,5,2,9,1
+"Hauer, Josef Matthias",Sinfonietta in drei Sätzen (Symphonische Stücke für großes Orchester) op. 50,1927,0,1,3,5,10,9,6,11,2,4,8,7
+"Hauer, Josef Matthias",Streichquartett [Zwölftonspiel]. 27. August 1956,1956/8/27,0,6,11,8,3,7,2,10,4,1,9,5
+"Hauer, Josef Matthias","Symphonische Stücke für Streichorchester, Klavier und Harmonium, op. 49",1926/12,0,4,6,3,2,8,1,11,10,7,9,5
+"Hauer, Josef Matthias",Tanz [Zwölftonspiel] im langsamen 3/4 Takt für Klavier zu vier Händen. 26. Mai 1958,1958/5/26,0,2,9,6,1,4,10,3,7,5,11,8
+"Hauer, Josef Matthias","Tanz [Zwölftonspiel] im langsamen 3/4 Takt für Violine, Bratsche und Klavier zu vier Händen. 6. September 1958",1958/9/6,0,9,6,11,4,1,10,5,2,8,3,7
+"Hauer, Josef Matthias","Tanz [Zwölftonspiel] im langsamen 3/4 Takt für zwei Violinen, zwei Bratschen und Klavier zu zwei Händen",1958/6/9,0,9,3,7,4,10,2,6,1,8,11,5
+"Hauer, Josef Matthias","Tanz [Zwölftonspiel] im langsamen 4/4 Takt für zwei Violinen, zwei Bratschen und Klavier. August 1958",1958/8/28,0,8,3,11,2,7,5,9,1,6,4,10
+"Hauer, Josef Matthias",Tanz für Violine allein,1954,0,7,3,4,10,9,2,8,11,1,6,5
+"Hauer, Josef Matthias","Tanz im langsamen 3/4 Takt [Zwölftonspiel] für zwei Violinen, zwei Bratschen und Klavier zu zwei Händen",1958/6/9,0,3,10,2,11,6,8,7,4,9,1,5
+"Hauer, Josef Matthias",VIII. Zwölftonspiel für Orchester. Juni 1943,1943/6/18,0,5,10,8,4,2,11,9,3,1,7,6
+"Hauer, Josef Matthias",Vierte Tanzsuite für neun Soloinstrumente.,1937,0,5,2,6,4,11,10,7,9,3,8,1
+"Hauer, Josef Matthias",Violinkonzert op. 54 (9. März - 6. April 1928),1928/3-4,0,7,6,8,4,11,1,10,5,9,2,3
+"Hauer, Josef Matthias",XV. Zwölftönespiel für Orchester,1944/4/16 & 23,0,9,8,3,1,11,5,6,7,10,2,4
+"Hauer, Josef Matthias","XXI. Zwölftonspiel für Orchester; mit einer Zwöfftonreihe, die in sechs Tropen steht, und vom Kulturreferenten der Stadt Wien Dr. Viktor Matejka gewählt wurde. Erster Teil 2,4-Takt (Halbe = 50) mit achttaktigen Perioden; zweiter Teil im 3/4 Takt (punktierte Halbe = 40) mit sechstaktigen Perioden",1945/6/23,0,3,4,9,11,10,1,7,6,2,5,8
+"Hauer, Josef Matthias",XXII. Zwölftonspiel für Klavier,1946,0,2,11,6,7,10,1,3,8,4,9,5
+"Hauer, Josef Matthias",XXIII. Zwölftonspiel für Klavierquintett,1946,0,4,11,9,10,2,6,3,7,5,8,1
+"Hauer, Josef Matthias",XXIV. Zwölftonspiel für Klavier,1946/2/1,0,2,9,3,8,1,4,7,11,5,6,10
+"Hauer, Josef Matthias",XXIX. Zwölftonspiel für Cembalo; mit der Sokolowski-Reihe zu Bachs Geburtstag.,1946,0,11,2,1,4,3,10,5,8,9,6,7
+"Hauer, Josef Matthias","XXXII. Zwölftonspiel für Violine, zwei Bratschen und Cello",1946/8/12,0,7,4,3,11,2,5,1,10,9,6,8
+"Hauer, Josef Matthias","XXXII. Zwölftonspiel für Violine, zwei Bratschen und Cello.",1946/8/12,0,9,6,10,11,2,7,3,1,4,5,8
+"Hauer, Josef Matthias","XXXII. Zwölftonspiel; für Violine, Bratsche und Cello",1946/8/19,0,3,7,4,1,5,6,9,2,10,8,11
+"Hauer, Josef Matthias",Zwölftonmusik [Zwölftonspiel] für Klavier zu vier Händen. Februar 1959 (Fragment),1959/2,0,9,3,7,4,10,2,6,1,8,11,5
+"Hauer, Josef Matthias",Zwölftonmusik für Orchester Op. 86.,1939/7/16,0,2,6,3,11,8,10,9,5,7,1,4
+"Hauer, Josef Matthias","Zwölftonspiel (Langsamer Walzer) 8. Oktober 1956; für zwei Violinen, Bratsche, Cello und Klavier zu vier Händen",1956/10/8,0,1,10,9,3,8,5,6,11,2,4,7
+"Hauer, Josef Matthias","Zwölftonspiel (Weihnachten 1947) für Klarinette, Violine, Bratsche, Cello und Klavier",1948/6/2,0,6,2,10,8,3,11,4,9,7,5,1
+"Hauer, Josef Matthias",Zwölftonspiel 10. Juli 1957; für Klavier zu vier Händen,1956/7/10,0,8,10,6,2,11,1,3,9,4,7,5
+"Hauer, Josef Matthias","Zwölftonspiel 15. Juni 1957; für Flöte, Oboe, Bassklarinette, Fagott, 2 Violinen, Viola, Violoncello & Klavier vierhändig",1957/6/15,0,8,11,6,9,5,7,1,3,2,4,10
+"Hauer, Josef Matthias","Zwölftonspiel 15. Juni 1957; für Flöte, Oboe, Bassklarinette, Fagott, zwei Violinen, Viola, Violoncello & Klavier vierhändig",1957/6/15,0,6,4,8,3,11,9,2,7,1,10,5
+"Hauer, Josef Matthias",Zwölftonspiel 17. August 1957; für zwei Violinen und Klavier,1957/8/17,0,5,8,4,9,3,11,7,2,6,1,10
+"Hauer, Josef Matthias","Zwölftonspiel 17. September 1956; für zwei Violinen, Bratsche, Cello und Klavier zu zwei Händen",1956/9/17,0,5,7,1,6,3,9,8,2,10,4,11
+"Hauer, Josef Matthias",Zwölftonspiel 18. Mai 1958; für Streichsextett,1958/5/18,0,5,1,8,2,6,4,11,9,7,3,10
+"Hauer, Josef Matthias",Zwölftonspiel 2. Juni 1948 für Streichquartett und Klavier,1948/6/2,0,3,10,6,2,11,1,4,7,9,5,8
+"Hauer, Josef Matthias","Zwölftonspiel 22. Mai 1958; für zwei Violinen, Bratsche, Cello und Klavier zu zwei Händen",1958/5/22,0,9,6,11,4,1,10,5,2,8,3,7
+"Hauer, Josef Matthias","Zwölftonspiel 26. April 1958; für zwei Violinen, Bratsche, Cello und Klavier zu zwei Händen",1958/4/26,0,2,7,11,3,5,8,1,4,9,6,10
+"Hauer, Josef Matthias",Zwölftonspiel 26. August 1948; für Violine und Klavier,1948/8/26,0,9,8,5,10,2,11,6,3,7,4,1
+"Hauer, Josef Matthias","Zwölftonspiel 26. Juli 1957, für Flöte, Oboe, Bassklarinette, Fagott und Streichquartett",1957/7/26,0,4,1,6,8,2,10,7,3,9,11,5
+"Hauer, Josef Matthias",Zwölftonspiel 28. August 1948; für Violine und Klavier,1948/8/28,0,9,6,2,3,10,8,5,4,7,11,1
+"Hauer, Josef Matthias",Zwölftonspiel 3. Mai 1958; für Streichsextett,1958/5/3,0,4,10,3,7,1,8,2,11,6,9,5
+"Hauer, Josef Matthias",Zwölftonspiel 31. August 1948; für Violine (Flöte) und Klavier,1948/8/28,0,9,6,2,3,10,8,5,4,7,11,1
+"Hauer, Josef Matthias",Zwölftonspiel 31. August 1948; für Violine und Klavier; 2. Fassung,1948/8/28,0,9,6,2,3,10,8,5,4,7,11,1
+"Hauer, Josef Matthias","Zwölftonspiel 5. September 1957; für Violine, Bratsche und Klavier",1957/9/5,0,4,2,9,10,6,11,1,7,3,8,5
+"Hauer, Josef Matthias","Zwölftonspiel 7. April 1957; für zwei Violinen, Bratsche, Cello und Klavier zu vier Händen",1957/4/7,0,6,2,9,10,4,11,3,7,1,5,8
+"Hauer, Josef Matthias",Zwölftonspiel 8. Juni 1957; für Klavier zu vier Händen,1957/7/8,0,5,11,4,9,2,6,3,10,8,1,7
+"Hauer, Josef Matthias","Zwölftonspiel 9. September 1957; für vier Solostimmen [S, A, T, B], Violine, Bratsche und Klavier",1957/9/9,0,4,2,9,10,6,11,1,7,3,8,5
+"Hauer, Josef Matthias",Zwölftonspiel April 1956; für Klavier zu vier Händen,1956/4/22,0,5,7,2,8,4,10,3,9,11,6,1
+"Hauer, Josef Matthias","Zwölftonspiel Jänner 1957; für zwei Violinen, Bratsche und Cello",1957/1/30,0,10,6,2,8,3,5,7,9,4,1,11
+"Hauer, Josef Matthias",Zwölftonspiel März 1958; für Kammerorchester,1958/3/21,0,5,10,4,1,7,2,11,8,3,6,9
+"Hauer, Josef Matthias",Zwölftonspiel November 1957; für zwei Violinen und Klavier,1957/10/10,0,6,3,9,1,5,11,8,10,7,2,4
+"Hauer, Josef Matthias",Zwölftonspiel Oktober 1956; für Klavier zu vier Händen,1956/10/22,0,9,6,2,8,3,10,5,1,11,7,4
+"Hauer, Josef Matthias",Zwölftonspiel Oktober 1957; für Heimorchester,1957/10,0,2,4,10,9,3,6,11,7,1,5,8
+"Hauer, Josef Matthias",Zwölftonspiel für Cembalo oder Klavier. 13. Juni 1947,1947/7/13,0,5,10,4,7,6,2,1,9,8,3,11
+"Hauer, Josef Matthias","Zwölftonspiel für Flöte, Fagott (Baßklarinette), zwei Violinen, Bratsche und Cello. Jänner 1958",1958/1,0,10,8,5,2,9,6,3,1,11,7,4
+"Hauer, Josef Matthias","Zwölftonspiel für Flöte, Horn, Violine, Bratsche, Cello und Klavier",1953 od. 1954,0,10,7,2,8,6,3,4,9,11,1,5
+"Hauer, Josef Matthias",Zwölftonspiel für Gitarre. 24. 7. 1949,1949/7/24,0,6,10,2,5,9,1,4,7,3,11,8
+"Hauer, Josef Matthias","Zwölftonspiel für Hausorchester (Klavier zu vier Händen, Violine, Cello und Akkordeon)",1955/2/25,0,1,10,2,9,4,11,5,3,8,6,7
+"Hauer, Josef Matthias",Zwölftonspiel für Hausorchester (für Klavier zu vier Händen und Harmonium). 26. Juni 1954,1954/6/26,0,9,5,3,8,10,6,2,4,7,11,1
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier und Streichquartett,1947/7,0,9,3,10,2,5,8,6,1,11,7,4
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier zu vier Händen,1958/9/1,0,9,6,11,4,1,10,5,2,8,3,7
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier zu vier Händen und Akkordeon (Hausorchester),1955/3/14,0,7,2,9,6,4,11,3,10,8,1,5
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier zu vier Händen und Harmonium,1952/7/31,0,9,6,10,8,5,1,4,2,11,3,7
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier zu vier Händen und Streichquartett,1951/11/28,0,7,2,10,6,8,3,11,9,4,1,5
+"Hauer, Josef Matthias","Zwölftonspiel für Klavier zu vier Händen, Violine, Bratsche, Cello und Kontrabaß (melischer Entwurf vom 29.8.1954)",1954/9/8,0,4,2,7,9,6,8,3,11,5,10,1
+"Hauer, Josef Matthias","Zwölftonspiel für Klavier zu vier Händen, mit einer Zwölftonreihe von Nikolaus Fheodoroff. 10. Juli 1952",1952/7/10,0,10,6,8,9,7,11,3,1,5,2,4
+"Hauer, Josef Matthias","Zwölftonspiel für Klavier zu vier Händen, mit einer Zwölftonreihe von Nikolaus Fheodoroff. 8. Juli 1952",1952/7/8,0,2,10,6,8,7,5,9,11,3,1,4
+"Hauer, Josef Matthias","Zwölftonspiel für Klavier zu vier Händen, zwei Violinen, Bratsche und Cello",1954/10/24,0,1,4,9,6,11,2,10,8,5,7,3
+"Hauer, Josef Matthias","Zwölftonspiel für Klavier zu vier Händen, zwei Violinen, Bratsche und Cello. 19. Oktober 1954",1954/10/19,0,6,11,2,1,5,3,8,10,7,9,4
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier zu vier Händen. 13. März 1952,1952/3/13,0,5,9,10,8,1,4,3,6,7,11,2
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier zu vier Händen. 16. Oktober 1955,1955/10/16,0,4,6,3,2,7,10,1,9,5,8,11
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier zu vier Händen. 2. Mai 1952,1952/5/2,0,4,6,10,11,7,9,2,8,1,3,5
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier zu vier Händen. 24. Juni 1952,1952/6/24,0,6,10,7,9,3,4,1,8,5,11,2
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier zu vier Händen. 26. Juni 1952,1952/6/26,0,6,2,10,9,5,3,4,8,7,11,1
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier zu vier Händen. 28. Juli 1952,1952/7/28,0,11,9,4,1,6,10,5,2,7,8,3
+"Hauer, Josef Matthias","Zwölftonspiel für Klavier zu vier Händen. 30. Juni 1952, I",1952/6/30,0,2,10,4,11,8,1,7,5,3,6,9
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier zu vier Händen. 5. Juli 1952,1952/7/5,0,2,3,10,4,7,6,1,9,8,5,11
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier zu vier Händen. 9. April 1952,1952/4/9,0,10,8,6,1,7,9,3,2,11,5,4
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier zu vier Händen. Mai 1955,1955/5/7,0,6,11,4,2,9,3,1,5,7,10,8
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier zu vier Händen; mit einer Zwölftonreihe von Dr. Fritz Racek,1954/8/22,0,2,9,11,4,3,6,1,10,8,5,7
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier zu zwei Händen. Neujahr 1947 (mit einer Zwölftonreihe von Ernst Hartmann),1947/1/1,0,10,6,3,7,4,9,2,8,11,1,5
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier. 11. Juni 1955,1955/6/11,0,6,11,4,2,9,3,1,5,7,10,8
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier. 17. Juli 1952,1952/7/17,0,6,4,9,2,10,7,11,1,8,5,3
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier. 19. Februar 1953,1953/2/19,0,6,9,11,1,10,2,4,5,7,3,8
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier. 2. Juni 1955,1955/6/2,0,10,2,7,3,6,4,8,1,9,11,5
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier. 24. Dezember 1946,1946/12/24,0,1,2,6,10,5,11,4,3,9,7,8
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier. 3. Februar 1954,1954/2/3,0,9,4,2,8,11,1,5,3,6,10,7
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier. 7. Juni 1955,1955/6/7,0,4,10,7,11,8,3,1,5,6,2,9
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier. März 1953,1953/3/2,0,6,8,7,5,10,2,3,11,4,9,1
+"Hauer, Josef Matthias",Zwölftonspiel für Klavier. September 1956,1956/9/4,0,8,11,6,3,5,1,10,7,4,2,9
+"Hauer, Josef Matthias",Zwölftonspiel für Oechester. 28. 9. 1954,1954/9/28,0,8,9,6,10,4,11,1,2,5,3,7
+"Hauer, Josef Matthias",Zwölftonspiel für Orchester (August 1957),1957/8/9,0,9,4,6,11,3,2,8,5,1,7,10
+"Hauer, Josef Matthias",Zwölftonspiel für Orchester. September 1957,1957/9/22,0,8,6,10,5,7,2,4,1,9,11,3
+"Hauer, Josef Matthias",Zwölftonspiel für Streichquartett,1948/10/4,0,3,7,2,9,6,4,10,1,8,11,5
+"Hauer, Josef Matthias",Zwölftonspiel für Violine allein mit einer Zwölftonreihe von Dr. Ernst Weidinger,1948/8/23,0,9,8,5,10,2,11,6,3,7,4,1
+"Hauer, Josef Matthias",Zwölftonspiel für Violine und Cembalo [Klavier]. 27. August 1948,1948/8/27,0,9,6,2,3,10,8,5,4,7,11,1
+"Hauer, Josef Matthias",Zwölftonspiel für Violine und Cembalo. 22.Juli 1948,1948/7/22,0,6,1,8,5,9,2,7,10,3,11,4
+"Hauer, Josef Matthias",Zwölftonspiel für Violine und Klavier,1954,0,10,7,2,8,6,3,4,9,11,1,5
+"Hauer, Josef Matthias",Zwölftonspiel für Violine und Klavier. 15.Juni 1955,1955/6/15,0,6,3,2,11,4,1,9,7,10,5,8
+"Hauer, Josef Matthias",Zwölftonspiel für Violine und Klavier. 2. September 1956,1956/9/2,0,6,8,1,10,5,9,3,11,4,7,2
+"Hauer, Josef Matthias",Zwölftonspiel für Violine und Klavier. 3. April 1955,1955/4/3,0,2,6,4,9,10,5,3,7,8,11,1
+"Hauer, Josef Matthias","Zwölftonspiel für Violine, Cello und Klavier zu vier Händen",1957/8/13,0,10,6,1,8,3,11,7,2,5,9,4
+"Hauer, Josef Matthias","Zwölftonspiel für Violine, Viola und Klavier. September 1957",1957/9,0,5,9,4,7,10,3,6,1,11,8,2
+"Hauer, Josef Matthias",Zwölftonspiel für fünf Instrumente (Klavierquintett),1951/9/15,0,4,2,11,7,10,6,9,3,8,1,5
+"Hauer, Josef Matthias",Zwölftonspiel für fünf Violinen. 16. August 1950,1950/8/16,0,7,3,6,1,11,4,10,5,2,8,9
+"Hauer, Josef Matthias",Zwölftonspiel für fünf Violinen. Mai 1955,1955/5,0,7,11,8,5,1,3,9,4,10,6,2
+"Hauer, Josef Matthias",Zwölftonspiel für kleinen Chor und Klavier. Ostern 1947.,1947/4,0,7,2,5,1,4,8,10,3,11,9,6
+"Hauer, Josef Matthias",Zwölftonspiel für zwei Violinen,1954/2/10,0,2,3,11,1,10,8,6,4,9,7,5
+"Hauer, Josef Matthias",Zwölftonspiel für zwei Violinen und zwei Violinen und zwei Bratschen. 11. Oktober 1956,1956/10/11,0,10,1,3,2,9,5,6,4,8,11,7
+"Hauer, Josef Matthias","Zwölftonspiel für zwei Violinen, Bratsche und Cello ('Ins Räumliche übertragen'). 3. September 1953",1953/9/3,0,10,7,2,8,6,3,4,9,11,1,5
+"Hauer, Josef Matthias","Zwölftonspiel für zwei Violinen, Bratsche und Cello. 12. Jänner 1954",1954/1/12,0,11,10,1,9,4,5,6,2,7,8,3
+"Hauer, Josef Matthias","Zwölftonspiel für zwei Violinen, Bratsche und Cello. Jänner 1948",1948/1,0,1,7,2,11,3,8,5,6,4,9,10
+"Hauer, Josef Matthias","Zwölftonspiel für zwei Violinen, Bratsche, Cello und Klavier",1956/1/19,0,6,9,11,4,3,7,5,2,8,10,1
+"Hauer, Josef Matthias","Zwölftonspiel für zwei Violinen, Bratsche, Cello und Klavier. 16. April 1958",1958/4/16,0,3,8,2,9,1,11,5,7,4,6,10
+"Hauer, Josef Matthias","Zwölftonspiel in drei Teilen für zwei Violinen, Bratsche und Cello. 31. Juli 1953",1953/7/31,0,10,7,2,8,6,3,4,9,11,1,5
+"Hauer, Josef Matthias",Zwölftonspiel. 20. Mai 1956,1956/5/20,0,2,5,8,10,9,11,6,4,7,3,1
+"Hauer, Josef Matthias",[Zwölftonspiel] 'Johann Sebastian Bach hat das Wohltemperierte Klavier im Himmel vollendet ...'.,1952/11/2,0,10,5,4,2,9,8,1,3,11,6,7
+"Hauer, Josef Matthias",twelve-tone-row-example,1920,0,2,5,11,1,10,4,8,7,3,6,9
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 1.,1979/9,0,1,2,3,4,5,11,10,9,8,7,6
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 10.,1979/9,0,4,6,7,8,10,9,5,3,2,1,11
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 11.,1979/9,0,4,5,6,8,9,7,3,2,1,11,10
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 12.,1979/9,0,3,6,7,9,10,11,8,5,4,2,1
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 13.,1979/9,0,3,5,7,8,10,9,6,4,2,1,11
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 14.,1979/9,0,2,5,7,8,10,11,9,6,4,3,1
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 15.,1979/9,0,1,3,6,7,9,11,10,8,5,4,2
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 16.,1979/9,0,1,3,5,7,10,9,8,6,4,2,11
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 17.,1979/9,0,1,3,5,8,9,7,6,4,2,11,10
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 18.,1979/9,0,3,4,6,9,10,11,8,7,5,2,1
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 19.,1979/9,0,1,4,5,8,9,11,10,7,6,3,2
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 2.,1979/9,0,1,2,3,4,10,9,8,7,6,5,11
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 20.,1979/9,0,1,2,5,7,8,11,10,9,6,4,3
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 21.,1979/9,0,1,2,5,6,10,9,8,7,4,3,11
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 22.,1979/9,0,1,2,4,8,9,7,6,5,3,11,10
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 23.,1979/9,0,3,4,5,9,10,11,8,7,6,2,1
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 24.,1979/9,0,3,4,7,8,10,9,6,5,2,1,11
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 25.,1979/9,0,3,5,6,8,9,7,4,2,1,11,10
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 26.,1979/9,0,3,4,6,7,8,5,2,1,11,10,9
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 27.,1979/9,0,2,4,5,6,7,3,1,11,10,9,8
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 28.,1979/9,0,5,7,8,9,10,11,6,4,3,2,1
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 29.,1979/9,0,1,6,7,8,9,11,10,5,4,3,2
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 3.,1979/9,0,2,3,4,5,10,11,9,8,7,6,1
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 30.,1979/9,0,1,2,6,7,8,11,10,9,5,4,3
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 31.,1979/9,0,1,2,3,6,7,11,10,9,8,5,4
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 32.,1979/9,0,1,2,3,4,6,11,10,9,8,7,5
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 4.,1979/9,0,2,3,4,8,10,9,7,6,5,1,11
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 5.,1979/9,0,2,4,5,8,10,11,9,7,6,3,1
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 6.,1979/9,0,2,4,6,8,10,9,7,5,3,1,11
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 7.,1979/9,0,2,4,6,8,9,7,5,3,1,11,10
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 8.,1979/9,0,2,4,6,7,8,5,3,1,11,10,9
+"Hendler, Maximilian",'Die vollständige Ordnung der symmetrischen zwölftönigen Modi' Nr. 9.,1979/9,0,4,6,8,9,10,11,7,5,3,2,1
+"Hendler, Maximilian",Vier Miniaturen für Klarinette op. 51.,1982/4/26,0,3,5,11,8,6,10,2,4,1,9,7
+"Hendler, Maximilian",aus dem >Liederbuch für Annemarie< 'Zur Nachbarin' (Text: Herwig von Kreutzbruck) op. 56-2.,1982/8/29,0,9,4,7,11,10,8,1,5,3,2,6
+"Hendler, Maximilian",aus den fünf Liedern nach Texten von Elisabeth Pöschl : 'Sonnenaufgang' für Singstimme und Klavier op. 44-1,1981/12,0,11,2,1,5,6,4,3,8,7,9,10
+"Hendler, Maximilian",aus den fünf Liedern nach Texten von Karl Hans Haysen für Singstimme und Klavier : 'Erkenntnis' op. 45-2,1982/1,0,9,2,4,7,11,8,10,5,1,6,3
+"Hindemith, Paul",Ludus Tonalis,1942,0,7,5,9,4,3,8,2,10,1,11,6
+"Huber, Klaus",Zwei Sätze,1958,0,3,1,10,11,8,6,9,7,2,4,5
+"Husa, Karel",Hudba pro Prahu 1968,1968,0,8,2,1,7,9,6,10,3,11,5,4
 "Husa, Karel",Mosaïques,1960,0,6,4,3,2,9,10,5,7,8,11,1
 "Husa, Karel","Poème for Viola and Chamber Orchestra, mvt 1",1959,0,6,5,7,8,11,9,10,3,4,2,1
 "Husa, Karel","Poème for Viola and Chamber Orchestra, mvt 2",1959,0,1,11,10,5,8,6,7,9,3,2,4
 "Husa, Karel","Poème for Viola and Chamber Orchestra, mvt 3",1959,0,3,1,2,4,10,9,11,7,8,6,5
+"Höller, York",Der Meister und Margarita,1984-89,0,1,4,6,3,5,9,8,11,10,7,2
 "Ives, Charles",On the Antipodes,1915-23,0,3,11,8,4,7,10,9,6,2,5,1
 "Ives, Charles","String Quartet No.2, mvt 2",1913,0,1,2,11,3,7,10,4,6,8,9,5
 "Ives, Charles",Tone Roads No. 1,1911,0,10,3,4,2,7,6,9,8,11,1,5
 "Ives, Charles",Tone Roads No. 3,1915,0,11,1,3,2,10,5,8,4,7,6,9
+"Jelinek, Hanns",Zwölftonwerk op.15.,1947-1957,0,10,5,7,3,6,1,8,11,9,2,4
 "Johnston, Ben",String Quartet No. 6,1980,0,5,10,9,3,7,11,6,1,2,8,4
 "Johnston, Ben","String Quartet No. 7, mov. 2",1984,0,5,10,8,4,7,2,6,1,11,3,9
+"Jung, Joachim",.,1994,0,11,3,10,2,1,7,8,4,9,5,6
+"Kahn, Erich Itor",Bagatelle für Rene Leibowitz,1940/2/20,0,1,2,4,6,3,10,11,5,7,9,8
 "Kahn, Erich Itor",Short Piano Piece,1951,0,3,11,10,8,6,2,7,9,4,5,1
+"Kalodiki, Georgia",Six Sketches for piano.,2004,0,7,6,1,2,9,8,3,4,11,5,10
 "Klein, Fritz","Die Maschine: Eine extonale Selbstsatire, Op.1",1921,0,11,7,4,2,9,3,8,10,1,5,6
 "Klein, Fritz",Variations for Piano,1924,0,1,5,11,8,4,9,3,2,10,7,6
+"Klein, Fritz Heinrich",Die Maschine. Eine extonale Selbstsatire von Heautontimorumenus. Op. 1 (Das Maschinen-Thema),1921,0,5,7,9,3,2,11,6,8,10,4,1
+"Klein, Fritz Heinrich","Variationen, Op. 14",1924,0,11,7,4,2,9,3,8,10,1,5,6
+"Klenau, Paul von",Elisabeth von England.,1939/1938,0,2,8,11,7,1,4,10,3,6,5,9
 "Kokkonen, Joonas","Cello Concerto, mov. 2, row ""II/A""",1969,0,2,7,4,3,5,6,1,11,8,10,9
 "Kokkonen, Joonas","Cello Concerto, mov. 2, row ""II/B""",1969,0,2,3,1,4,5,7,8,6,9,10,11
 "Kokkonen, Joonas","Cello Concerto, mov. 2, row ""II/C""",1969,0,9,11,10,7,2,6,3,5,4,1,8
@@ -287,6 +690,8 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Kokkonen, Joonas","Woodwind Quintet, mov. 1, rows ""I/A"" and ""I/B""","1973,75",0,2,11,9,10,1,3,6,4,5,7,8
 Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Krenek, Ernst",Eight Piano Pieces,1946,0,10,1,7,6,11,5,8,3,9,2,4
+"Krenek, Ernst",Four Songs op. 112,1946-1947,0,7,3,11,10,1,2,4,6,5,9,8
+"Krenek, Ernst",Kafka-songs op. 82,1938-1939,0,11,9,5,4,2,6,3,10,8,7,1
 "Krenek, Ernst",Karl V,1938,0,3,1,6,2,10,9,8,11,7,5,4
 "Krenek, Ernst","Karl V, King Francis Row",1938,0,10,5,6,11,3,9,4,2,7,1,8
 "Krenek, Ernst","Kette, Kreis, und Spiegel (Circle, Chain and Mirror), Op.160",1956-57,0,5,6,9,8,4,10,7,11,3,1,2
@@ -305,16 +710,137 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Krenek, Ernst","String Quartet No. 6, Op. 78",1936,0,10,11,8,1,9,3,7,2,4,6,5
 "Krenek, Ernst","String Quartet No. 7, Op. 96",1943-44,0,7,6,11,9,1,4,10,8,5,2,3
 "Krenek, Ernst",Studies in Counterpoint,1940,0,4,3,11,10,9,1,7,8,6,2,5
+"Krenek, Ernst",Studies in Counterpoint (i),1937,0,4,3,11,10,9,1,7,8,6,2,5
+"Krenek, Ernst",Studies in Counterpoint (ii),1937,0,3,10,4,9,11,8,7,5,1,2,6
 "Krenek, Ernst","Suite, Op. 84 for solo cello",1939,0,4,3,11,10,9,1,7,8,6,2,5
+"Krenek, Ernst","Symeon, der Stylit",1935-1936,0,3,10,4,9,11,8,7,5,1,2,6
 "Krenek, Ernst","Symphonic Elegy for String Orchestra, Op.105",1946,0,1,9,11,10,2,3,7,6,8,4,5
 "Krenek, Ernst","Symphonic Piece for string Orchestra, Op. 86",1939,0,3,4,10,2,9,11,8,7,5,1,6
 "Krenek, Ernst",Twelve Short Piano-Pieces Op. 83,1938,0,9,4,5,6,7,3,10,1,8,11,2
 "Krenek, Ernst",Zwölf Variationen in Drei Satzen,1937,0,1,3,10,2,5,11,7,4,9,6,8
+"Krenek, Ernst","Zwölf Variationen in Drei Sätzen, Op. 79.",1957/1940/1937,0,1,3,10,2,5,11,7,4,9,8,6
+"Krenek, Ernst",concert for organ and string-orchestra op. 230.,1979/1-2,0,11,8,4,3,6,7,5,2,9,10,1
+"Krenek, Ernst",twelve-tone-row in a display case of 'Steinerner Saal' in the 'Musikverein' of Vienna,1985/8/8,0,3,5,4,8,9,6,10,11,1,7,2
+"Kukuck, Felicitas",'Der Gottesknecht': 6. Kantate,1959,0,11,10,1,2,3,8,9,6,5,7,4
+"Kukuck, Felicitas",'Wo bist Du Trost'; motet,1974,0,11,10,7,6,1,2,5,4,3,9,8
 "Kurtág, György"," The Sayings of Péter Bornemisza, Op.7",1963,0,11,7,8,9,1,2,10,3,4,5,6
+"Lachenmann, Helmut",Mouvement (- vor der Erstarrung) für Ensemble,1982-1984,0,10,11,7,8,2,5,3,1,9,4,6
+"Lackner, Peter","'An alle Außerirdischen'. Kanon für drei Singstimmen, Kontrabaß und Klavier.",1995/9,0,4,9,7,11,2,5,1,8,10,6,3
+"Lackner, Peter","'Davongeflogene Seelen' für Singstimme, Violoncello und Klavier",,0,10,4,7,6,1,9,11,5,2,3,8
+"Lackner, Peter",'Der Winter',2005/11/20,0,6,3,5,9,11,7,1,4,2,10,8
+"Lackner, Peter",'Drei Dinge' für Singstimme und Klavier,1982/7,0,4,2,11,7,10,1,5,9,3,6,8
+"Lackner, Peter",'Es fiel ein Reif in der Frühlingsnacht' für Singstimme und ein Melodie-Instrument,1984/11/13,0,9,4,7,2,5,1,8,10,11,3,6
+"Lackner, Peter","'Euphorbia obesa'. Kanon für Oboe, Englischhorn und Fagott..",2000/4/16,0,10,2,6,8,4,1,9,11,3,7,5
+"Lackner, Peter",'Flügelaltar' für Klavier.,1983/7/15,0,9,11,10,2,7,1,8,4,5,3,6
+"Lackner, Peter",'Hexentanz' für Violine und Klavier,1986/9/2,0,3,5,7,8,4,1,10,11,2,6,9
+"Lackner, Peter",'INKE TAN MAGROV' für Singstimme und Klavier,1997/3/27,0,6,5,10,8,3,7,1,2,9,11,4
+"Lackner, Peter","'Lied des Harfenmädchens II' für Flöte, Klarinette, Posaune, Violine, Cello und Klavier",2005/10/19,0,3,5,11,7,10,1,8,4,9,6,2
+"Lackner, Peter",'Lied des Harfenmädchens' für Frauenstimme und Klavier,,0,3,5,11,7,10,1,8,4,9,6,2
+"Lackner, Peter",'So lebe wohl' für Singstimme und Klavier,1986/2/25,0,2,3,8,10,7,6,5,1,11,9,4
+"Lackner, Peter","'Ständchen' für zwei Violinen und zwei Bratschen. 1913,2013",2013/1989,0,4,2,8,11,7,10,5,9,1,3,6
+"Lackner, Peter",'Venus-Quadrat' für Violine und Klavier,1985/10/20,0,7,2,5,9,10,11,6,8,4,3,1
+"Lackner, Peter",'Wo ist der Freund' (erstes Lied aus dem Zyklus 'Wilde Erdbeeren' für Singstimme und Klavier),1989/9/13,0,3,6,2,9,11,7,4,1,5,10,8
+"Lackner, Peter",1. Kanonzyklus,1994/4/7,0,7,5,9,1,3,11,8,4,6,10,2
+"Lackner, Peter",2. Kanonzyklus,1993/7,0,10,2,7,9,5,11,3,1,8,4,6
+"Lackner, Peter",3. Kanonzyklus,1994/1/1,0,6,8,10,1,3,5,11,9,7,4,2
+"Lackner, Peter",4. Kanonzyklus,1991/7/21,0,5,3,7,11,1,9,4,6,2,10,8
+"Lackner, Peter",5. Kanonzyklus,1994/6,0,7,11,9,1,3,5,8,10,6,2,4
+"Lackner, Peter",AGNI MEI (Kanon für Klavier. 5. Juni 2015),2015/6/5,0,4,10,11,1,2,8,7,3,6,9,5
+"Lackner, Peter","Das Buch der Wandlungen I für Frauenstimmen und,oder Klavier.",1998/4/16,0,8,3,5,1,10,7,11,4,2,6,9
+"Lackner, Peter",Florianische Reihe,1995/4/16,0,3,9,7,4,11,5,2,8,6,1,10
+"Lackner, Peter",INITIUM TRIPLEX. 28. Juni 2016; für drei Tasteninstrumente,2016/6/28,0,1,2,3,4,5,6,7,8,9,10,11
+"Lackner, Peter",INKE TAN MAGROV für Singstimme und Klavier (zweites Lied aus dem Zyklus 'Wilde Erdbeeren'),1990,0,2,9,5,8,11,3,1,6,10,7,4
+"Lackner, Peter","KANON für A, O & Gsellmanns Weltmaschine. 8. Oktober 1958,2008",,0,8,10,4,2,6,9,1,11,5,7,3
+"Lackner, Peter","Kanon 'kgV(3,5,7)'.",1986/5/5,0,3,10,9,6,5,2,11,4,8,1,7
+"Lackner, Peter",Kanon T2 à 6,1992,0,5,2,7,4,9,6,11,8,1,10,3
+"Lackner, Peter",Kanon T3 à 4,1992,0,2,7,3,5,10,6,8,1,9,11,4
+"Lackner, Peter",Kanon T4 á 3,1992,0,5,7,2,4,9,11,6,8,1,3,10
+"Lackner, Peter",Kanon T6 á 2,1992,0,10,8,3,1,5,6,4,2,9,7,11
+"Lackner, Peter",Kanon for 836017,2010/9/24,0,2,10,7,5,1,3,9,11,4,6,8
+"Lackner, Peter","Kanon für B. L., 7. Oktober 2017",2017/10/7,0,9,10,5,3,7,11,2,1,6,8,4
+"Lackner, Peter",Kanon für Blockflötenquartett. April 2005.,2005/4/27,0,10,11,3,1,2,8,7,9,5,4,6
+"Lackner, Peter","Kanon für Bläsersextett. Mai 1995,1996",1996/1995/5,0,9,7,3,10,1,6,8,2,11,5,4
+"Lackner, Peter",Kanon für Cello und Klavier.,1989,0,2,9,10,6,5,1,11,4,3,7,8
+"Lackner, Peter",Kanon für Flöte solo und N. N.,2011/6/19,0,3,7,10,2,5,11,8,4,1,9,6
+"Lackner, Peter",Kanon für Flöte und Elektronik. Februar 1999.,1999/2,0,10,2,7,9,5,11,3,1,8,4,6
+"Lackner, Peter","Kanon für Flöte, Akkordeon, zwei Violinen, Bratsche und Klavier",2002/11/17,0,5,3,7,11,1,9,4,6,2,10,8
+"Lackner, Peter",Kanon für Hammerklavier. März 2016,2016/3/24./23.,0,2,1,5,7,3,11,9,10,6,4,8
+"Lackner, Peter",Kanon für Kammerorchester.,1989,0,9,11,6,2,4,7,10,8,1,5,3
+"Lackner, Peter",Kanon für Klavier,1989/27/6,0,6,8,10,1,3,5,11,9,7,4,2
+"Lackner, Peter",Kanon für Klavier zu vier Händen.,1988,0,10,5,3,7,8,6,4,11,9,1,2
+"Lackner, Peter",Kanon für Klavier zu vier Händen. 12. Juni 1996.,,0,4,2,8,11,10,5,1,3,9,6,7
+"Lackner, Peter",Kanon für Klavier zu vier Händen. Frühling 1984.,1984,0,1,10,7,9,4,5,11,8,6,2,3
+"Lackner, Peter",Kanon für Klavier. 15. Juni 1992,1992/6/15,0,10,3,8,6,5,2,1,11,4,9,7
+"Lackner, Peter",Kanon für Klavier. 21. Juni 1998.,1998/6/21,0,7,6,5,1,4,3,8,9,10,2,11
+"Lackner, Peter",Kanon für Klavier. 26. Juni 1983,1983/6/26,0,7,5,9,4,8,6,1,11,3,10,2
+"Lackner, Peter","Kanon für Klavier. 27. Juni, 26. September 2002",2002/9/6,0,9,4,1,2,8,7,10,3,6,5,11
+"Lackner, Peter",Kanon für Klavier. 5. April 1989.,1989/4/5,0,2,9,10,6,5,1,11,4,3,7,8
+"Lackner, Peter",Kanon für Klavier. April 2000.,2000/4,0,5,3,7,11,1,9,4,6,2,10,8
+"Lackner, Peter",Kanon für Klavierquartett,1991/3/21,0,8,6,11,3,9,1,5,7,2,10,4
+"Lackner, Peter",Kanon für Klavierquartett. 27. April 1991,1991/4/27,0,6,3,5,9,11,7,1,4,2,10,8
+"Lackner, Peter",Kanon für Klavierquartett. 27. Juni 1991,1991/6/27,0,2,6,9,11,3,7,5,1,10,8,4
+"Lackner, Peter",Kanon für Klaviertrio.,,0,2,4,9,5,7,3,1,11,6,10,8
+"Lackner, Peter","Kanon für Orgel, zweimanualiges Cembalo oder Klavier",1982/10/30,0,7,2,11,4,9,6,8,1,5,3,10
+"Lackner, Peter","Kanon für Orgel. 21. November 1994, 4. Februar 1995",95/1994,0,8,5,1,4,9,2,11,7,3,10,6
+"Lackner, Peter",Kanon für Schrammel-Quartett. November 2002,2002/11,0,4,6,3,11,9,1,5,8,2,10,7
+"Lackner, Peter",Kanon für Schwegel und zwei Geigen,1989/6/2,0,6,4,2,10,8,9,3,5,7,11,1
+"Lackner, Peter","Kanon für Schwegel, diatonisches Hackbrett und Violine.",,0,8,4,10,6,2,5,1,9,3,11,7
+"Lackner, Peter",Kanon für Schwegelpfeife in A und Geige,1991/1,0,9,7,2,10,4,3,6,8,1,5,11
+"Lackner, Peter",Kanon für Streichquartett und Orgel. 21. November 1993,1993/11/21,0,10,2,5,4,7,1,11,3,9,8,6
+"Lackner, Peter",Kanon für Streichquartett.,1989,0,9,3,5,1,11,7,10,4,2,6,8
+"Lackner, Peter",Kanon für Streichquartett. 18. Mai 1993,1993/5/18,0,11,4,7,1,10,5,6,2,3,9,8
+"Lackner, Peter",Kanon für Streichquartett. 22.September 2003,2003/9/22,0,8,10,4,2,6,9,1,11,5,7,3
+"Lackner, Peter",Kanon für Streichquartett. 3. Jänner 1990,1990/1/3,0,6,4,8,11,3,1,7,9,5,2,10
+"Lackner, Peter",Kanon für Streichquartett. 5. Dezember 1992,1992/12/5,0,5,9,4,11,8,2,7,1,10,3,6
+"Lackner, Peter",Kanon für Tenor-Hackbrett. 19. März 2014.,2014/3/19,0,8,4,6,9,1,11,3,7,5,2,10
+"Lackner, Peter",Kanon für Violine solo,1988/11/16,0,11,2,7,10,9,3,4,1,8,5,6
+"Lackner, Peter",Kanon für Violine und Violoncello,1989/4/12,0,2,9,10,6,5,1,11,4,3,7,8
+"Lackner, Peter","Kanon für Violine, Bratsche und Klavier",1989/7,0,4,2,8,11,7,10,5,9,1,3,6
+"Lackner, Peter","Kanon für Violine, Viola und Akkordeon. 11. Juni 2007.",2007/6/11,0,11,1,2,3,10,4,9,8,7,5,6
+"Lackner, Peter","Kanon für Violine, Violoncello und Akkordeon (Harmonium). 25. Oktober 1995.",1995/10/25,0,2,1,7,6,5,3,4,10,9,11,8
+"Lackner, Peter","Kanon für acht Instrumente. Dezember 1991, März 2007",2007/1991,0,11,3,10,6,2,7,8,4,9,1,5
+"Lackner, Peter",Kanon für drei Bratschen.,1991/12/31,0,11,3,10,6,2,7,8,4,9,1,5
+"Lackner, Peter",Kanon für drei Klaviere. 28. 6. 2016,2016/6/28,0,1,2,3,4,5,6,7,8,9,10,11
+"Lackner, Peter","Kanon für drei Violinen I, II August 1998.",1998/8,0,2,10,4,8,6,1,9,11,5,3,7
+"Lackner, Peter",Kanon für sechs Instrumente. 16. März 2009,2009/3/16,0,7,6,3,2,10,1,8,11,5,4,9
+"Lackner, Peter",Kanon für sechs Posaunen. Herbst 1996.,1996,0,9,1,6,4,8,11,2,10,7,5,3
+"Lackner, Peter",Kanon für zwei Gitarren. September 2001.,2001/9/9,0,5,3,9,11,6,7,2,4,10,8,1
+"Lackner, Peter",Kanon für zwei Singstimmen und Ensemble zur Skulpturengruppe LEM von Axel Kirchmayr und einem Text von Hannes Waltl. September 2004,2004/9,0,2,9,10,5,7,1,11,4,3,8,6
+"Lackner, Peter",Kanon für zwei Singstimmen zu vier Texten für Kanons von Hannes Waltl,2006/9,0,11,2,1,8,6,10,7,3,4,5,9
+"Lackner, Peter","Kanon für zwei Trompeten, Horn, Posaune und Tuba. 1. Mai 1993.",1993/5/1,0,1,2,10,3,5,11,9,4,8,7,6
+"Lackner, Peter",Kanon für zwei Violinen und Klavier. 1. Dezember 2004.,2004/12/1,0,10,2,6,8,4,1,9,11,3,7,5
+"Lackner, Peter",Kanon für zwei Violinen und Klavier. Frühjahr 1984.,1984,0,1,10,7,9,4,5,11,8,6,2,3
+"Lackner, Peter",Kanon für zwei Violinen.,1988/4/23,0,7,4,5,9,2,3,8,11,10,6,1
+"Lackner, Peter",Kanon für zwei Violinen. Frühjahr 1992.,1992/3,0,2,4,7,9,11,5,3,1,10,8,6
+"Lackner, Peter",Kanon à 3.,1992/9/9,0,11,6,10,2,7,3,4,9,5,1,8
+"Lackner, Peter",Kanon à 4 - 'Für Harald Fripertinger zum 50. Geburtstag'.,2015/8/22,0,10,3,6,5,8,1,11,9,4,7,2
+"Lackner, Peter",Kanon á 4,2012/1989,0,4,2,8,11,7,10,5,9,1,3,6
+"Lackner, Peter",Kanon á 5 für Klaus Chudoba.,1993/1/28,0,2,10,8,6,11,3,1,5,7,9,4
+"Lackner, Peter",Kanon-Polska für zwei Bratschen. 6. Juni 1993.,1993/6/6,0,6,3,1,10,8,5,11,2,4,7,9
+"Lackner, Peter",Krebs-Kanon à 4.,1993/3/2,0,8,5,7,3,9,1,11,2,6,4,10
+"Lackner, Peter","Moebius-Band für Flöte, Violine, Violoncello und Klavier.",1989,0,3,6,2,9,11,7,4,1,5,10,8
+"Lackner, Peter",Moebius-Band für sechs Violinen.,1989,0,3,6,2,9,11,7,4,1,5,10,8
+"Lackner, Peter",Moebiusband I für zwei Melodieinstrumente.,1988/7/20,0,6,8,2,7,1,11,5,3,9,4,10
+"Lackner, Peter",Moebiusband für Violine und Klavier (Chinesenfolter I).,1989/3/3,0,2,4,6,10,5,1,11,9,7,3,8
+"Lackner, Peter",Reihenspiel für Orgel,1982/8-9,0,9,6,11,5,4,10,7,2,1,8,3
+"Lackner, Peter","Salambo-Kanon (à 4); Bad Aussee, 2. Februar 2008.",2008/2/12,0,6,9,2,8,10,4,7,1,11,3,5
+"Lackner, Peter",Sponsions-Kanon,2007/1/5,0,4,1,10,3,7,9,5,8,11,6,2
+"Lackner, Peter",TACET (drittes Lied aus dem Zyklus 'Wilde Erdbeeren'),1990,0,2,9,5,8,11,4,7,10,6,1,3
+"Lackner, Peter","Trauermusik für Fagott, Kontrafagott und Pauke.",1989/2,0,6,2,8,10,4,11,5,9,3,1,7
+"Lackner, Peter",Vier Klavierstücke 1988,1988,0,1,10,11,8,7,9,5,6,4,2,3
+"Lackner, Peter","kgV (3,4) [zweistimmiger Kanon für Klavier].",1987,0,10,2,3,5,7,1,11,9,8,4,6
+"Lang, Bernhard",'Der Golem' nach Gustav Meyrinck,2014,0,4,7,8,11,3,5,2,9,1,10,6
+"Lang, Bernhard",'Küstenlinien'; für zwei Klaviere und doppeltes Schlagwerk.,1992,0,9,7,4,5,11,2,1,8,10,3,6
+"Lang, Bernhard",Der Reigen,2012,0,5,1,4,2,3,9,8,10,7,11,6
+"Lang, Bernhard","HIOB Musiktheater für Orchester, Chor und Solisten",2017-2022,0,9,11,10,5,8,6,7,2,3,1,4
+"Lang, Bernhard",Hemma (Music Theatre Hemma Klagenfurt 2015),2014/6/24,0,5,10,2,3,1,7,9,8,4,11,6
+"Lang, Bernhard",Monadologie XIII a; 'The Saucy Maid',2011-2012,0,1,5,2,4,9,3,10,8,11,7,6
+"Lang, Klaus",'Von der Ligurischen Küste zum Trasimenischen See'; Trauermusik für Violine und Klavier.,1993,0,5,9,8,10,7,1,4,2,3,11,6
 "Leibowitz, René","String Quartet no.3, Op. 26",1951,0,8,9,7,6,1,2,5,4,10,11,3
 "Leibowitz, René","Trois pièces pour piano, Op. 19",1949,0,4,3,1,2,5,6,9,10,8,7,11
 "Lewin, David","Just a Minute, Roger",1978,0,11,4,5,7,3,2,6,8,1,10,9
 "Ligeti, György",Le Grand Macabre,"1975-77,96",0,6,5,11,10,4,9,3,2,8,7,1
+"Liszt, Franz",Eine Faust Symphonie,1854/1853,0,4,8,11,3,7,10,2,6,9,1,5
 "Lutosławski, Witold",Musique Funébre (Funeral Music),1954-58,0,6,5,11,10,4,3,9,8,2,1,7
 "Lutyens, Elisabeth","Essence Of Our Happinesses Op.69, mvt II, Part I",1968,0,11,1,10,2,3,8,9,5,6,4,7
 "Lutyens, Elisabeth",Five Little Pieces for Clarinet and Piano,1945,0,8,4,1,10,2,9,3,5,6,11,7
@@ -329,18 +855,28 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Lutyens, Elisabeth",The Valley of Hatsu'se,1965,0,6,11,10,8,7,9,1,3,2,4,5
 "Lutyens, Elisabeth",Three Improvisations for Piano Solo,1948,0,6,9,7,8,3,4,1,10,5,11,2
 "Lutyens, Elisabeth","Time Off? Not a Ghost of a Chance!, Op.68",1967-68,0,11,1,5,2,4,9,8,3,7,6,10
+"Maderna, Bruno",Improvvisazione N. 1,1951-1952,0,11,4,8,3,2,7,6,1,5,10,9
+"Maderna, Bruno",Musica su due dimensioni,1952,0,2,9,4,6,11,8,10,1,3,5,7
 "Maderna, Bruno",Quartetto,1955,0,7,2,3,6,9,10,1,4,5,8,11
+"Maderna, Bruno",Streichquartett (Basisreihe 1),1955,0,7,2,3,6,9,10,1,4,5,8,11
+"Maderna, Bruno",Streichquartett (Basisreihe 2),1955,0,7,10,1,6,3,11,4,9,2,5,8
 "Mamlok, Ursula",Five Intermezzi for guitar solo,1984-90,0,3,6,11,2,5,1,10,7,4,8,9
 "Mamlok, Ursula","Haiku Settings, no. 5",1967,0,11,8,7,4,3,5,6,9,10,1,2
 "Mamlok, Ursula",Panta Rhei,1981,0,7,4,11,8,3,10,9,6,2,5,1
 "Mamlok, Ursula","Panta Rhei, secondary row (mvt 4, Piano)",1981,0,11,8,3,4,7,2,1,6,9,10,5
 "Mamlok, Ursula","Variations for Solo Flute, theme",1961,0,2,1,11,7,3,5,6,4,10,8,9
+"Martin, Frank",Petite complainte,1941,0,11,10,6,2,4,5,9,8,7,3,1
 "Martino, Donald",Fantasy Variations,1962,0,3,1,10,2,8,11,5,6,9,7,4
 "Martino, Donald",Notturno (Row A),1973,0,11,10,2,6,1,5,9,4,8,3,7
 "Martino, Donald",Notturno (Row B),1973,0,7,11,10,9,8,2,1,6,3,4,5
+"Matthias, Hauer Josef","Zwölftonspiel für Holzbläser, Streicher und Klavier. April 1951",1951/4/27,0,4,9,11,7,2,3,6,8,10,5,1
 "Matthias, Josef","Salambo, Op. 60",1929,0,6,9,2,8,10,4,7,1,11,3,5
+"Messiaen, Olivier",Le Merle noir,1951,0,5,11,6,1,9,7,3,4,2,8,10
+"Messiaen, Olivier",Livre d'orgue.,1951,0,1,11,2,10,3,9,4,8,5,7,6
 "Messiaen, Olivier","Mode de valeurs et d'intensités, Series 1",1949,0,11,6,5,4,3,1,10,9,7,2,8
 "Messiaen, Olivier","Mode de valeurs et d'intensités, Series 3",1949,0,11,6,4,3,9,5,2,8,1,7,10
+"Messiaen, Olivier","Mode de valeurs et d’intensités, Series 2",1949,0,5,3,1,10,9,8,7,6,4,11,2
+"Mittendorfer, Josef",aleatoric row,2012/12/28,0,2,7,1,8,6,10,5,4,11,3,9
 "Moevs, Robert",Ludi Praeteriti: Games of the Past for two pianos,1976,0,11,8,7,6,3,2,1,9,10,4,5
 "Moevs, Robert",Musica da Camera,1965,0,1,11,3,4,2,9,10,8,7,5,6
 "Moevs, Robert","Three Pieces for violin and piano, mvt II",1982,0,4,8,9,3,2,10,11,7,6,5,1
@@ -399,6 +935,8 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Morris, Robert",…gradually…,2010,0,1,8,3,5,4,6,7,9,11,2,10
 "Musgrave, Thea","Triptych, Song 1",1959,0,11,9,6,5,2,10,1,8,7,3,4
 "Nichols, Jeff","...its darkening opposite, or Set Portrait in a Convex Mirror",2008,0,4,8,7,11,2,3,6,1,9,10,5
+"Nierhaus, Gerhard",'Achat' für Streichorchester (bzw. Streichsextett und Orgel).,1993/12/5,0,4,3,11,2,6,5,9,8,7,10,1
+"Nierhaus, Gerhard",'Polg' - für Orchester,,0,3,1,7,11,2,10,4,8,5,9,6
 "Nono, Luigi",Canti per tredeci,1955,0,1,11,2,10,3,9,4,8,5,7,6
 "Nono, Luigi",Composizione per orchestra No. 1,1951,0,1,7,6,2,8,4,3,5,10,11,9
 "Nono, Luigi",Cori di Didone,1958,0,1,11,2,10,3,9,4,8,5,7,6
@@ -423,6 +961,7 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Nono, Luigi",Variazioni canoniche sulla serie dell'op. 41 di Arnold Schönberg,1950,0,1,9,8,4,5,7,6,10,11,3,2
 "Panufnik, Andrzej","Sinfonia di Sfere (Symphony No.5), Chord 1",1975,0,4,8,11,3,7,10,2,6,9,1,5
 "Panufnik, Andrzej","Sinfonia di Sfere (Symphony No.5), Chord 2",1975,0,3,6,9,11,2,5,8,10,1,4,7
+"Papageorgiou, Dimitri",'Jarra Jarra' for six block flutes.,1988,0,5,3,2,6,8,7,11,1,10,9,4
 "Papaioannou, Yannis",12 Inventions and Toccatta,1958,0,2,5,6,1,3,8,9,11,7,4,10
 "Papaioannou, Yannis",Pygmalion,1952,0,2,7,5,8,11,9,6,10,3,1,4
 "Papaioannou, Yannis",Sonata,1958,0,2,9,8,1,6,4,3,11,10,7,5
@@ -437,17 +976,36 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Papaioannou, Yannis",Symphony no. 3,1953,0,1,5,6,9,11,8,7,3,10,2,4
 "Payne, Antony",Miniature Variations on a Theme of E.L.,1984,0,6,11,10,8,7,9,1,3,2,4,5
 "Pentland, Barbara",String Quartet No. 3,1969,0,11,3,6,5,9,10,8,1,2,7,4
+"Perle, George",First string quartet,,0,1,3,6,10,9,8,7,4,5,11,2
+"Piston, Walter",Symphony No. 8,1965,0,1,4,5,8,7,6,3,2,9,11,10
 "Pousseur, Henri",Trois Chants Sacrés,1951,0,10,11,4,1,5,9,6,3,7,2,8
+"Preßl, Hermann Markus","'A 5' für Bassklarinette, Vibraphon und drei Bratschen",1985/10/11,0,6,5,8,10,7,3,2,4,9,1,11
+"Preßl, Hermann Markus",'Arsis' für 84 Singstimmen und 48 Instrumente.,1988,0,1,4,7,8,11,2,9,10,6,5,3
+"Preßl, Hermann Markus","'N.N.,8' für Klavier und Orgel.",1986/8,0,1,8,11,3,9,6,5,7,2,4,10
+"Preßl, Hermann Markus","'Sonnenuntergänge nach meinem Tode'; Fünf Haikus nach Günther Klinge für Sprechgesang, Alt-Saxophon und Crotales",1994/7,0,4,7,9,8,2,6,10,5,11,1,3
+"Preßl, Hermann Markus",'Zisterne' für Alt-Blockflöte allein,1994/7/17,0,10,6,3,11,8,2,1,7,9,5,4
+"Preßl, Hermann Markus",6. Symphonie aus Es.,1990,0,6,1,7,5,8,9,11,3,2,4,10
+"Preßl, Hermann Markus",Fier Fafeln für Fier Fiolen,1994/6/13,0,10,5,4,7,3,9,2,11,6,8,1
+"Preßl, Hermann Markus",Finstersonnen,1994/7,0,3,9,6,11,5,1,2,7,8,10,4
+"Preßl, Hermann Markus",Ithaka,1994/8/1,0,9,7,10,6,4,2,5,8,3,1,11
+"Preßl, Hermann Markus",N. N. 50; 'Die Zeremonie des Abschieds',1992/6/17,0,9,4,2,7,5,8,1,6,3,11,10
+"Preßl, Hermann Markus",N. N. 59 oder 'Der Ortsverlasser' für Cembalo und Orgelpositiv,1992/8/31,0,10,3,7,8,9,4,5,6,2,11,1
+"Preßl, Herrmann Markus",Fier Fafeln für Fier Fiolen,1994/6/13,0,7,8,11,9,4,6,10,1,5,3,2
 "Pärt, Arvo",Diagrams,1964,0,11,2,1,3,4,9,10,7,8,6,5
 "Pärt, Arvo",Perpetuum Mobile,1963,0,11,10,5,6,9,7,1,2,8,3,4
 "Pärt, Arvo",Symphony No. 1,1963,0,1,2,7,6,3,5,11,10,4,9,8
 "Pärt, Arvo",Symphony No. 2,1966,0,3,1,2,4,7,5,6,8,11,9,10
 "Reynolds, Roger",Ambages,1965,0,1,4,5,7,6,8,9,10,11,2,3
+"Riegebauer, Sigrid",Toccata,1987,0,3,1,2,11,10,4,5,8,7,9,6
+"Rinner, Ernst Christian",Missa DO-SI-MI-LA,1989,0,11,4,9,3,2,10,1,8,7,5,6
 "Rochberg, George",Sonata-Fantasia,1956,0,11,10,4,5,6,9,8,7,1,2,3
 "Rochberg, George",String Quartet No. 2 with soprano solo,1961,0,11,6,5,1,2,8,7,3,4,9,10
 "Rochberg, George",Symphony no. 2,1955-56,0,8,1,4,9,5,6,2,3,10,11,7
 "Rochberg, George","Twelve Bagatelles, i",1952,0,1,7,11,5,4,10,2,6,3,8,9
+"Ross, Eric",Sotto Passaggio op. 53,2002,0,11,4,6,9,8,10,1,5,2,3,7
 "Ruggles, Carl",Evocations II (Series X),1941,0,1,7,2,8,9,11,10,5,6,4,3
+"Sande, Henrik",'Volkslied' für zwei Singstimmen und Klavier. 24. 12. 2015,2015/12/24,0,2,4,5,7,9,10,8,6,3,1,11
+"Sande, Henrik",4032 Töne für Klavier sechshändig,1999/11/24,0,7,2,9,4,11,6,1,8,3,10,5
 "Santoro, Claudio","A Menina Boba, ""A Menina Exausta""","1945,71",0,5,10,7,3,11,1,8,2,9,6,4
 "Santoro, Claudio","A Menina Boba, ""Asa Ferida""",1945,0,9,10,11,3,5,4,6,2,7,8,1
 "Santoro, Claudio",Invenções a duas vozes (Two-Part inventions),1942,0,2,3,6,7,11,1,9,4,8,5,10
@@ -457,6 +1015,8 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Santoro, Claudio",Sonata 1942,1942,0,2,3,6,7,11,1,9,4,8,5,10
 "Santoro, Claudio",Sonata no. 1,1945,0,10,3,8,11,1,2,9,7,4,5,6
 "Santoro, Claudio",Sonatina no. 2,1963,0,11,1,5,6,3,7,8,9,2,4,10
+"Schiske, Karl",Symphony No. 4,1955,0,8,11,3,2,6,1,9,4,5,7,10
+"Schlerath, Ute",.,2012/1/1,0,5,3,9,10,2,8,4,1,7,11,6
 "Schmid, Erich","Bagatellen for Piano, Op. 14",1943,0,1,5,2,6,7,4,8,10,3,9,11
 "Schmid, Erich","Canon (""Herrn Dr. Anton Webern in Ehrfurcht als Willkommensgruss gewidmet"")",1943,0,10,4,5,8,11,1,7,9,3,6,2
 "Schmid, Erich","Notturno, Op. 10,  mvt 1",1935,0,4,6,3,9,8,5,11,1,2,10,7
@@ -470,6 +1030,7 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Schnittke, Alfred","Concerto Grosso No. 3, monogram 3",1985,0,11,2,1,3,4,10,9,7,8,5,6
 "Schnittke, Alfred","Concerto Grosso No. 3, monogram 4",1985,0,9,10,7,5,4,2,3,1,11,8,6
 "Schnittke, Alfred","Concerto Grosso No. 3, monogram 5",1985,0,1,7,10,4,11,5,6,9,8,2,3
+"Schnittke, Alfred",Concerto Grosso No. 3.,1985,0,5,1,4,10,8,11,9,3,6,2,7
 "Schnittke, Alfred","Concerto Grosso no. 1, mvt 2",1977,0,11,2,1,8,7,10,9,6,5,4,3
 "Schnittke, Alfred",Concerto No. 2 for Violin and Chamber Orchestra,1966,0,11,1,2,10,3,4,9,5,6,8,7
 "Schnittke, Alfred",Improvisation and Fugue for piano,1965,0,8,11,3,9,2,5,7,6,10,1,4
@@ -482,6 +1043,8 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Schnittke, Alfred","Sonata No. 2 for Cello and Piano, mvt 2",1994,0,2,3,1,4,5,11,10,7,9,8,6
 "Schnittke, Alfred","Sonata No. 2 for Cello and Piano, mvt 2, new row",1994,0,3,6,9,10,1,4,7,8,11,2,5
 "Schnittke, Alfred","Sonata No. 3 for Violin and Piano, mvt 4",1994,0,3,5,4,6,7,8,2,1,9,10,11
+"Schnittke, Alfred",String Quartet No. 1.,1966,0,2,1,10,3,11,5,9,4,7,8,6
+"Schnittke, Alfred",String Quartet No. 4,1989,0,11,10,1,3,2,4,9,8,6,5,7
 "Schnittke, Alfred","String Quartet no. 4, mvt 2, m.190",1989,0,1,6,5,3,4,11,10,8,9,2,7
 "Schnittke, Alfred","String Quartet no. 4, mvt 2, m.40",1989,0,5,10,3,2,7,8,1,6,11,4,9
 "Schnittke, Alfred","String Quartet no. 4, mvt 4, m.122",1989,0,1,11,2,10,3,4,9,8,7,6,5
@@ -534,6 +1097,8 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Schoenberg, Arnold","Violin Phantasy, Op. 47",1949,0,11,3,1,7,9,6,2,10,5,8,4
 "Schoenberg, Arnold","Von Heute Auf Morgen, Op. 32",1929,0,1,7,11,9,3,6,5,2,10,8,4
 "Schoenberg, Arnold","Wind Quintet, Op. 26",1923-24,0,4,6,8,10,9,7,11,1,3,5,2
+"Schollum, Robert",Oktett in acht skizzen op. 63,1959,0,9,2,3,10,11,8,7,4,6,5,1
+"Schreiner, Thomas",Stück für drei Violinen,1992/6/7,0,2,1,7,4,10,9,6,8,5,3,11
 "Schuller, Gunther",Transformation,1957,0,2,4,3,8,11,9,6,5,10,7,1
 "Schwantner, Joseph","""New Morning for the World""",1982,0,11,7,3,6,10,2,1,9,5,4,8
 "Schwantner, Joseph",...and the mountains rising nowhere,1977,0,11,8,7,4,3,2,1,10,9,6,5
@@ -551,14 +1116,252 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Seiber, Mátyás",Sonata for Violin and Piano,1960,0,1,11,10,7,6,8,9,4,3,5,2
 "Seiber, Mátyás",String Quartet no. 2,1934-35,0,2,3,1,4,11,5,10,7,9,8,6
 "Seiber, Mátyás","String Quartet no. 2, mvt 3",1934-35,0,2,3,1,4,9,5,11,10,7,6,8
+"Seiber, Mátyás",Ulysses,1950,0,3,4,7,8,11,1,10,9,6,5,2
+"Sengstschmid, Johann","Meditation für Orgel, op. 43a.",1980,0,6,3,1,10,8,5,2,11,9,7,4
+"Sengstschmid, Johann",Scherzo für Blockflötenquartett op. 28,,0,7,9,4,6,1,8,2,11,5,3,10
 "Sessions, Roger","Piano Sonata no. 3, mvt 2",1965,0,1,5,4,8,2,11,10,6,7,3,9
 "Sessions, Roger","Piano Sonata no. 3, mvt.1",1965,0,9,1,10,4,11,8,5,3,6,2,7
 "Sessions, Roger",When Lilacs Last in the Dooryard Bloom'd,1970,0,2,4,10,5,8,9,1,11,7,6,3
 "Shapey, Ralph",String Quartet No. 9,1995,0,8,9,3,5,1,2,6,4,10,11,7
 "Shostakovich, Dmitri","String Quartet No. 12, Opening",1968,0,5,11,10,2,7,6,3,4,9,8,1
+"Shostakovich, Dmitri",String Quartet No. 13 B-flat minor (Op. 138),1970/8/10,0,3,8,7,11,2,6,5,4,10,9,1
 "Shostakovich, Dmitri","Symphony No. 14, mov. I",1969,0,11,9,4,3,10,8,7,5,6,1,2
 "Shostakovich, Dmitri","Symphony No. 14, mov. III",1969,0,5,2,7,10,1,11,4,6,8,9,3
-"Slonimsky, Nicolas","N/A - ""Grandmother chord""",1947,0,1,11,2,10,3,9,4,8,5,7,6
+"Slonimsky, Nicholas",No. 1214a Thirds (Twelve-Tone Patterns),1947,0,4,8,11,3,7,6,10,2,5,9,1
+"Slonimsky, Nicholas",No. 1215a Fourths (Twelve-Tone Patterns),1947,0,5,10,3,8,1,7,2,9,4,11,6
+"Slonimsky, Nicholas",No. 1216a Foutths (Twelve-Tone Patterns),1947,0,5,10,3,7,2,9,4,8,1,6,11
+"Slonimsky, Nicholas",No. 1217a Fourths (Twelve-Tone Patterns),1947,0,5,10,3,11,6,1,8,4,9,2,7
+"Slonimsky, Nicholas",No. 1218a Fourths (Twelve-Tone Patterns),1947,0,5,10,3,8,1,6,11,4,9,2,7
+"Slonimsky, Nicholas",No. 1219a Fourths (Twelve-Tone Patterns),1947,0,5,2,7,4,9,6,11,8,1,10,3
+"Slonimsky, Nicholas",No. 1220a Fifths (Twelve-Tone Patterns),1947,0,7,2,9,4,11,6,1,8,3,10,5
+"Slonimsky, Nicholas",No. 1221a Fifths (Twelve-Tone Patterns),1947,0,7,2,9,4,11,6,1,8,3,10,5
+"Slonimsky, Nicholas",No. 1222aFifths (Twelve-Tone Patterns),1947,0,7,2,9,4,11,6,1,8,3,10,5
+"Slonimsky, Nicholas",No. 1223a Sixths (Twelve-Tone Patterns),1947,0,8,4,1,5,9,6,2,10,7,11,3
+"Slonimsky, Nicholas",No. 1224a Sixths (Twelve-Tone Patterns),1947,0,9,6,3,7,10,1,4,8,5,2,11
+"Slonimsky, Nicholas",No. 1225a Sixths (Twelve-Tone Patterns),1947,0,8,4,7,11,3,6,2,10,1,5,9
+"Slonimsky, Nicholas",No. 1226a Minor Sevenths (Twelve-Tone Patterns),1947,0,10,8,2,4,6,1,11,9,3,5,7
+"Slonimsky, Nicholas",No. 1227a Minor Sevenths (Twelve-Tone Patterns),1947,0,10,4,2,8,6,1,11,9,7,5,3
+"Slonimsky, Nicholas",No. 1228a Minor Sevenths (Twelve-Tone Patterns),1947,0,10,2,4,8,6,11,1,5,3,7,9
+"Slonimsky, Nicholas",No. 1229a Major Sevenths (Twelve-Tone Patterns),1947,0,11,10,9,8,7,1,2,3,4,5,6
+"Slonimsky, Nicholas",No. 1230a Major Sevenths (Twelve-Tone Patterns),1947,0,11,3,4,8,7,1,2,6,5,9,10
+"Slonimsky, Nicholas",No. 1231a Major Sevenths (Twelve-Tone Patterns),1947,0,11,4,3,8,7,1,2,9,10,5,6
+"Slonimsky, Nicholas",No. 1232a (Twelve-Tone Spirals),1947,0,11,1,10,2,9,3,8,4,7,5,6
+"Slonimsky, Nicholas",No. 1233a (Twelve-Tone Spirals),1947,0,11,1,10,2,9,3,8,4,7,5,6
+"Slonimsky, Nicholas",No. 1234a (Twelve-Tone Spirals),1947,0,11,1,10,2,9,3,8,4,7,5,6
+"Slonimsky, Nicholas",No. 1235a (Twelve-Tone Spirals),1947,0,11,1,10,2,9,3,8,4,7,5,6
+"Slonimsky, Nicholas",No. 1236a Converging and Diverging Whole-Tone Scales (Twelve-Tone Spirals),1947,0,11,9,2,4,7,5,6,8,3,1,10
+"Slonimsky, Nicholas",No. 1237a Converging and Diverging Whole-Tone Scales (Twelve-Tone Spirals),1947,0,11,9,7,2,4,6,5,3,1,8,10
+"Slonimsky, Nicholas",No. 1238a Converging and Diverging Whole-Tone Scales (Twelve-Tone Spirals),1947,0,9,7,5,3,2,4,6,8,1,10,11
+"Slonimsky, Nicholas",No. 1239a Converging and Diverging Whole-Tone Scales (Twelve-Tone Spirals),1947,0,11,2,9,4,7,6,5,8,3,10,1
+"Slonimsky, Nicholas",No. 1240a Converging and Diverging Whole-Tone Scales (Twelve-Tone Spirals),1947,0,11,9,2,4,7,5,3,6,8,1,10
+"Slonimsky, Nicholas",No. 1241a Mutually Exclusive Diminished-Seventh Chords (Twelve-Tone Spirals),1947,0,9,6,3,11,5,2,8,7,10,1,4
+"Slonimsky, Nicholas",No. 1242a Mutually Exclusive Diminished-Seventh Chords (Twelve-Tone Spirals),1947,0,8,4,11,3,7,1,9,5,10,2,6
+"Slonimsky, Nicholas",No. 1243a Crossing Sixths (Crossing Intervals),1947,0,1,9,4,6,7,3,10,11,2,8,5
+"Slonimsky, Nicholas",No. 1244a Crossing Sixths (Crossing Intervals),1947,0,3,8,7,4,11,1,2,10,5,6,9
+"Slonimsky, Nicholas",No. 1245a Crossing Fifths (Crossing Intervals),1947,0,5,7,10,2,3,9,8,4,1,11,6
+"Slonimsky, Nicholas",No. 1246a Crossing Fourths (Crossing Intervals),1947,0,7,5,2,10,9,3,4,8,11,1,6
+"Slonimsky, Nicholas",No. 1247a Crossing Thirds (Crossing Intervals),1947,0,3,4,11,7,8,10,5,2,1,6,9
+"Slonimsky, Nicholas",No. 1248a Crossing Thirds (Crossing Intervals),1947,0,5,4,1,8,9,11,6,3,2,7,10
+"Slonimsky, Nicholas",No. 1249a Crossing Thirds (Crossing Intervals),1947,0,11,3,8,6,5,9,2,1,10,4,7
+"Slonimsky, Nicholas",No. 1250a Crossing Seconds (Crossing Intervals),1947,0,11,2,9,4,7,6,5,8,3,10,1
+"Slonimsky, Nicholas",No. 1251a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,1,6,9,2,5,8,11,4
+"Slonimsky, Nicholas",No. 1251b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,8,5,3,11,6,2,10,7,4,1,9
+"Slonimsky, Nicholas",No. 1252a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,1,5,9,2,6,8,11,4
+"Slonimsky, Nicholas",No. 1252b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,8,5,3,10,6,2,11,7,4,1,9
+"Slonimsky, Nicholas",No. 1253a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,1,5,8,11,3,6,9,2
+"Slonimsky, Nicholas",No. 1253b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,8,3,1,9,6,4,11,7,5,2,10
+"Slonimsky, Nicholas",No. 1254a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,2,5,8,11,3,6,9,1
+"Slonimsky, Nicholas",No. 1254b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,8,3,1,10,6,4,11,7,5,2,9
+"Slonimsky, Nicholas",No. 1255a [Slonimsky: Moto Perpetuo] Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,1,6,9,2,5,8,11,3
+"Slonimsky, Nicholas",No. 1255b [Slonimsky: Moto Perpetuo] Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,8,3,2,9,6,5,1,10,7,4,11
+"Slonimsky, Nicholas",No. 1256a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,2,5,8,11,4,6,9,1
+"Slonimsky, Nicholas",No. 1256b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,9,4,2,11,7,5,1,8,6,3,10
+"Slonimsky, Nicholas",No. 1257a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,11,3,7,10,1,6,9,2,5
+"Slonimsky, Nicholas",No. 1257b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,8,4,3,11,7,5,2,10,6,1,9
+"Slonimsky, Nicholas",No. 1258a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,2,6,9,1,5,8,11,4
+"Slonimsky, Nicholas",No. 1258b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,8,5,3,11,7,2,10,6,4,1,9
+"Slonimsky, Nicholas",No. 1259a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,11,2,6,9,1,5,7,10,3
+"Slonimsky, Nicholas",No. 1259b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,8,4,2,10,7,5,1,9,6,3,11
+"Slonimsky, Nicholas",No. 1260a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,2,6,9,1,5,8,11,3
+"Slonimsky, Nicholas",No. 1260b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,8,3,2,10,6,5,1,9,7,4,11
+"Slonimsky, Nicholas",No. 1261a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,11,2,5,9,1,6,7,10,3
+"Slonimsky, Nicholas",No. 1261b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,8,4,1,10,7,5,2,9,6,3,11
+"Slonimsky, Nicholas",No. 1262a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,3,6,11,2,8,9,1,5
+"Slonimsky, Nicholas",No. 1262b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,9,5,3,11,8,4,1,7,6,2,10
+"Slonimsky, Nicholas",No. 1263a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,2,6,9,1,4,8,11,5
+"Slonimsky, Nicholas",No. 1263b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,8,5,3,11,7,6,2,9,4,1,10
+"Slonimsky, Nicholas",No. 1264a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,6,9,1,5,8,11,4,7,10,2
+"Slonimsky, Nicholas",No. 1264b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,9,3,2,10,6,5,1,8,7,4,11
+"Slonimsky, Nicholas",No. 1265 Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,6,9,1,4,7,10,2,5,8,11
+"Slonimsky, Nicholas",No. 1265a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,6,9,1,4,7,10,2,5,8,11
+"Slonimsky, Nicholas",No. 1265b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,9,3,1,10,6,4,11,7,5,2,8
+"Slonimsky, Nicholas",No. 1266a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,6,9,2,5,8,11,4,7,10,1
+"Slonimsky, Nicholas",No. 1266b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,9,3,2,11,6,5,1,8,7,4,10
+"Slonimsky, Nicholas",No. 1267a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,1,4,8,11,5,6,9,2
+"Slonimsky, Nicholas",No. 1267b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,9,4,1,10,7,5,2,8,6,3,11
+"Slonimsky, Nicholas",No. 1268a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,1,5,8,11,2,6,9,3
+"Slonimsky, Nicholas",No. 1268b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,8,3,1,9,6,4,10,7,5,2,11
+"Slonimsky, Nicholas",No. 1269a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,9,1,5,6,10,2,3,7,11
+"Slonimsky, Nicholas",No. 1269b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,8,4,3,11,7,6,2,10,9,5,1
+"Slonimsky, Nicholas",No. 1270a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,10,2,6,7,11,3,5,9,1
+"Slonimsky, Nicholas",No. 1270b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,8,4,2,10,6,3,11,7,5,1,9
+"Slonimsky, Nicholas",No. 1271a Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,11,3,7,10,2,6,9,1,5
+"Slonimsky, Nicholas",No. 1271b Quadritonal Arpeggios (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,8,4,1,9,5,2,10,6,3,11,7
+"Slonimsky, Nicholas",No. 1272a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,1,6,9,5,2,11,8,4
+"Slonimsky, Nicholas",No. 1272b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,6,1,2,5,9,8,4,11
+"Slonimsky, Nicholas",No. 1273a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,1,5,9,6,2,11,8,4
+"Slonimsky, Nicholas",No. 1273b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,5,1,2,6,9,8,4,11
+"Slonimsky, Nicholas",No. 1274a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,1,5,9,6,2,11,8,3
+"Slonimsky, Nicholas",No. 1274b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,5,1,2,6,9,8,3,11
+"Slonimsky, Nicholas",No. 1275a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,2,5,9,6,1,11,8,3
+"Slonimsky, Nicholas",No. 1275b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,5,2,1,6,9,8,3,11
+"Slonimsky, Nicholas",No. 1276a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,1,6,9,5,2,11,8,3
+"Slonimsky, Nicholas",No. 1276b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,6,1,2,5,9,8,3,11
+"Slonimsky, Nicholas",No. 1277a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,2,5,8,4,11,9,6,1
+"Slonimsky, Nicholas",No. 1277b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,5,2,4,8,11,9,6,1
+"Slonimsky, Nicholas",No. 1278a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,11,3,7,10,6,1,9,5,2
+"Slonimsky, Nicholas",No. 1278b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,11,7,3,6,10,1,9,5,2
+"Slonimsky, Nicholas",No. 1279a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,2,6,9,5,1,11,8,4
+"Slonimsky, Nicholas",No. 1279b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,6,2,1,5,9,8,4,11
+"Slonimsky, Nicholas",No. 1280a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,11,2,6,9,5,1,10,7,3
+"Slonimsky, Nicholas",No. 1280b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,11,6,2,5,9,1,10,7,3
+"Slonimsky, Nicholas",No. 1281a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,2,6,9,5,1,11,8,3
+"Slonimsky, Nicholas",No. 1281b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,6,2,1,5,9,8,3,11
+"Slonimsky, Nicholas",No. 1282a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,11,2,5,9,6,1,10,7,3
+"Slonimsky, Nicholas",No. 1282b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,11,5,2,6,9,1,10,7,3
+"Slonimsky, Nicholas",No. 1283a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,3,6,8,2,11,9,5,1
+"Slonimsky, Nicholas",No. 1283b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,6,3,11,2,8,5,1,9
+"Slonimsky, Nicholas",No. 1284a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,2,6,9,4,1,11,8,5
+"Slonimsky, Nicholas",No. 1284b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,6,2,1,4,9,8,5,11
+"Slonimsky, Nicholas",No. 1285a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,6,9,1,5,8,4,11,10,7,2
+"Slonimsky, Nicholas",No. 1285b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,6,9,5,1,11,4,8,7,2,10
+"Slonimsky, Nicholas",No. 1286a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,6,9,1,4,7,2,10,8,5,11
+"Slonimsky, Nicholas",No. 1286b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,6,9,4,1,10,2,7,8,5,11
+"Slonimsky, Nicholas",No. 1287a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,6,9,2,5,8,4,11,10,7,1
+"Slonimsky, Nicholas",No. 1287b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,6,9,5,2,11,4,8,7,1,10
+"Slonimsky, Nicholas",No. 1288a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,1,4,8,5,11,9,6,2
+"Slonimsky, Nicholas",No. 1288b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,3,7,10,4,1,11,5,8,6,2,9
+"Slonimsky, Nicholas",No. 1289a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,1,5,8,2,11,9,6,3
+"Slonimsky, Nicholas",No. 1289b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,7,10,5,1,11,2,8,9,6,3
+"Slonimsky, Nicholas",No. 1290a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,9,1,5,6,2,10,7,3,11
+"Slonimsky, Nicholas",No. 1290b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,9,5,1,10,2,6,7,3,11
+"Slonimsky, Nicholas",No. 1291a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,10,2,6,7,3,11,9,5,1
+"Slonimsky, Nicholas",No. 1291b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,10,6,2,11,3,7,9,5,1
+"Slonimsky, Nicholas",No. 1292a Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,11,3,7,10,6,2,1,9,5
+"Slonimsky, Nicholas",No. 1292b Quadritonal Arpeggios; Inversions (Division of Twelve Tones into Four Mutually Exclusive Triads),1947,0,4,8,11,7,3,2,6,10,9,5,1
+"Slonimsky, Nicholas",No. 1293a Two Major Hexachords (Miscellaneous Dodecaphonic Patterns),1947,0,2,4,5,7,9,6,8,10,11,1,3
+"Slonimsky, Nicholas",No. 1293b Two Major Hexachords (Miscellaneous Dodecaphonic Patterns),1947,0,3,1,11,10,8,6,9,7,5,4,2
+"Slonimsky, Nicholas",No. 1294a Two Major Hexachords (Miscellaneous Dodecaphonic Patterns),1947,0,9,4,7,5,2,6,3,10,1,11,8
+"Slonimsky, Nicholas",No. 1294b Two Major Hexachords (Miscellaneous Dodecaphonic Patterns),1947,0,8,11,1,10,3,6,2,5,7,4,9
+"Slonimsky, Nicholas",No. 1295a Two Major Hexachords (Miscellaneous Dodecaphonic Patterns),1947,0,2,5,4,3,1,6,8,11,10,9,7
+"Slonimsky, Nicholas",No. 1295b Two Major Hexachords (Miscellaneous Dodecaphonic Patterns),1947,0,7,9,10,11,8,6,1,3,4,5,2
+"Slonimsky, Nicholas",No. 1296a Two Major Hexachords (Miscellaneous Dodecaphonic Patterns),1947,0,7,8,3,4,11,6,1,2,9,10,5
+"Slonimsky, Nicholas",No. 1296b Two Major Hexachords (Miscellaneous Dodecaphonic Patterns),1947,0,5,10,9,2,1,6,11,4,3,8,7
+"Slonimsky, Nicholas",No. 1297a Two Major Hexachords (Miscellaneous Dodecaphonic Patterns),1947,0,11,9,7,2,4,6,5,3,1,8,10
+"Slonimsky, Nicholas",No. 1297b Two Major Hexachords (Miscellaneous Dodecaphonic Patterns),1947,0,10,8,1,3,5,6,4,2,7,9,11
+"Slonimsky, Nicholas",No. 1298a Two Major Hexachords (Miscellaneous Dodecaphonic Patterns),1947,0,11,1,10,2,9,6,5,7,4,8,3
+"Slonimsky, Nicholas",No. 1298b Two Major Hexachords (Miscellaneous Dodecaphonic Patterns),1947,0,3,8,4,7,5,6,9,2,10,1,11
+"Slonimsky, Nicholas",No. 1299a Two Major Hexachords (Miscellaneous Dodecaphonic Patterns),1947,0,9,2,7,4,5,6,3,8,1,10,11
+"Slonimsky, Nicholas",No. 1299b Two Major Hexachords (Miscellaneous Dodecaphonic Patterns),1947,0,11,10,1,8,3,6,5,4,7,2,9
+"Slonimsky, Nicholas",No. 1300a Two Major Hexachords (Miscellaneous Dodecaphonic Patterns),1947,0,11,1,10,2,9,6,5,7,4,8,3
+"Slonimsky, Nicholas",No. 1300b Two Major Hexachords (Miscellaneous Dodecaphonic Patterns),1947,0,3,8,4,7,5,6,9,2,10,1,11
+"Slonimsky, Nicholas",No. 1301 Invertible Dodecaphonic Progressions - With all Different Intervals,1947,0,1,4,8,3,5,11,9,2,10,7,6
+"Slonimsky, Nicholas",No. 1302 Invertible Dodecaphonic Progressions - With all Different Intervals,1947,0,1,4,2,9,5,11,3,8,10,7,6
+"Slonimsky, Nicholas",No. 1303 Invertible Dodecaphonic Progressions - With all Different Intervals,1947,0,2,3,7,10,5,11,4,1,9,8,6
+"Slonimsky, Nicholas",No. 1304 Invertible Dodecaphonic Progressions - With all Different Intervals. (On a Minor Triad),1947,0,3,7,8,10,5,11,4,2,1,9,6
+"Slonimsky, Nicholas",No. 1305 Invertible Dodecaphonic Progressions - With all Different Intervals. (On a Major Sixth-Chord),1947,0,3,8,10,11,7,1,5,4,2,9,6
+"Slonimsky, Nicholas",No. 1306 Invertible Dodecaphonic Progressions - With all Different Intervals. (On a Major Triad),1947,0,4,7,8,3,5,11,9,2,1,10,6
+"Slonimsky, Nicholas",No. 1307 Invertible Dodecaphonic Progressions - With all Different Intervals. (On a Minor Sixth-Chord),1947,0,4,9,8,11,1,7,5,2,3,10,6
+"Slonimsky, Nicholas",No. 1308 Invertible Dodecaphonic Progressions - With all Different Intervals. (On a Minor Six-Four Chord),1947,0,5,8,10,9,1,7,3,4,2,11,6
+"Slonimsky, Nicholas",No. 1309 Invertible Dodecaphonic Progressions - With all Different Intervals. (On a Major Six-Four Chord),1947,0,5,9,8,10,1,7,4,2,3,11,6
+"Slonimsky, Nicholas",No. 1310 Invertible Dodecaphonic Progressions - With all Different Intervals,1947,0,5,1,4,2,3,9,8,10,7,11,6
+"Slonimsky, Nicholas",No. 1311 Invertible Dodecaphonic Progressions - With all Different Intervals,1947,0,7,9,10,2,5,11,8,4,3,1,6
+"Slonimsky, Nicholas",No. 1312 Invertible Dodecaphonic Progressions - With all Different Intervals,1947,0,7,10,2,3,5,11,9,8,4,1,6
+"Slonimsky, Nicholas",No. 1313 Invertible Dodecaphonic Progressions - With all Different Intervals,1947,0,7,11,2,4,3,9,10,8,5,1,6
+"Slonimsky, Nicholas",No. 1314 Invertible Dodecaphonic Progressions - With all Different Intervals. (White-Key Row of Six Notes),1947,0,2,7,4,5,9,3,11,10,1,8,6
+"Slonimsky, Nicholas",No. 1315 Invertible Dodecaphonic Progressions - With all Different Intervals. (White-Key Row of Six Notes),1947,0,4,5,2,7,9,3,1,8,11,10,6
+"Slonimsky, Nicholas",No. 1316 Invertible Dodecaphonic Progressions - With all Different Intervals. (White-Key Row of Six Notes),1947,0,7,4,5,9,2,8,3,11,10,1,6
+"Slonimsky, Nicholas",No. 1317 Invertible Dodecaphonic Progressions - With all Different Intervals. (Mother Chord),1947,0,11,7,4,2,9,3,8,10,1,5,6
+"Slonimsky, Nicholas",No. 1318 Invertible Dodecaphonic Progressions - With all Different Intervals. (Grandmother Chord),1947,0,11,1,10,2,9,3,8,4,7,5,6
+"Slonimsky, Nicholas",No. 216 Ultrapolation of Three Notes (Ditone Progression; Equal Division of One Octave into Three Parts),1947,0,5,10,7,4,9,2,11,8,1,6,3
+"Slonimsky, Nicholas",No. 221 Ultrapolation of Three Notes (Ditone Progression; Equal Division of One Octave into Three Parts),1947,0,6,11,9,4,10,3,1,8,2,7,5
+"Slonimsky, Nicholas",No. 230 Ultrapolation of Three Notes (Ditone Progression; Equal Division of One Octave into Three Parts),1947,0,6,5,11,4,10,9,3,8,2,1,7
+"Slonimsky, Nicholas",No. 258 Infrapolation of Three Notes (Ditone Progression; Equal Division of One Octave into Three Parts),1947,0,11,10,9,4,3,2,1,8,7,6,5
+"Slonimsky, Nicholas",No. 262 Infrapolation of Three Notes (Ditone Progression; Equal Division of One Octave into Three Parts),1947,0,11,10,5,4,3,2,9,8,7,6,1
+"Slonimsky, Nicholas",No. 270 Infrapolation of Three Notes (Ditone Progression; Equal Division of One Octave into Three Parts),1947,0,10,9,7,4,2,1,11,8,6,5,3
+"Slonimsky, Nicholas",No. 277 Infrapolation of Three Notes (Ditone Progression; Equal Division of One Octave into Three Parts),1947,0,10,7,5,4,2,11,9,8,6,3,1
+"Slonimsky, Nicholas",No. 340 Infra-Inter-Ultrapolation (Ditone Progression; Equal Division of One Octave into Three Parts),1947,0,11,2,9,4,3,6,1,8,7,10,5
+"Slonimsky, Nicholas",No. 348 Infra-Inter-Ultrapolation (Ditone Progression; Equal Division of One Octave into Three Parts),1947,0,10,1,7,4,2,5,11,8,6,9,3
+"Slonimsky, Nicholas",No. 359 Infra-Inter-Ultrapolation (Ditone Progression; Equal Division of One Octave into Three Parts),1947,0,10,3,9,4,2,7,1,8,6,11,5
+"Slonimsky, Nicholas",No. 370 Infra-Inter-Ultrapolation (Ditone Progression; Equal Division of One Octave into Three Parts),1947,0,7,1,6,4,11,5,10,8,3,9,2
+"Slonimsky, Nicholas",No. 371 Infra-Inter-Ultrapolation (Ditone Progression; Equal Division of One Octave into Three Parts),1947,0,7,2,5,4,11,6,9,8,3,10,1
+"Slonimsky, Nicholas",No. 388 Miscellaneous Patterns [Diminished Seventh Chords] (Ditone Progression; Equal Division of One Octave into Three Parts),1947,0,3,9,6,4,7,1,10,8,11,5,2
+"Slonimsky, Nicholas",No. 389 Miscellaneous Patterns [Diminished Seventh Chords] (Ditone Progression; Equal Division of One Octave into Three Parts),1947,0,9,3,6,4,1,7,10,8,5,11,2
+"Slonimsky, Nicholas",No. 390 Miscellaneous Patterns [Diminished Seventh Chords] (Ditone Progression; Equal Division of One Octave into Three Parts),1947,0,3,9,6,4,7,1,10,8,11,5,2
+"Slonimsky, Nicholas",No. 391 Miscellaneous Patterns [Diminished Seventh Chords] (Ditone Progression; Equal Division of One Octave into Three Parts),1947,0,9,3,6,4,1,7,10,8,5,11,2
+"Slonimsky, Nicholas",No. 405 Ultrapolation of Two Notes (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,7,5,3,10,8,6,1,11,9,4,2
+"Slonimsky, Nicholas",No. 407 Ultrapolation of Two Notes (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,8,4,3,11,7,6,2,10,9,5,1
+"Slonimsky, Nicholas",No. 410 Ultrapolation of Two Notes (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,8,7,3,11,10,6,2,1,9,5,4
+"Slonimsky, Nicholas",No. 415 Ultrapolation of Two Notes (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,10,5,3,1,8,6,4,11,9,7,2
+"Slonimsky, Nicholas",No. 417 Ultrapolation of Two Notes (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,11,4,3,2,7,6,5,10,9,8,1
+"Slonimsky, Nicholas",No. 420 Ultrapolation of Two Notes (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,11,7,3,2,10,6,5,1,9,8,4
+"Slonimsky, Nicholas",No. 453 Infrapolation of Two Notes (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,11,10,3,2,1,6,5,4,9,8,7
+"Slonimsky, Nicholas",No. 456 Infrapolation of Two Notes (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,11,7,3,2,10,6,5,1,9,8,4
+"Slonimsky, Nicholas",No. 459 Infrapolation of Two Notes (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,10,8,3,1,11,6,4,2,9,7,5
+"Slonimsky, Nicholas",No. 466 Infrapolation of Two Notes (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,8,7,3,11,10,6,2,1,9,5,4
+"Slonimsky, Nicholas",No. 469 Infrapolation of Two Notes (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,8,4,3,11,7,6,2,10,9,5,1
+"Slonimsky, Nicholas",No. 482 Infra-Interpolation (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,11,1,3,2,4,6,5,7,9,8,10
+"Slonimsky, Nicholas",No. 485 Infra-Interpolation (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,10,2,3,1,5,6,4,8,9,7,11
+"Slonimsky, Nicholas",No. 493 Inter-Ultrapolation (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,1,5,3,4,8,6,7,11,9,10,2
+"Slonimsky, Nicholas","No. 496 [Shostakovitch: Prelude No, 2] Inter-Ultrapolation (Sesquitone Progression; Equal Division of One Octave into Four Parts)",1947,0,2,4,3,5,7,6,8,10,9,11,1
+"Slonimsky, Nicholas",No. 499 Inter-Ultrapolation (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,2,7,3,5,10,6,8,1,9,11,4
+"Slonimsky, Nicholas",No. 500 Infra-Ultrapolation (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,11,4,3,2,7,6,5,10,9,8,1
+"Slonimsky, Nicholas",No. 503 Infra-Ultrapolation (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,11,7,3,2,10,6,5,1,9,8,4
+"Slonimsky, Nicholas",No. 505 Infra-Ultrapolation (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,10,5,3,1,8,6,4,11,9,7,2
+"Slonimsky, Nicholas",No. 508 Infra-Ultrapolation (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,10,8,3,1,11,6,4,2,9,7,5
+"Slonimsky, Nicholas",No. 512 Infra-Ultrapolation (Sesquitone Progression; Equal Division of One Octave into Four Parts),1947,0,8,4,3,11,7,6,2,10,9,5,1
+"Slonimsky, Nicholas",No. 570 Ultrapolation of One Note (Whole-Tone Progression; Equal Division of One Octave into Six Parts),1947,0,3,2,5,4,7,6,9,8,11,10,1
+"Slonimsky, Nicholas",No. 572 Ultrapolation of One Note (Whole-Tone Progression; Equal Division of One Octave into Six Parts),1947,0,5,2,7,4,9,6,11,8,1,10,3
+"Slonimsky, Nicholas",No. 574 Ultrapolation of One Note (Whole-Tone Progression; Equal Division of One Octave into Six Parts),1947,0,7,2,9,4,11,6,1,8,3,10,5
+"Slonimsky, Nicholas",No. 576 Ultrapolation of One Note (Whole-Tone Progression; Equal Division of One Octave into Six Parts),1947,0,9,2,11,4,1,6,3,8,5,10,7
+"Slonimsky, Nicholas",No. 578 Ultrapolation of One Note (Whole-Tone Progression; Equal Division of One Octave into Six Parts),1947,0,11,2,1,4,3,6,5,8,7,10,9
+"Slonimsky, Nicholas",No. 579 Ultrapolation of One Note (Whole-Tone Progression; Equal Division of One Octave into Six Parts),1947,0,11,2,1,4,3,6,5,8,7,10,9
+"Slonimsky, Nicholas",No. 637 Permutations (Semitone Progression; Equal Division of One Octave into Twelve Parts),1947,0,1,3,2,4,5,7,6,8,9,11,10
+"Slonimsky, Nicholas",No. 638 Permutations (Semitone Progression; Equal Division of One Octave into Twelve Parts),1947,0,11,9,10,4,3,1,2,8,7,5,6
+"Slonimsky, Nicholas",No. 639 Permutations (Semitone Progression; Equal Division of One Octave into Twelve Parts),1947,0,1,2,5,4,3,6,7,8,11,10,9
+"Slonimsky, Nicholas",No. 640 Permutations (Semitone Progression; Equal Division of One Octave into Twelve Parts),1947,0,11,10,7,8,9,6,5,4,1,2,3
+"Slonimsky, Nicholas",No. 641 Permutations (Semitone Progression; Equal Division of One Octave into Twelve Parts),1947,0,1,2,3,7,6,5,4,8,9,10,11
+"Slonimsky, Nicholas",No. 642 Permutations (Semitone Progression; Equal Division of One Octave into Twelve Parts),1947,0,1,2,3,4,5,11,10,9,8,7,6
+"Slonimsky, Nicholas",No. 643 Permutations (Semitone Progression; Equal Division of One Octave into Twelve Parts),1947,0,6,7,8,9,10,11,5,4,3,2,1
+"Slonimsky, Nicholas",No. 644 Permutations (Semitone Progression; Equal Division of One Octave into Twelve Parts),1947,0,6,7,8,9,10,11,5,4,3,2,1
+"Slonimsky, Nicholas",No. 645 Permutations (Semitone Progression; Equal Division of One Octave into Twelve Parts),1947,0,1,11,10,8,9,7,6,4,5,3,2
+"Slonimsky, Nicholas",No. 646 Permutations (Semitone Progression; Equal Division of One Octave into Twelve Parts),1947,0,1,11,6,8,9,7,2,4,5,3,10
+"Slonimsky, Nicholas",No. 647 Permutations (Semitone Progression; Equal Division of One Octave into Twelve Parts),1947,0,2,11,5,8,10,7,1,4,6,3,9
+"Slonimsky, Nicholas",No. 648-654 Permutations (Semitone Progression; Equal Division of One Octave into Twelve Parts),1947,0,1,2,3,4,5,6,7,8,9,10,11
+"Slonimsky, Nicholas",No. 655-657 Permutations (Semitone Progression; Equal Division of One Octave into Twelve Parts),1947,0,11,10,9,8,7,6,5,4,3,2,1
+"Slonimsky, Nicholas",No. 685 Interpolation of Three Notes (Quadritone Progression; Equal Division of Two Octaves into Three Parts),1947,0,1,3,6,8,9,11,2,4,5,7,10
+"Slonimsky, Nicholas",No. 692 Interpolation of Three Notes (Quadritone Progression; Equal Division of Two Octaves into Three Parts),1947,0,2,3,5,8,10,11,1,4,6,7,9
+"Slonimsky, Nicholas",No. 698 Interpolation of Three Notes (Quadritone Progression; Equal Division of Two Octaves into Three Parts),1947,0,2,5,7,8,10,1,3,4,6,9,11
+"Slonimsky, Nicholas",No. 734 Inter-Infra-Ultrapolation (Quadritone Progression; Equal Division of Two Octaves into Three Parts),1947,0,5,11,10,8,1,7,6,4,9,3,2
+"Slonimsky, Nicholas",No. 735 Inter-Infra-Ultrapolation (Quadritone Progression; Equal Division of Two Octaves into Three Parts),1947,0,6,9,11,8,2,5,7,4,10,1,3
+"Slonimsky, Nicholas",No. 736 Inter-Infra-Ultrapolation (Quadritone Progression; Equal Division of Two Octaves into Three Parts),1947,0,2,7,9,8,10,3,5,4,6,11,1
+"Slonimsky, Nicholas",No. 746 Interpolation of Two Notes (Sesquiquadritone Progression; Equal Division of Three Octaves into Four Parts),1947,0,1,5,9,10,2,6,7,11,3,4,8
+"Slonimsky, Nicholas",No. 749 Interpolation of Two Notes (Sesquiquadritone Progression; Equal Division of Three Octaves into Four Parts),1947,0,2,7,9,11,4,6,8,1,3,5,10
+"Slonimsky, Nicholas",No. 753 Interpolation of Two Notes (Sesquiquadritone Progression; Equal Division of Three Octaves into Four Parts),1947,0,4,8,9,1,5,6,10,2,3,7,11
+"Slonimsky, Nicholas",No. 754 Interpolation of Two Notes (Sesquiquadritone Progression; Equal Division of Three Octaves into Four Parts),1947,0,5,7,9,2,4,6,11,1,3,8,10
+"Slonimsky, Nicholas",No. 793 Infra-Ultrapolation (Sesquiquadritone Progression; Equal Division of Three Octaves into Four Parts),1947,0,11,10,9,8,7,6,5,4,3,2,1
+"Slonimsky, Nicholas",No. 794 Infra-Ultrapolation (Sesquiquadritone Progression; Equal Division of Three Octaves into Four Parts),1947,0,10,11,9,7,8,6,4,5,3,1,2
+"Slonimsky, Nicholas",No. 795 Infra-Ultrapolation (Sesquiquadritone Progression; Equal Division of Three Octaves into Four Parts),1947,0,8,1,9,5,10,6,2,7,3,11,4
+"Slonimsky, Nicholas",No. 799 Infra-Infrapolation (Sesquiquadritone Progression; Equal Division of Three Octaves into Four Parts),1947,0,2,7,9,11,4,6,8,1,3,5,10
+"Slonimsky, Nicholas",No. 813 Interpolation of Three Notes (Quinquetone Progression; Equal Division of Five Octaves into Six Parts),1947,0,3,6,9,10,1,4,7,8,11,2,5
+"Slonimsky, Nicholas",No. 822 Ultrapolation of One Note (Quinquetone Progression; Equal Division of Five Octaves into Six Parts),1947,0,11,10,9,8,7,6,5,4,3,2,1
+"Slonimsky, Nicholas",No. 823 Ultrapolation of One Note (Quinquetone Progression; Equal Division of Five Octaves into Six Parts),1947,0,1,10,11,8,9,6,7,4,5,2,3
+"Slonimsky, Nicholas",No. 824 Infrapolation of One Note (Quinquetone Progression; Equal Division of Five Octaves into Six Parts),1947,0,11,10,9,8,7,6,5,4,3,2,1
+"Slonimsky, Nicholas",No. 875 Infrapolation of One Note (Quinquetone Progression; Equal Division of Five Octaves into Six Parts),1947,0,6,5,11,10,4,3,9,8,2,1,7
+"Slonimsky, Nicholas",No. 903 Inter-Ultrapolation (Quinquetone Progression; Equal Division of Five Octaves into Six Parts),1947,0,4,8,5,9,1,10,2,6,3,7,11
+"Slonimsky, Nicholas",No. 909 Infra-Inter-Ultrapolation (Quinquetone Progression; Equal Division of Five Octaves into Six Parts),1947,0,9,3,6,5,2,8,11,10,7,1,4
+"Slonimsky, Nicholas",No. 915 Miscellaneous Patterns (Diatessaron Progression; Equal Division of Five Octaves into Twelve Parts),1947,0,10,2,8,4,6,5,3,7,1,9,11
+"Slonimsky, Nicholas",No. 997 Infra-Interpolation (Diapente Progression; Equal Division of Seven Octaves into Twelve Parts),1947,0,8,4,7,3,11,2,10,6,9,5,1
 "Smith, Hale",Contours for Orchestra,1961,0,5,6,4,10,11,7,2,1,3,9,8
 "Smith, Hale",Evocation,1965,0,1,7,2,9,5,8,3,10,11,4,6
 "Spinner, Leopold","Cantata, Op. 11",1955-57,0,9,1,10,2,3,11,5,6,7,4,8
@@ -595,6 +1398,8 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Spinner, Leopold",Zwei Lieder,1935-36,0,1,3,6,5,2,4,8,9,7,11,10
 "Spinner, Leopold","Zwei Lieder, Op. 24",1970-71,0,11,1,4,3,7,5,6,9,8,10,2
 "Spinner, Leopold",Zwei kleine Stücke for Violin and Piano,1934,0,9,2,1,8,5,4,10,7,11,3,6
+"Steinbauer, Othmar","Violinsonate Nr. 1, op. 15",,0,5,2,10,7,3,11,8,4,1,6,9
+"Stockhausen, Karlheinz",'Mantra',1970,0,2,11,7,8,5,10,6,4,3,1,9
 "Stockhausen, Karlheinz",Choral,1950,0,1,10,6,8,3,5,2,4,11,9,7
 "Stockhausen, Karlheinz",Gruppen,1955-57,0,8,1,10,9,11,5,3,4,7,2,6
 "Stockhausen, Karlheinz","Klavierstück ""V.5 or Pre-VI"" (row of original 1954 version)",1954-55,0,8,1,11,10,7,5,9,4,6,3,2
@@ -616,6 +1421,7 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Stockhausen, Karlheinz","Tierkreis, Leo",1974-75,0,5,11,6,3,2,8,7,9,10,4,1
 "Stockhausen, Karlheinz","Tierkreis, Sagittarius",1974-75,0,6,5,2,3,4,7,8,9,10,11,1
 "Stockhausen, Karlheinz","Tierkreis, Scorpio",1974-75,0,4,3,11,7,8,10,9,2,5,1,6
+"Strauss, Richard",'Also sprach Zarathustra' op. 30,1896/8/24,0,11,6,2,3,7,10,9,4,1,5,8
 "Stravinsky, Igor","A Sermon, a Narrative and a Prayer",1961,0,1,9,11,10,7,8,3,4,6,5,2
 "Stravinsky, Igor",Abraham & Isaac,1963,0,1,3,5,6,2,4,8,7,9,11,10
 "Stravinsky, Igor","Agon, ""Double Pas-de-Deux""",1953-57,0,11,1,2,9,8,10,7,5,6,4,3
@@ -650,6 +1456,7 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Talma, Louise","Three Bagatelles, Bagatelle 1",1955,0,1,3,5,10,4,9,7,2,6,11,8
 "Talma, Louise","Three Bagatelles, Bagatelle 2",1955,0,8,1,2,7,4,10,11,3,6,9,5
 "Talma, Louise","Three Bagatelles, Bagatelle 3",1955,0,3,4,1,5,8,10,7,2,11,6,9
+"Toufektsis, Orestis","MIKRO-ALLAXI (EpiEnteka II), für 15 Musiker",2006,0,8,3,7,2,4,10,11,1,6,9,5
 "Tranchell, Peter",Dodecafonia [no.6 for piano],1950,0,1,3,4,5,7,8,10,11,2,6,9
 "Tranchell, Peter","Piano piece for Carl Dawson (unfinished), 1A",1950s?,0,10,9,1,4,8,7,2,5,11,3,6
 "Tranchell, Peter","Piano piece for Carl Dawson (unfinished), 2A",1950s?,0,11,9,5,6,7,10,8,3,2,1,4
@@ -663,6 +1470,7 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Tranchell, Peter",Twice a Kiss sketch 1,1950/03/18,0,9,1,2,4,8,5,7,10,6,3,11
 "Tranchell, Peter",Twice a Kiss sketch 2,1950/03/18,0,9,1,2,4,8,3,11,5,6,7,10
 "Tranchell, Peter",Twice a Kiss sketch 3,1950/03/18,0,1,2,4,8,9,7,5,3,6,10,11
+"Urbanner, Erich",Adagio,1966,0,3,1,11,10,9,8,7,6,4,2,5
 "Volkonsky, Andrei","Musica Stricta, mvt 2, row A",1956-57,0,6,8,9,11,10,1,7,2,3,5,4
 "Volkonsky, Andrei","Musica Stricta, mvt 2, row B",1956-57,0,3,1,4,11,6,5,10,7,2,8,9
 "Volkonsky, Andrei","Musica Stricta, mvt 2, row C",1956-57,0,10,11,9,4,5,7,2,1,3,6,8
@@ -743,10 +1551,16 @@ Krenek,"Monologue for Solo Clarinet, Op. 157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Yun, Isang",Gasa,1963,0,11,7,8,6,5,2,9,10,1,3,4
 "Yun, Isang",Piri for solo oboe,1971,0,1,7,4,5,11,10,6,8,2,3,9
 "Yun, Isang",Riul für Klarinette und Klavier,1968,0,5,6,9,8,4,3,7,1,2,11,10
+"Zappa, Frank",Brown Shoes Don't Make It.,1967,0,11,3,2,9,1,7,8,4,10,5,6
+"Zappa, Frank",Waltz,1958/12/22,0,11,3,2,9,1,7,8,4,10,5,6
 "Zenk, Ludwig","Abend in Lans, Op. 3, No. 2",1934,0,1,6,4,5,2,7,8,3,10,11,9
 "Zenk, Ludwig",Adagio for Orchestra,1935,0,3,11,8,6,2,7,5,9,4,1,10
 "Zenk, Ludwig","An einen Springbrunnnen, Op. 6, No. 1",1935,0,2,3,7,6,10,9,1,5,11,4,8
 "Zenk, Ludwig","Piano Sonata No. 2, Op. 4",1935-37,0,11,6,8,7,10,5,4,9,2,1,3
 "Zenk, Ludwig","Piano Sonata, Op. 1",1932-33,0,1,8,4,6,5,2,10,9,3,11,7
 "Zenk, Ludwig","Tränen, Op. 5, No. 4",1935,0,8,7,4,5,11,10,2,3,6,1,9
+"Zillig, Wilfried",Das Opfer,1937,0,11,3,4,8,7,10,9,1,2,6,5
+"Zillig, Wilfried",Die Windsbraut,1940,0,3,7,9,10,2,5,11,1,4,6,8
 "Zimmerman, Bernd Alois",Perspektiven,1955-56,0,2,10,8,4,6,3,1,5,7,11,9
+"Zimmermann, Bernd Alois",'Ich wandte mich um und sah alles Unrecht das geschah unter der Sonne',1970,0,1,11,2,10,3,9,4,8,5,7,6
+"hauer, Josef Matthias",Zwölftonspiel für Oechester. 28. 9. 1954,1954/9/28,0,5,7,4,6,1,9,3,8,11,10,2
