@@ -353,14 +353,16 @@ def fullCombinatorialTypes(row: Union[List, Tuple],
 
 def appearsInCorpus(
         query_row: list
-) -> dict:
+) -> list:
     """
     Seek instances of the same in the corpus.
-    Returns a dict based on the corpus entry with the relationship to the query row
+    Returns a list of the keys for the json file corpus entries.
     """
     import json
 
     query_row = transformations.transposeTo(query_row)
+
+    matches = []
 
     with open('Repertoire_Anthology/rows_in_the_repertoire.json') as f:
         data = json.load(f)
@@ -372,7 +374,9 @@ def appearsInCorpus(
 
             for r in (p0, i0, r0, ri0):
                 if r == query_row:
-                    continue
+                    matches.append(entry)
+
+    return matches
 
 
 # ------------------------------------------------------------------------------
@@ -553,6 +557,16 @@ class SerialTester(unittest.TestCase):
                 self.assertFalse(query['T'])
                 self.assertFalse(query['I'])
                 self.assertTrue(query['RI'])
+
+    def testAppearsInCorpus(self):
+        lutyens = [0, 6, 11, 10, 8, 7, 9, 1, 3, 2, 4, 5]
+        self.assertEqual(
+            appearsInCorpus(lutyens),
+            [
+                "Lutyens,_Elisabeth_-_The_Valley_of_Hatsu'se",
+                "Payne,_Antony_-_Miniature_Variations_on_a_Theme_of_E.L."
+            ]
+        )
 
 
 # ------------------------------------------------------------------------------
