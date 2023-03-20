@@ -284,14 +284,21 @@ def standardiseRow(row: Union[str, list],
     rowList = None
 
     if type(row) == list:
-        rowList = row
+        if len(row) == 12:
+            rowList = row
+        elif len(row) == 1:
+            row = row[0]
+            if isinstance(row, list):
+                rowList = row
+        else:
+            raise ValueError(f'Row list {row} invalid: must be of len 12 or 1.')
 
-    elif type(row) == str:  # then convert it into a list
+    if not rowList and isinstance(row, str):  # then convert it into a list
 
-        for x in ['\n', '[', ']', '<', '>', '(', ')']:
+        for x in ['\n', '[', ']', '<', '>', '(', ')']:  # remove
             row = row.replace(x, '')
 
-        dividers = [', ', ',', ' ', '~', '-', '–']
+        dividers = [', ', ',', ' ', '~', '-', '–']  # split by
         # NB: order matters:
         # ', ' before ',' or ' ' and
         # last two (different) are potentially ambiguous: may indicate flat
@@ -301,35 +308,41 @@ def standardiseRow(row: Union[str, list],
                 break  # Assume only one and avoid '-' if possible.
 
         if not rowList:  # last try assuming no-divider notation e.g. 014295B38A76
-            rowList = list(row)
-
-            for x in range(len(rowList)):
-                if rowList[x].lower() in ['a', 't']:  # NB: 'a' should not be a pitch in context ...
-                    rowList[x] = 10
-                elif rowList[x].lower() in ['b', 'e']:  # ... likewise 'b' and 'e
-                    rowList[x] = 11
-                else:
-                    rowList[x] = int(rowList[x])
-
-            if t0:  # duplicates end for special case of e.g. 014295B38A76
-                return [(x - rowList[0]) % 12 for x in rowList]
-            else:
-                return [x % 12 for x in rowList]
-
-
-    else:
-        raise TypeError('Invalid type. Row must be a str or list.')
+            rowList = list(row)  # ['0', '1', '4', '2', '9', '5', 'B', '3', '8', 'A', '7', '6']
 
     # Now a list, convert each str element to int, directly or via stringToPC.
+    assert isinstance(rowList, list)
+
+    strCount = 0
 
     for x in range(len(rowList)):
-        # NB: if type(x) == int: then fine, no change ...
-        # possible as the starting condition could be a list of ints (skips logic above).
-        if type(rowList[x]) == str:
-            if rowList[x].isdigit():
-                rowList[x] = int(rowList[x])
-            else:  # str
-                rowList[x] = stringToPC(rowList[x])
+        try:  # str of an int e.g., "0"
+            rowList[x] = int(rowList[x])
+        except:  # Actually a string. NB: may be pitch names or 'a, b' or 't, e' case
+            strCount += 1
+
+    if strCount == 0:  # all ints
+        pass
+
+    elif strCount == 2:  # 2 non-ints = 'a, b' or 't, e' case
+        # Mixed case of (mostly) ints + 'a, b' or 't, e'.
+        for x in range(len(rowList)):
+            if not isinstance(rowList[x], int):
+                assert isinstance(rowList[x], str)
+                assert rowList[x].lower() in ['a', 'b', 't', 'e']
+                if rowList[x].lower() in ['a', 't']:
+                    rowList[x] = 10
+                elif rowList[x].lower() in ['b', 'e']:
+                    rowList[x] = 11
+
+            assert isinstance(rowList[x], int)  # should now be done
+
+    elif strCount == 12:  # all strings indicates pitch names
+        for x in range(len(rowList)):
+            rowList[x] = stringToPC(rowList[x])
+
+    else:
+        raise ValueError('Unrecognised format.')
 
     if t0:
         return [(x - rowList[0]) % 12 for x in rowList]
@@ -364,14 +377,17 @@ class ListTester(unittest.TestCase):
                            [0, 4, 1, 11, 10, 3, 6, 5, 9, 8, 2, 7])
         LutyensTheNumbered = ('G#,F#,G,A,Bb,F,B,C,E,C#,Eb,D',
                               [0, 10, 11, 1, 2, 9, 3, 4, 8, 5, 7, 6])
-        MorrisNotLilacs = ('014295B38A76', [0, 1, 4, 2, 9, 5, 11, 3, 8, 10, 7, 6])
+        MorrisNotLilacs = ('014295B38A76',
+                           [0, 1, 4, 2, 9, 5, 11, 3, 8, 10, 7, 6])
         SmithEvocation = ([9, 10, 4, 11, 6, 2, 5, 0, 7, 8, 1, 3],
                           [0, 1, 7, 2, 9, 5, 8, 3, 10, 11, 4, 6])
+        WalkerSpatials = ('1 4 t 0 3 9 8 6 5 2 e 7',
+                          [0, 3, 9, 11, 2, 8, 7, 5, 4, 1, 10, 6])
         WebernKonzert = (['11', '10', '2', '3', '7', '6', '8', '4', '5', '0', '1', '9'],
                          [0, 11, 3, 4, 8, 7, 9, 5, 6, 1, 2, 10])
 
         for entry in [GerhardConcerto, LutyensTheNumbered, MorrisNotLilacs,
-                      SmithEvocation, WebernKonzert]:
+                      SmithEvocation, WalkerSpatials, WebernKonzert]:
             self.assertEqual(standardiseRow(entry[0]), entry[1])
 
     def testSources(self):
