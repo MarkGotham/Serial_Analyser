@@ -7057,29 +7057,6 @@
         "Note": "Tetrachord permutations",
         "NumPitches": 12
     },
-    "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts._II_and_III,_Row_Class_III": {
-        "P0": [
-            0,
-            11,
-            7,
-            4,
-            2,
-            9,
-            3,
-            8,
-            10,
-            1,
-            5,
-            6
-        ],
-        "Original": 6,
-        "Composer": "Ginastera, Alberto",
-        "Work": "Sonata for Guitar, Op.47, mvts. II and III, Row Class III",
-        "Year": "1976",
-        "Source": "Fobes2006, p.153,169",
-        "Note": "",
-        "NumPitches": 12
-    },
     "Ginastera,_Alberto_-_Sonata_for_Guitar,_Op.47,_mvts_II_and_III,_Row_Class_III": {
         "P0": [
             0,
@@ -7494,9 +7471,9 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Goeyvaerts,_Karel_-_Violinkonzert,_No.2.": {
+    "Goeyvaerts,_Karel_-_Violin_concerto,_No.2": {
         "Composer": "Goeyvaerts, Karel",
-        "Work": "Violinkonzert, No.2.",
+        "Work": "Violin concerto, No.2",
         "Original": 4,
         "P0": [
             0,
@@ -8113,9 +8090,9 @@
         "Note": "Erich K\u00f6chert gewidmet; 4th movement, first row (with many changes in the continuation)",
         "Year": "1924/6"
     },
-    "Hauer,_Josef_Matthias_-_F\u00fcnfte_Tanzfantasie_f\u00fcr_kleines_Orchester,_Opus_66.": {
+    "Hauer,_Josef_Matthias_-_F\u00fcnfte_Tanzfantasie_f\u00fcr_kleines_Orchester,_Opus_66": {
         "Composer": "Hauer, Josef Matthias",
-        "Work": "F\u00fcnfte Tanzfantasie f\u00fcr kleines Orchester, Opus 66.",
+        "Work": "F\u00fcnfte Tanzfantasie f\u00fcr kleines Orchester, Opus 66",
         "Original": 5,
         "P0": [
             0,
@@ -11861,9 +11838,9 @@
         "Note": "mit einer Zw\u00f6lftonreihe, die in sechs verschiedenen Tropen steht. Es gibt eine ganz bestimmte Anzahl solcher musikalisch ergiebigsten Zw\u00f6lftonreihen. second part chord-row",
         "Year": "1943/6/18"
     },
-    "Hauer,_Josef_Matthias_-_Vierte_Tanzsuite_f\u00fcr_neun_Soloinstrumente.": {
+    "Hauer,_Josef_Matthias_-_Vierte_Tanzsuite_f\u00fcr_neun_Soloinstrumente": {
         "Composer": "Hauer, Josef Matthias",
-        "Work": "Vierte Tanzsuite f\u00fcr neun Soloinstrumente.",
+        "Work": "Vierte Tanzsuite f\u00fcr neun Soloinstrumente",
         "Original": 9,
         "P0": [
             0,
@@ -12021,9 +11998,9 @@
         "Note": "chord-row of part 1",
         "Year": "1946/2/1"
     },
-    "Hauer,_Josef_Matthias_-_XXIX._Zw\u00f6lftonspiel_f\u00fcr_Cembalo;_mit_der_Sokolowski-Reihe_zu_Bachs_Geburtstag.": {
+    "Hauer,_Josef_Matthias_-_XXIX._Zw\u00f6lftonspiel_f\u00fcr_Cembalo;_mit_der_Sokolowski-Reihe_zu_Bachs_Geburtstag": {
         "Composer": "Hauer, Josef Matthias",
-        "Work": "XXIX. Zw\u00f6lftonspiel f\u00fcr Cembalo; mit der Sokolowski-Reihe zu Bachs Geburtstag.",
+        "Work": "XXIX. Zw\u00f6lftonspiel f\u00fcr Cembalo; mit der Sokolowski-Reihe zu Bachs Geburtstag",
         "Original": 11,
         "P0": [
             0,
@@ -12066,9 +12043,9 @@
         "Note": "progressive",
         "Year": "1946/8/19"
     },
-    "Hauer,_Josef_Matthias_-_XXXII._Zw\u00f6lftonspiel_f\u00fcr_Violine,_zwei_Bratschen_und_Cello": {
+    "Hauer,_Josef_Matthias_-_XXXII._Zw\u00f6lftonspiel_f\u00fcr_Violine,_zwei_Bratschen_und_Cello_(2/2)": {
         "Composer": "Hauer, Josef Matthias",
-        "Work": "XXXII. Zw\u00f6lftonspiel f\u00fcr Violine, zwei Bratschen und Cello",
+        "Work": "XXXII. Zw\u00f6lftonspiel f\u00fcr Violine, zwei Bratschen und Cello (2/2)",
         "Original": 12,
         "P0": [
             0,
@@ -12089,9 +12066,9 @@
         "Note": "regressive",
         "Year": "1946/8/12"
     },
-    "Hauer,_Josef_Matthias_-_XXXII._Zw\u00f6lftonspiel_f\u00fcr_Violine,_zwei_Bratschen_und_Cello.": {
+    "Hauer,_Josef_Matthias_-_XXXII._Zw\u00f6lftonspiel_f\u00fcr_Violine,_zwei_Bratschen_und_Cello_(1/2)": {
         "Composer": "Hauer, Josef Matthias",
-        "Work": "XXXII. Zw\u00f6lftonspiel f\u00fcr Violine, zwei Bratschen und Cello.",
+        "Work": "XXXII. Zw\u00f6lftonspiel f\u00fcr Violine, zwei Bratschen und Cello (1/2)",
         "Original": 5,
         "P0": [
             0,
@@ -14019,9 +13996,9 @@
         "Note": "B\u00fcrgermeister Theodor K\u00f6rner gewidmet; regressive chord-row",
         "Year": "1955/5"
     },
-    "Hauer,_Josef_Matthias_-_Zw\u00f6lftonspiel_f\u00fcr_kleinen_Chor_und_Klavier._Ostern_1947.": {
+    "Hauer,_Josef_Matthias_-_Zw\u00f6lftonspiel_f\u00fcr_kleinen_Chor_und_Klavier._Ostern_1947": {
         "Composer": "Hauer, Josef Matthias",
-        "Work": "Zw\u00f6lftonspiel f\u00fcr kleinen Chor und Klavier. Ostern 1947.",
+        "Work": "Zw\u00f6lftonspiel f\u00fcr kleinen Chor und Klavier. Ostern 1947",
         "Original": 7,
         "P0": [
             0,
@@ -14225,9 +14202,9 @@
         "Note": "(Choral, Rezitativ und Tanz); progressive chord-row",
         "Year": "1953/7/31"
     },
-    "Hauer,_Josef_Matthias_-_[Zw\u00f6lftonspiel]_'Johann_Sebastian_Bach_hat_das_Wohltemperierte_Klavier_im_Himmel_vollendet_...'.": {
+    "Hauer,_Josef_Matthias_-_[Zw\u00f6lftonspiel]_'Johann_Sebastian_Bach_hat_das_Wohltemperierte_Klavier_im_Himmel_vollendet_...'": {
         "Composer": "Hauer, Josef Matthias",
-        "Work": "[Zw\u00f6lftonspiel] 'Johann Sebastian Bach hat das Wohltemperierte Klavier im Himmel vollendet ...'.",
+        "Work": "[Zw\u00f6lftonspiel] 'Johann Sebastian Bach hat das Wohltemperierte Klavier im Himmel vollendet ...'",
         "Original": 5,
         "P0": [
             0,
@@ -14270,9 +14247,9 @@
         "Note": "in 'Vom Wesen des Musikalischen', Vienna 1920 (chapter 'Notenschrift')",
         "Year": "1920"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._1.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_No.1": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 1.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.1",
         "Original": 1,
         "P0": [
             0,
@@ -14292,9 +14269,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._10.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.10.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 10.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.10.",
         "Original": 2,
         "P0": [
             0,
@@ -14314,9 +14291,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._11.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.11.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 11.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.11.",
         "Original": 3,
         "P0": [
             0,
@@ -14336,9 +14313,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._12.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.12.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 12.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.12.",
         "Original": 1,
         "P0": [
             0,
@@ -14358,9 +14335,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._13.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.13.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 13.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.13.",
         "Original": 2,
         "P0": [
             0,
@@ -14380,9 +14357,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._14.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.14.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 14.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.14.",
         "Original": 1,
         "P0": [
             0,
@@ -14402,9 +14379,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._15.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.15.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 15.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.15.",
         "Original": 1,
         "P0": [
             0,
@@ -14424,9 +14401,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._16.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.16.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 16.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.16.",
         "Original": 2,
         "P0": [
             0,
@@ -14446,9 +14423,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._17.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.17.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 17.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.17.",
         "Original": 3,
         "P0": [
             0,
@@ -14468,9 +14445,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._18.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.18.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 18.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.18.",
         "Original": 1,
         "P0": [
             0,
@@ -14490,9 +14467,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._19.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.19.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 19.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.19.",
         "Original": 1,
         "P0": [
             0,
@@ -14512,9 +14489,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._2.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.2.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 2.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.2.",
         "Original": 2,
         "P0": [
             0,
@@ -14534,9 +14511,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._20.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.20.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 20.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.20.",
         "Original": 1,
         "P0": [
             0,
@@ -14556,9 +14533,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._21.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.21.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 21.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.21.",
         "Original": 2,
         "P0": [
             0,
@@ -14578,9 +14555,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._22.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.22.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 22.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.22.",
         "Original": 3,
         "P0": [
             0,
@@ -14600,9 +14577,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._23.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.23.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 23.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.23.",
         "Original": 1,
         "P0": [
             0,
@@ -14622,9 +14599,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._24.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.24.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 24.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.24.",
         "Original": 2,
         "P0": [
             0,
@@ -14644,9 +14621,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._25.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.25.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 25.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.25.",
         "Original": 3,
         "P0": [
             0,
@@ -14666,9 +14643,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._26.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.26.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 26.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.26.",
         "Original": 4,
         "P0": [
             0,
@@ -14688,9 +14665,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._27.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.27.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 27.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.27.",
         "Original": 5,
         "P0": [
             0,
@@ -14710,9 +14687,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._28.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.28.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 28.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.28.",
         "Original": 1,
         "P0": [
             0,
@@ -14732,9 +14709,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._29.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.29.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 29.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.29.",
         "Original": 1,
         "P0": [
             0,
@@ -14754,9 +14731,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._3.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.3.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 3.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.3.",
         "Original": 1,
         "P0": [
             0,
@@ -14776,9 +14753,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._30.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.30.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 30.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.30.",
         "Original": 1,
         "P0": [
             0,
@@ -14798,9 +14775,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._31.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.31.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 31.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.31.",
         "Original": 1,
         "P0": [
             0,
@@ -14820,9 +14797,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._32.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.32.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 32.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.32.",
         "Original": 1,
         "P0": [
             0,
@@ -14842,9 +14819,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._4.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.4.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 4.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.4.",
         "Original": 2,
         "P0": [
             0,
@@ -14864,9 +14841,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._5.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.5.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 5.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.5.",
         "Original": 1,
         "P0": [
             0,
@@ -14886,9 +14863,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._6.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.6.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 6.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.6.",
         "Original": 2,
         "P0": [
             0,
@@ -14908,9 +14885,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._7.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.7.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 7.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.7.",
         "Original": 3,
         "P0": [
             0,
@@ -14930,9 +14907,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._8.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.8.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 8.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.8.",
         "Original": 4,
         "P0": [
             0,
@@ -14952,9 +14929,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_Nr._9.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.9.": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi' Nr. 9.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.9.",
         "Original": 1,
         "P0": [
             0,
@@ -15084,7 +15061,7 @@
         ],
         "Source": "FripertingerLackner2015",
         "NumPitches": 12,
-        "Note": "row nr. 1 (succession of the fugues-central-notes)",
+        "Note": "row, No.1 (succession of the fugues-central-notes)",
         "Year": "1942"
     },
     "Huber,_Klaus_-_Zwei_S\u00e4tze": {
@@ -16619,7 +16596,7 @@
         "Source": "FripertingerLackner2015",
         "NumPitches": 12,
         "Note": "Text : Peter Rosegger",
-        "Year": null
+        "Year": "1991"
     },
     "Lackner,_Peter_-_'Der_Winter'": {
         "Composer": "Lackner, Peter",
@@ -17168,7 +17145,7 @@
         "Source": "FripertingerLackner2015",
         "NumPitches": 12,
         "Note": "f\u00fcr Fl\u00f6te, Oboe, zwei Klarinetten, zwei H\u00f6rner, Trompete, Posaune, Tuba, Schlagwerk, Akkordeon, vier Violinen, drei Bratschen, Violoncello und Kontrabass",
-        "Year": null
+        "Year": "2008"
     },
     "Lackner,_Peter_-_Kanon-Polska_f\u00fcr_zwei_Bratschen._6._Juni_1993.": {
         "Composer": "Lackner, Peter",
@@ -17734,7 +17711,7 @@
         ],
         "Source": "FripertingerLackner2015",
         "NumPitches": 12,
-        "Year": null
+        "Year": "1996/6/12"
     },
     "Lackner,_Peter_-_Kanon_f\u00fcr_Klavier_zu_vier_H\u00e4nden._Fr\u00fchling_1984.": {
         "Composer": "Lackner, Peter",
@@ -21402,7 +21379,7 @@
         "Source": "FripertingerLackner2015",
         "NumPitches": 12,
         "Note": "Besetzung: 2,1,2, -- celesta, Vib, pn -- 2 solo vl, solo va -- 6,4,2,2",
-        "Year": null
+        "Year": 1991
     },
     "Nono,_Luigi_-_Canti_per_tredeci": {
         "P0": [
@@ -24295,7 +24272,7 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Schoenberg,_Arnold_-_Fragment_for_Piano_(Four_Hands)": {
+    "Schoenberg,_Arnold_-_Fantasy_for_Piano_Four_Hands,_II_(fragment)": {
         "P0": [
             0,
             3,
@@ -24312,10 +24289,10 @@
         ],
         "Original": 6,
         "Composer": "Schoenberg, Arnold",
-        "Work": "Fragment for Piano (Four Hands)",
+        "Work": "Fantasy for Piano Four Hands, II (fragment)",
         "Year": "Year unknown",
         "Source": "London+2001",
-        "Note": "Un-finished sketch / fragment",
+        "Note": "Un-finished sketch / fragment. Aka Fragment for Piano Four Hands.",
         "NumPitches": 12
     },
     "Schoenberg,_Arnold_-_Israel_Exists_Again": {
@@ -24433,7 +24410,7 @@
         "Note": "Inv. and with one pair swap compared to London+2001. The (famous) hexachord partiton is clear; the orderning is not.",
         "NumPitches": 12
     },
-    "Schoenberg,_Arnold_-_Phantasia_for_Piano_(Four_Hands)": {
+    "Schoenberg,_Arnold_-_Fantasy_for_Piano_Four_Hands,_I_(fragment)": {
         "P0": [
             0,
             4,
@@ -24450,10 +24427,10 @@
         ],
         "Original": 1,
         "Composer": "Schoenberg, Arnold",
-        "Work": "Phantasia for Piano (Four Hands)",
+        "Work": "Fantasy for Piano Four Hands, I",
         "Year": "Year unknown",
         "Source": "London+2001",
-        "Note": "Un-finished sketch / fragment",
+        "Note": "Un-finished sketch / fragment. Aka Fragment for Piano Four Hands.",
         "NumPitches": 12
     },
     "Schoenberg,_Arnold_-_Piano_Concerto,_Op.42": {
@@ -25603,7 +25580,7 @@
         "Source": "FripertingerLackner2015",
         "NumPitches": 12,
         "Note": "first tone-row",
-        "Year": null
+        "Year": "1967"
     },
     "Sessions,_Roger_-_Piano_Sonata,_No.3,_mvt.1": {
         "P0": [
@@ -32022,9 +31999,9 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Steinbauer,_Othmar_-_Violinsonate_Nr._1,_Op.15": {
+    "Steinbauer,_Othmar_-_Violinsonate,_No.1,_Op.15": {
         "Composer": "Steinbauer, Othmar",
-        "Work": "Violinsonate Nr. 1, Op.15",
+        "Work": "Violinsonate, No.1, Op.15",
         "Original": 3,
         "P0": [
             0,
