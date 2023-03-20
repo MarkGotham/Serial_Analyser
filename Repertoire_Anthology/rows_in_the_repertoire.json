@@ -3695,29 +3695,6 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Davies,_Peter_Maxwell_-_Five_Pieces_for_Piano,_Op.2,_No.2": {
-        "P0": [
-            0,
-            7,
-            11,
-            1,
-            3,
-            5,
-            8,
-            6,
-            4,
-            9,
-            10,
-            2
-        ],
-        "Original": 4,
-        "Composer": "Davies, Peter Maxwell",
-        "Work": "Five Pieces for Piano, Op.2, No.2",
-        "Year": "1956",
-        "Source": "Rupprecht2017, p.136",
-        "Note": "",
-        "NumPitches": 12
-    },
     "Davies,_Peter_Maxwell_-_Five_Pieces_for_Piano,_Op.2,_No.1_(first_row)": {
         "Composer": "Davies, Peter Maxwell",
         "Work": "Five Pieces for Piano, Op.2, No.1 (first row)",
@@ -3761,6 +3738,29 @@
         "Source": "FripertingerLackner2015",
         "NumPitches": 12,
         "Year": "1955-56"
+    },
+    "Davies,_Peter_Maxwell_-_Five_Pieces_for_Piano,_Op.2,_No.2": {
+        "P0": [
+            0,
+            7,
+            11,
+            1,
+            3,
+            5,
+            8,
+            6,
+            4,
+            9,
+            10,
+            2
+        ],
+        "Original": 4,
+        "Composer": "Davies, Peter Maxwell",
+        "Work": "Five Pieces for Piano, Op.2, No.2",
+        "Year": "1956",
+        "Source": "Rupprecht2017, p.136",
+        "Note": "",
+        "NumPitches": 12
     },
     "Davies,_Peter_Maxwell_-_Sonata_for_Trumpet_and_Piano,_Op.1": {
         "P0": [
@@ -7492,6 +7492,121 @@
         "Source": "FripertingerLackner2015",
         "NumPitches": 12,
         "Year": "1951/1950"
+    },
+    "Gotham,_Mark_-_4x4x4x4,_row_1": {
+        "P0": [
+            0,
+            2,
+            6,
+            10,
+            5,
+            3,
+            8,
+            9,
+            11,
+            7,
+            4,
+            1
+        ],
+        "Original": 0,
+        "Composer": "Gotham, Mark",
+        "Work": "4x4x4x4, row 1",
+        "Year": "2021",
+        "Source": "New",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Gotham,_Mark_-_4x4x4x4,_row_2": {
+        "P0": [
+            0,
+            2,
+            6,
+            10,
+            11,
+            9,
+            8,
+            3,
+            5,
+            1,
+            4,
+            7
+        ],
+        "Original": 0,
+        "Composer": "Gotham, Mark",
+        "Work": "4x4x4x4, row 2",
+        "Year": "2021",
+        "Source": "New",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Gotham,_Mark_-_4x4x4x4,_row_3": {
+        "P0": [
+            0,
+            2,
+            6,
+            10,
+            7,
+            4,
+            11,
+            9,
+            8,
+            3,
+            5,
+            1
+        ],
+        "Original": 0,
+        "Composer": "Gotham, Mark",
+        "Work": "4x4x4x4, row 3",
+        "Year": "2021",
+        "Source": "New",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Gotham,_Mark_-_4x4x4x4,_row_4": {
+        "P0": [
+            0,
+            2,
+            6,
+            10,
+            1,
+            4,
+            5,
+            3,
+            8,
+            9,
+            11,
+            7
+        ],
+        "Original": 0,
+        "Composer": "Gotham, Mark",
+        "Work": "4x4x4x4, row 4",
+        "Year": "2021",
+        "Source": "New",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Gotham,_Mark_-_Move_On!": {
+        "P0": [
+            0,
+            4,
+            3,
+            10,
+            6,
+            9,
+            1,
+            5,
+            2,
+            8,
+            11,
+            7
+        ],
+        "Original": 0,
+        "Composer": "Gotham, Mark",
+        "Work": "Move On!",
+        "Year": "2022",
+        "Source": "New",
+        "Note": "",
+        "NumPitches": 12
     },
     "Hamel,_Peter_Michael_-_'Klangspirale'_f\u00fcr_13_Spieler_oder_drei_Orchestergruppen": {
         "Composer": "Hamel, Peter Michael",
@@ -12043,6 +12158,28 @@
         "Note": "progressive",
         "Year": "1946/8/19"
     },
+    "Hauer,_Josef_Matthias_-_XXXII._Zw\u00f6lftonspiel_f\u00fcr_Violine,_zwei_Bratschen_und_Cello_(1/2)": {
+        "Composer": "Hauer, Josef Matthias",
+        "Work": "XXXII. Zw\u00f6lftonspiel f\u00fcr Violine, zwei Bratschen und Cello (1/2)",
+        "Original": 5,
+        "P0": [
+            0,
+            9,
+            6,
+            10,
+            11,
+            2,
+            7,
+            3,
+            1,
+            4,
+            5,
+            8
+        ],
+        "Source": "FripertingerLackner2015",
+        "NumPitches": 12,
+        "Year": "1946/8/12"
+    },
     "Hauer,_Josef_Matthias_-_XXXII._Zw\u00f6lftonspiel_f\u00fcr_Violine,_zwei_Bratschen_und_Cello_(2/2)": {
         "Composer": "Hauer, Josef Matthias",
         "Work": "XXXII. Zw\u00f6lftonspiel f\u00fcr Violine, zwei Bratschen und Cello (2/2)",
@@ -12064,28 +12201,6 @@
         "Source": "FripertingerLackner2015",
         "NumPitches": 12,
         "Note": "regressive",
-        "Year": "1946/8/12"
-    },
-    "Hauer,_Josef_Matthias_-_XXXII._Zw\u00f6lftonspiel_f\u00fcr_Violine,_zwei_Bratschen_und_Cello_(1/2)": {
-        "Composer": "Hauer, Josef Matthias",
-        "Work": "XXXII. Zw\u00f6lftonspiel f\u00fcr Violine, zwei Bratschen und Cello (1/2)",
-        "Original": 5,
-        "P0": [
-            0,
-            9,
-            6,
-            10,
-            11,
-            2,
-            7,
-            3,
-            1,
-            4,
-            5,
-            8
-        ],
-        "Source": "FripertingerLackner2015",
-        "NumPitches": 12,
         "Year": "1946/8/12"
     },
     "Hauer,_Josef_Matthias_-_Zw\u00f6lftonmusik_[Zw\u00f6lftonspiel]_f\u00fcr_Klavier_zu_vier_H\u00e4nden._Februar_1959_(Fragment)": {
@@ -14247,28 +14362,6 @@
         "Note": "in 'Vom Wesen des Musikalischen', Vienna 1920 (chapter 'Notenschrift')",
         "Year": "1920"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_No.1": {
-        "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.1",
-        "Original": 1,
-        "P0": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            11,
-            10,
-            9,
-            8,
-            7,
-            6
-        ],
-        "Source": "FripertingerLackner2015",
-        "NumPitches": 12,
-        "Year": "1979/9"
-    },
     "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.10.": {
         "Composer": "Hendler, Maximilian",
         "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.10.",
@@ -14946,6 +15039,28 @@
             3,
             2,
             1
+        ],
+        "Source": "FripertingerLackner2015",
+        "NumPitches": 12,
+        "Year": "1979/9"
+    },
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi'_No.1": {
+        "Composer": "Hendler, Maximilian",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.1",
+        "Original": 1,
+        "P0": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            11,
+            10,
+            9,
+            8,
+            7,
+            6
         ],
         "Source": "FripertingerLackner2015",
         "NumPitches": 12,
@@ -16049,29 +16164,6 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Krenek,_Ernst_-_Sonata_for_Viola_and_Piano,_Op.117": {
-        "P0": [
-            0,
-            10,
-            3,
-            6,
-            2,
-            1,
-            11,
-            9,
-            5,
-            8,
-            7,
-            4
-        ],
-        "Original": 3,
-        "Composer": "Krenek, Ernst",
-        "Work": "Sonata for Viola and Piano, Op.117",
-        "Year": "1948",
-        "Source": "New",
-        "Note": "",
-        "NumPitches": 12
-    },
     "Krenek,_Ernst_-_Sonata,_No.3,_Op.92,_No.4": {
         "P0": [
             0,
@@ -16092,6 +16184,29 @@
         "Work": "Sonata, No.3, Op.92, No.4",
         "Year": "1942",
         "Source": "Ogdon1955, Ex. 56",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Krenek,_Ernst_-_Sonata_for_Viola_and_Piano,_Op.117": {
+        "P0": [
+            0,
+            10,
+            3,
+            6,
+            2,
+            1,
+            11,
+            9,
+            5,
+            8,
+            7,
+            4
+        ],
+        "Original": 3,
+        "Composer": "Krenek, Ernst",
+        "Work": "Sonata for Viola and Piano, Op.117",
+        "Year": "1948",
+        "Source": "New",
         "Note": "",
         "NumPitches": 12
     },
@@ -21864,7 +21979,7 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Nono,_Luigi_-_Variazioni_canoniche_sulla_serie_dell'op._41_di_Arnold_Sch\u00f6nberg": {
+    "Nono,_Luigi_-_Variazioni_canoniche_sulla_serie_dell'op.41_di_Arnold_Sch\u00f6nberg": {
         "P0": [
             0,
             1,
@@ -21881,7 +21996,7 @@
         ],
         "Original": 4,
         "Composer": "Nono, Luigi",
-        "Work": "Variazioni canoniche sulla serie dell'op. 41 di Arnold Sch\u00f6nberg",
+        "Work": "Variazioni canoniche sulla serie dell'Op.41 di Arnold Sch\u00f6nberg",
         "Year": "1950",
         "Source": "Whittall2008; Fox1999, p.117",
         "Note": "6x shuffling pairs.",
@@ -22024,29 +22139,6 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Papaioannou,_Yannis_-_Songs_of_the_Lake,_basic_series": {
-        "P0": [
-            0,
-            4,
-            5,
-            9,
-            8,
-            3,
-            11,
-            10,
-            2,
-            1,
-            6,
-            7
-        ],
-        "Original": 3,
-        "Composer": "Papaioannou, Yannis",
-        "Work": "Songs of the Lake, basic series",
-        "Year": "1950",
-        "Source": "Chardas2005",
-        "Note": "",
-        "NumPitches": 12
-    },
     "Papaioannou,_Yannis_-_Songs_of_the_Lake,_No.1": {
         "P0": [
             0,
@@ -22134,6 +22226,29 @@
         "Original": 2,
         "Composer": "Papaioannou, Yannis",
         "Work": "Songs of the Lake, No.4",
+        "Year": "1950",
+        "Source": "Chardas2005",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Papaioannou,_Yannis_-_Songs_of_the_Lake,_basic_series": {
+        "P0": [
+            0,
+            4,
+            5,
+            9,
+            8,
+            3,
+            11,
+            10,
+            2,
+            1,
+            6,
+            7
+        ],
+        "Original": 3,
+        "Composer": "Papaioannou, Yannis",
+        "Work": "Songs of the Lake, basic series",
         "Year": "1950",
         "Source": "Chardas2005",
         "Note": "",
@@ -23102,29 +23217,6 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Santoro,_Claudio_-_Sonata_1942": {
-        "P0": [
-            0,
-            2,
-            3,
-            6,
-            7,
-            11,
-            1,
-            9,
-            4,
-            8,
-            5,
-            10
-        ],
-        "Original": 6,
-        "Composer": "Santoro, Claudio",
-        "Work": "Sonata 1942",
-        "Year": "1942",
-        "Source": "Maibrada2007",
-        "Note": "Same row in \"Two-Part inventions\"",
-        "NumPitches": 12
-    },
     "Santoro,_Claudio_-_Sonata,_No.1": {
         "P0": [
             0,
@@ -23146,6 +23238,29 @@
         "Year": "1945",
         "Source": "Maibrada2007",
         "Note": "",
+        "NumPitches": 12
+    },
+    "Santoro,_Claudio_-_Sonata_1942": {
+        "P0": [
+            0,
+            2,
+            3,
+            6,
+            7,
+            11,
+            1,
+            9,
+            4,
+            8,
+            5,
+            10
+        ],
+        "Original": 6,
+        "Composer": "Santoro, Claudio",
+        "Work": "Sonata 1942",
+        "Year": "1942",
+        "Source": "Maibrada2007",
+        "Note": "Same row in \"Two-Part inventions\"",
         "NumPitches": 12
     },
     "Santoro,_Claudio_-_Sonatina,_No.2": {
@@ -23282,6 +23397,52 @@
         "Work": "Notturno, Op.10,  mvt 1",
         "Year": "1935",
         "Source": "Kinzler2007, p. 73",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Schnittke,_Alfred_-_Concerto,_No.2_for_Violin_and_Chamber_Orchestra": {
+        "P0": [
+            0,
+            11,
+            1,
+            2,
+            10,
+            3,
+            4,
+            9,
+            5,
+            6,
+            8,
+            7
+        ],
+        "Original": 11,
+        "Composer": "Schnittke, Alfred",
+        "Work": "Concerto, No.2 for Violin and Chamber Orchestra",
+        "Year": "1966",
+        "Source": "Honarmand2019, p.310",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Schnittke,_Alfred_-_Concerto_Grosso,_No.1,_mvt_2": {
+        "P0": [
+            0,
+            11,
+            2,
+            1,
+            8,
+            7,
+            10,
+            9,
+            6,
+            5,
+            4,
+            3
+        ],
+        "Original": 10,
+        "Composer": "Schnittke, Alfred",
+        "Work": "Concerto Grosso, No.1, mvt 2",
+        "Year": "1977",
+        "Source": "Peterson2000, p.146",
         "Note": "",
         "NumPitches": 12
     },
@@ -23536,52 +23697,6 @@
         "Source": "FripertingerLackner2015",
         "NumPitches": 12,
         "Year": "1985"
-    },
-    "Schnittke,_Alfred_-_Concerto_Grosso,_No.1,_mvt_2": {
-        "P0": [
-            0,
-            11,
-            2,
-            1,
-            8,
-            7,
-            10,
-            9,
-            6,
-            5,
-            4,
-            3
-        ],
-        "Original": 10,
-        "Composer": "Schnittke, Alfred",
-        "Work": "Concerto Grosso, No.1, mvt 2",
-        "Year": "1977",
-        "Source": "Peterson2000, p.146",
-        "Note": "",
-        "NumPitches": 12
-    },
-    "Schnittke,_Alfred_-_Concerto,_No.2_for_Violin_and_Chamber_Orchestra": {
-        "P0": [
-            0,
-            11,
-            1,
-            2,
-            10,
-            3,
-            4,
-            9,
-            5,
-            6,
-            8,
-            7
-        ],
-        "Original": 11,
-        "Composer": "Schnittke, Alfred",
-        "Work": "Concerto, No.2 for Violin and Chamber Orchestra",
-        "Year": "1966",
-        "Source": "Honarmand2019, p.310",
-        "Note": "",
-        "NumPitches": 12
     },
     "Schnittke,_Alfred_-_Improvisation_and_Fugue_for_piano": {
         "P0": [
@@ -24134,6 +24249,52 @@
         "Note": "Un-finished sketch / fragment",
         "NumPitches": 12
     },
+    "Schoenberg,_Arnold_-_Fantasy_for_Piano_Four_Hands,_II_(fragment)": {
+        "P0": [
+            0,
+            3,
+            6,
+            1,
+            7,
+            8,
+            2,
+            5,
+            11,
+            4,
+            10,
+            9
+        ],
+        "Original": 6,
+        "Composer": "Schoenberg, Arnold",
+        "Work": "Fantasy for Piano Four Hands, II (fragment)",
+        "Year": "Year unknown",
+        "Source": "London+2001",
+        "Note": "Un-finished sketch / fragment. Aka Fragment for Piano Four Hands.",
+        "NumPitches": 12
+    },
+    "Schoenberg,_Arnold_-_Fantasy_for_Piano_Four_Hands,_I_(fragment)": {
+        "P0": [
+            0,
+            4,
+            2,
+            5,
+            3,
+            7,
+            11,
+            10,
+            1,
+            8,
+            9,
+            6
+        ],
+        "Original": 1,
+        "Composer": "Schoenberg, Arnold",
+        "Work": "Fantasy for Piano Four Hands, I",
+        "Year": "Year unknown",
+        "Source": "London+2001",
+        "Note": "Un-finished sketch / fragment. Aka Fragment for Piano Four Hands.",
+        "NumPitches": 12
+    },
     "Schoenberg,_Arnold_-_Fantasy_for_Violin_and_Piano,_Op.47": {
         "P0": [
             0,
@@ -24272,29 +24433,6 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Schoenberg,_Arnold_-_Fantasy_for_Piano_Four_Hands,_II_(fragment)": {
-        "P0": [
-            0,
-            3,
-            6,
-            1,
-            7,
-            8,
-            2,
-            5,
-            11,
-            4,
-            10,
-            9
-        ],
-        "Original": 6,
-        "Composer": "Schoenberg, Arnold",
-        "Work": "Fantasy for Piano Four Hands, II (fragment)",
-        "Year": "Year unknown",
-        "Source": "London+2001",
-        "Note": "Un-finished sketch / fragment. Aka Fragment for Piano Four Hands.",
-        "NumPitches": 12
-    },
     "Schoenberg,_Arnold_-_Israel_Exists_Again": {
         "P0": [
             0,
@@ -24408,29 +24546,6 @@
         "Year": "1942",
         "Source": "Fox1999",
         "Note": "Inv. and with one pair swap compared to London+2001. The (famous) hexachord partiton is clear; the orderning is not.",
-        "NumPitches": 12
-    },
-    "Schoenberg,_Arnold_-_Fantasy_for_Piano_Four_Hands,_I_(fragment)": {
-        "P0": [
-            0,
-            4,
-            2,
-            5,
-            3,
-            7,
-            11,
-            10,
-            1,
-            8,
-            9,
-            6
-        ],
-        "Original": 1,
-        "Composer": "Schoenberg, Arnold",
-        "Work": "Fantasy for Piano Four Hands, I",
-        "Year": "Year unknown",
-        "Source": "London+2001",
-        "Note": "Un-finished sketch / fragment. Aka Fragment for Piano Four Hands.",
         "NumPitches": 12
     },
     "Schoenberg,_Arnold_-_Piano_Concerto,_Op.42": {
@@ -25697,9 +25812,9 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Shostakovich,_Dmitri_-_String_Quartet,_No.13_B-flat_minor_(Op._138)": {
+    "Shostakovich,_Dmitri_-_String_Quartet,_No.13_B-flat_minor_(Op.138)": {
         "Composer": "Shostakovich, Dmitri",
-        "Work": "String Quartet, No.13 B-flat minor (Op. 138)",
+        "Work": "String Quartet, No.13 B-flat minor (Op.138)",
         "Original": 11,
         "P0": [
             0,
@@ -31792,29 +31907,6 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Spinner,_Leopold_-_String_Quartet,_Op.2": {
-        "P0": [
-            0,
-            1,
-            7,
-            6,
-            11,
-            10,
-            4,
-            5,
-            8,
-            9,
-            3,
-            2
-        ],
-        "Original": 6,
-        "Composer": "Spinner, Leopold",
-        "Work": "String Quartet, Op.2",
-        "Year": "1941",
-        "Source": "Busch1987",
-        "Note": "",
-        "NumPitches": 12
-    },
     "Spinner,_Leopold_-_String_Quartet,_No.2,_Op.7": {
         "P0": [
             0,
@@ -31834,6 +31926,29 @@
         "Composer": "Spinner, Leopold",
         "Work": "String Quartet, No.2, Op.7",
         "Year": "1952",
+        "Source": "Busch1987",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Spinner,_Leopold_-_String_Quartet,_Op.2": {
+        "P0": [
+            0,
+            1,
+            7,
+            6,
+            11,
+            10,
+            4,
+            5,
+            8,
+            9,
+            3,
+            2
+        ],
+        "Original": 6,
+        "Composer": "Spinner, Leopold",
+        "Work": "String Quartet, Op.2",
+        "Year": "1941",
         "Source": "Busch1987",
         "Note": "",
         "NumPitches": 12
@@ -32021,6 +32136,29 @@
         "NumPitches": 12,
         "Note": "basic row",
         "Year": null
+    },
+    "Stockhausen,_Karlheinz_-_'Mantra'": {
+        "Composer": "Stockhausen, Karlheinz",
+        "Work": "'Mantra'",
+        "Original": 10,
+        "P0": [
+            0,
+            2,
+            11,
+            7,
+            8,
+            5,
+            10,
+            6,
+            4,
+            3,
+            1,
+            9
+        ],
+        "Source": "FripertingerLackner2015",
+        "NumPitches": 12,
+        "Note": "for two pianists and live electronics",
+        "Year": "1970"
     },
     "Stockhausen,_Karlheinz_-_Choral": {
         "P0": [
@@ -32297,29 +32435,6 @@
         "Source": "Stockhausen1982",
         "Note": "",
         "NumPitches": 12
-    },
-    "Stockhausen,_Karlheinz_-_'Mantra'": {
-        "Composer": "Stockhausen, Karlheinz",
-        "Work": "'Mantra'",
-        "Original": 10,
-        "P0": [
-            0,
-            2,
-            11,
-            7,
-            8,
-            5,
-            10,
-            6,
-            4,
-            3,
-            1,
-            9
-        ],
-        "Source": "FripertingerLackner2015",
-        "NumPitches": 12,
-        "Note": "for two pianists and live electronics",
-        "Year": "1970"
     },
     "Stockhausen,_Karlheinz_-_Plus-Minus": {
         "P0": [
@@ -33862,6 +33977,29 @@
         "Note": "",
         "NumPitches": 12
     },
+    "Walker,_George_-_Spatials": {
+        "P0": [
+            0,
+            3,
+            9,
+            11,
+            2,
+            8,
+            7,
+            5,
+            4,
+            1,
+            10,
+            6
+        ],
+        "Original": 1,
+        "Composer": "Walker, George",
+        "Work": "Spatials",
+        "Year": "1961",
+        "Source": "Boss2022",
+        "Note": "Boss notes that 1) this row order differs slightly from that reported by Hampton1994 and 2) this is the only twelve-tone piece by Walker.",
+        "NumPitches": 12
+    },
     "Walton,_William_-_Symphony,_No.2": {
         "P0": [
             0,
@@ -34067,6 +34205,52 @@
         "Year": "1953-54",
         "Source": "Son2008",
         "Note": "",
+        "NumPitches": 12
+    },
+    "Webern,_Anton_-,_Op.32_(un-finished),_initial_sketch": {
+        "P0": [
+            0,
+            1,
+            9,
+            11,
+            3,
+            2,
+            7,
+            6,
+            10,
+            8,
+            4,
+            5
+        ],
+        "Original": 0,
+        "Composer": "Webern, Anton",
+        "Work": "Op.32 (un-finished), initial sketch",
+        "Year": "1945",
+        "Source": "Bailey1991, p.27",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Webern,_Anton_-,_Op.32_(un-finished),_later_sketch": {
+        "P0": [
+            0,
+            1,
+            2,
+            11,
+            10,
+            9,
+            5,
+            4,
+            3,
+            6,
+            7,
+            8
+        ],
+        "Original": 0,
+        "Composer": "Webern, Anton",
+        "Work": "Op.32 (un-finished), later sketch",
+        "Year": "1945",
+        "Source": "Bailey1991, p.28",
+        "Note": "FripertingerLackner2015 has this (later) form.",
         "NumPitches": 12
     },
     "Webern,_Anton_-_2_Lieder,_\"Weiss_Wie_Lilien\",_Op.19,_No.1": {
@@ -34389,52 +34573,6 @@
         "Year": 1925,
         "Source": "Bailey1991",
         "Note": "",
-        "NumPitches": 12
-    },
-    "Webern,_Anton_-,_Op.32_(un-finished),_initial_sketch": {
-        "P0": [
-            0,
-            1,
-            9,
-            11,
-            3,
-            2,
-            7,
-            6,
-            10,
-            8,
-            4,
-            5
-        ],
-        "Original": 0,
-        "Composer": "Webern, Anton",
-        "Work": "Op. 32 (un-finished), initial sketch",
-        "Year": "1945",
-        "Source": "Bailey1991, p.27",
-        "Note": "",
-        "NumPitches": 12
-    },
-    "Webern,_Anton_-,_Op.32_(un-finished),_later_sketch": {
-        "P0": [
-            0,
-            1,
-            2,
-            11,
-            10,
-            9,
-            5,
-            4,
-            3,
-            6,
-            7,
-            8
-        ],
-        "Original": 0,
-        "Composer": "Webern, Anton",
-        "Work": "Op. 32 (un-finished), later sketch",
-        "Year": "1945",
-        "Source": "Bailey1991, p.28",
-        "Note": "FripertingerLackner2015 has this (later) form.",
         "NumPitches": 12
     },
     "Webern,_Anton_-_Quartet_for_Violin,_Clarinet,_Tenor_Sax,_And_Piano,_Op.22": {
@@ -35632,29 +35770,6 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Zenk,_Ludwig_-_Piano_Sonata,_Op.1": {
-        "P0": [
-            0,
-            1,
-            8,
-            4,
-            6,
-            5,
-            2,
-            10,
-            9,
-            3,
-            11,
-            7
-        ],
-        "Original": 5,
-        "Composer": "Zenk, Ludwig",
-        "Work": "Piano Sonata, Op.1",
-        "Year": "1932-33",
-        "Source": "Ahrend2019, pp. 40-43",
-        "Note": "",
-        "NumPitches": 12
-    },
     "Zenk,_Ludwig_-_Piano_Sonata,_No.2,_Op.4": {
         "P0": [
             0,
@@ -35675,6 +35790,29 @@
         "Work": "Piano Sonata, No.2, Op.4",
         "Year": "1935-37",
         "Source": "Hommes2010, p. 407",
+        "Note": "",
+        "NumPitches": 12
+    },
+    "Zenk,_Ludwig_-_Piano_Sonata,_Op.1": {
+        "P0": [
+            0,
+            1,
+            8,
+            4,
+            6,
+            5,
+            2,
+            10,
+            9,
+            3,
+            11,
+            7
+        ],
+        "Original": 5,
+        "Composer": "Zenk, Ludwig",
+        "Work": "Piano Sonata, Op.1",
+        "Year": "1932-33",
+        "Source": "Ahrend2019, pp. 40-43",
         "Note": "",
         "NumPitches": 12
     },
