@@ -234,7 +234,7 @@ def isAllTrichord(
         wrap=True
     )
     if len(trichords) == 12:
-        if not containsCell(trichords):  # checks for any repeated cells
+        if not containsCell(trichords, exactlyOne=False):  # checks for any repeated cells
             return True
 
     return False
