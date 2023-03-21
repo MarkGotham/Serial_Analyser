@@ -1,6 +1,6 @@
 Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
-"Adorno, Theodor W.",Totenlied auf den Kater,1933/1932,0,7,6,3,11,5,8,4,10,9,1,2
-"Apostel, Hans Erich","Fischerhaus-Serenade, Op.45.",1971,0,4,8,3,11,7,1,9,5,2,10,6
+"Adorno, Theodor W.",Totenlied auf den Kater,1932-33,0,7,6,3,11,5,8,4,10,9,1,2
+"Apostel, Hans Erich","Fischerhaus-Serenade, Op.45",1971,0,4,8,3,11,7,1,9,5,2,10,6
 "Argento, Dominick","A Water Bird Talk, Bird Row",1974-76,0,7,2,1,10,9,3,8,5,4,11,6
 "Argento, Dominick","A Water Bird Talk, Lecturer Row",1974-76,0,9,5,10,2,6,3,11,8,4,1,7
 "Argento, Dominick",Evensong: Of Love and Angels,2007,0,11,9,8,5,3,4,1,2,7,10,6
@@ -42,7 +42,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Babbitt, Milton",Vision and Prayer,1961,0,11,8,3,7,4,10,9,2,6,1,5
 "Babbitt, Milton",Woodwind Quartet,1953,0,3,1,2,11,10,8,9,5,7,6,4
 "Bach, Johann Sebastian",Chromatische Fantasie,1717?,0,3,6,9,11,2,5,8,10,1,4,7
-"Badger, Christine","aleatoric row, at 17:14; Graz.",2013/2/5,0,2,6,11,3,4,5,7,10,1,9,8
+"Badger, Christine","aleatoric row, at 17:14; Graz",2013/2/5,0,2,6,11,3,4,5,7,10,1,9,8
 "Baker, David","“Status Symbol” from ""The Black Experience""",1973,0,3,4,7,8,11,1,10,9,6,5,2
 "Barber, Samuel","Piano Sonata, Op.26",1949,0,8,4,11,3,7,1,9,5,10,2,6
 "Bartók, Béla","String Quartet, No.4",1928,0,5,6,11,4,9,10,3,8,1,2,7
@@ -82,8 +82,8 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Berio, Luciano",Chamber Music,1953,0,9,3,5,7,10,2,11,4,6,8,1
 "Berio, Luciano",Cinque Variazioni,1952-53,0,2,4,1,3,5,8,10,6,7,9,11
 "Berio, Luciano",Sequenza I,1958,0,11,10,9,8,7,4,6,5,3,1,2
-"Bischof, Rainer","'Und so sink ich leise in mich selbst hinein'. Österreichischer Liederzyklus für Mezzosopran und Violine, Op.17.",1982-1983,0,6,5,11,4,9,3,2,8,7,1,10
-"Bischof, Rainer","Sonatine für Klarinette solo, Op.1.",1969,0,5,4,10,6,7,1,9,11,2,8,3
+"Bischof, Rainer","'Und so sink ich leise in mich selbst hinein'. Österreichischer Liederzyklus für Mezzosopran und Violine, Op.17",1982-1983,0,6,5,11,4,9,3,2,8,7,1,10
+"Bischof, Rainer","Sonatine für Klarinette solo, Op.1",1969,0,5,4,10,6,7,1,9,11,2,8,3
 "Boulez, Pierre",1st Piano Sonata,"1946,49",0,8,11,9,10,5,6,4,3,1,2,7
 "Boulez, Pierre",2nd Piano Sonata,1948,0,7,1,6,11,3,5,8,9,10,4,2
 "Boulez, Pierre","2nd Piano Sonata, mvt II, Section 1",1948,0,2,1,11,3,9,8,10,7,6,5,4
@@ -157,8 +157,8 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Dallapiccola, Luigi",Tre poemi,1948,0,8,9,6,3,1,2,11,7,5,4,10
 "Dallapiccola, Luigi",Ulisse [opera],1960-1968,0,2,1,3,9,8,11,10,4,6,5,7
 "Dallapiccola, Luigi",Variazioni per orchestra,1954,0,1,5,8,10,4,3,7,9,2,11,6
-"David, Johann Nepomuk","Sonata for violin, Op.58, No.1.",1963,0,2,3,9,11,10,5,8,1,6,4,7
-"David, Johann Nepomuk","Symphony, No.8, Op.59.",1964-1965,0,5,9,2,6,11,3,4,7,8,10,1
+"David, Johann Nepomuk","Sonata for violin, Op.58, No.1",1963,0,2,3,9,11,10,5,8,1,6,4,7
+"David, Johann Nepomuk","Symphony, No.8, Op.59",1964-1965,0,5,9,2,6,11,3,4,7,8,10,1
 "Davies, Peter Maxwell","Five Pieces for Piano, Op.2, No.1",1956,0,6,11,10,1,3,5,8,7,2,4,9
 "Davies, Peter Maxwell","Five Pieces for Piano, Op.2, No.1 (first row)",1955-56,0,6,11,10,1,3,5,8,7,2,4,9
 "Davies, Peter Maxwell","Five Pieces for Piano, Op.2, No.1 (second row)",1955-56,0,6,1,2,11,9,7,4,5,10,8,3
@@ -185,7 +185,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Dessau, Paul",Les Voix,1939,0,11,6,8,9,3,4,10,5,7,2,1
 "Diamond, David","The World of Paul Klee, frame I",1958,0,5,8,4,9,3,1,11,2,6,10,7
 "Diamond, David","The World of Paul Klee, frame I, II",1958,0,7,11,3,4,10,6,8,9,1,5,2
-"Dobbins, Bill",Concerto for Jazz Orchestra.,1999,0,9,7,4,3,1,10,11,8,6,5,2
+"Dobbins, Bill",Concerto for Jazz Orchestra,1999,0,9,7,4,3,1,10,11,8,6,5,2
 "Dzubay, David","Di,Con[ver(gence,sions)]",1988,0,9,8,4,7,6,1,10,3,5,11,2
 "Eder, Helmut","Concerto for violin and orchestra, Op.32",1960,0,9,6,2,11,3,8,1,7,5,10,4
 "Eisler, Hanns",>Spruch< for voice and piano,1939,0,3,11,9,5,8,4,1,2,10,7,6
@@ -238,7 +238,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Finney, Ross Lee",Concerto for Alto Sax,1974,0,1,3,4,6,9,11,10,8,7,5,2
 "Finney, Ross Lee",Fantasy in Two Movements for solo violin,1958,0,1,3,5,4,2,11,10,8,6,7,9
 "Finney, Ross Lee",Sonata Quasi una Fantasia,1961,0,1,3,2,4,5,6,7,9,8,10,11
-"Florey, Hans","'Achteck' für Flöte, Violine und Klavier.",1991/4/5,0,7,8,9,2,6,11,10,3,1,5,4
+"Florey, Hans","'Achteck' für Flöte, Violine und Klavier",1991/4/5,0,7,8,9,2,6,11,10,3,1,5,4
 "Florey, Hans",'Die Blume der Blumen' für Gesang und Viola,1983/9/19,0,3,4,8,9,6,1,7,10,11,2,5
 "Florey, Hans","'Fort, fort sind meine Rosen' für Gesang und Instrument",1985/7/29,0,7,6,3,5,9,2,10,8,4,1,11
 "Florey, Hans",'Jünglingstrauer' für Singstimme und Klavier,1983/10/16,0,11,2,8,9,4,10,1,6,5,3,7
@@ -256,13 +256,13 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Florey, Hans",Im Mondlicht,1988/1/5,0,1,4,6,5,3,11,10,9,7,8,3
 "Florey, Hans",Im Winter,1983/9/6,0,6,7,10,1,8,2,9,4,3,11,5
 "Florey, Hans",Kanonvariationen,1992/6,0,1,4,6,5,3,11,10,9,7,8,2
-"Florey, Hans",Klavierstück.,1982/2/22,0,1,11,10,9,6,4,8,5,7,2,3
+"Florey, Hans",Klavierstück,1982/2/22,0,1,11,10,9,6,4,8,5,7,2,3
 "Florey, Hans",Kleiner Doppelkanon,1991/11/19,0,4,6,3,8,9,7,2,1,5,11,10
 "Florey, Hans",Magische Klangordnung,1978/11/7,0,5,7,4,1,2,3,9,10,6,8,11
-"Florey, Hans",Magischer Würfel mit 6 Spiegelpunkten, 1983/1982,0,10,1,7,4,6,5,8,3,9,2,11
-"Florey, Hans",Magisches Quadrat der Ordnung 3, 1992/1973,0,4,6,3,8,9,7,2,1,5,11,10
+"Florey, Hans",Magischer Würfel mit 6 Spiegelpunkten,1983/1982,0,10,1,7,4,6,5,8,3,9,2,11
+"Florey, Hans",Magisches Quadrat der Ordnung 3,1992/1973,0,4,6,3,8,9,7,2,1,5,11,10
 "Florey, Hans",Polare Doppelzeichen-Kreise,1991/11/21,0,2,11,4,5,3,10,9,1,7,6,8
-"Florey, Hans",Sechs Kanonzyklen einunddesselben magischen Quadrates.,1982/9,0,10,1,7,4,6,5,8,3,9,2,11
+"Florey, Hans",Sechs Kanonzyklen einunddesselben magischen Quadrates,1982/9,0,10,1,7,4,6,5,8,3,9,2,11
 "Florey, Hans",Trigramme,1991/10/15,0,8,9,7,6,4,3,5,10,11,1,2
 "Florey, Hans",Triptychon,2005/6/23,0,8,9,3,7,2,1,10,5,6,11,4
 "Florey, Hans",Zwölftonspiel für Streichquartett. 3. Dezember 1965,1965/12/3,0,10,2,5,3,4,1,8,9,6,7,11
@@ -339,7 +339,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Harrison, Lou",Untitled Piano Piece,1937,0,10,4,3,9,7,2,8,6,1,11,5
 "Hartmann, Karl Amadeus","Symphony, No.4",1947-1948,0,1,3,2,11,4,5,10,7,6,8,9
 "Hauer, Jose Matthias","XXXII. Zwölftonspiel; für Violine, Bratsche und Cello",1946/8/19,0,2,6,1,10,9,5,8,11,7,4,3
-"Hauer, Josef Matthias",'Almanach 1957' [Zwölftonspiel] für vier Violinen.,1956,0,2,6,5,1,9,8,3,7,4,10,11
+"Hauer, Josef Matthias",'Almanach 1957' [Zwölftonspiel] für vier Violinen,1956,0,2,6,5,1,9,8,3,7,4,10,11
 "Hauer, Josef Matthias","'Atonale Musik'. Klavierstücke 1922., Op.20",1920-1922,0,7,4,9,5,8,3,11,2,6,1,10
 "Hauer, Josef Matthias","'Der Menschen Weg', Op.67",1952/1934,0,8,5,4,10,2,7,9,1,3,11,6
 "Hauer, Josef Matthias","'Die schwarze Spinne', Op.62",1932/7/27,0,4,10,1,5,8,11,2,7,9,6,3
@@ -353,7 +353,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Hauer, Josef Matthias",'Tanz tibetanischer Mönche' im langsamen 3/4 Takt) [Zwölftonspiel]. 8. September 1956,1956/9/8,0,7,8,6,3,1,11,2,10,5,9,4
 "Hauer, Josef Matthias","'Wandlungen' (chamber-oratorio for stage or concert, for six solo-voices, choir and orchestra; after words of Friedrich Hölderlin), Op.53",1927/12/5,0,5,11,4,10,1,6,8,9,3,7,2
 "Hauer, Josef Matthias",1. canonic Example from the theoretical work 'Zwölftontechnik',1925/10,0,1,4,6,5,3,11,10,9,7,8,2
-"Hauer, Josef Matthias","Apokalyptische Phantasie, Op.5",1913/September-Oktober/16.9.-23.10.,0,1,11,9,6,10,4,8,2,5,7,3
+"Hauer, Josef Matthias","Apokalyptische Phantasie, Op.5",1913/September-Oktober/16.9.-23.10,0,1,11,9,6,10,4,8,2,5,7,3
 "Hauer, Josef Matthias",Baustein,1920,0,8,11,1,6,10,4,2,3,5,9,7
 "Hauer, Josef Matthias","Divertimento für kleines Orchester, Op.61",1930/5/5,0,7,5,1,2,11,6,4,8,10,3,9
 "Hauer, Josef Matthias",Erste Suite für Orchester,1924/6,0,7,5,10,1,11,9,4,6,2,8,3
@@ -532,7 +532,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Hauer, Josef Matthias","XXXII. Zwölftonspiel für Violine, zwei Bratschen und Cello (2/2)",1946/8/12,0,7,4,3,11,2,5,1,10,9,6,8
 "Hauer, Josef Matthias","XXXII. Zwölftonspiel; für Violine, Bratsche und Cello",1946/8/19,0,3,7,4,1,5,6,9,2,10,8,11
 "Hauer, Josef Matthias",Zwölftonmusik [Zwölftonspiel] für Klavier zu vier Händen. Februar 1959 (Fragment),1959/2,0,9,3,7,4,10,2,6,1,8,11,5
-"Hauer, Josef Matthias","Zwölftonmusik für Orchester, Op.86.",1939/7/16,0,2,6,3,11,8,10,9,5,7,1,4
+"Hauer, Josef Matthias","Zwölftonmusik für Orchester, Op.86",1939/7/16,0,2,6,3,11,8,10,9,5,7,1,4
 "Hauer, Josef Matthias","Zwölftonspiel (Langsamer Walzer) 8. Oktober 1956; für zwei Violinen, Bratsche, Cello und Klavier zu vier Händen",1956/10/8,0,1,10,9,3,8,5,6,11,2,4,7
 "Hauer, Josef Matthias","Zwölftonspiel (Weihnachten 1947) für Klarinette, Violine, Bratsche, Cello und Klavier",1948/6/2,0,6,2,10,8,3,11,4,9,7,5,1
 "Hauer, Josef Matthias",Zwölftonspiel 10. Juli 1957; für Klavier zu vier Händen,1956/7/10,0,8,10,6,2,11,1,3,9,4,7,5
@@ -599,6 +599,7 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Hauer, Josef Matthias",Zwölftonspiel für Klavier. September 1956,1956/9/4,0,8,11,6,3,5,1,10,7,4,2,9
 "Hauer, Josef Matthias",Zwölftonspiel für Oechester. 28. 9. 1954,1954/9/28,0,8,9,6,10,4,11,1,2,5,3,7
 "Hauer, Josef Matthias",Zwölftonspiel für Orchester (August 1957),1957/8/9,0,9,4,6,11,3,2,8,5,1,7,10
+"Hauer, Josef Matthias",Zwölftonspiel für Orchester. 28. 9. 1954,1954/9/28,0,5,7,4,6,1,9,3,8,11,10,2
 "Hauer, Josef Matthias",Zwölftonspiel für Orchester. September 1957,1957/9/22,0,8,6,10,5,7,2,4,1,9,11,3
 "Hauer, Josef Matthias",Zwölftonspiel für Streichquartett,1948/10/4,0,3,7,2,9,6,4,10,1,8,11,5
 "Hauer, Josef Matthias",Zwölftonspiel für Violine allein mit einer Zwölftonreihe von Dr. Ernst Weidinger,1948/8/23,0,9,8,5,10,2,11,6,3,7,4,1
@@ -626,39 +627,39 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Hauer, Josef Matthias",[Zwölftonspiel] 'Johann Sebastian Bach hat das Wohltemperierte Klavier im Himmel vollendet ...',1952/11/2,0,10,5,4,2,9,8,1,3,11,6,7
 "Hauer, Josef Matthias",twelve-tone-row-example,1920,0,2,5,11,1,10,4,8,7,3,6,9
 "Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.1",1979/9,0,1,2,3,4,5,11,10,9,8,7,6
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.10.",1979/9,0,4,6,7,8,10,9,5,3,2,1,11
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.11.",1979/9,0,4,5,6,8,9,7,3,2,1,11,10
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.12.",1979/9,0,3,6,7,9,10,11,8,5,4,2,1
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.13.",1979/9,0,3,5,7,8,10,9,6,4,2,1,11
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.14.",1979/9,0,2,5,7,8,10,11,9,6,4,3,1
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.15.",1979/9,0,1,3,6,7,9,11,10,8,5,4,2
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.16.",1979/9,0,1,3,5,7,10,9,8,6,4,2,11
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.17.",1979/9,0,1,3,5,8,9,7,6,4,2,11,10
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.18.",1979/9,0,3,4,6,9,10,11,8,7,5,2,1
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.19.",1979/9,0,1,4,5,8,9,11,10,7,6,3,2
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.2.",1979/9,0,1,2,3,4,10,9,8,7,6,5,11
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.20.",1979/9,0,1,2,5,7,8,11,10,9,6,4,3
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.21.",1979/9,0,1,2,5,6,10,9,8,7,4,3,11
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.22.",1979/9,0,1,2,4,8,9,7,6,5,3,11,10
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.23.",1979/9,0,3,4,5,9,10,11,8,7,6,2,1
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.24.",1979/9,0,3,4,7,8,10,9,6,5,2,1,11
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.25.",1979/9,0,3,5,6,8,9,7,4,2,1,11,10
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.26.",1979/9,0,3,4,6,7,8,5,2,1,11,10,9
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.27.",1979/9,0,2,4,5,6,7,3,1,11,10,9,8
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.28.",1979/9,0,5,7,8,9,10,11,6,4,3,2,1
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.29.",1979/9,0,1,6,7,8,9,11,10,5,4,3,2
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.3.",1979/9,0,2,3,4,5,10,11,9,8,7,6,1
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.30.",1979/9,0,1,2,6,7,8,11,10,9,5,4,3
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.31.",1979/9,0,1,2,3,6,7,11,10,9,8,5,4
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.32.",1979/9,0,1,2,3,4,6,11,10,9,8,7,5
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.4.",1979/9,0,2,3,4,8,10,9,7,6,5,1,11
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.5.",1979/9,0,2,4,5,8,10,11,9,7,6,3,1
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.6.",1979/9,0,2,4,6,8,10,9,7,5,3,1,11
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.7.",1979/9,0,2,4,6,8,9,7,5,3,1,11,10
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.8.",1979/9,0,2,4,6,7,8,5,3,1,11,10,9
-"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.9.",1979/9,0,4,6,8,9,10,11,7,5,3,2,1
-"Hendler, Maximilian","Vier Miniaturen für Klarinette, Op.51.",1982/4/26,0,3,5,11,8,6,10,2,4,1,9,7
-"Hendler, Maximilian","aus dem >Liederbuch für Annemarie< 'Zur Nachbarin' (Text: Herwig von Kreutzbruck), Op.56-2.",1982/8/29,0,9,4,7,11,10,8,1,5,3,2,6
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.10",1979/9,0,4,6,7,8,10,9,5,3,2,1,11
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.11",1979/9,0,4,5,6,8,9,7,3,2,1,11,10
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.12",1979/9,0,3,6,7,9,10,11,8,5,4,2,1
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.13",1979/9,0,3,5,7,8,10,9,6,4,2,1,11
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.14",1979/9,0,2,5,7,8,10,11,9,6,4,3,1
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.15",1979/9,0,1,3,6,7,9,11,10,8,5,4,2
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.16",1979/9,0,1,3,5,7,10,9,8,6,4,2,11
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.17",1979/9,0,1,3,5,8,9,7,6,4,2,11,10
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.18",1979/9,0,3,4,6,9,10,11,8,7,5,2,1
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.19",1979/9,0,1,4,5,8,9,11,10,7,6,3,2
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.2",1979/9,0,1,2,3,4,10,9,8,7,6,5,11
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.20",1979/9,0,1,2,5,7,8,11,10,9,6,4,3
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.21",1979/9,0,1,2,5,6,10,9,8,7,4,3,11
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.22",1979/9,0,1,2,4,8,9,7,6,5,3,11,10
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.23",1979/9,0,3,4,5,9,10,11,8,7,6,2,1
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.24",1979/9,0,3,4,7,8,10,9,6,5,2,1,11
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.25",1979/9,0,3,5,6,8,9,7,4,2,1,11,10
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.26",1979/9,0,3,4,6,7,8,5,2,1,11,10,9
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.27",1979/9,0,2,4,5,6,7,3,1,11,10,9,8
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.28",1979/9,0,5,7,8,9,10,11,6,4,3,2,1
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.29",1979/9,0,1,6,7,8,9,11,10,5,4,3,2
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.3",1979/9,0,2,3,4,5,10,11,9,8,7,6,1
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.30",1979/9,0,1,2,6,7,8,11,10,9,5,4,3
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.31",1979/9,0,1,2,3,6,7,11,10,9,8,5,4
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.32",1979/9,0,1,2,3,4,6,11,10,9,8,7,5
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.4",1979/9,0,2,3,4,8,10,9,7,6,5,1,11
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.5",1979/9,0,2,4,5,8,10,11,9,7,6,3,1
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.6",1979/9,0,2,4,6,8,10,9,7,5,3,1,11
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.7",1979/9,0,2,4,6,8,9,7,5,3,1,11,10
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.8",1979/9,0,2,4,6,7,8,5,3,1,11,10,9
+"Hendler, Maximilian","'Die vollständige Ordnung der symmetrischen zwölftönigen Modi', No.9",1979/9,0,4,6,8,9,10,11,7,5,3,2,1
+"Hendler, Maximilian","Vier Miniaturen für Klarinette, Op.51",1982/4/26,0,3,5,11,8,6,10,2,4,1,9,7
+"Hendler, Maximilian","aus dem >Liederbuch für Annemarie< 'Zur Nachbarin' (Text: Herwig von Kreutzbruck), Op.56-2",1982/8/29,0,9,4,7,11,10,8,1,5,3,2,6
 "Hendler, Maximilian","aus den fünf Liedern nach Texten von Elisabeth Pöschl : 'Sonnenaufgang' für Singstimme und Klavier, Op.44-1",1981/12,0,11,2,1,5,6,4,3,8,7,9,10
 "Hendler, Maximilian","aus den fünf Liedern nach Texten von Karl Hans Haysen für Singstimme und Klavier : 'Erkenntnis', Op.45-2",1982/1,0,9,2,4,7,11,8,10,5,1,6,3
 "Hindemith, Paul",Ludus Tonalis,1942,0,7,5,9,4,3,8,2,10,1,11,6
@@ -673,18 +674,18 @@ Composer,Work,Year,1,2,3,4,5,6,7,8,9,10,11,12
 "Ives, Charles","String Quartet, No.2, mvt 2",1913,0,1,2,11,3,7,10,4,6,8,9,5
 "Ives, Charles","Tone Roads, No.1",1911,0,10,3,4,2,7,6,9,8,11,1,5
 "Ives, Charles","Tone Roads, No.3",1915,0,11,1,3,2,10,5,8,4,7,6,9
-"Jelinek, Hanns",Zwölftonwerk op.15.,1947-1957,0,10,5,7,3,6,1,8,11,9,2,4
+"Jelinek, Hanns","Zwölftonwerk, Op.15",1947-1957,0,10,5,7,3,6,1,8,11,9,2,4
 "Johnston, Ben","String Quartet, No.6",1980,0,5,10,9,3,7,11,6,1,2,8,4
 "Johnston, Ben","String Quartet, No.7, mov. 2",1984,0,5,10,8,4,7,2,6,1,11,3,9
-"Jung, Joachim",.,1994,0,11,3,10,2,1,7,8,4,9,5,6
+"Jung, Joachim",,1994,0,11,3,10,2,1,7,8,4,9,5,6
 "Kahn, Erich Itor",Bagatelle für Rene Leibowitz,1940/2/20,0,1,2,4,6,3,10,11,5,7,9,8
 "Kahn, Erich Itor",Short Piano Piece,1951,0,3,11,10,8,6,2,7,9,4,5,1
-"Kalodiki, Georgia",Six Sketches for piano.,2004,0,7,6,1,2,9,8,3,4,11,5,10
+"Kalodiki, Georgia",Six Sketches for piano,2004,0,7,6,1,2,9,8,3,4,11,5,10
 "Klein, Fritz","Die Maschine: Eine extonale Selbstsatire, Op.1",1921,0,11,7,4,2,9,3,8,10,1,5,6
 "Klein, Fritz",Variations for Piano,1924,0,1,5,11,8,4,9,3,2,10,7,6
 "Klein, Fritz Heinrich","Die Maschine. Eine extonale Selbstsatire von Heautontimorumenus., Op.1 (Das Maschinen-Thema)",1921,0,5,7,9,3,2,11,6,8,10,4,1
 "Klein, Fritz Heinrich","Variationen, Op.14",1924,0,11,7,4,2,9,3,8,10,1,5,6
-"Klenau, Paul von",Elisabeth von England.,1939/1938,0,2,8,11,7,1,4,10,3,6,5,9
+"Klenau, Paul von",Elisabeth von England,1939/1938,0,2,8,11,7,1,4,10,3,6,5,9
 "Kokkonen, Joonas","Cello Concerto, mov. 2, row ""II/A""",1969,0,2,7,4,3,5,6,1,11,8,10,9
 "Kokkonen, Joonas","Cello Concerto, mov. 2, row ""II/B""",1969,0,2,3,1,4,5,7,8,6,9,10,11
 "Kokkonen, Joonas","Cello Concerto, mov. 2, row ""II/C""",1969,0,9,11,10,7,2,6,3,5,4,1,8
@@ -720,20 +721,20 @@ Krenek,"Monologue for Solo Clarinet, Op.157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Krenek, Ernst","Symphonic Piece for string Orchestra, Op.86",1939,0,3,4,10,2,9,11,8,7,5,1,6
 "Krenek, Ernst","Twelve Short Piano-Pieces, Op.83",1938,0,9,4,5,6,7,3,10,1,8,11,2
 "Krenek, Ernst",Zwölf Variationen in Drei Satzen,1937,0,1,3,10,2,5,11,7,4,9,6,8
-"Krenek, Ernst","Zwölf Variationen in Drei Sätzen, Op.79.",1957/1940/1937,0,1,3,10,2,5,11,7,4,9,8,6
-"Krenek, Ernst","concert for organ and string-orchestra, Op.230.",1979/1-2,0,11,8,4,3,6,7,5,2,9,10,1
+"Krenek, Ernst","Zwölf Variationen in Drei Sätzen, Op.79",1957/1940/1937,0,1,3,10,2,5,11,7,4,9,8,6
+"Krenek, Ernst","concert for organ and string-orchestra, Op.230",1979/1-2,0,11,8,4,3,6,7,5,2,9,10,1
 "Krenek, Ernst",twelve-tone-row in a display case of 'Steinerner Saal' in the 'Musikverein' of Vienna,1985/8/8,0,3,5,4,8,9,6,10,11,1,7,2
 "Kukuck, Felicitas",'Der Gottesknecht': 6. Kantate,1959,0,11,10,1,2,3,8,9,6,5,7,4
 "Kukuck, Felicitas",'Wo bist Du Trost'; motet,1974,0,11,10,7,6,1,2,5,4,3,9,8
 "Kurtág, György"," The Sayings of Péter Bornemisza, Op.7",1963,0,11,7,8,9,1,2,10,3,4,5,6
 "Lachenmann, Helmut",Mouvement (- vor der Erstarrung) für Ensemble,1982-1984,0,10,11,7,8,2,5,3,1,9,4,6
-"Lackner, Peter","'An alle Außerirdischen'. Kanon für drei Singstimmen, Kontrabaß und Klavier.",1995/9,0,4,9,7,11,2,5,1,8,10,6,3
+"Lackner, Peter","'An alle Außerirdischen'. Kanon für drei Singstimmen, Kontrabaß und Klavier",1995/9,0,4,9,7,11,2,5,1,8,10,6,3
 "Lackner, Peter","'Davongeflogene Seelen' für Singstimme, Violoncello und Klavier",1991,0,10,4,7,6,1,9,11,5,2,3,8
 "Lackner, Peter",'Der Winter',2005/11/20,0,6,3,5,9,11,7,1,4,2,10,8
 "Lackner, Peter",'Drei Dinge' für Singstimme und Klavier,1982/7,0,4,2,11,7,10,1,5,9,3,6,8
 "Lackner, Peter",'Es fiel ein Reif in der Frühlingsnacht' für Singstimme und ein Melodie-Instrument,1984/11/13,0,9,4,7,2,5,1,8,10,11,3,6
-"Lackner, Peter","'Euphorbia obesa'. Kanon für Oboe, Englischhorn und Fagott..",2000/4/16,0,10,2,6,8,4,1,9,11,3,7,5
-"Lackner, Peter",'Flügelaltar' für Klavier.,1983/7/15,0,9,11,10,2,7,1,8,4,5,3,6
+"Lackner, Peter","'Euphorbia obesa'. Kanon für Oboe, Englischhorn und Fagott.",2000/4/16,0,10,2,6,8,4,1,9,11,3,7,5
+"Lackner, Peter",'Flügelaltar' für Klavier,1983/7/15,0,9,11,10,2,7,1,8,4,5,3,6
 "Lackner, Peter",'Hexentanz' für Violine und Klavier,1986/9/2,0,3,5,7,8,4,1,10,11,2,6,9
 "Lackner, Peter",'INKE TAN MAGROV' für Singstimme und Klavier,1997/3/27,0,6,5,10,8,3,7,1,2,9,11,4
 "Lackner, Peter","'Lied des Harfenmädchens II' für Flöte, Klarinette, Posaune, Violine, Cello und Klavier",2005/10/19,0,3,5,11,7,10,1,8,4,9,6,2
@@ -748,96 +749,96 @@ Krenek,"Monologue for Solo Clarinet, Op.157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Lackner, Peter",4. Kanonzyklus,1991/7/21,0,5,3,7,11,1,9,4,6,2,10,8
 "Lackner, Peter",5. Kanonzyklus,1994/6,0,7,11,9,1,3,5,8,10,6,2,4
 "Lackner, Peter",AGNI MEI (Kanon für Klavier. 5. Juni 2015),2015/6/5,0,4,10,11,1,2,8,7,3,6,9,5
-"Lackner, Peter","Das Buch der Wandlungen I für Frauenstimmen und,oder Klavier.",1998/4/16,0,8,3,5,1,10,7,11,4,2,6,9
+"Lackner, Peter","Das Buch der Wandlungen I für Frauenstimmen und,oder Klavier",1998/4/16,0,8,3,5,1,10,7,11,4,2,6,9
 "Lackner, Peter",Florianische Reihe,1995/4/16,0,3,9,7,4,11,5,2,8,6,1,10
 "Lackner, Peter",INITIUM TRIPLEX. 28. Juni 2016; für drei Tasteninstrumente,2016/6/28,0,1,2,3,4,5,6,7,8,9,10,11
 "Lackner, Peter",INKE TAN MAGROV für Singstimme und Klavier (zweites Lied aus dem Zyklus 'Wilde Erdbeeren'),1990,0,2,9,5,8,11,3,1,6,10,7,4
 "Lackner, Peter","KANON für A, O & Gsellmanns Weltmaschine. 8. Oktober 1958,2008",2008,0,8,10,4,2,6,9,1,11,5,7,3
-"Lackner, Peter","Kanon 'kgV(3,5,7)'.",1986/5/5,0,3,10,9,6,5,2,11,4,8,1,7
+"Lackner, Peter","Kanon 'kgV(3,5,7)'",1986/5/5,0,3,10,9,6,5,2,11,4,8,1,7
 "Lackner, Peter",Kanon T2 à 6,1992,0,5,2,7,4,9,6,11,8,1,10,3
 "Lackner, Peter",Kanon T3 à 4,1992,0,2,7,3,5,10,6,8,1,9,11,4
 "Lackner, Peter",Kanon T4 á 3,1992,0,5,7,2,4,9,11,6,8,1,3,10
 "Lackner, Peter",Kanon T6 á 2,1992,0,10,8,3,1,5,6,4,2,9,7,11
 "Lackner, Peter",Kanon for 836017,2010/9/24,0,2,10,7,5,1,3,9,11,4,6,8
 "Lackner, Peter","Kanon für B. L., 7. Oktober 2017",2017/10/7,0,9,10,5,3,7,11,2,1,6,8,4
-"Lackner, Peter",Kanon für Blockflötenquartett. April 2005.,2005/4/27,0,10,11,3,1,2,8,7,9,5,4,6
+"Lackner, Peter",Kanon für Blockflötenquartett. April 2005,2005/4/27,0,10,11,3,1,2,8,7,9,5,4,6
 "Lackner, Peter","Kanon für Bläsersextett. Mai 1995,1996",1996/1995/5,0,9,7,3,10,1,6,8,2,11,5,4
-"Lackner, Peter",Kanon für Cello und Klavier.,1989,0,2,9,10,6,5,1,11,4,3,7,8
+"Lackner, Peter",Kanon für Cello und Klavier,1989,0,2,9,10,6,5,1,11,4,3,7,8
 "Lackner, Peter",Kanon für Flöte solo und N. N.,2011/6/19,0,3,7,10,2,5,11,8,4,1,9,6
-"Lackner, Peter",Kanon für Flöte und Elektronik. Februar 1999.,1999/2,0,10,2,7,9,5,11,3,1,8,4,6
+"Lackner, Peter",Kanon für Flöte und Elektronik. Februar 1999,1999/2,0,10,2,7,9,5,11,3,1,8,4,6
 "Lackner, Peter","Kanon für Flöte, Akkordeon, zwei Violinen, Bratsche und Klavier",2002/11/17,0,5,3,7,11,1,9,4,6,2,10,8
-"Lackner, Peter",Kanon für Hammerklavier. März 2016,2016/3/24./23.,0,2,1,5,7,3,11,9,10,6,4,8
-"Lackner, Peter",Kanon für Kammerorchester.,1989,0,9,11,6,2,4,7,10,8,1,5,3
+"Lackner, Peter",Kanon für Hammerklavier. März 2016,2016/3/23-24,0,2,1,5,7,3,11,9,10,6,4,8
+"Lackner, Peter",Kanon für Kammerorchester,1989,0,9,11,6,2,4,7,10,8,1,5,3
 "Lackner, Peter",Kanon für Klavier,1989/27/6,0,6,8,10,1,3,5,11,9,7,4,2
-"Lackner, Peter",Kanon für Klavier zu vier Händen.,1988,0,10,5,3,7,8,6,4,11,9,1,2
-"Lackner, Peter",Kanon für Klavier zu vier Händen. 12. Juni 1996.,1996/6/12,0,4,2,8,11,10,5,1,3,9,6,7
-"Lackner, Peter",Kanon für Klavier zu vier Händen. Frühling 1984.,1984,0,1,10,7,9,4,5,11,8,6,2,3
+"Lackner, Peter",Kanon für Klavier zu vier Händen,1988,0,10,5,3,7,8,6,4,11,9,1,2
+"Lackner, Peter",Kanon für Klavier zu vier Händen. 12. Juni 1996,1996/6/12,0,4,2,8,11,10,5,1,3,9,6,7
+"Lackner, Peter",Kanon für Klavier zu vier Händen. Frühling 1984,1984,0,1,10,7,9,4,5,11,8,6,2,3
 "Lackner, Peter",Kanon für Klavier. 15. Juni 1992,1992/6/15,0,10,3,8,6,5,2,1,11,4,9,7
-"Lackner, Peter",Kanon für Klavier. 21. Juni 1998.,1998/6/21,0,7,6,5,1,4,3,8,9,10,2,11
+"Lackner, Peter",Kanon für Klavier. 21. Juni 1998,1998/6/21,0,7,6,5,1,4,3,8,9,10,2,11
 "Lackner, Peter",Kanon für Klavier. 26. Juni 1983,1983/6/26,0,7,5,9,4,8,6,1,11,3,10,2
 "Lackner, Peter","Kanon für Klavier. 27. Juni, 26. September 2002",2002/9/6,0,9,4,1,2,8,7,10,3,6,5,11
-"Lackner, Peter",Kanon für Klavier. 5. April 1989.,1989/4/5,0,2,9,10,6,5,1,11,4,3,7,8
-"Lackner, Peter",Kanon für Klavier. April 2000.,2000/4,0,5,3,7,11,1,9,4,6,2,10,8
+"Lackner, Peter",Kanon für Klavier. 5. April 1989,1989/4/5,0,2,9,10,6,5,1,11,4,3,7,8
+"Lackner, Peter",Kanon für Klavier. April 2000,2000/4,0,5,3,7,11,1,9,4,6,2,10,8
 "Lackner, Peter",Kanon für Klavierquartett,1991/3/21,0,8,6,11,3,9,1,5,7,2,10,4
 "Lackner, Peter",Kanon für Klavierquartett. 27. April 1991,1991/4/27,0,6,3,5,9,11,7,1,4,2,10,8
 "Lackner, Peter",Kanon für Klavierquartett. 27. Juni 1991,1991/6/27,0,2,6,9,11,3,7,5,1,10,8,4
-"Lackner, Peter",Kanon für Klaviertrio.,,0,2,4,9,5,7,3,1,11,6,10,8
+"Lackner, Peter",Kanon für Klaviertrio,,0,2,4,9,5,7,3,1,11,6,10,8
 "Lackner, Peter","Kanon für Orgel, zweimanualiges Cembalo oder Klavier",1982/10/30,0,7,2,11,4,9,6,8,1,5,3,10
 "Lackner, Peter","Kanon für Orgel. 21. November 1994, 4. Februar 1995",95/1994,0,8,5,1,4,9,2,11,7,3,10,6
 "Lackner, Peter",Kanon für Schrammel-Quartett. November 2002,2002/11,0,4,6,3,11,9,1,5,8,2,10,7
 "Lackner, Peter",Kanon für Schwegel und zwei Geigen,1989/6/2,0,6,4,2,10,8,9,3,5,7,11,1
-"Lackner, Peter","Kanon für Schwegel, diatonisches Hackbrett und Violine.",,0,8,4,10,6,2,5,1,9,3,11,7
+"Lackner, Peter","Kanon für Schwegel, diatonisches Hackbrett und Violine",,0,8,4,10,6,2,5,1,9,3,11,7
 "Lackner, Peter",Kanon für Schwegelpfeife in A und Geige,1991/1,0,9,7,2,10,4,3,6,8,1,5,11
+"Lackner, Peter",Kanon für Streichquartett,1989,0,9,3,5,1,11,7,10,4,2,6,8
 "Lackner, Peter",Kanon für Streichquartett und Orgel. 21. November 1993,1993/11/21,0,10,2,5,4,7,1,11,3,9,8,6
-"Lackner, Peter",Kanon für Streichquartett.,1989,0,9,3,5,1,11,7,10,4,2,6,8
 "Lackner, Peter",Kanon für Streichquartett. 18. Mai 1993,1993/5/18,0,11,4,7,1,10,5,6,2,3,9,8
 "Lackner, Peter",Kanon für Streichquartett. 22.September 2003,2003/9/22,0,8,10,4,2,6,9,1,11,5,7,3
 "Lackner, Peter",Kanon für Streichquartett. 3. Jänner 1990,1990/1/3,0,6,4,8,11,3,1,7,9,5,2,10
 "Lackner, Peter",Kanon für Streichquartett. 5. Dezember 1992,1992/12/5,0,5,9,4,11,8,2,7,1,10,3,6
-"Lackner, Peter",Kanon für Tenor-Hackbrett. 19. März 2014.,2014/3/19,0,8,4,6,9,1,11,3,7,5,2,10
+"Lackner, Peter",Kanon für Tenor-Hackbrett. 19. März 2014,2014/3/19,0,8,4,6,9,1,11,3,7,5,2,10
 "Lackner, Peter",Kanon für Violine solo,1988/11/16,0,11,2,7,10,9,3,4,1,8,5,6
 "Lackner, Peter",Kanon für Violine und Violoncello,1989/4/12,0,2,9,10,6,5,1,11,4,3,7,8
 "Lackner, Peter","Kanon für Violine, Bratsche und Klavier",1989/7,0,4,2,8,11,7,10,5,9,1,3,6
-"Lackner, Peter","Kanon für Violine, Viola und Akkordeon. 11. Juni 2007.",2007/6/11,0,11,1,2,3,10,4,9,8,7,5,6
-"Lackner, Peter","Kanon für Violine, Violoncello und Akkordeon (Harmonium). 25. Oktober 1995.",1995/10/25,0,2,1,7,6,5,3,4,10,9,11,8
+"Lackner, Peter","Kanon für Violine, Viola und Akkordeon. 11. Juni 2007",2007/6/11,0,11,1,2,3,10,4,9,8,7,5,6
+"Lackner, Peter","Kanon für Violine, Violoncello und Akkordeon (Harmonium). 25. Oktober 1995",1995/10/25,0,2,1,7,6,5,3,4,10,9,11,8
 "Lackner, Peter","Kanon für acht Instrumente. Dezember 1991, März 2007",2007/1991,0,11,3,10,6,2,7,8,4,9,1,5
-"Lackner, Peter",Kanon für drei Bratschen.,1991/12/31,0,11,3,10,6,2,7,8,4,9,1,5
+"Lackner, Peter",Kanon für drei Bratschen,1991/12/31,0,11,3,10,6,2,7,8,4,9,1,5
 "Lackner, Peter",Kanon für drei Klaviere. 28. 6. 2016,2016/6/28,0,1,2,3,4,5,6,7,8,9,10,11
-"Lackner, Peter","Kanon für drei Violinen I, II August 1998.",1998/8,0,2,10,4,8,6,1,9,11,5,3,7
+"Lackner, Peter","Kanon für drei Violinen I, II August 1998",1998/8,0,2,10,4,8,6,1,9,11,5,3,7
 "Lackner, Peter",Kanon für sechs Instrumente. 16. März 2009,2009/3/16,0,7,6,3,2,10,1,8,11,5,4,9
-"Lackner, Peter",Kanon für sechs Posaunen. Herbst 1996.,1996,0,9,1,6,4,8,11,2,10,7,5,3
-"Lackner, Peter",Kanon für zwei Gitarren. September 2001.,2001/9/9,0,5,3,9,11,6,7,2,4,10,8,1
+"Lackner, Peter",Kanon für sechs Posaunen. Herbst 1996,1996,0,9,1,6,4,8,11,2,10,7,5,3
+"Lackner, Peter",Kanon für zwei Gitarren. September 2001,2001/9/9,0,5,3,9,11,6,7,2,4,10,8,1
 "Lackner, Peter",Kanon für zwei Singstimmen und Ensemble zur Skulpturengruppe LEM von Axel Kirchmayr und einem Text von Hannes Waltl. September 2004,2004/9,0,2,9,10,5,7,1,11,4,3,8,6
 "Lackner, Peter",Kanon für zwei Singstimmen zu vier Texten für Kanons von Hannes Waltl,2006/9,0,11,2,1,8,6,10,7,3,4,5,9
-"Lackner, Peter","Kanon für zwei Trompeten, Horn, Posaune und Tuba. 1. Mai 1993.",1993/5/1,0,1,2,10,3,5,11,9,4,8,7,6
-"Lackner, Peter",Kanon für zwei Violinen und Klavier. 1. Dezember 2004.,2004/12/1,0,10,2,6,8,4,1,9,11,3,7,5
-"Lackner, Peter",Kanon für zwei Violinen und Klavier. Frühjahr 1984.,1984,0,1,10,7,9,4,5,11,8,6,2,3
-"Lackner, Peter",Kanon für zwei Violinen.,1988/4/23,0,7,4,5,9,2,3,8,11,10,6,1
-"Lackner, Peter",Kanon für zwei Violinen. Frühjahr 1992.,1992/3,0,2,4,7,9,11,5,3,1,10,8,6
-"Lackner, Peter",Kanon à 3.,1992/9/9,0,11,6,10,2,7,3,4,9,5,1,8
-"Lackner, Peter",Kanon à 4 - 'Für Harald Fripertinger zum 50. Geburtstag'.,2015/8/22,0,10,3,6,5,8,1,11,9,4,7,2
+"Lackner, Peter","Kanon für zwei Trompeten, Horn, Posaune und Tuba. 1. Mai 1993",1993/5/1,0,1,2,10,3,5,11,9,4,8,7,6
+"Lackner, Peter",Kanon für zwei Violinen,1988/4/23,0,7,4,5,9,2,3,8,11,10,6,1
+"Lackner, Peter",Kanon für zwei Violinen und Klavier. 1. Dezember 2004,2004/12/1,0,10,2,6,8,4,1,9,11,3,7,5
+"Lackner, Peter",Kanon für zwei Violinen und Klavier. Frühjahr 1984,1984,0,1,10,7,9,4,5,11,8,6,2,3
+"Lackner, Peter",Kanon für zwei Violinen. Frühjahr 1992,1992/3,0,2,4,7,9,11,5,3,1,10,8,6
+"Lackner, Peter",Kanon à 3,1992/9/9,0,11,6,10,2,7,3,4,9,5,1,8
+"Lackner, Peter",Kanon à 4 - 'Für Harald Fripertinger zum 50. Geburtstag',2015/8/22,0,10,3,6,5,8,1,11,9,4,7,2
 "Lackner, Peter",Kanon á 4,2012/1989,0,4,2,8,11,7,10,5,9,1,3,6
-"Lackner, Peter",Kanon á 5 für Klaus Chudoba.,1993/1/28,0,2,10,8,6,11,3,1,5,7,9,4
-"Lackner, Peter",Kanon-Polska für zwei Bratschen. 6. Juni 1993.,1993/6/6,0,6,3,1,10,8,5,11,2,4,7,9
-"Lackner, Peter",Krebs-Kanon à 4.,1993/3/2,0,8,5,7,3,9,1,11,2,6,4,10
-"Lackner, Peter","Moebius-Band für Flöte, Violine, Violoncello und Klavier.",1989,0,3,6,2,9,11,7,4,1,5,10,8
-"Lackner, Peter",Moebius-Band für sechs Violinen.,1989,0,3,6,2,9,11,7,4,1,5,10,8
-"Lackner, Peter",Moebiusband I für zwei Melodieinstrumente.,1988/7/20,0,6,8,2,7,1,11,5,3,9,4,10
-"Lackner, Peter",Moebiusband für Violine und Klavier (Chinesenfolter I).,1989/3/3,0,2,4,6,10,5,1,11,9,7,3,8
+"Lackner, Peter",Kanon á 5 für Klaus Chudoba,1993/1/28,0,2,10,8,6,11,3,1,5,7,9,4
+"Lackner, Peter",Kanon-Polska für zwei Bratschen. 6. Juni 1993,1993/6/6,0,6,3,1,10,8,5,11,2,4,7,9
+"Lackner, Peter",Krebs-Kanon à 4,1993/3/2,0,8,5,7,3,9,1,11,2,6,4,10
+"Lackner, Peter","Moebius-Band für Flöte, Violine, Violoncello und Klavier",1989,0,3,6,2,9,11,7,4,1,5,10,8
+"Lackner, Peter",Moebius-Band für sechs Violinen,1989,0,3,6,2,9,11,7,4,1,5,10,8
+"Lackner, Peter",Moebiusband I für zwei Melodieinstrumente,1988/7/20,0,6,8,2,7,1,11,5,3,9,4,10
+"Lackner, Peter",Moebiusband für Violine und Klavier (Chinesenfolter I),1989/3/3,0,2,4,6,10,5,1,11,9,7,3,8
 "Lackner, Peter",Reihenspiel für Orgel,1982/8-9,0,9,6,11,5,4,10,7,2,1,8,3
-"Lackner, Peter","Salambo-Kanon (à 4); Bad Aussee, 2. Februar 2008.",2008/2/12,0,6,9,2,8,10,4,7,1,11,3,5
+"Lackner, Peter","Salambo-Kanon (à 4); Bad Aussee, 2. Februar 2008",2008/2/12,0,6,9,2,8,10,4,7,1,11,3,5
 "Lackner, Peter",Sponsions-Kanon,2007/1/5,0,4,1,10,3,7,9,5,8,11,6,2
 "Lackner, Peter",TACET (drittes Lied aus dem Zyklus 'Wilde Erdbeeren'),1990,0,2,9,5,8,11,4,7,10,6,1,3
-"Lackner, Peter","Trauermusik für Fagott, Kontrafagott und Pauke.",1989/2,0,6,2,8,10,4,11,5,9,3,1,7
+"Lackner, Peter","Trauermusik für Fagott, Kontrafagott und Pauke",1989/2,0,6,2,8,10,4,11,5,9,3,1,7
 "Lackner, Peter",Vier Klavierstücke 1988,1988,0,1,10,11,8,7,9,5,6,4,2,3
-"Lackner, Peter","kgV (3,4) [zweistimmiger Kanon für Klavier].",1987,0,10,2,3,5,7,1,11,9,8,4,6
+"Lackner, Peter","kgV (3,4) [zweistimmiger Kanon für Klavier]",1987,0,10,2,3,5,7,1,11,9,8,4,6
 "Lang, Bernhard",'Der Golem' nach Gustav Meyrinck,2014,0,4,7,8,11,3,5,2,9,1,10,6
-"Lang, Bernhard",'Küstenlinien'; für zwei Klaviere und doppeltes Schlagwerk.,1992,0,9,7,4,5,11,2,1,8,10,3,6
+"Lang, Bernhard",'Küstenlinien'; für zwei Klaviere und doppeltes Schlagwerk,1992,0,9,7,4,5,11,2,1,8,10,3,6
 "Lang, Bernhard",Der Reigen,2012,0,5,1,4,2,3,9,8,10,7,11,6
 "Lang, Bernhard","HIOB Musiktheater für Orchester, Chor und Solisten",2017-2022,0,9,11,10,5,8,6,7,2,3,1,4
 "Lang, Bernhard",Hemma (Music Theatre Hemma Klagenfurt 2015),2014/6/24,0,5,10,2,3,1,7,9,8,4,11,6
 "Lang, Bernhard",Monadologie XIII a; 'The Saucy Maid',2011-2012,0,1,5,2,4,9,3,10,8,11,7,6
-"Lang, Klaus",'Von der Ligurischen Küste zum Trasimenischen See'; Trauermusik für Violine und Klavier.,1993,0,5,9,8,10,7,1,4,2,3,11,6
+"Lang, Klaus",'Von der Ligurischen Küste zum Trasimenischen See'; Trauermusik für Violine und Klavier,1993,0,5,9,8,10,7,1,4,2,3,11,6
 "Leibowitz, René","String Quartet, No.3, Op.26",1951,0,8,9,7,6,1,2,5,4,10,11,3
 "Leibowitz, René","Trois pièces pour piano, Op.19",1949,0,4,3,1,2,5,6,9,10,8,7,11
 "Lewin, David","Just a Minute, Roger",1978,0,11,4,5,7,3,2,6,8,1,10,9
@@ -863,13 +864,13 @@ Krenek,"Monologue for Solo Clarinet, Op.157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Luo, Zhong-Rong","Three Piano Pieces, ""Arabeque"", row 2",,0,2,7,9,11,4,6,8,1,3,10,5
 "Luo, Zhong-Rong","Three Piano Pieces, ""Reverie""",,0,5,10,8,3,11,1,6,9,2,4,7
 "Lutosławski, Witold",Musique Funébre (Funeral Music),1954-58,0,6,5,11,10,4,3,9,8,2,1,7
-"Lutyens, Elisabeth","Essence Of Our Happinesses Op.69, mvt II, Part I",1968,0,11,1,10,2,3,8,9,5,6,4,7
+"Lutyens, Elisabeth","Essence Of Our Happinesses, Op.69, mvt II, Part I",1968,0,11,1,10,2,3,8,9,5,6,4,7
 "Lutyens, Elisabeth",Five Little Pieces for Clarinet and Piano,1945,0,8,4,1,10,2,9,3,5,6,11,7
-"Lutyens, Elisabeth",Islands Op.80,1970,0,11,7,3,8,10,9,6,4,5,1,2
+"Lutyens, Elisabeth","Islands, Op.80",1970,0,11,7,3,8,10,9,6,4,5,1,2
 "Lutyens, Elisabeth","Motet (Excerota Tractati Logico-Philosophici), Op.27",1951,0,11,3,7,8,4,2,6,5,1,9,10
 "Lutyens, Elisabeth","O Saisons, O Châteaux!",1946,0,11,10,4,8,9,3,7,6,5,2,1
 "Lutyens, Elisabeth","Présages, Op.53",1965,0,1,11,2,10,8,5,3,4,7,9,6
-"Lutyens, Elisabeth",Quincunx Op.44,1960,0,6,11,1,5,2,7,3,4,9,10,8
+"Lutyens, Elisabeth","Quincunx, Op.44",1960,0,6,11,1,5,2,7,3,4,9,10,8
 "Lutyens, Elisabeth","Six Tempi for 10 Instruments, Op.42",1957,0,6,7,8,5,3,4,11,10,9,1,2
 "Lutyens, Elisabeth","The Numbered, Altered Primary Row (swap pitches 2 and 3)",1967,0,11,10,1,2,9,3,4,8,5,7,6
 "Lutyens, Elisabeth","The Numbered, Primary Row",1967,0,10,11,1,2,9,3,4,8,5,7,6
@@ -893,7 +894,7 @@ Krenek,"Monologue for Solo Clarinet, Op.157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Matthias, Hauer Josef","Zwölftonspiel für Holzbläser, Streicher und Klavier. April 1951",1951/4/27,0,4,9,11,7,2,3,6,8,10,5,1
 "Matthias, Josef","Salambo, Op.60",1929,0,6,9,2,8,10,4,7,1,11,3,5
 "Messiaen, Olivier",Le Merle noir,1951,0,5,11,6,1,9,7,3,4,2,8,10
-"Messiaen, Olivier",Livre d'orgue.,1951,0,1,11,2,10,3,9,4,8,5,7,6
+"Messiaen, Olivier",Livre d'orgue,1951,0,1,11,2,10,3,9,4,8,5,7,6
 "Messiaen, Olivier","Mode de valeurs et d'intensités, Series 1",1949,0,11,6,5,4,3,1,10,9,7,2,8
 "Messiaen, Olivier","Mode de valeurs et d'intensités, Series 3",1949,0,11,6,4,3,9,5,2,8,1,7,10
 "Messiaen, Olivier","Mode de valeurs et d’intensités, Series 2",1949,0,5,3,1,10,9,8,7,6,4,11,2
@@ -956,7 +957,7 @@ Krenek,"Monologue for Solo Clarinet, Op.157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Morris, Robert",…gradually…,2010,0,1,8,3,5,4,6,7,9,11,2,10
 "Musgrave, Thea","Triptych, Song 1",1959,0,11,9,6,5,2,10,1,8,7,3,4
 "Nichols, Jeff","...its darkening opposite, or Set Portrait in a Convex Mirror",2008,0,4,8,7,11,2,3,6,1,9,10,5
-"Nierhaus, Gerhard",'Achat' für Streichorchester (bzw. Streichsextett und Orgel).,1993/12/5,0,4,3,11,2,6,5,9,8,7,10,1
+"Nierhaus, Gerhard",'Achat' für Streichorchester (bzw. Streichsextett und Orgel),1993/12/5,0,4,3,11,2,6,5,9,8,7,10,1
 "Nierhaus, Gerhard",'Polg' - für Orchester,1991,0,3,1,7,11,2,10,4,8,5,9,6
 "Nono, Luigi",Canti per tredeci,1955,0,1,11,2,10,3,9,4,8,5,7,6
 "Nono, Luigi","Composizione per orchestra, No.1",1951,0,1,7,6,2,8,4,3,5,10,11,9
@@ -982,7 +983,7 @@ Krenek,"Monologue for Solo Clarinet, Op.157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Nono, Luigi",Variazioni canoniche sulla serie dell'Op.41 di Arnold Schönberg,1950,0,1,9,8,4,5,7,6,10,11,3,2
 "Panufnik, Andrzej","Sinfonia di Sfere (Symphony, No.5), Chord 1",1975,0,4,8,11,3,7,10,2,6,9,1,5
 "Panufnik, Andrzej","Sinfonia di Sfere (Symphony, No.5), Chord 2",1975,0,3,6,9,11,2,5,8,10,1,4,7
-"Papageorgiou, Dimitri",'Jarra Jarra' for six block flutes.,1988,0,5,3,2,6,8,7,11,1,10,9,4
+"Papageorgiou, Dimitri",'Jarra Jarra' for six block flutes,1988,0,5,3,2,6,8,7,11,1,10,9,4
 "Papaioannou, Yannis",12 Inventions and Toccatta,1958,0,2,5,6,1,3,8,9,11,7,4,10
 "Papaioannou, Yannis",Pygmalion,1952,0,2,7,5,8,11,9,6,10,3,1,4
 "Papaioannou, Yannis",Sonata,1958,0,2,9,8,1,6,4,3,11,10,7,5
@@ -1001,11 +1002,11 @@ Krenek,"Monologue for Solo Clarinet, Op.157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Piston, Walter","Symphony, No.8",1965,0,1,4,5,8,7,6,3,2,9,11,10
 "Pousseur, Henri",Trois Chants Sacrés,1951,0,10,11,4,1,5,9,6,3,7,2,8
 "Preßl, Hermann Markus","'A 5' für Bassklarinette, Vibraphon und drei Bratschen",1985/10/11,0,6,5,8,10,7,3,2,4,9,1,11
-"Preßl, Hermann Markus",'Arsis' für 84 Singstimmen und 48 Instrumente.,1988,0,1,4,7,8,11,2,9,10,6,5,3
-"Preßl, Hermann Markus","'N.N.,8' für Klavier und Orgel.",1986/8,0,1,8,11,3,9,6,5,7,2,4,10
+"Preßl, Hermann Markus",'Arsis' für 84 Singstimmen und 48 Instrumente,1988,0,1,4,7,8,11,2,9,10,6,5,3
+"Preßl, Hermann Markus","'N.N.,8' für Klavier und Orgel",1986/8,0,1,8,11,3,9,6,5,7,2,4,10
 "Preßl, Hermann Markus","'Sonnenuntergänge nach meinem Tode'; Fünf Haikus nach Günther Klinge für Sprechgesang, Alt-Saxophon und Crotales",1994/7,0,4,7,9,8,2,6,10,5,11,1,3
 "Preßl, Hermann Markus",'Zisterne' für Alt-Blockflöte allein,1994/7/17,0,10,6,3,11,8,2,1,7,9,5,4
-"Preßl, Hermann Markus",6. Symphonie aus Es.,1990,0,6,1,7,5,8,9,11,3,2,4,10
+"Preßl, Hermann Markus",6. Symphonie aus Es,1990,0,6,1,7,5,8,9,11,3,2,4,10
 "Preßl, Hermann Markus",Fier Fafeln für Fier Fiolen,1994/6/13,0,10,5,4,7,3,9,2,11,6,8,1
 "Preßl, Hermann Markus",Finstersonnen,1994/7,0,3,9,6,11,5,1,2,7,8,10,4
 "Preßl, Hermann Markus",Ithaka,1994/8/1,0,9,7,10,6,4,2,5,8,3,1,11
@@ -1037,11 +1038,12 @@ Krenek,"Monologue for Solo Clarinet, Op.157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Santoro, Claudio","Sonata, No.1",1945,0,10,3,8,11,1,2,9,7,4,5,6
 "Santoro, Claudio","Sonatina, No.2",1963,0,11,1,5,6,3,7,8,9,2,4,10
 "Schiske, Karl","Symphony, No.4",1955,0,8,11,3,2,6,1,9,4,5,7,10
-"Schlerath, Ute",.,2012/1/1,0,5,3,9,10,2,8,4,1,7,11,6
+"Schlerath, Ute",,2012/1/1,0,5,3,9,10,2,8,4,1,7,11,6
 "Schmid, Erich","Bagatellen for Piano, Op.14",1943,0,1,5,2,6,7,4,8,10,3,9,11
 "Schmid, Erich","Canon (""Herrn Dr. Anton Webern in Ehrfurcht als Willkommensgruss gewidmet"")",1943,0,10,4,5,8,11,1,7,9,3,6,2
 "Schmid, Erich","Notturno, Op.10,  mvt 1",1935,0,4,6,3,9,8,5,11,1,2,10,7
 "Schnittke, Alfred","Concerto Grosso, No.1, mvt 2",1977,0,11,2,1,8,7,10,9,6,5,4,3
+"Schnittke, Alfred","Concerto Grosso, No.3",1985,0,5,1,4,10,8,11,9,3,6,2,7
 "Schnittke, Alfred","Concerto Grosso, No.3, (mvt 3, 4), row 10",1985,0,3,4,11,10,1,2,9,7,8,5,6
 "Schnittke, Alfred","Concerto Grosso, No.3, (mvt 3, 4), row 6",1985,0,11,2,1,9,10,7,8,4,3,6,5
 "Schnittke, Alfred","Concerto Grosso, No.3, (mvt 3, 4), row 7",1985,0,3,11,9,10,1,4,2,7,8,5,6
@@ -1052,7 +1054,6 @@ Krenek,"Monologue for Solo Clarinet, Op.157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Schnittke, Alfred","Concerto Grosso, No.3, monogram 3",1985,0,11,2,1,3,4,10,9,7,8,5,6
 "Schnittke, Alfred","Concerto Grosso, No.3, monogram 4",1985,0,9,10,7,5,4,2,3,1,11,8,6
 "Schnittke, Alfred","Concerto Grosso, No.3, monogram 5",1985,0,1,7,10,4,11,5,6,9,8,2,3
-"Schnittke, Alfred","Concerto Grosso, No.3.",1985,0,5,1,4,10,8,11,9,3,6,2,7
 "Schnittke, Alfred","Concerto, No.2 for Violin and Chamber Orchestra",1966,0,11,1,2,10,3,4,9,5,6,8,7
 "Schnittke, Alfred",Improvisation and Fugue for piano,1965,0,8,11,3,9,2,5,7,6,10,1,4
 "Schnittke, Alfred","Piano Sonata, No.1, mvt 2, mm. 72-76",1987,0,6,5,11,10,4,3,9,8,2,1,7
@@ -1064,7 +1065,7 @@ Krenek,"Monologue for Solo Clarinet, Op.157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Schnittke, Alfred","Sonata, No.2 for Cello and Piano, mvt 2",1994,0,2,3,1,4,5,11,10,7,9,8,6
 "Schnittke, Alfred","Sonata, No.2 for Cello and Piano, mvt 2, new row",1994,0,3,6,9,10,1,4,7,8,11,2,5
 "Schnittke, Alfred","Sonata, No.3 for Violin and Piano, mvt 4",1994,0,3,5,4,6,7,8,2,1,9,10,11
-"Schnittke, Alfred","String Quartet, No.1.",1966,0,2,1,10,3,11,5,9,4,7,8,6
+"Schnittke, Alfred","String Quartet, No.1",1966,0,2,1,10,3,11,5,9,4,7,8,6
 "Schnittke, Alfred","String Quartet, No.4",1989,0,11,10,1,3,2,4,9,8,6,5,7
 "Schnittke, Alfred","String Quartet, No.4, mvt 2, m.190",1989,0,1,6,5,3,4,11,10,8,9,2,7
 "Schnittke, Alfred","String Quartet, No.4, mvt 2, m.40",1989,0,5,10,3,2,7,8,1,6,11,4,9
@@ -1139,7 +1140,7 @@ Krenek,"Monologue for Solo Clarinet, Op.157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Seiber, Mátyás","String Quartet, No.2",1934-35,0,2,3,1,4,11,5,10,7,9,8,6
 "Seiber, Mátyás","String Quartet, No.2, mvt 3",1934-35,0,2,3,1,4,9,5,11,10,7,6,8
 "Seiber, Mátyás",Ulysses,1950,0,3,4,7,8,11,1,10,9,6,5,2
-"Sengstschmid, Johann","Meditation für Orgel, Op.43a.",1980,0,6,3,1,10,8,5,2,11,9,7,4
+"Sengstschmid, Johann","Meditation für Orgel, Op.43a",1980,0,6,3,1,10,8,5,2,11,9,7,4
 "Sengstschmid, Johann","Scherzo für Blockflötenquartett, Op.28",1967,0,7,9,4,6,1,8,2,11,5,3,10
 "Sessions, Roger","Piano Sonata, No.3, mvt 2",1965,0,1,5,4,8,2,11,10,6,7,3,9
 "Sessions, Roger","Piano Sonata, No.3, mvt.1",1965,0,9,1,10,4,11,8,5,3,6,2,7
@@ -1577,7 +1578,7 @@ Krenek,"Monologue for Solo Clarinet, Op.157",1956,0,1,11,2,10,5,4,7,6,3,8,9
 "Yun, Isang",Gasa,1963,0,11,7,8,6,5,2,9,10,1,3,4
 "Yun, Isang",Piri for solo oboe,1971,0,1,7,4,5,11,10,6,8,2,3,9
 "Yun, Isang",Riul für Klarinette und Klavier,1968,0,5,6,9,8,4,3,7,1,2,11,10
-"Zappa, Frank",Brown Shoes Don't Make It.,1967,0,11,3,2,9,1,7,8,4,10,5,6
+"Zappa, Frank",Brown Shoes Don't Make It,1967,0,11,3,2,9,1,7,8,4,10,5,6
 "Zappa, Frank",Waltz,1958/12/22,0,11,3,2,9,1,7,8,4,10,5,6
 "Zenk, Ludwig","Abend in Lans, Op.3, No.2",1934,0,1,6,4,5,2,7,8,3,10,11,9
 "Zenk, Ludwig",Adagio for Orchestra,1935,0,3,11,8,6,2,7,5,9,4,1,10
