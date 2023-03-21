@@ -186,19 +186,15 @@ def retrieve_instances(
                 if len(d) > 1:
                     break
 
-        # All interval
         if row_analyser.isAllInterval(row):
             allInterval['list'].append(basicString)
 
-        # Self-RI
         if row_analyser.isSelfR(row):
             selfR['list'].append(basicString)
 
-        # Self-RI
         if row_analyser.isSelfRI(row):
             selfRI['list'].append(basicString)
 
-        # Combinatorial
         if row_analyser.combinatorialType(row) == 'A':
             allCom = row_analyser.fullCombinatorialTypes(row)
             prime = pc_sets.pitchesToPrime(row[:6])
