@@ -14133,6 +14133,29 @@
         "NumPitches": 12,
         "Year": "1947/4"
     },
+    "Hauer,_Josef_Matthias_-_Zw\u00f6lftonspiel_f\u00fcr_Orchester._28._9._1954": {
+        "Composer": "Hauer, Josef Matthias",
+        "Work": "Zw\u00f6lftonspiel f\u00fcr Orchester. 28. 9. 1954",
+        "Original": 7,
+        "P0": [
+            0,
+            5,
+            7,
+            4,
+            6,
+            1,
+            9,
+            3,
+            8,
+            11,
+            10,
+            2
+        ],
+        "Source": "FripertingerLackner2015",
+        "NumPitches": 12,
+        "Note": "progressive chord-row",
+        "Year": "1954/9/28"
+    },
     "Hauer,_Josef_Matthias_-_Zw\u00f6lftonspiel_f\u00fcr_zwei_Violinen": {
         "Composer": "Hauer, Josef Matthias",
         "Work": "Zw\u00f6lftonspiel f\u00fcr zwei Violinen",
