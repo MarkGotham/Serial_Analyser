@@ -3,7 +3,7 @@
 Anthology Script Generator (anthology_script_generator.py)
 ===============================
 
-Mark Gotham, 2021
+Mark Gotham
 
 
 LICENCE:
@@ -27,18 +27,30 @@ Creates dicts with header, explanation, and list of instances for printing.
 
 import row_analyser
 import pc_sets
-import transformations
 
 import json
 from typing import List, Dict
+from pathlib import Path
 
 
 # ------------------------------------------------------------------------------
 
-def retrieve_instances():
-    f = open('Repertoire_Anthology/rows_in_the_repertoire.json')
-    data = json.load(f)
-    f.close()
+def load_corpus(
+        path: Path = Path('Repertoire_Anthology') / 'rows_in_the_repertoire.json'
+) -> list:
+    with open(path) as f:
+        return json.load(f)
+
+
+# ------------------------------------------------------------------------------
+
+def retrieve_instances(
+        data: list
+) -> list:
+    """
+    Reads off row properties (see `.add_properties()`) and prepares dicts for html.
+    Also runs the special case of re-used rows (not handled by `.add_properties()`).
+    """
 
     # Initialise dicts
     reused = {'header': 'Re-used Rows',
@@ -165,23 +177,14 @@ def retrieve_instances():
 
         # Derived
         for segment in [(dyads, 2), (trichords, 3), (tetrachords, 4), (hexachords, 6)]:
-
-            discrete = row_analyser.getRowSegments(row,
-                                                   segmentLength=segment[1],
-                                                   overlapping=False)
-            cells = row_analyser.containsCell(discrete)
-            if cells:
-                if len(cells) == 1:  # exactly one cell that accounts for all discrete segments
-                    extendedString = f'{basicString}, pc set {cells[0]}'
-                    ip = row_analyser.isSelfRotational(discrete, returnIntervalPattern=True)
-                    if ip:
-                        asString = "-".join([str(x) for x in ip]) + '-'
-                        extendedString += f', self-rotational interval pattern {asString}'
-                        interval_pattern_list.append(cells[0])
-                        print(extendedString)
-                    segment[0]['list'].append(extendedString)
-                    if ip:
-                        break
+            d = row_analyser.derived(row, segment[1])
+            if d:
+                extendedString = f'{basicString}, pc set {d[0]}'
+                if len(d) > 1:
+                    extendedString += f', self-rotational interval pattern {d[1]}'
+                segment[0]['list'].append(extendedString)
+                if len(d) > 1:
+                    break
 
         # All interval
         if row_analyser.isAllInterval(row):
@@ -221,10 +224,6 @@ def retrieve_instances():
         if len(v) > 1:
             reused['list'].append(f'{k}: {"; ".join([y for y in v])}')
 
-    from collections import Counter
-    interval_pattern_count = Counter([str(x) for x in interval_pattern_list])
-    print(interval_pattern_count)
-
     return [reused, allInterval,
             selfR, selfRI,
             dyads, trichords, tetrachords, hexachords,
@@ -262,7 +261,8 @@ def write_html(dicts: List[Dict]):
 # ------------------------------------------------------------------------------
 
 def run_all():
-    data = retrieve_instances()
+    data = load_corpus()
+    data = retrieve_instances(data)
     write_html(data)
 
 

@@ -131,10 +131,36 @@ def containsCell(segmentsListOfLists: List,
     return repeated
 
 
+def derived(
+        row: list,
+        segmentLength: int = 3,
+) -> list:
+    """
+    Convenience function for derived rows of a fixed length (given by segmentLength).
+    See notes at `.getRowSegments` and `.containsCell`.
+    Returns a list with length
+    - 0: Nothing (empty = No such derivation cell)
+    - 1: Tuple with the normal order of the pitch class cell in question
+    - 2: Tuple (as above) and also self rotational interval pattern (where relevant)
+    """
+    discrete = getRowSegments(row, segmentLength=segmentLength, overlapping=False)
+    cells = containsCell(discrete, exactlyOne=True)
+    if cells:  # exactly one cell that accounts for all discrete segments of the given length
+        ip = isSelfRotational(discrete, returnIntervalPattern=True)
+        if ip:
+            return [cells[0], '-'.join([str(x) for x in ip]) + '-']
+        else:
+            return [cells[0]]
+
+    return []
+
+
 # ------------------------------------------------------------------------------
 
-def isSelfRotational(segmentsListOfLists: List,
-                     returnIntervalPattern: bool = False):
+def isSelfRotational(
+        segmentsListOfLists: List,
+        returnIntervalPattern: bool = False
+) -> Union[bool, list]:
     """
     True in the very rare case that a row is rotation symmetrical.
     This is a sub-property of derived rows.
