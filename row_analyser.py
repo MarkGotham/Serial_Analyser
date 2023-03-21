@@ -221,6 +221,25 @@ def isAllInterval(row: Union[List, Tuple],
     return True
 
 
+def isAllTrichord(
+        row: list
+) -> bool:
+    """
+    True / False for the all-trichord property (i.e., uses each of the 12 trichords once).
+    """
+    trichords = getRowSegments(
+        row,
+        overlapping=True,
+        segmentLength=3,
+        wrap=True
+    )
+    if len(trichords) == 12:
+        if not containsCell(trichords):  # checks for any repeated cells
+            return True
+
+    return False
+
+
 def isSelfR(row: Union[List, Tuple]):
     """
     True if the retrograde of a row is transposition-equivalent to the prime.
@@ -456,13 +475,9 @@ class SerialTester(unittest.TestCase):
                            [0, 2, 6, 10, 1, 4, 5, 3, 8, 9, 11, 7]]
 
         for row in allTrichordRows:
-            trichords = getRowSegments(row,
-                                       overlapping=True,
-                                       segmentLength=3,
-                                       wrap=True)
-            self.assertEqual(len(trichords), 12)
-            cells = containsCell(trichords)  # checks for repeated cells
-            self.assertFalse(cells)  # I.e. no repeated cells
+            self.assertTrue(isAllTrichord(row))
+            fakeRow = row[0:4] + row[8:12] + row[4:8]
+            self.assertFalse(isAllTrichord(fakeRow))
 
     def testNoWrap(self):
         """
