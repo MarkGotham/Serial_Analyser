@@ -29,6 +29,7 @@ Also to
 
 """
 
+
 # ------------------------------------------------------------------------------
 
 import csv
@@ -38,13 +39,17 @@ import unittest
 
 from typing import Optional, Union
 
+import row_analyser
+
 
 # ------------------------------------------------------------------------------
 
-def writeCSV(keysToUse=None,
-             pathToJson: list = None,
-             pathToCsv: list = None,
-             numberPitchIndices: bool = True):
+def writeCSV(
+        keysToUse: Optional[list] = None,
+        pathToJson: Optional[list] = None,
+        pathToCsv: Optional[list] = None,
+        numberPitchIndices: bool = True
+) -> None:
     """
     Writes a csv representation of the main, json file. 
     The keysToUse parameter allows the user to how much of the data to transfer
@@ -90,9 +95,12 @@ def writeCSV(keysToUse=None,
 
 # ------------------------------------------------------------------------------
 
-def makeRowScore(data: Optional = None,
-                 write: bool = False,
-                 title: Optional[str] = 'Rows_in_the_Repertoire'):
+def makeRowScore(
+        data: Optional = None,
+        write: bool = True,
+        properties: bool = True,
+        title: Optional[str] = 'Rows in the Repertoire'
+):
     """
     Makes a score setting out any number of rows in musical notation,
     annotated with labelled pitch classes and work metadata (title, composer etc).
@@ -110,10 +118,9 @@ def makeRowScore(data: Optional = None,
     if not data:
         jsonPath = os.path.join('.', 'Repertoire_Anthology', 'rows_in_the_repertoire.json')
         with open(jsonPath) as jsonFile:
-            data = json.load(jsonFile)
+            data = json.load(jsonFile).values()
 
-    for d in data:  # dict
-        entry = data[d]
+    for entry in data:  # dict
         m = stream.Measure(number=count)
         count += 1
         row = serial.pcToToneRow(entry['P0'])
@@ -123,8 +130,26 @@ def makeRowScore(data: Optional = None,
             x.lyric = x.pitch.pitchClass
             m.insert(x.offset, x)
 
-        text = f"{entry['Composer']}: {entry['Work']}, {entry['Year']}"  # ", {entry['P0']}"
-        m.insert(0, expressions.TextExpression(text))
+        # Composer
+        te = entry['Composer'] + ": \n"
+
+        # Work
+        if len(entry['Work']) > 85:
+            te += entry['Work'][:85] + " ..."
+        else:
+            te += entry['Work']
+
+        # Year
+        if entry["Year"]:
+            te += f' ({entry["Year"]})'
+
+        if properties:
+            te += '\n' + makePropertiesString(entry['P0'])
+
+        te = expressions.TextExpression(te)
+        te.placement = "above"  # NB does not convert
+        m.insert(0, te)
+
         part.append(m)
 
     score.append(part)
@@ -140,10 +165,54 @@ def makeRowScore(data: Optional = None,
     score.metadata.title = title
 
     if write:
-        w = os.path.join('.', 'Repertoire_Anthology', title + '.mxl')
+        w = os.path.join('.', 'Repertoire_Anthology', title.replace(" ", "_") + '.mxl')
         score.write(fmt='mxl', fp=w)
+
+    return score
+
+
+def makePropertiesString(
+        row: list
+) -> str:
+    """
+    Prepare a string summary of row properties for inclusion in the musical rendering.
+    # TODO further refactor what is shared with anthology script
+    """
+    these_properties = []
+
+    # Derived
+    for segmentLength in [2, 3, 4, 6]:
+        d = row_analyser.derived(row, segmentLength)
+        if d:
+            these_properties.append(f'{segmentLength}-note cell {d[0].replace(" ", "")}')
+            if len(d) > 1:
+                these_properties.append(f'Self-rotational {d[1]}')
+                break
+
+    comb = row_analyser.fullCombinatorialTypes(row)
+    if comb:
+        these_properties.append("Combinatorial by " + comb)
+
+    if row_analyser.isSelfR(row):
+        these_properties.append("Self-retro.")
+
+    if row_analyser.isSelfRI(row):
+        these_properties.append("Self-retro.inv.")
+
+    if row_analyser.isAllInterval(row):
+        these_properties.append("All-interval")
+
+    if row_analyser.isAllTrichord(row):
+        these_properties.append("All-trichord")
+
+    if these_properties:
+        if len(these_properties) > 5:  # there are a few!
+            print(row, these_properties)
+            return "; \n".join(these_properties)
+        else:
+            return "; ".join(these_properties)
     else:
-        return score
+        return "(No properties to report)"
 
 
 # ------------------------------------------------------------------------------
@@ -159,9 +228,9 @@ def filterByKey(dictKey: str = 'Composer',
     """
     Filter the overall list for entries of a particular kind defined by:
     dictKey: one of the attributes recorded in the dataset (e.g. 'Composer');
-    dictValue: the value of that attribute (e.g. 'Lutyens, Elizabeth').
+    dictValue: the value of that attribute (e.g. 'Lutyens, Elisabeth').
 
-    The comparison is case sensitive unless 'exactCaseMatch' is false.
+    The comparison is case-sensitive unless 'exactCaseMatch' is false.
     """
 
     jsonPath = os.path.join('.', 'Repertoire_Anthology', 'rows_in_the_repertoire.json')
@@ -393,11 +462,10 @@ class ListTester(unittest.TestCase):
     def testSources(self):
         s = getSources()
         self.assertEqual(s[0], 'Ahrend2006')
-        self.assertEqual(len(s), 145)
+        self.assertEqual(len(s), 149)
 
 
 # ------------------------------------------------------------------------------
 
 if __name__ == '__main__':
     unittest.main()
-
