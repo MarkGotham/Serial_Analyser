@@ -15455,9 +15455,9 @@
         "Note": "Tubular bell opening",
         "NumPitches": 12
     },
-    "Jelinek,_Hanns_-_Zw\u00f6lftonwerk_op.15.": {
+    "Jelinek,_Hanns_-_Zw\u00f6lftonwerk,_Op.15.": {
         "Composer": "Jelinek, Hanns",
-        "Work": "Zw\u00f6lftonwerk op.15.",
+        "Work": "Zw\u00f6lftonwerk, Op.15.",
         "Original": 5,
         "P0": [
             0,
@@ -19778,7 +19778,7 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Lutyens,_Elisabeth_-_Essence_Of_Our_Happinesses_Op.69,_mvt_II,_Part_I": {
+    "Lutyens,_Elisabeth_-_Essence_Of_Our_Happinesses,_Op.69,_mvt_II,_Part_I": {
         "P0": [
             0,
             11,
@@ -19795,7 +19795,7 @@
         ],
         "Original": 5,
         "Composer": "Lutyens, Elisabeth",
-        "Work": "Essence Of Our Happinesses Op.69, mvt II, Part I",
+        "Work": "Essence Of Our Happinesses, Op.69, mvt II, Part I",
         "Year": "1968",
         "Source": "New, BL Add. Ms. 64789. f.21 (Parsons); Parsons2016",
         "Note": "Starting pitch: MS starts on 5, Parsons2016 gives 4",
@@ -19916,7 +19916,7 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Lutyens,_Elisabeth_-_Quincunx_Op.44": {
+    "Lutyens,_Elisabeth_-_Quincunx,_Op.44": {
         "P0": [
             0,
             6,
@@ -19933,7 +19933,7 @@
         ],
         "Original": 2,
         "Composer": "Lutyens, Elisabeth",
-        "Work": "Quincunx Op.44",
+        "Work": "Quincunx, Op.44",
         "Year": "1960",
         "Source": "New, BL Add. Ms. 64789. f.54b (Parsons)",
         "Note": "",
