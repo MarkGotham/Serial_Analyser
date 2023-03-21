@@ -20,11 +20,11 @@
         "Source": "FripertingerLackner2015",
         "NumPitches": 12,
         "Note": "aus dem geplanten Singspiel 'Der Schatz des Indianer Joe' nach Mark Twain",
-        "Year": "1933/1932"
+        "Year": "1932-33"
     },
-    "Apostel,_Hans_Erich_-_Fischerhaus-Serenade,_Op.45.": {
+    "Apostel,_Hans_Erich_-_Fischerhaus-Serenade,_Op.45": {
         "Composer": "Apostel, Hans Erich",
-        "Work": "Fischerhaus-Serenade, Op.45.",
+        "Work": "Fischerhaus-Serenade, Op.45",
         "Original": 1,
         "P0": [
             0,
@@ -986,9 +986,9 @@
         "Note": "BWV 903; bar 34, 35",
         "Year": "1717?"
     },
-    "Badger,_Christine_-_aleatoric_row,_at_17:14;_Graz.": {
+    "Badger,_Christine_-_aleatoric_row,_at_17:14;_Graz": {
         "Composer": "Badger, Christine",
-        "Work": "aleatoric row, at 17:14; Graz.",
+        "Work": "aleatoric row, at 17:14; Graz",
         "Original": 5,
         "P0": [
             0,
@@ -1905,9 +1905,9 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Bischof,_Rainer_-_'Und_so_sink_ich_leise_in_mich_selbst_hinein'._\u00d6sterreichischer_Liederzyklus_f\u00fcr_Mezzosopran_und_Violine,_Op.17.": {
+    "Bischof,_Rainer_-_'Und_so_sink_ich_leise_in_mich_selbst_hinein'._\u00d6sterreichischer_Liederzyklus_f\u00fcr_Mezzosopran_und_Violine,_Op.17": {
         "Composer": "Bischof, Rainer",
-        "Work": "'Und so sink ich leise in mich selbst hinein'. \u00d6sterreichischer Liederzyklus f\u00fcr Mezzosopran und Violine, Op.17.",
+        "Work": "'Und so sink ich leise in mich selbst hinein'. \u00d6sterreichischer Liederzyklus f\u00fcr Mezzosopran und Violine, Op.17",
         "Original": 8,
         "P0": [
             0,
@@ -1927,9 +1927,9 @@
         "NumPitches": 12,
         "Year": "1982-1983"
     },
-    "Bischof,_Rainer_-_Sonatine_f\u00fcr_Klarinette_solo,_Op.1.": {
+    "Bischof,_Rainer_-_Sonatine_f\u00fcr_Klarinette_solo,_Op.1": {
         "Composer": "Bischof, Rainer",
-        "Work": "Sonatine f\u00fcr Klarinette solo, Op.1.",
+        "Work": "Sonatine f\u00fcr Klarinette solo, Op.1",
         "Original": 3,
         "P0": [
             0,
@@ -3303,7 +3303,7 @@
         "Work": "Liriche greche c: Sex Carmina Alcaei",
         "Year": "1943",
         "Source": "Alegant+2006, after Eckert1985, Alegant2010; FripertingerLackner2015",
-        "Note": "FripertingerLackner2015 has \"i, ii\".",
+        "Note": "FripertingerLackner2015 has \"i, ii\"",
         "NumPitches": 12
     },
     "Dallapiccola,_Luigi_-_Parole_di_San_Paolo": {
@@ -3628,9 +3628,9 @@
         "Note": "",
         "NumPitches": 12
     },
-    "David,_Johann_Nepomuk_-_Sonata_for_violin,_Op.58,_No.1.": {
+    "David,_Johann_Nepomuk_-_Sonata_for_violin,_Op.58,_No.1": {
         "Composer": "David, Johann Nepomuk",
-        "Work": "Sonata for violin, Op.58, No.1.",
+        "Work": "Sonata for violin, Op.58, No.1",
         "Original": 8,
         "P0": [
             0,
@@ -3650,9 +3650,9 @@
         "NumPitches": 12,
         "Year": "1963"
     },
-    "David,_Johann_Nepomuk_-_Symphony,_No.8,_Op.59.": {
+    "David,_Johann_Nepomuk_-_Symphony,_No.8,_Op.59": {
         "Composer": "David, Johann Nepomuk",
-        "Work": "Symphony, No.8, Op.59.",
+        "Work": "Symphony, No.8, Op.59",
         "Original": 3,
         "P0": [
             0,
@@ -4268,9 +4268,9 @@
         "Note": "Frame II as retrograde",
         "NumPitches": 12
     },
-    "Dobbins,_Bill_-_Concerto_for_Jazz_Orchestra.": {
+    "Dobbins,_Bill_-_Concerto_for_Jazz_Orchestra": {
         "Composer": "Dobbins, Bill",
-        "Work": "Concerto for Jazz Orchestra.",
+        "Work": "Concerto for Jazz Orchestra",
         "Original": 4,
         "P0": [
             0,
@@ -5484,9 +5484,9 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Florey,_Hans_-_'Achteck'_f\u00fcr_Fl\u00f6te,_Violine_und_Klavier.": {
+    "Florey,_Hans_-_'Achteck'_f\u00fcr_Fl\u00f6te,_Violine_und_Klavier": {
         "Composer": "Florey, Hans",
-        "Work": "'Achteck' f\u00fcr Fl\u00f6te, Violine und Klavier.",
+        "Work": "'Achteck' f\u00fcr Fl\u00f6te, Violine und Klavier",
         "Original": 6,
         "P0": [
             0,
@@ -5897,9 +5897,9 @@
         "Note": "\u00fcber einen aus einer Trope formierten und mit einem alten dreif\u00e4rbig - neunstufigen M\u00e4ander formverwandten Kanon von J. M. Hauer. Gerhard Zeller gewidmet",
         "Year": "1992/6"
     },
-    "Florey,_Hans_-_Klavierst\u00fcck.": {
+    "Florey,_Hans_-_Klavierst\u00fcck": {
         "Composer": "Florey, Hans",
-        "Work": "Klavierst\u00fcck.",
+        "Work": "Klavierst\u00fcck",
         "Original": 5,
         "P0": [
             0,
@@ -6034,9 +6034,9 @@
         "Note": "f\u00fcr Klavier",
         "Year": "1991/11/21"
     },
-    "Florey,_Hans_-_Sechs_Kanonzyklen_einunddesselben_magischen_Quadrates.": {
+    "Florey,_Hans_-_Sechs_Kanonzyklen_einunddesselben_magischen_Quadrates": {
         "Composer": "Florey, Hans",
-        "Work": "Sechs Kanonzyklen einunddesselben magischen Quadrates.",
+        "Work": "Sechs Kanonzyklen einunddesselben magischen Quadrates",
         "Original": 8,
         "P0": [
             0,
@@ -6213,7 +6213,7 @@
         "Work": "Chaconne for Unaccompanied Violin",
         "Year": "1959",
         "Source": "Orga1973",
-        "Note": "pub. 1960, Keith Prowse Music Publishing Co., Ltd.",
+        "Note": "pub. 1960, Keith Prowse Music Publishing Co., Ltd",
         "NumPitches": 12
     },
     "Gerhard,_Roberto_-_Concert_for_8": {
@@ -6417,7 +6417,7 @@
         "Work": "Nonet",
         "Year": "1956-57",
         "Source": "Orga1973",
-        "Note": "pub. 1965 Mills Music, Ltd.",
+        "Note": "pub. 1965 Mills Music, Ltd",
         "NumPitches": 12
     },
     "Gerhard,_Roberto_-_Sonata_for_Cello_and_Piano": {
@@ -7792,9 +7792,9 @@
         "Note": "regressive",
         "Year": "1946/8/19"
     },
-    "Hauer,_Josef_Matthias_-_'Almanach_1957'_[Zw\u00f6lftonspiel]_f\u00fcr_vier_Violinen.": {
+    "Hauer,_Josef_Matthias_-_'Almanach_1957'_[Zw\u00f6lftonspiel]_f\u00fcr_vier_Violinen": {
         "Composer": "Hauer, Josef Matthias",
-        "Work": "'Almanach 1957' [Zw\u00f6lftonspiel] f\u00fcr vier Violinen.",
+        "Work": "'Almanach 1957' [Zw\u00f6lftonspiel] f\u00fcr vier Violinen",
         "Original": 1,
         "P0": [
             0,
@@ -8134,7 +8134,7 @@
         "Source": "FripertingerLackner2015",
         "NumPitches": 12,
         "Note": "Druckfassung im Eigenverlag J. H. 9.; Seite 5, 4. System, Takt 3, f.; beigef\u00fcgter Link: Aufnahme 5'29'-5'45'",
-        "Year": "1913/September-Oktober/16.9.-23.10."
+        "Year": "1913/September-Oktober/16.9.-23.10"
     },
     "Hauer,_Josef_Matthias_-_Baustein": {
         "Composer": "Hauer, Josef Matthias",
@@ -12226,9 +12226,9 @@
         "Note": "\u00dcberschrift : Weinhauer Sepp Hias. Echte, gewachsene, naturbelassene Zw\u00f6lftonmusik. (progressive chord-row)",
         "Year": "1959/2"
     },
-    "Hauer,_Josef_Matthias_-_Zw\u00f6lftonmusik_f\u00fcr_Orchester,_Op.86.": {
+    "Hauer,_Josef_Matthias_-_Zw\u00f6lftonmusik_f\u00fcr_Orchester,_Op.86": {
         "Composer": "Hauer, Josef Matthias",
-        "Work": "Zw\u00f6lftonmusik f\u00fcr Orchester, Op.86.",
+        "Work": "Zw\u00f6lftonmusik f\u00fcr Orchester, Op.86",
         "Original": 11,
         "P0": [
             0,
@@ -14385,9 +14385,9 @@
         "Note": "in 'Vom Wesen des Musikalischen', Vienna 1920 (chapter 'Notenschrift')",
         "Year": "1920"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.10.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.10": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.10.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.10",
         "Original": 2,
         "P0": [
             0,
@@ -14407,9 +14407,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.11.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.11": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.11.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.11",
         "Original": 3,
         "P0": [
             0,
@@ -14429,9 +14429,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.12.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.12": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.12.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.12",
         "Original": 1,
         "P0": [
             0,
@@ -14451,9 +14451,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.13.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.13": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.13.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.13",
         "Original": 2,
         "P0": [
             0,
@@ -14473,9 +14473,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.14.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.14": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.14.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.14",
         "Original": 1,
         "P0": [
             0,
@@ -14495,9 +14495,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.15.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.15": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.15.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.15",
         "Original": 1,
         "P0": [
             0,
@@ -14517,9 +14517,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.16.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.16": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.16.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.16",
         "Original": 2,
         "P0": [
             0,
@@ -14539,9 +14539,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.17.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.17": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.17.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.17",
         "Original": 3,
         "P0": [
             0,
@@ -14561,9 +14561,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.18.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.18": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.18.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.18",
         "Original": 1,
         "P0": [
             0,
@@ -14583,9 +14583,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.19.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.19": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.19.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.19",
         "Original": 1,
         "P0": [
             0,
@@ -14605,9 +14605,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.2.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.2": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.2.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.2",
         "Original": 2,
         "P0": [
             0,
@@ -14627,9 +14627,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.20.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.20": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.20.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.20",
         "Original": 1,
         "P0": [
             0,
@@ -14649,9 +14649,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.21.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.21": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.21.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.21",
         "Original": 2,
         "P0": [
             0,
@@ -14671,9 +14671,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.22.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.22": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.22.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.22",
         "Original": 3,
         "P0": [
             0,
@@ -14693,9 +14693,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.23.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.23": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.23.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.23",
         "Original": 1,
         "P0": [
             0,
@@ -14715,9 +14715,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.24.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.24": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.24.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.24",
         "Original": 2,
         "P0": [
             0,
@@ -14737,9 +14737,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.25.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.25": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.25.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.25",
         "Original": 3,
         "P0": [
             0,
@@ -14759,9 +14759,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.26.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.26": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.26.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.26",
         "Original": 4,
         "P0": [
             0,
@@ -14781,9 +14781,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.27.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.27": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.27.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.27",
         "Original": 5,
         "P0": [
             0,
@@ -14803,9 +14803,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.28.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.28": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.28.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.28",
         "Original": 1,
         "P0": [
             0,
@@ -14825,9 +14825,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.29.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.29": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.29.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.29",
         "Original": 1,
         "P0": [
             0,
@@ -14847,9 +14847,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.3.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.3": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.3.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.3",
         "Original": 1,
         "P0": [
             0,
@@ -14869,9 +14869,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.30.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.30": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.30.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.30",
         "Original": 1,
         "P0": [
             0,
@@ -14891,9 +14891,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.31.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.31": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.31.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.31",
         "Original": 1,
         "P0": [
             0,
@@ -14913,9 +14913,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.32.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.32": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.32.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.32",
         "Original": 1,
         "P0": [
             0,
@@ -14935,9 +14935,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.4.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.4": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.4.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.4",
         "Original": 2,
         "P0": [
             0,
@@ -14957,9 +14957,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.5.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.5": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.5.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.5",
         "Original": 1,
         "P0": [
             0,
@@ -14979,9 +14979,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.6.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.6": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.6.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.6",
         "Original": 2,
         "P0": [
             0,
@@ -15001,9 +15001,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.7.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.7": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.7.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.7",
         "Original": 3,
         "P0": [
             0,
@@ -15023,9 +15023,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.8.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.8": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.8.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.8",
         "Original": 4,
         "P0": [
             0,
@@ -15045,9 +15045,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.9.": {
+    "Hendler,_Maximilian_-_'Die_vollst\u00e4ndige_Ordnung_der_symmetrischen_zw\u00f6lft\u00f6nigen_Modi',_No.9": {
         "Composer": "Hendler, Maximilian",
-        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.9.",
+        "Work": "'Die vollst\u00e4ndige Ordnung der symmetrischen zw\u00f6lft\u00f6nigen Modi', No.9",
         "Original": 1,
         "P0": [
             0,
@@ -15089,9 +15089,9 @@
         "NumPitches": 12,
         "Year": "1979/9"
     },
-    "Hendler,_Maximilian_-_Vier_Miniaturen_f\u00fcr_Klarinette,_Op.51.": {
+    "Hendler,_Maximilian_-_Vier_Miniaturen_f\u00fcr_Klarinette,_Op.51": {
         "Composer": "Hendler, Maximilian",
-        "Work": "Vier Miniaturen f\u00fcr Klarinette, Op.51.",
+        "Work": "Vier Miniaturen f\u00fcr Klarinette, Op.51",
         "Original": 9,
         "P0": [
             0,
@@ -15111,9 +15111,9 @@
         "NumPitches": 12,
         "Year": "1982/4/26"
     },
-    "Hendler,_Maximilian_-_aus_dem_>Liederbuch_f\u00fcr_Annemarie<_'Zur_Nachbarin'_(Text:_Herwig_von_Kreutzbruck),_Op.56-2.": {
+    "Hendler,_Maximilian_-_aus_dem_>Liederbuch_f\u00fcr_Annemarie<_'Zur_Nachbarin'_(Text:_Herwig_von_Kreutzbruck),_Op.56-2": {
         "Composer": "Hendler, Maximilian",
-        "Work": "aus dem >Liederbuch f\u00fcr Annemarie< 'Zur Nachbarin' (Text: Herwig von Kreutzbruck), Op.56-2.",
+        "Work": "aus dem >Liederbuch f\u00fcr Annemarie< 'Zur Nachbarin' (Text: Herwig von Kreutzbruck), Op.56-2",
         "Original": 2,
         "P0": [
             0,
@@ -15455,9 +15455,9 @@
         "Note": "Tubular bell opening",
         "NumPitches": 12
     },
-    "Jelinek,_Hanns_-_Zw\u00f6lftonwerk,_Op.15.": {
+    "Jelinek,_Hanns_-_Zw\u00f6lftonwerk,_Op.15": {
         "Composer": "Jelinek, Hanns",
-        "Work": "Zw\u00f6lftonwerk, Op.15.",
+        "Work": "Zw\u00f6lftonwerk, Op.15",
         "Original": 5,
         "P0": [
             0,
@@ -15523,9 +15523,9 @@
         "Note": "Just intonation",
         "NumPitches": 12
     },
-    "Jung,_Joachim_-_.": {
+    "Jung,_Joachim_-_": {
         "Composer": "Jung, Joachim",
-        "Work": ".",
+        "Work": "",
         "Original": 4,
         "P0": [
             0,
@@ -15591,9 +15591,9 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Kalodiki,_Georgia_-_Six_Sketches_for_piano.": {
+    "Kalodiki,_Georgia_-_Six_Sketches_for_piano": {
         "Composer": "Kalodiki, Georgia",
-        "Work": "Six Sketches for piano.",
+        "Work": "Six Sketches for piano",
         "Original": 8,
         "P0": [
             0,
@@ -15705,9 +15705,9 @@
         "Note": "for piano. all-interval row",
         "Year": "1924"
     },
-    "Klenau,_Paul_von_-_Elisabeth_von_England.": {
+    "Klenau,_Paul_von_-_Elisabeth_von_England": {
         "Composer": "Klenau, Paul von",
-        "Work": "Elisabeth von England.",
+        "Work": "Elisabeth von England",
         "Original": 5,
         "P0": [
             0,
@@ -16509,9 +16509,9 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Krenek,_Ernst_-_Zw\u00f6lf_Variationen_in_Drei_S\u00e4tzen,_Op.79.": {
+    "Krenek,_Ernst_-_Zw\u00f6lf_Variationen_in_Drei_S\u00e4tzen,_Op.79": {
         "Composer": "Krenek, Ernst",
-        "Work": "Zw\u00f6lf Variationen in Drei S\u00e4tzen, Op.79.",
+        "Work": "Zw\u00f6lf Variationen in Drei S\u00e4tzen, Op.79",
         "Original": 8,
         "P0": [
             0,
@@ -16531,9 +16531,9 @@
         "NumPitches": 12,
         "Year": "1957/1940/1937"
     },
-    "Krenek,_Ernst_-_concert_for_organ_and_string-orchestra,_Op.230.": {
+    "Krenek,_Ernst_-_concert_for_organ_and_string-orchestra,_Op.230": {
         "Composer": "Krenek, Ernst",
-        "Work": "concert for organ and string-orchestra, Op.230.",
+        "Work": "concert for organ and string-orchestra, Op.230",
         "Original": 1,
         "P0": [
             0,
@@ -16691,9 +16691,9 @@
         "Note": "1. Reihe",
         "Year": "1982-1984"
     },
-    "Lackner,_Peter_-_'An_alle_Au\u00dferirdischen'._Kanon_f\u00fcr_drei_Singstimmen,_Kontraba\u00df_und_Klavier.": {
+    "Lackner,_Peter_-_'An_alle_Au\u00dferirdischen'._Kanon_f\u00fcr_drei_Singstimmen,_Kontraba\u00df_und_Klavier": {
         "Composer": "Lackner, Peter",
-        "Work": "'An alle Au\u00dferirdischen'. Kanon f\u00fcr drei Singstimmen, Kontraba\u00df und Klavier.",
+        "Work": "'An alle Au\u00dferirdischen'. Kanon f\u00fcr drei Singstimmen, Kontraba\u00df und Klavier",
         "Original": 10,
         "P0": [
             0,
@@ -16805,9 +16805,9 @@
         "Note": "Text: anonym, notiert von Anton Wilhelm von Zuccalmaglio",
         "Year": "1984/11/13"
     },
-    "Lackner,_Peter_-_'Euphorbia_obesa'._Kanon_f\u00fcr_Oboe,_Englischhorn_und_Fagott..": {
+    "Lackner,_Peter_-_'Euphorbia_obesa'._Kanon_f\u00fcr_Oboe,_Englischhorn_und_Fagott.": {
         "Composer": "Lackner, Peter",
-        "Work": "'Euphorbia obesa'. Kanon f\u00fcr Oboe, Englischhorn und Fagott..",
+        "Work": "'Euphorbia obesa'. Kanon f\u00fcr Oboe, Englischhorn und Fagott.",
         "Original": 1,
         "P0": [
             0,
@@ -16827,9 +16827,9 @@
         "NumPitches": 12,
         "Year": "2000/4/16"
     },
-    "Lackner,_Peter_-_'Fl\u00fcgelaltar'_f\u00fcr_Klavier.": {
+    "Lackner,_Peter_-_'Fl\u00fcgelaltar'_f\u00fcr_Klavier": {
         "Composer": "Lackner, Peter",
-        "Work": "'Fl\u00fcgelaltar' f\u00fcr Klavier.",
+        "Work": "'Fl\u00fcgelaltar' f\u00fcr Klavier",
         "Original": 2,
         "P0": [
             0,
@@ -17030,7 +17030,7 @@
         ],
         "Source": "FripertingerLackner2015",
         "NumPitches": 12,
-        "Note": "Text: aus der deutschen Fassung des Filmes 'Smultronst\u00e4llet' von Ingmar Bergman zitiert nach Olof Wallin; existiert auch in den Fassungen f\u00fcr Singstimme und Streichquartett, sowie als Kanon f\u00fcr f\u00fcnf gleiche Stimmen.",
+        "Note": "Text: aus der deutschen Fassung des Filmes 'Smultronst\u00e4llet' von Ingmar Bergman zitiert nach Olof Wallin; existiert auch in den Fassungen f\u00fcr Singstimme und Streichquartett, sowie als Kanon f\u00fcr f\u00fcnf gleiche Stimmen",
         "Year": "1989/9/13"
     },
     "Lackner,_Peter_-_1._Kanonzyklus": {
@@ -17171,9 +17171,9 @@
         "Note": "f\u00fcr Gudrun Kullnig, von der auch die Reihe stammt (mittels Aleatorik ermittelt)",
         "Year": "2015/6/5"
     },
-    "Lackner,_Peter_-_Das_Buch_der_Wandlungen_I_f\u00fcr_Frauenstimmen_und,oder_Klavier.": {
+    "Lackner,_Peter_-_Das_Buch_der_Wandlungen_I_f\u00fcr_Frauenstimmen_und,oder_Klavier": {
         "Composer": "Lackner, Peter",
-        "Work": "Das Buch der Wandlungen I f\u00fcr Frauenstimmen und,oder Klavier.",
+        "Work": "Das Buch der Wandlungen I f\u00fcr Frauenstimmen und,oder Klavier",
         "Original": 5,
         "P0": [
             0,
@@ -17285,9 +17285,9 @@
         "Note": "f\u00fcr Fl\u00f6te, Oboe, zwei Klarinetten, zwei H\u00f6rner, Trompete, Posaune, Tuba, Schlagwerk, Akkordeon, vier Violinen, drei Bratschen, Violoncello und Kontrabass",
         "Year": "2008"
     },
-    "Lackner,_Peter_-_Kanon-Polska_f\u00fcr_zwei_Bratschen._6._Juni_1993.": {
+    "Lackner,_Peter_-_Kanon-Polska_f\u00fcr_zwei_Bratschen._6._Juni_1993": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon-Polska f\u00fcr zwei Bratschen. 6. Juni 1993.",
+        "Work": "Kanon-Polska f\u00fcr zwei Bratschen. 6. Juni 1993",
         "Original": 9,
         "P0": [
             0,
@@ -17307,9 +17307,9 @@
         "NumPitches": 12,
         "Year": "1993/6/6"
     },
-    "Lackner,_Peter_-_Kanon_'kgV(3,5,7)'.": {
+    "Lackner,_Peter_-_Kanon_'kgV(3,5,7)'": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon 'kgV(3,5,7)'.",
+        "Work": "Kanon 'kgV(3,5,7)'",
         "Original": 10,
         "P0": [
             0,
@@ -17467,9 +17467,9 @@
         "Note": "f\u00fcr gro\u00dfes Ensemble",
         "Year": "2017/10/7"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_Blockfl\u00f6tenquartett._April_2005.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_Blockfl\u00f6tenquartett._April_2005": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr Blockfl\u00f6tenquartett. April 2005.",
+        "Work": "Kanon f\u00fcr Blockfl\u00f6tenquartett. April 2005",
         "Original": 8,
         "P0": [
             0,
@@ -17512,9 +17512,9 @@
         "Note": "Oboe, Klarinette, Bassklarinette, zwei H\u00f6rner und Fagott",
         "Year": "1996/1995/5"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_Cello_und_Klavier.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_Cello_und_Klavier": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr Cello und Klavier.",
+        "Work": "Kanon f\u00fcr Cello und Klavier",
         "Original": 6,
         "P0": [
             0,
@@ -17580,9 +17580,9 @@
         "Note": "Manfred Stern gewidmet",
         "Year": "2011/6/19"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_Fl\u00f6te_und_Elektronik._Februar_1999.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_Fl\u00f6te_und_Elektronik._Februar_1999": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr Fl\u00f6te und Elektronik. Februar 1999.",
+        "Work": "Kanon f\u00fcr Fl\u00f6te und Elektronik. Februar 1999",
         "Original": 1,
         "P0": [
             0,
@@ -17623,11 +17623,11 @@
         "Source": "FripertingerLackner2015",
         "NumPitches": 12,
         "Note": "Katharina Olivia Brand gewidmet",
-        "Year": "2016/3/24./23."
+        "Year": "2016/3/23-24"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_Kammerorchester.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_Kammerorchester": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr Kammerorchester.",
+        "Work": "Kanon f\u00fcr Kammerorchester",
         "Original": 7,
         "P0": [
             0,
@@ -17694,9 +17694,9 @@
         "Note": "existiert auch in den Fassungen f\u00fcr Klarinette, Viola und Klavier, sowie Klarinette, Viola und Harfe",
         "Year": "1992/6/15"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_Klavier._21._Juni_1998.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_Klavier._21._Juni_1998": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr Klavier. 21. Juni 1998.",
+        "Work": "Kanon f\u00fcr Klavier. 21. Juni 1998",
         "Original": 3,
         "P0": [
             0,
@@ -17762,9 +17762,9 @@
         "Note": "Gerhard Zeller gewidmet",
         "Year": "2002/9/6"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_Klavier._5._April_1989.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_Klavier._5._April_1989": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr Klavier. 5. April 1989.",
+        "Work": "Kanon f\u00fcr Klavier. 5. April 1989",
         "Original": 6,
         "P0": [
             0,
@@ -17784,9 +17784,9 @@
         "NumPitches": 12,
         "Year": "1989/4/5"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_Klavier._April_2000.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_Klavier._April_2000": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr Klavier. April 2000.",
+        "Work": "Kanon f\u00fcr Klavier. April 2000",
         "Original": 12,
         "P0": [
             0,
@@ -17806,9 +17806,9 @@
         "NumPitches": 12,
         "Year": "2000/4"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_Klavier_zu_vier_H\u00e4nden.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_Klavier_zu_vier_H\u00e4nden": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr Klavier zu vier H\u00e4nden.",
+        "Work": "Kanon f\u00fcr Klavier zu vier H\u00e4nden",
         "Original": 6,
         "P0": [
             0,
@@ -17829,9 +17829,9 @@
         "Note": "Ulrike Ehmann gewidmet; auch (mittels cubase) als 'Disco-Sequenz' realisiert",
         "Year": "1988"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_Klavier_zu_vier_H\u00e4nden._12._Juni_1996.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_Klavier_zu_vier_H\u00e4nden._12._Juni_1996": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr Klavier zu vier H\u00e4nden. 12. Juni 1996.",
+        "Work": "Kanon f\u00fcr Klavier zu vier H\u00e4nden. 12. Juni 1996",
         "Original": 6,
         "P0": [
             0,
@@ -17851,9 +17851,9 @@
         "NumPitches": 12,
         "Year": "1996/6/12"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_Klavier_zu_vier_H\u00e4nden._Fr\u00fchling_1984.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_Klavier_zu_vier_H\u00e4nden._Fr\u00fchling_1984": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr Klavier zu vier H\u00e4nden. Fr\u00fchling 1984.",
+        "Work": "Kanon f\u00fcr Klavier zu vier H\u00e4nden. Fr\u00fchling 1984",
         "Original": 3,
         "P0": [
             0,
@@ -17942,9 +17942,9 @@
         "Note": "auch f\u00fcr Violine, Bratsche und Orgel",
         "Year": "1991/6/27"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_Klaviertrio.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_Klaviertrio": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr Klaviertrio.",
+        "Work": "Kanon f\u00fcr Klaviertrio",
         "Original": 4,
         "P0": [
             0,
@@ -18033,9 +18033,9 @@
         "Note": "(Wien) f\u00fcr zwei Violinen, Akkordeon und Kontragitarre",
         "Year": "2002/11"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_Schwegel,_diatonisches_Hackbrett_und_Violine.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_Schwegel,_diatonisches_Hackbrett_und_Violine": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr Schwegel, diatonisches Hackbrett und Violine.",
+        "Work": "Kanon f\u00fcr Schwegel, diatonisches Hackbrett und Violine",
         "Original": 9,
         "P0": [
             0,
@@ -18101,9 +18101,9 @@
         "Note": "f\u00fcr Barbara Konrad",
         "Year": "1991/1"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_Streichquartett.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_Streichquartett": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr Streichquartett.",
+        "Work": "Kanon f\u00fcr Streichquartett",
         "Original": 3,
         "P0": [
             0,
@@ -18238,9 +18238,9 @@
         "Note": "Christine Konrad gewidmet",
         "Year": "1993/11/21"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_Tenor-Hackbrett._19._M\u00e4rz_2014.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_Tenor-Hackbrett._19._M\u00e4rz_2014": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr Tenor-Hackbrett. 19. M\u00e4rz 2014.",
+        "Work": "Kanon f\u00fcr Tenor-Hackbrett. 19. M\u00e4rz 2014",
         "Original": 5,
         "P0": [
             0,
@@ -18283,9 +18283,9 @@
         "Note": "2. Fassung: Violine und Klavier. f\u00fcr Barbara Ehmann, von der auch die Reihe stammt (mittels Aleatorik gefunden)",
         "Year": "1989/7"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_Violine,_Viola_und_Akkordeon._11._Juni_2007.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_Violine,_Viola_und_Akkordeon._11._Juni_2007": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr Violine, Viola und Akkordeon. 11. Juni 2007.",
+        "Work": "Kanon f\u00fcr Violine, Viola und Akkordeon. 11. Juni 2007",
         "Original": 3,
         "P0": [
             0,
@@ -18305,9 +18305,9 @@
         "NumPitches": 12,
         "Year": "2007/6/11"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_Violine,_Violoncello_und_Akkordeon_(Harmonium)._25._Oktober_1995.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_Violine,_Violoncello_und_Akkordeon_(Harmonium)._25._Oktober_1995": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr Violine, Violoncello und Akkordeon (Harmonium). 25. Oktober 1995.",
+        "Work": "Kanon f\u00fcr Violine, Violoncello und Akkordeon (Harmonium). 25. Oktober 1995",
         "Original": 7,
         "P0": [
             0,
@@ -18396,9 +18396,9 @@
         "Note": "f\u00fcr Fl\u00f6te, Klarinette, Marimba, Violine, Viola, Cello, Kontraba\u00df und Klavier",
         "Year": "2007/1991"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_drei_Bratschen.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_drei_Bratschen": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr drei Bratschen.",
+        "Work": "Kanon f\u00fcr drei Bratschen",
         "Original": 3,
         "P0": [
             0,
@@ -18442,9 +18442,9 @@
         "Note": "Peter Ablinger gewidmet",
         "Year": "2016/6/28"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_drei_Violinen_I,_II_August_1998.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_drei_Violinen_I,_II_August_1998": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr drei Violinen I, II August 1998.",
+        "Work": "Kanon f\u00fcr drei Violinen I, II August 1998",
         "Original": 10,
         "P0": [
             0,
@@ -18487,9 +18487,9 @@
         "Note": "f\u00fcr Fl\u00f6te, Klarinette, Bassklarinette, zwei Bratschen und Akkordeon. Annemarie Schl\u00f6gl gewidmet, von der auch die Reihe stammt (teils durch Namens-Buchstaben, teils durch Aleatorik ermittelt)",
         "Year": "2009/3/16"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_sechs_Posaunen._Herbst_1996.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_sechs_Posaunen._Herbst_1996": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr sechs Posaunen. Herbst 1996.",
+        "Work": "Kanon f\u00fcr sechs Posaunen. Herbst 1996",
         "Original": 2,
         "P0": [
             0,
@@ -18509,9 +18509,9 @@
         "NumPitches": 12,
         "Year": "1996"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_zwei_Gitarren._September_2001.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_zwei_Gitarren._September_2001": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr zwei Gitarren. September 2001.",
+        "Work": "Kanon f\u00fcr zwei Gitarren. September 2001",
         "Original": 1,
         "P0": [
             0,
@@ -18577,9 +18577,9 @@
         "Note": "Wien",
         "Year": "2006/9"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_zwei_Trompeten,_Horn,_Posaune_und_Tuba._1._Mai_1993.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_zwei_Trompeten,_Horn,_Posaune_und_Tuba._1._Mai_1993": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr zwei Trompeten, Horn, Posaune und Tuba. 1. Mai 1993.",
+        "Work": "Kanon f\u00fcr zwei Trompeten, Horn, Posaune und Tuba. 1. Mai 1993",
         "Original": 2,
         "P0": [
             0,
@@ -18599,9 +18599,9 @@
         "NumPitches": 12,
         "Year": "1993/5/1"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_zwei_Violinen.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_zwei_Violinen": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr zwei Violinen.",
+        "Work": "Kanon f\u00fcr zwei Violinen",
         "Original": 10,
         "P0": [
             0,
@@ -18621,9 +18621,9 @@
         "NumPitches": 12,
         "Year": "1988/4/23"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_zwei_Violinen._Fr\u00fchjahr_1992.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_zwei_Violinen._Fr\u00fchjahr_1992": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr zwei Violinen. Fr\u00fchjahr 1992.",
+        "Work": "Kanon f\u00fcr zwei Violinen. Fr\u00fchjahr 1992",
         "Original": 10,
         "P0": [
             0,
@@ -18643,9 +18643,9 @@
         "NumPitches": 12,
         "Year": "1992/3"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_zwei_Violinen_und_Klavier._1._Dezember_2004.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_zwei_Violinen_und_Klavier._1._Dezember_2004": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr zwei Violinen und Klavier. 1. Dezember 2004.",
+        "Work": "Kanon f\u00fcr zwei Violinen und Klavier. 1. Dezember 2004",
         "Original": 7,
         "P0": [
             0,
@@ -18665,9 +18665,9 @@
         "NumPitches": 12,
         "Year": "2004/12/1"
     },
-    "Lackner,_Peter_-_Kanon_f\u00fcr_zwei_Violinen_und_Klavier._Fr\u00fchjahr_1984.": {
+    "Lackner,_Peter_-_Kanon_f\u00fcr_zwei_Violinen_und_Klavier._Fr\u00fchjahr_1984": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon f\u00fcr zwei Violinen und Klavier. Fr\u00fchjahr 1984.",
+        "Work": "Kanon f\u00fcr zwei Violinen und Klavier. Fr\u00fchjahr 1984",
         "Original": 3,
         "P0": [
             0,
@@ -18687,9 +18687,9 @@
         "NumPitches": 12,
         "Year": "1984"
     },
-    "Lackner,_Peter_-_Kanon_\u00e0_3.": {
+    "Lackner,_Peter_-_Kanon_\u00e0_3": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon \u00e0 3.",
+        "Work": "Kanon \u00e0 3",
         "Original": 11,
         "P0": [
             0,
@@ -18709,9 +18709,9 @@
         "NumPitches": 12,
         "Year": "1992/9/9"
     },
-    "Lackner,_Peter_-_Kanon_\u00e0_4_-_'F\u00fcr_Harald_Fripertinger_zum_50._Geburtstag'.": {
+    "Lackner,_Peter_-_Kanon_\u00e0_4_-_'F\u00fcr_Harald_Fripertinger_zum_50._Geburtstag'": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon \u00e0 4 - 'F\u00fcr Harald Fripertinger zum 50. Geburtstag'.",
+        "Work": "Kanon \u00e0 4 - 'F\u00fcr Harald Fripertinger zum 50. Geburtstag'",
         "Original": 12,
         "P0": [
             0,
@@ -18754,9 +18754,9 @@
         "Note": "mit einer Reihe von Barbara Ehmann. Original f\u00fcr Violine, Bratsche und Klavier (1989); Fassung f\u00fcr Violine und Klavier (2012)",
         "Year": "2012/1989"
     },
-    "Lackner,_Peter_-_Kanon_\u00e1_5_f\u00fcr_Klaus_Chudoba.": {
+    "Lackner,_Peter_-_Kanon_\u00e1_5_f\u00fcr_Klaus_Chudoba": {
         "Composer": "Lackner, Peter",
-        "Work": "Kanon \u00e1 5 f\u00fcr Klaus Chudoba.",
+        "Work": "Kanon \u00e1 5 f\u00fcr Klaus Chudoba",
         "Original": 5,
         "P0": [
             0,
@@ -18776,9 +18776,9 @@
         "NumPitches": 12,
         "Year": "1993/1/28"
     },
-    "Lackner,_Peter_-_Krebs-Kanon_\u00e0_4.": {
+    "Lackner,_Peter_-_Krebs-Kanon_\u00e0_4": {
         "Composer": "Lackner, Peter",
-        "Work": "Krebs-Kanon \u00e0 4.",
+        "Work": "Krebs-Kanon \u00e0 4",
         "Original": 11,
         "P0": [
             0,
@@ -18798,9 +18798,9 @@
         "NumPitches": 12,
         "Year": "1993/3/2"
     },
-    "Lackner,_Peter_-_Moebius-Band_f\u00fcr_Fl\u00f6te,_Violine,_Violoncello_und_Klavier.": {
+    "Lackner,_Peter_-_Moebius-Band_f\u00fcr_Fl\u00f6te,_Violine,_Violoncello_und_Klavier": {
         "Composer": "Lackner, Peter",
-        "Work": "Moebius-Band f\u00fcr Fl\u00f6te, Violine, Violoncello und Klavier.",
+        "Work": "Moebius-Band f\u00fcr Fl\u00f6te, Violine, Violoncello und Klavier",
         "Original": 2,
         "P0": [
             0,
@@ -18820,9 +18820,9 @@
         "NumPitches": 12,
         "Year": "1989"
     },
-    "Lackner,_Peter_-_Moebius-Band_f\u00fcr_sechs_Violinen.": {
+    "Lackner,_Peter_-_Moebius-Band_f\u00fcr_sechs_Violinen": {
         "Composer": "Lackner, Peter",
-        "Work": "Moebius-Band f\u00fcr sechs Violinen.",
+        "Work": "Moebius-Band f\u00fcr sechs Violinen",
         "Original": 9,
         "P0": [
             0,
@@ -18842,9 +18842,9 @@
         "NumPitches": 12,
         "Year": "1989"
     },
-    "Lackner,_Peter_-_Moebiusband_I_f\u00fcr_zwei_Melodieinstrumente.": {
+    "Lackner,_Peter_-_Moebiusband_I_f\u00fcr_zwei_Melodieinstrumente": {
         "Composer": "Lackner, Peter",
-        "Work": "Moebiusband I f\u00fcr zwei Melodieinstrumente.",
+        "Work": "Moebiusband I f\u00fcr zwei Melodieinstrumente",
         "Original": 3,
         "P0": [
             0,
@@ -18864,9 +18864,9 @@
         "NumPitches": 12,
         "Year": "1988/7/20"
     },
-    "Lackner,_Peter_-_Moebiusband_f\u00fcr_Violine_und_Klavier_(Chinesenfolter_I).": {
+    "Lackner,_Peter_-_Moebiusband_f\u00fcr_Violine_und_Klavier_(Chinesenfolter_I)": {
         "Composer": "Lackner, Peter",
-        "Work": "Moebiusband f\u00fcr Violine und Klavier (Chinesenfolter I).",
+        "Work": "Moebiusband f\u00fcr Violine und Klavier (Chinesenfolter I)",
         "Original": 1,
         "P0": [
             0,
@@ -18909,9 +18909,9 @@
         "Note": "2. Reihe",
         "Year": "1982/8-9"
     },
-    "Lackner,_Peter_-_Salambo-Kanon_(\u00e0_4);_Bad_Aussee,_2._Februar_2008.": {
+    "Lackner,_Peter_-_Salambo-Kanon_(\u00e0_4);_Bad_Aussee,_2._Februar_2008": {
         "Composer": "Lackner, Peter",
-        "Work": "Salambo-Kanon (\u00e0 4); Bad Aussee, 2. Februar 2008.",
+        "Work": "Salambo-Kanon (\u00e0 4); Bad Aussee, 2. Februar 2008",
         "Original": 12,
         "P0": [
             0,
@@ -18977,9 +18977,9 @@
         "Note": "Text aus dem Film 'Smultronst\u00e4llet' von Ingmar Bergmann",
         "Year": "1990"
     },
-    "Lackner,_Peter_-_Trauermusik_f\u00fcr_Fagott,_Kontrafagott_und_Pauke.": {
+    "Lackner,_Peter_-_Trauermusik_f\u00fcr_Fagott,_Kontrafagott_und_Pauke": {
         "Composer": "Lackner, Peter",
-        "Work": "Trauermusik f\u00fcr Fagott, Kontrafagott und Pauke.",
+        "Work": "Trauermusik f\u00fcr Fagott, Kontrafagott und Pauke",
         "Original": 12,
         "P0": [
             0,
@@ -19022,9 +19022,9 @@
         "Note": "Reihe von Karin Kothgasser (mittels Aleatorik gefunden)",
         "Year": "1988"
     },
-    "Lackner,_Peter_-_kgV_(3,4)_[zweistimmiger_Kanon_f\u00fcr_Klavier].": {
+    "Lackner,_Peter_-_kgV_(3,4)_[zweistimmiger_Kanon_f\u00fcr_Klavier]": {
         "Composer": "Lackner, Peter",
-        "Work": "kgV (3,4) [zweistimmiger Kanon f\u00fcr Klavier].",
+        "Work": "kgV (3,4) [zweistimmiger Kanon f\u00fcr Klavier]",
         "Original": 4,
         "P0": [
             0,
@@ -19067,9 +19067,9 @@
         "Note": "Musiktheater f\u00fcr Gro\u00dfes Orchester, Chor und Stimmen",
         "Year": "2014"
     },
-    "Lang,_Bernhard_-_'K\u00fcstenlinien';_f\u00fcr_zwei_Klaviere_und_doppeltes_Schlagwerk.": {
+    "Lang,_Bernhard_-_'K\u00fcstenlinien';_f\u00fcr_zwei_Klaviere_und_doppeltes_Schlagwerk": {
         "Composer": "Lang, Bernhard",
-        "Work": "'K\u00fcstenlinien'; f\u00fcr zwei Klaviere und doppeltes Schlagwerk.",
+        "Work": "'K\u00fcstenlinien'; f\u00fcr zwei Klaviere und doppeltes Schlagwerk",
         "Original": 1,
         "P0": [
             0,
@@ -19181,9 +19181,9 @@
         "Note": "f\u00fcr zwei Orchestergruppen im Vierteltonabstand (nach Anton Bruckners 'Linzer Sinfonie - Das kecke Beserl')",
         "Year": "2011-2012"
     },
-    "Lang,_Klaus_-_'Von_der_Ligurischen_K\u00fcste_zum_Trasimenischen_See';_Trauermusik_f\u00fcr_Violine_und_Klavier.": {
+    "Lang,_Klaus_-_'Von_der_Ligurischen_K\u00fcste_zum_Trasimenischen_See';_Trauermusik_f\u00fcr_Violine_und_Klavier": {
         "Composer": "Lang, Klaus",
-        "Work": "'Von der Ligurischen K\u00fcste zum Trasimenischen See'; Trauermusik f\u00fcr Violine und Klavier.",
+        "Work": "'Von der Ligurischen K\u00fcste zum Trasimenischen See'; Trauermusik f\u00fcr Violine und Klavier",
         "Original": 9,
         "P0": [
             0,
@@ -19683,7 +19683,7 @@
         "Work": "String Quartet, No.3, row 4",
         "Year": "1996",
         "Source": "Rao2002",
-        "Note": "Rao reproduces four rows out of 20 for the piece. This last one has a mistake which we corrected by inference from from the description of the rows.",
+        "Note": "Rao reproduces four rows out of 20 for the piece. This last one has a mistake which we corrected by inference from from the description of the rows",
         "NumPitches": 12
     },
     "Luo,_Zhong-Rong_-_Three_Piano_Pieces,_\"Arabeque\",_row_1": {
@@ -20463,12 +20463,12 @@
         ],
         "Source": "FripertingerLackner2015",
         "NumPitches": 12,
-        "Note": "For flute and piano. The tone row appears in the coda of the piano part.",
+        "Note": "For flute and piano. The tone row appears in the coda of the piano part",
         "Year": "1951"
     },
-    "Messiaen,_Olivier_-_Livre_d'orgue.": {
+    "Messiaen,_Olivier_-_Livre_d'orgue": {
         "Composer": "Messiaen, Olivier",
-        "Work": "Livre d'orgue.",
+        "Work": "Livre d'orgue",
         "Original": 12,
         "P0": [
             0,
@@ -20554,7 +20554,7 @@
         ],
         "Source": "FripertingerLackner2015",
         "NumPitches": 12,
-        "Note": "For piano. There exist three different modes. This is mode II.",
+        "Note": "For piano. There exist three different modes. This is mode II",
         "Year": "1949"
     },
     "Mittendorfer,_Josef_-_aleatoric_row": {
@@ -21911,9 +21911,9 @@
         "Note": "Many derivations",
         "NumPitches": 12
     },
-    "Nierhaus,_Gerhard_-_'Achat'_f\u00fcr_Streichorchester_(bzw._Streichsextett_und_Orgel).": {
+    "Nierhaus,_Gerhard_-_'Achat'_f\u00fcr_Streichorchester_(bzw._Streichsextett_und_Orgel)": {
         "Composer": "Nierhaus, Gerhard",
-        "Work": "'Achat' f\u00fcr Streichorchester (bzw. Streichsextett und Orgel).",
+        "Work": "'Achat' f\u00fcr Streichorchester (bzw. Streichsextett und Orgel)",
         "Original": 3,
         "P0": [
             0,
@@ -22459,7 +22459,7 @@
         "Work": "Variazioni canoniche sulla serie dell'Op.41 di Arnold Sch\u00f6nberg",
         "Year": "1950",
         "Source": "Whittall2008; Fox1999, p.117",
-        "Note": "6x shuffling pairs.",
+        "Note": "6x shuffling pairs",
         "NumPitches": 12
     },
     "Panufnik,_Andrzej_-_Sinfonia_di_Sfere_(Symphony,_No.5),_Chord_1": {
@@ -22508,9 +22508,9 @@
         "Note": "Symmetry",
         "NumPitches": 12
     },
-    "Papageorgiou,_Dimitri_-_'Jarra_Jarra'_for_six_block_flutes.": {
+    "Papageorgiou,_Dimitri_-_'Jarra_Jarra'_for_six_block_flutes": {
         "Composer": "Papageorgiou, Dimitri",
-        "Work": "'Jarra Jarra' for six block flutes.",
+        "Work": "'Jarra Jarra' for six block flutes",
         "Original": 3,
         "P0": [
             0,
@@ -22944,9 +22944,9 @@
         "Note": "Unterschrift: Asraphael Pre\u00dfl; Graz, 11. 10. 85; nach sommerlanger M\u00fchsal",
         "Year": "1985/10/11"
     },
-    "Pre\u00dfl,_Hermann_Markus_-_'Arsis'_f\u00fcr_84_Singstimmen_und_48_Instrumente.": {
+    "Pre\u00dfl,_Hermann_Markus_-_'Arsis'_f\u00fcr_84_Singstimmen_und_48_Instrumente": {
         "Composer": "Pre\u00dfl, Hermann Markus",
-        "Work": "'Arsis' f\u00fcr 84 Singstimmen und 48 Instrumente.",
+        "Work": "'Arsis' f\u00fcr 84 Singstimmen und 48 Instrumente",
         "Original": 10,
         "P0": [
             0,
@@ -22966,9 +22966,9 @@
         "NumPitches": 12,
         "Year": "1988"
     },
-    "Pre\u00dfl,_Hermann_Markus_-_'N.N.,8'_f\u00fcr_Klavier_und_Orgel.": {
+    "Pre\u00dfl,_Hermann_Markus_-_'N.N.,8'_f\u00fcr_Klavier_und_Orgel": {
         "Composer": "Pre\u00dfl, Hermann Markus",
-        "Work": "'N.N.,8' f\u00fcr Klavier und Orgel.",
+        "Work": "'N.N.,8' f\u00fcr Klavier und Orgel",
         "Original": 10,
         "P0": [
             0,
@@ -23034,9 +23034,9 @@
         "Note": "NTAMOYXAPH (GR)",
         "Year": "1994/7/17"
     },
-    "Pre\u00dfl,_Hermann_Markus_-_6._Symphonie_aus_Es.": {
+    "Pre\u00dfl,_Hermann_Markus_-_6._Symphonie_aus_Es": {
         "Composer": "Pre\u00dfl, Hermann Markus",
-        "Work": "6. Symphonie aus Es.",
+        "Work": "6. Symphonie aus Es",
         "Original": 4,
         "P0": [
             0,
@@ -23769,9 +23769,9 @@
         "Note": "basic-row",
         "Year": "1955"
     },
-    "Schlerath,_Ute_-_.": {
+    "Schlerath,_Ute_-_": {
         "Composer": "Schlerath, Ute",
-        "Work": ".",
+        "Work": "",
         "Original": 12,
         "P0": [
             0,
@@ -24136,9 +24136,9 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Schnittke,_Alfred_-_Concerto_Grosso,_No.3.": {
+    "Schnittke,_Alfred_-_Concerto_Grosso,_No.3": {
         "Composer": "Schnittke, Alfred",
-        "Work": "Concerto Grosso, No.3.",
+        "Work": "Concerto Grosso, No.3",
         "Original": 12,
         "P0": [
             0,
@@ -24388,9 +24388,9 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Schnittke,_Alfred_-_String_Quartet,_No.1.": {
+    "Schnittke,_Alfred_-_String_Quartet,_No.1": {
         "Composer": "Schnittke, Alfred",
-        "Work": "String Quartet, No.1.",
+        "Work": "String Quartet, No.1",
         "Original": 1,
         "P0": [
             0,
@@ -24729,7 +24729,7 @@
         "Work": "Fantasy for Piano Four Hands, II (fragment)",
         "Year": "Year unknown",
         "Source": "London+2001",
-        "Note": "Un-finished sketch / fragment. Aka Fragment for Piano Four Hands.",
+        "Note": "Un-finished sketch / fragment. Aka Fragment for Piano Four Hands",
         "NumPitches": 12
     },
     "Schoenberg,_Arnold_-_Fantasy_for_Piano_Four_Hands,_I_(fragment)": {
@@ -24752,7 +24752,7 @@
         "Work": "Fantasy for Piano Four Hands, I",
         "Year": "Year unknown",
         "Source": "London+2001",
-        "Note": "Un-finished sketch / fragment. Aka Fragment for Piano Four Hands.",
+        "Note": "Un-finished sketch / fragment. Aka Fragment for Piano Four Hands",
         "NumPitches": 12
     },
     "Schoenberg,_Arnold_-_Fantasy_for_Violin_and_Piano,_Op.47": {
@@ -24982,7 +24982,7 @@
         "Work": "Ode To Napoleon Buonaparte, Op.41 (view 1)",
         "Year": "1942",
         "Source": "London+2001; FripertingerLackner2015",
-        "Note": "Inv. and with one pair swap compared to Fox1999. The (famous) hexachord partiton is clear; the orderning is not.",
+        "Note": "Inv. and with one pair swap compared to Fox1999. The (famous) hexachord partiton is clear; the orderning is not",
         "NumPitches": 12
     },
     "Schoenberg,_Arnold_-_Ode_To_Napoleon_Buonaparte,_Op.41_(view_2)": {
@@ -25005,7 +25005,7 @@
         "Work": "Ode To Napoleon Buonaparte, Op.41 (view 2)",
         "Year": "1942",
         "Source": "Fox1999",
-        "Note": "Inv. and with one pair swap compared to London+2001. The (famous) hexachord partiton is clear; the orderning is not.",
+        "Note": "Inv. and with one pair swap compared to London+2001. The (famous) hexachord partiton is clear; the orderning is not",
         "NumPitches": 12
     },
     "Schoenberg,_Arnold_-_Piano_Concerto,_Op.42": {
@@ -26112,9 +26112,9 @@
         "Note": "Cantata for tenor solo, chorus and orchestra",
         "Year": "1950"
     },
-    "Sengstschmid,_Johann_-_Meditation_f\u00fcr_Orgel,_Op.43a.": {
+    "Sengstschmid,_Johann_-_Meditation_f\u00fcr_Orgel,_Op.43a": {
         "Composer": "Sengstschmid, Johann",
-        "Work": "Meditation f\u00fcr Orgel, Op.43a.",
+        "Work": "Meditation f\u00fcr Orgel, Op.43a",
         "Original": 11,
         "P0": [
             0,
@@ -34181,7 +34181,7 @@
         "Work": "Twice a Kiss sketch 1",
         "Year": "1950/03/18",
         "Source": "New, Cambridge University Library MS.Tranchell.2.9",
-        "Note": "One of 3 row sketches, each divided into 4 | 2 || 2 | 4.",
+        "Note": "One of 3 row sketches, each divided into 4 | 2 || 2 | 4",
         "NumPitches": 12
     },
     "Tranchell,_Peter_-_Twice_a_Kiss_sketch_2": {
@@ -34204,7 +34204,7 @@
         "Work": "Twice a Kiss sketch 2",
         "Year": "1950/03/18",
         "Source": "New, Cambridge University Library MS.Tranchell.2.9",
-        "Note": "One of 3 row sketches, each divided into 4 | 2 || 2 | 4.",
+        "Note": "One of 3 row sketches, each divided into 4 | 2 || 2 | 4",
         "NumPitches": 12
     },
     "Tranchell,_Peter_-_Twice_a_Kiss_sketch_3": {
@@ -34227,7 +34227,7 @@
         "Work": "Twice a Kiss sketch 3",
         "Year": "1950/03/18",
         "Source": "New, Cambridge University Library MS.Tranchell.2.9",
-        "Note": "One of 3 row sketches, each divided into 4 | 2 || 2 | 4.",
+        "Note": "One of 3 row sketches, each divided into 4 | 2 || 2 | 4",
         "NumPitches": 12
     },
     "Urbanner,_Erich_-_Adagio": {
@@ -34457,7 +34457,7 @@
         "Work": "Spatials",
         "Year": "1961",
         "Source": "Boss2022",
-        "Note": "Boss notes that 1) this row order differs slightly from that reported by Hampton1994 and 2) this is the only twelve-tone piece by Walker.",
+        "Note": "Boss notes that 1) this row order differs slightly from that reported by Hampton1994 and 2) this is the only twelve-tone piece by Walker",
         "NumPitches": 12
     },
     "Walton,_William_-_Symphony,_No.2": {
@@ -34779,7 +34779,7 @@
         "Work": "Op.32 (un-finished), later sketch",
         "Year": "1945",
         "Source": "Bailey1991, p.28",
-        "Note": "FripertingerLackner2015 has this (later) form.",
+        "Note": "FripertingerLackner2015 has this (later) form",
         "NumPitches": 12
     },
     "Webern,_Anton_-_2_Lieder,_\"Weiss_Wie_Lilien\",_Op.19,_No.1": {
@@ -34825,7 +34825,7 @@
         "Work": "2 Lieder, \"Ziehn Die Schafe\", Op.19, No.2",
         "Year": "1925-26",
         "Source": "Bailey1991",
-        "Note": "Transposed retrograde inversion of row given for mvt I.",
+        "Note": "Transposed retrograde inversion of row given for mvt I",
         "NumPitches": 12
     },
     "Webern,_Anton_-_3_Lieder,_\"Ave,_Regina_Coelorum\",_Op.18,_No.3": {
@@ -36185,9 +36185,9 @@
         "Note": "",
         "NumPitches": 12
     },
-    "Zappa,_Frank_-_Brown_Shoes_Don't_Make_It.": {
+    "Zappa,_Frank_-_Brown_Shoes_Don't_Make_It": {
         "Composer": "Zappa, Frank",
-        "Work": "Brown Shoes Don't Make It.",
+        "Work": "Brown Shoes Don't Make It",
         "Original": 9,
         "P0": [
             0,
