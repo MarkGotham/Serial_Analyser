@@ -30,8 +30,10 @@ import unittest
 
 # Basic operations first: transpose, retrograde, invert.
 
-def transposeBy(row: Union[List, Tuple],
-                semitones: int = 0):
+def transposeBy(
+        row: Union[List, Tuple],
+        semitones: int = 0
+) -> list:
     """
     Transposes a row (as a list of pitch classes) by an interval of size
     set by the value of 'semitones'.
@@ -42,8 +44,10 @@ def transposeBy(row: Union[List, Tuple],
     return zeroList
 
 
-def transposeTo(row: Union[List, Tuple],
-                start: int = 0):
+def transposeTo(
+        row: Union[List, Tuple],
+        start: int = 0
+) -> list:
     """
     Transposes a row (as a list of pitch classes) to start on 0 (by default), or
     any another number from 0-12 set by the value of 'start'.
@@ -55,14 +59,18 @@ def transposeTo(row: Union[List, Tuple],
     return zeroList
 
 
-def retrograde(row: Union[List, Tuple]):
+def retrograde(
+        row: Union[List, Tuple]
+) -> list:
     """
     Retrograde a row (simply reverse the pitch list).
     """
     return row[::-1]
 
 
-def invert(row: Union[List, Tuple]):
+def invert(
+        row: Union[List, Tuple]
+) -> list:
     """
     Invert a row around its starting pitch.
     """
@@ -72,10 +80,12 @@ def invert(row: Union[List, Tuple]):
 
 # ------------------------------------------------------------------------------
 
-def pitchesToIntervals(row: Union[List, Tuple],
-                       wrap: bool = False):
+def pitchesToIntervals(
+        row: Union[List, Tuple],
+        wrap: bool = False
+) -> list:
     """
-    Retrieve the intervals succession of a row (mod 12) from a row (list of pitch classes).
+    Retrieve the interval succession of a row (mod 12) from a row (list of pitch classes).
 
     By default (wrap = False) this function returns 11 intervals for a 12 tone row.
     Setting wrap to True gives the '12th' interval: that between the last and the first pitch.
@@ -92,8 +102,10 @@ def pitchesToIntervals(row: Union[List, Tuple],
 
 # Rotations and swaps including some more niche operations from Krenek 1960
 
-def rotate(row: Union[List, Tuple],
-           steps: int = 1):
+def rotate(
+        row: Union[List, Tuple],
+        steps: int = 1
+) -> list:
     """
     Rotates a row through N steps (i.e. starts on the Nth element).
 
@@ -107,8 +119,10 @@ def rotate(row: Union[List, Tuple],
     return row[steps:] + row[:steps]
 
 
-def rotateHexachords(row: Union[List, Tuple],
-                     transposeIterations: bool = False):
+def rotateHexachords(
+        row: Union[List, Tuple],
+        transposeIterations: bool = False
+) -> list:
     """
     Implements a set of hexachord rotations of the kind described in Krenek 1960, p.212.
     Splits the row into two hexachords and iteratively rotates each.
@@ -141,7 +155,9 @@ def rotateHexachords(row: Union[List, Tuple],
     return rows
 
 
-def pairSwapKrenek(row: Union[List, Tuple]):
+def pairSwapKrenek(
+        row: Union[List, Tuple]
+) -> list:
     """
     Iteratively swaps pairs of adjacent notes in a row
     with a two-step process as described in Krenek 1960, p.213.
