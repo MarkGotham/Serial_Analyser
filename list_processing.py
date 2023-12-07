@@ -276,12 +276,19 @@ def getSources():
 
 # ------------------------------------------------------------------------------
 
+initialDict = {'c': 0, 'd': 2, 'e': 4, 'f': 5, 'g': 7, 'a': 9, 'b': 11}
+
+
 def stringToPC(pitchString: str):
     """
     Converts a string like 'Bb' to the corresponding pc integer (10).
 
     First character must be one of the unmodified pitches: C, D, E, F, G, A, B
     (not case sensitive).
+
+    >>> c = 'C'
+    >>> stringToPC(c)
+    0
 
     Any subsequent characters must indicate a single accidental type: one of
     '♭', 'b' or '-' for flat;
@@ -302,50 +309,70 @@ def stringToPC(pitchString: str):
      mixtures of sharps and flats (e.g. B#b);
      symbols for double sharps etc.;
      any other symbols (including white space).
+
+    Subsequent characters either:
+    indicate octave (and are ignored)
+    or are unknown and raise a value error.
+
+    >>> dis4 = 'D#4'
+    >>> stringToPC(dis4)
+    3
+
+    Not regex to provide instructive errors.
+
     """
 
-    # Four conditions
-
-    # 1: type
     if type(pitchString) != str:
         raise TypeError('Invalid pitchString: must be a string')
 
-    # 2: base pitch
-    basePitches = ['c', 'd', 'e', 'f', 'g', 'a', 'b']
     pitchString = pitchString.lower()
-    if pitchString[0] not in basePitches:
-        raise ValueError(f'Invalid first character: must be one of {basePitches}.')
+    if pitchString[0] not in initialDict.keys():  # c, d, e ...
+        raise ValueError(f'Invalid first character: must be one of {initialDict.keys()}.')
+        # also catches len 0 index error
 
-    # 3: valid accidental
+    if pitchString[-1].isdigit():  # case of final character for octave (optional, ignored)
+        pitchString = pitchString[:-1]
+
+    pitchClass = initialDict[pitchString[0]]
+
+    if len(pitchString) == 1:  # single pitch name, no accidental, with or without final octave
+        return pitchClass
+
+    assert len(pitchString) > 1
+
     modifier = 0
-    if len(pitchString) > 1:
-        accidental = pitchString[1]
-        if accidental in ['♭', 'b', '-']:
-            modifier = -1
-        elif accidental in ['♯', '#', '+']:
-            modifier = +1
-        else:
-            raise ValueError('Invalid second character: must be an accidental.')
 
-    # 4: same accidental
+    accidental = pitchString[1]
+    if accidental in ['♭', 'b', '-']:
+        modifier = -1
+    elif accidental in ['♯', '#', '+']:
+        modifier = +1
+    else:
+        raise ValueError('Invalid second character: must be an accidental e.g., `#`.')
+
     if len(pitchString) > 2:
         for x in pitchString[2:]:
-            assert (x == accidental)
+            assert (x == accidental)  # same accidental, e.g., ###
         modifier *= len(pitchString) - 1
 
-    initialDict = {'c': 0, 'd': 2, 'e': 4, 'f': 5, 'g': 7, 'a': 9, 'b': 11}
+    pitchClass += modifier
+    pitchClass %= 12
 
-    return initialDict[pitchString[0]] + modifier % 12
+    return pitchClass
 
 
 def standardiseRow(row: Union[str, list],
                    t0: bool = True,
+                   require12: bool = True
                    ):
     """
     Accepts various representation of a row (as a list or a string in many different formats)
     and attempt to return a corresponding list of pitch classes.
 
     If t0 is True (default), then the return list is transposed to start on 0.
+
+    Also attempts to support tone sequences that are not 12 tone rows
+    but do not use for pitch sequences of total length 2.
 
     See the tests for examples.
     """
@@ -376,11 +403,15 @@ def standardiseRow(row: Union[str, list],
                 rowList = row.split(divider)
                 break  # Assume only one and avoid '-' if possible.
 
-        if not rowList:  # last try assuming no-divider notation e.g. 014295B38A76
+        if not rowList:
+            # last try assuming no-divider notation e.g. 014295B38A76
+            # (NB no supported on strings like CDEF#Ab)
             rowList = list(row)  # ['0', '1', '4', '2', '9', '5', 'B', '3', '8', 'A', '7', '6']
 
     # Now a list, convert each str element to int, directly or via stringToPC.
     assert isinstance(rowList, list)
+    if require12 and (len(rowList) != 12):
+        raise ValueError('The argument `require12` is True, and there are not 12 elements.')
 
     strCount = 0
 
@@ -390,28 +421,23 @@ def standardiseRow(row: Union[str, list],
         except:  # Actually a string. NB: may be pitch names or 'a, b' or 't, e' case
             strCount += 1
 
-    if strCount == 0:  # all ints
-        pass
+    if strCount > 0:
 
-    elif strCount == 2:  # 2 non-ints = 'a, b' or 't, e' case
-        # Mixed case of (mostly) ints + 'a, b' or 't, e'.
-        for x in range(len(rowList)):
-            if not isinstance(rowList[x], int):
-                assert isinstance(rowList[x], str)
-                assert rowList[x].lower() in ['a', 'b', 't', 'e']
-                if rowList[x].lower() in ['a', 't']:
-                    rowList[x] = 10
-                elif rowList[x].lower() in ['b', 'e']:
-                    rowList[x] = 11
+        if strCount == len(rowList):  # All strings. len 12 not required.
+            # All strings are now pitch names.
+            for x in range(len(rowList)):
+                rowList[x] = stringToPC(rowList[x])
 
-            assert isinstance(rowList[x], int)  # should now be done
-
-    elif strCount == 12:  # all strings indicates pitch names
-        for x in range(len(rowList)):
-            rowList[x] = stringToPC(rowList[x])
-
-    else:
-        raise ValueError('Unrecognised format.')
+        elif strCount == 2:  # If len(rowList) == 2 then ^; here 2 of a longer row, likely:
+            # Mixed row of (mostly) ints + 'a, b' or 't, e' for 10, 11. NB not pitch names
+            for x in range(len(rowList)):
+                if not isinstance(rowList[x], int):
+                    # assert isinstance(rowList[x], str)
+                    # assert rowList[x].lower() in ['a', 'b', 't', 'e']
+                    if rowList[x].lower() in ['a', 't']:
+                        rowList[x] = 10
+                    elif rowList[x].lower() in ['b', 'e']:
+                        rowList[x] = 11
 
     if t0:
         return [(x - rowList[0]) % 12 for x in rowList]
@@ -440,7 +466,10 @@ class ListTester(unittest.TestCase):
          string of strings no brackets and ',' dividers,
          list of ints (requires only transposition), and
          list of strings.
+
+        Also tests extra (not officially supported) use for non-tone row sequences)
         """
+
 
         GerhardConcerto = ('<0-4-1-11-10-3-6-5-9-8-2-7>',
                            [0, 4, 1, 11, 10, 3, 6, 5, 9, 8, 2, 7])
@@ -458,6 +487,22 @@ class ListTester(unittest.TestCase):
         for entry in [GerhardConcerto, LutyensTheNumbered, MorrisNotLilacs,
                       SmithEvocation, WalkerSpatials, WebernKonzert]:
             self.assertEqual(standardiseRow(entry[0]), entry[1])
+
+    def testStandardiseNonRows(self):
+        """
+        Test extra use for non-tone row sequences
+        """
+
+        nonRows = (
+            ("D", [2]),
+            ("D E", [2, 4]),
+            ("D E F#", [2, 4, 6]),
+            ("D E F# A-", [2, 4, 6, 8]),
+        )
+
+        for n in nonRows:
+            self.assertRaises(ValueError, standardiseRow, n[0])
+            self.assertEqual(standardiseRow(n[0], t0=False, require12=False), n[1])
 
     def testSources(self):
         s = getSources()
