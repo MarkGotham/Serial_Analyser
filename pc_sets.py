@@ -364,7 +364,7 @@ def intervalVectorToCombinatoriality(vector: Tuple[int]):
     raise ValueError(f'{vector} is not a valid interval vector')
 
 
-def pitchesToCombinatoriality(pitches: Union[List, Tuple]):
+def pitchesToCombinatoriality(pitches: Union[List[int], Tuple[int]]):
     """
     In: a list or tuple of pitches expressed as integers (0–11) for sets with 2-10 distinct pitches.
     Out: the combinatoriality status as a string.
@@ -373,17 +373,21 @@ def pitchesToCombinatoriality(pitches: Union[List, Tuple]):
     return intervalVectorToCombinatoriality(icv)
 
 
-def pitchesToIntervalVector(pitches: Union[List, Tuple]):
+def distinctPCs(pitches: Union[List, Tuple]) -> list:
     """
-    In: a list or tuple of pitches expressed as integers (0–11).
+    In: a list or tuple of pitches (any integers).
+    Out: a list of distinct PCs in the range 0-11.
+    """
+    pitches = list(set(pitches))  # remove any duplicates
+    return [p % 12 for p in pitches]
+
+
+def pitchesToIntervalVector(pitches: Union[List[int], Tuple[int]]):
+    """
+    In: a list or tuple of pitches.
     Out: the interval vector.
     """
-
-    pitches = list(set(pitches))  # remove any duplicates
-
-    for p in pitches:
-        if p not in range(12):
-            raise ValueError(f'{pitches} must contain only integers from 0-11')
+    pitches = distinctPCs(pitches)
 
     vector = [0, 0, 0, 0, 0, 0]
     from itertools import combinations
@@ -397,7 +401,7 @@ def pitchesToIntervalVector(pitches: Union[List, Tuple]):
     return tuple(vector)
 
 
-def pitchesToForteClass(pitches: Union[List, Tuple]):
+def pitchesToForteClass(pitches: Union[List[int], Tuple[int]]):
     """
     In: a list or tuple of pitches expressed as integers (0–11) for sets with 2-10 distinct pitches.
     Out: the Forte class.
@@ -410,7 +414,7 @@ def pitchesToForteClass(pitches: Union[List, Tuple]):
     raise ValueError(f'{pitches} is not a valid entry.')
 
 
-def pitchesToPrime(pitches: Union[List, Tuple]):
+def pitchesToPrime(pitches: Union[List[int], Tuple[int]]):
     """
     In: a list or tuple of pitches expressed as integers (0–11) for sets with 2-10 distinct pitches.
     Out: the prime form.
@@ -423,7 +427,7 @@ def pitchesToPrime(pitches: Union[List, Tuple]):
     options in both inversions until a match is found.
     """
 
-    pitches = list(set(pitches))  # remove any duplicates
+    pitches = distinctPCs(pitches)
 
     vector = pitchesToIntervalVector(pitches)
     primes = []
@@ -464,6 +468,10 @@ class PCTester(unittest.TestCase):
         Tests one case through the interval vector, and another that requires transformation.
         """
         prime = pitchesToPrime((0, 2, 3))
+        self.assertEqual(prime, (0, 1, 3))
+
+        # Test one case of numbers beyond 0-11
+        prime = pitchesToPrime((100, 102, 103))
         self.assertEqual(prime, (0, 1, 3))
 
         prime = pitchesToPrime((8, 2, 4, 7))  # via I [0,2,5,6], t2 [2,4,7,8], and shuffle.
