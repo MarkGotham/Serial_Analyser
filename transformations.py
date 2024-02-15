@@ -1,24 +1,24 @@
 """
+NAME:
 ===============================
 Transformations (transformations.py)
+
+BY:
 ===============================
-
-Mark Gotham, 2021
-
+Mark Gotham, 2021-
 
 LICENCE:
 ===============================
-
 Creative Commons Attribution-ShareAlike 4.0 International License
 https://creativecommons.org/licenses/by-sa/4.0/
 
-
 ABOUT:
 ===============================
+Functions for transforming pitch lists:
+e.g., transposition, inversion, retrograde, rotation.
 
-Functions for transforming pitch lists like tone rows:
-transposition, inversion, retrograde, rotation,
-and a couple of more niche operations.
+Most apply equally to any pitch class sequence,
+some are more specific to tone rows.
 
 """
 
@@ -35,8 +35,8 @@ def transposeBy(
         semitones: int = 0
 ) -> list:
     """
-    Transposes a row (as a list of pitch classes) by an interval of size
-    set by the value of 'semitones'.
+    Transposes a list of pitch classes by an interval of size
+    set by the value of `semitones`.
     """
     zeroList = []
     for x in range(len(row)):
@@ -49,8 +49,8 @@ def transposeTo(
         start: int = 0
 ) -> list:
     """
-    Transposes a row (as a list of pitch classes) to start on 0 (by default), or
-    any another number from 0-12 set by the value of 'start'.
+    Transpose a list of pitch classes to start on 0 (by default), or
+    any another number from 0-11 set by the value of `start`.
     """
     firstPC = row[0]
     zeroList = []
@@ -63,7 +63,7 @@ def retrograde(
         row: Union[List, Tuple]
 ) -> list:
     """
-    Retrograde a row (simply reverse the pitch list).
+    Retrograde a list of pitch classes (simply reverse the pitch list).
     """
     return row[::-1]
 
@@ -72,22 +72,20 @@ def invert(
         row: Union[List, Tuple]
 ) -> list:
     """
-    Invert a row around its starting pitch.
+    Invert a list of pitch classes around its starting pitch.
     """
     startingPitch = row[0]
     return [(startingPitch - x) % 12 for x in row]
 
-
-# ------------------------------------------------------------------------------
 
 def pitchesToIntervals(
         row: Union[List, Tuple],
         wrap: bool = False
 ) -> list:
     """
-    Retrieve the interval succession of a row (mod 12) from a row (list of pitch classes).
+    Retrieve the interval succession of a list of pitch classes (mod 12).
 
-    By default (wrap = False) this function returns 11 intervals for a 12 tone row.
+    By default (`wrap = False`) this function returns 11 intervals for a 12 tone row.
     Setting wrap to True gives the '12th' interval: that between the last and the first pitch.
     """
     intervals = []
@@ -98,16 +96,12 @@ def pitchesToIntervals(
     return intervals
 
 
-# ------------------------------------------------------------------------------
-
-# Rotations and swaps including some more niche operations from Krenek 1960
-
 def rotate(
         row: Union[List, Tuple],
         steps: int = 1
 ) -> list:
     """
-    Rotates a row through N steps (i.e. starts on the Nth element).
+    Rotates a list of pitch classes through N steps (i.e. starts on the Nth element).
 
     Should be called on an integer < 12.
     If called on a larger integer, the value modulo 12 will be taken
@@ -118,6 +112,10 @@ def rotate(
 
     return row[steps:] + row[:steps]
 
+
+# ------------------------------------------------------------------------------
+
+# Further rotations and swaps operations that are: row specific, and niche (e.g., from Krenek 1960)
 
 def rotateHexachords(
         row: Union[List, Tuple],
